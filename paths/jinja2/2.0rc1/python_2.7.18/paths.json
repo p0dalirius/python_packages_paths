@@ -1,0 +1,147 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "copy_reg": [
+                "jinja2.loaders.path.genericpath.os._copy_reg", 
+                "jinja2.filters.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "jinja2.filters.re.sre_compile"
+            ], 
+            "jinja2.parser": [
+                "jinja2.parser"
+            ], 
+            "_sre": [
+                "jinja2.filters.re.sre_compile._sre"
+            ], 
+            "operator": [
+                "jinja2.compiler.nodes.operator"
+            ], 
+            "jinja2.runtime": [
+                "jinja2.runtime"
+            ], 
+            "jinja2.utils": [
+                "jinja2.utils"
+            ], 
+            "jinja2.loaders": [
+                "jinja2.loaders"
+            ], 
+            "jinja2.tests": [
+                "jinja2.tests"
+            ], 
+            "posixpath": [
+                "jinja2.loaders.path"
+            ], 
+            "linecache": [
+                "jinja2.loaders.path.warnings.linecache"
+            ], 
+            "jinja2.defaults": [
+                "jinja2.defaults"
+            ], 
+            "re": [
+                "jinja2.filters.re", 
+                "jinja2.lexer.re", 
+                "jinja2.filters.textwrap.re", 
+                "jinja2.utils.re", 
+                "jinja2.tests.re", 
+                "jinja2.filters.textwrap.string._re"
+            ], 
+            "_abcoll": [
+                "jinja2.loaders.path.genericpath.os.UserDict._abcoll"
+            ], 
+            "math": [
+                "jinja2.filters.math"
+            ], 
+            "jinja2.compiler": [
+                "jinja2.compiler"
+            ], 
+            "genericpath": [
+                "jinja2.loaders.path.genericpath"
+            ], 
+            "stat": [
+                "jinja2.loaders.path.genericpath.stat", 
+                "jinja2.loaders.path.stat"
+            ], 
+            "string": [
+                "jinja2.filters.textwrap.string", 
+                "jinja2.utils.string"
+            ], 
+            "warnings": [
+                "jinja2.loaders.path.warnings"
+            ], 
+            "UserDict": [
+                "jinja2.loaders.path.genericpath.os.UserDict"
+            ], 
+            "jinja2.nodes": [
+                "jinja2.nodes", 
+                "jinja2.parser.nodes", 
+                "jinja2.optimizer.nodes", 
+                "jinja2.compiler.nodes"
+            ], 
+            "unicodedata": [
+                "jinja2.lexer.unicodedata"
+            ], 
+            "textwrap": [
+                "jinja2.filters.textwrap"
+            ], 
+            "sys": [
+                "jinja2.filters.re.sre_compile.sre_parse.sys", 
+                "jinja2.runtime.sys", 
+                "jinja2.environment.sys", 
+                "jinja2.loaders.path.genericpath.os.sys", 
+                "jinja2.utils.sys", 
+                "jinja2.loaders.path.genericpath.os.UserDict._abcoll.sys", 
+                "jinja2.loaders.path.sys", 
+                "jinja2.filters.re.sre_compile.sys", 
+                "jinja2.loaders.path.warnings.sys", 
+                "jinja2.loaders.path.warnings.linecache.sys", 
+                "jinja2.filters.re.sys"
+            ], 
+            "jinja2.filters": [
+                "jinja2.filters"
+            ], 
+            "jinja2.lexer": [
+                "jinja2.lexer"
+            ], 
+            "types": [
+                "jinja2.loaders.path.warnings.types"
+            ], 
+            "_locale": [
+                "jinja2.filters.re._locale"
+            ], 
+            "jinja2.visitor": [
+                "jinja2.visitor"
+            ], 
+            "jinja2.environment": [
+                "jinja2.environment"
+            ], 
+            "jinja2.optimizer": [
+                "jinja2.optimizer"
+            ], 
+            "errno": [
+                "jinja2.loaders.path.genericpath.os.errno"
+            ], 
+            "sre_parse": [
+                "jinja2.filters.re.sre_compile.sre_parse", 
+                "jinja2.filters.re.sre_parse"
+            ], 
+            "jinja2.exceptions": [
+                "jinja2.exceptions"
+            ], 
+            "os": [
+                "jinja2.loaders.path.warnings.linecache.os", 
+                "jinja2.loaders.path.os", 
+                "jinja2.loaders.path.genericpath.os"
+            ], 
+            "jinja2._speedups": [
+                "jinja2._speedups"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "2.0rc1", 
+        "name": "jinja2", 
+        "python_version": "2.7.18"
+    }
+}

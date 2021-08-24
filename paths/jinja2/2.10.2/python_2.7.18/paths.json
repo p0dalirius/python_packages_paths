@@ -1,0 +1,271 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "json.decoder": [
+                "jinja2.utils.json.decoder"
+            ], 
+            "jinja2.compiler": [
+                "jinja2.compiler"
+            ], 
+            "heapq": [
+                "jinja2._compat.abc._heapq"
+            ], 
+            "copy_reg": [
+                "jinja2.bccache.os._copy_reg", 
+                "jinja2.bccache.fnmatch.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "jinja2.bccache.fnmatch.re.sre_compile"
+            ], 
+            "_hashlib": [
+                "jinja2.filters.random._hashlib._hashlib"
+            ], 
+            "_sre": [
+                "jinja2.bccache.fnmatch.re.sre_compile._sre"
+            ], 
+            "functools": [
+                "jinja2.tests.decimal._locale.functools"
+            ], 
+            "jinja2._compat": [
+                "jinja2._compat"
+            ], 
+            "cPickle": [
+                "jinja2.bccache.pickle", 
+                "jinja2._compat.pickle"
+            ], 
+            "__builtin__": [
+                "jinja2._compat.pickle.__builtins__", 
+                "jinja2.tests.decimal._locale.encodings.__builtin__", 
+                "jinja2.tests.decimal._locale.encodings.ascii.codecs.__builtin__"
+            ], 
+            "locale": [
+                "jinja2.tests.decimal._locale"
+            ], 
+            "numbers": [
+                "jinja2.tests.decimal._numbers"
+            ], 
+            "io": [
+                "jinja2.bccache.tempfile._io"
+            ], 
+            "encodings": [
+                "jinja2.tests.decimal._locale.encodings"
+            ], 
+            "operator": [
+                "jinja2.tests.decimal._locale.operator", 
+                "jinja2.tests.operator", 
+                "jinja2.compiler.nodes.operator"
+            ], 
+            "jinja2.runtime": [
+                "jinja2.runtime"
+            ], 
+            "jinja2.utils": [
+                "jinja2.utils"
+            ], 
+            "jinja2.loaders": [
+                "jinja2.loaders"
+            ], 
+            "weakref": [
+                "jinja2.environment.weakref", 
+                "jinja2.loaders.weakref"
+            ], 
+            "abc": [
+                "jinja2.bccache.tempfile._io.abc"
+            ], 
+            "posixpath": [
+                "jinja2.loaders.path", 
+                "jinja2.bccache.path", 
+                "jinja2.bccache.os.path"
+            ], 
+            "jinja2.environment": [
+                "jinja2.environment"
+            ], 
+            "tempfile": [
+                "jinja2.bccache.tempfile"
+            ], 
+            "errno": [
+                "jinja2.utils.errno", 
+                "jinja2.bccache.os.errno", 
+                "jinja2.bccache.tempfile._errno", 
+                "jinja2.bccache.errno"
+            ], 
+            "struct": [
+                "jinja2.utils.json.decoder.struct"
+            ], 
+            "re": [
+                "jinja2.utils.json.decoder.re", 
+                "jinja2.filters.re", 
+                "jinja2.lexer.re", 
+                "jinja2.bccache.fnmatch.re", 
+                "jinja2.tests.decimal._locale.re", 
+                "jinja2.utils.re", 
+                "jinja2.utils.json.decoder.scanner.re", 
+                "jinja2.tests.re", 
+                "jinja2.utils.json.encoder.re"
+            ], 
+            "json": [
+                "jinja2.utils.json"
+            ], 
+            "_abcoll": [
+                "jinja2._compat.abc._abcoll", 
+                "jinja2.bccache.os.UserDict._abcoll"
+            ], 
+            "collections": [
+                "jinja2.utils.abc", 
+                "jinja2.runtime.abc", 
+                "jinja2._compat.abc", 
+                "jinja2.tests.abc"
+            ], 
+            "_random": [
+                "jinja2.filters.random._random"
+            ], 
+            "jinja2.parser": [
+                "jinja2.parser"
+            ], 
+            "math": [
+                "jinja2.filters.math", 
+                "jinja2.tests.decimal._math"
+            ], 
+            "encodings.aliases": [
+                "jinja2.tests.decimal._locale.encodings.aliases"
+            ], 
+            "fcntl": [
+                "jinja2.bccache.tempfile._fcntl"
+            ], 
+            "genericpath": [
+                "jinja2.bccache.os.path.genericpath"
+            ], 
+            "stat": [
+                "jinja2.bccache.os.path.genericpath.stat", 
+                "jinja2.bccache.stat", 
+                "jinja2.bccache.os.path.stat"
+            ], 
+            "random": [
+                "jinja2.filters.random"
+            ], 
+            "jinja2.idtracking": [
+                "jinja2.idtracking"
+            ], 
+            "warnings": [
+                "jinja2.bccache.os.path.warnings", 
+                "jinja2.filters.warnings"
+            ], 
+            "UserDict": [
+                "jinja2.bccache.os.UserDict", 
+                "jinja2.environment.weakref.UserDict"
+            ], 
+            "encodings.ascii": [
+                "jinja2.tests.decimal._locale.encodings.ascii"
+            ], 
+            "jinja2.nodes": [
+                "jinja2.nodes", 
+                "jinja2.parser.nodes", 
+                "jinja2.environment.nodes", 
+                "jinja2.optimizer.nodes", 
+                "jinja2.compiler.nodes"
+            ], 
+            "hashlib": [
+                "jinja2.filters.random._hashlib"
+            ], 
+            "encodings.utf_8": [
+                "jinja2.tests.decimal._locale.encodings.utf_8"
+            ], 
+            "sys": [
+                "jinja2.bccache.os.path.sys", 
+                "jinja2.runtime.sys", 
+                "jinja2.environment.sys", 
+                "jinja2.bccache.sys", 
+                "jinja2.loaders.sys", 
+                "jinja2.bccache.fnmatch.re.sre_compile.sre_parse.sys", 
+                "jinja2._compat.abc._abcoll.sys", 
+                "jinja2.bccache.os.path.warnings.sys", 
+                "jinja2.bccache.fnmatch.re.sre_compile.sys", 
+                "jinja2.tests.decimal._locale.encodings.ascii.codecs.sys", 
+                "jinja2.tests.decimal._locale.sys", 
+                "jinja2.utils.json.decoder.sys", 
+                "jinja2.bccache.fnmatch.re.sys", 
+                "jinja2.bccache.os.sys", 
+                "jinja2._compat.sys", 
+                "jinja2._compat.abc._sys", 
+                "jinja2.bccache.os.path.warnings.linecache.sys"
+            ], 
+            "json.scanner": [
+                "jinja2.utils.json.scanner", 
+                "jinja2.utils.json.decoder.scanner"
+            ], 
+            "jinja2.tests": [
+                "jinja2.tests"
+            ], 
+            "jinja2.bccache": [
+                "jinja2.bccache"
+            ], 
+            "json.encoder": [
+                "jinja2.utils.json.encoder"
+            ], 
+            "jinja2.lexer": [
+                "jinja2.lexer"
+            ], 
+            "types": [
+                "jinja2.compiler.nodes.types", 
+                "jinja2.bccache.tempfile._io.abc.types", 
+                "jinja2.bccache.os.path.warnings.types"
+            ], 
+            "codecs": [
+                "jinja2.tests.decimal._locale.encodings.codecs", 
+                "jinja2.tests.decimal._locale.encodings.ascii.codecs", 
+                "jinja2.tests.decimal._locale.encodings.utf_8.codecs"
+            ], 
+            "_locale": [
+                "jinja2.bccache.fnmatch.re._locale"
+            ], 
+            "thread": [
+                "jinja2.bccache.tempfile._thread"
+            ], 
+            "jinja2.visitor": [
+                "jinja2.visitor"
+            ], 
+            "decimal": [
+                "jinja2.tests.decimal"
+            ], 
+            "jinja2.filters": [
+                "jinja2.filters"
+            ], 
+            "_io": [
+                "jinja2.bccache.tempfile._io._io"
+            ], 
+            "linecache": [
+                "jinja2.bccache.os.path.warnings.linecache"
+            ], 
+            "jinja2.optimizer": [
+                "jinja2.optimizer"
+            ], 
+            "jinja2.defaults": [
+                "jinja2.defaults"
+            ], 
+            "fnmatch": [
+                "jinja2.bccache.fnmatch"
+            ], 
+            "sre_parse": [
+                "jinja2.bccache.fnmatch.re.sre_parse", 
+                "jinja2.bccache.fnmatch.re.sre_compile.sre_parse"
+            ], 
+            "jinja2.exceptions": [
+                "jinja2.exceptions"
+            ], 
+            "os": [
+                "jinja2.environment.os", 
+                "jinja2.bccache.tempfile._os", 
+                "jinja2.bccache.os", 
+                "jinja2.loaders.os"
+            ], 
+            "marshal": [
+                "jinja2.bccache.marshal"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "2.10.2", 
+        "name": "jinja2", 
+        "python_version": "2.7.18"
+    }
+}
