@@ -1,0 +1,454 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "heapq": [
+                "flask._compat.collections_abc._heapq"
+            ], 
+            "flask.templating": [
+                "flask.templating"
+            ], 
+            "subprocess": [
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.subprocess"
+            ], 
+            "flask.logging": [
+                "flask.logging"
+            ], 
+            "gc": [
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.subprocess.gc"
+            ], 
+            "click.utils": [
+                "flask.app.cli.click.utils"
+            ], 
+            "ctypes._endian": [
+                "flask.Flask.request_class.json_module.uuid.ctypes._endian"
+            ], 
+            "flask.globals": [
+                "flask.globals"
+            ], 
+            "uuid": [
+                "flask.Flask.request_class.json_module.uuid"
+            ], 
+            "tempfile": [
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.tempfile"
+            ], 
+            "base64": [
+                "flask.app.cli.ssl.base64", 
+                "flask.helpers.mimetypes.urllib.base64"
+            ], 
+            "platform": [
+                "flask.app.cli.platform"
+            ], 
+            "collections": [
+                "flask.logging.logging.collections", 
+                "flask._compat.collections_abc", 
+                "flask.sessions.collections_abc"
+            ], 
+            "click.termui": [
+                "flask.app.cli.click.termui"
+            ], 
+            "zipimport": [
+                "flask.helpers.pkgutil.zipimport"
+            ], 
+            "string": [
+                "flask.app.cli.ssl.base64.string", 
+                "flask.app.cli.platform.string", 
+                "flask.helpers.mimetypes.urllib.string", 
+                "flask.app.cli.ssl.textwrap.string", 
+                "flask.app.cli.click.core.inspect.string", 
+                "flask.app.cli.click.core.inspect.tokenize.string"
+            ], 
+            "textwrap": [
+                "flask.app.cli.ssl.textwrap"
+            ], 
+            "ssl": [
+                "flask.helpers.mimetypes.urllib.ssl", 
+                "flask.app.cli.ssl"
+            ], 
+            "flask.wrappers": [
+                "flask.wrappers"
+            ], 
+            "json.encoder": [
+                "flask.Flask.request_class.json_module._json.encoder"
+            ], 
+            "flask.signals": [
+                "flask.signals"
+            ], 
+            "signal": [
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.subprocess.signal"
+            ], 
+            "flask.json.tag": [
+                "flask.Flask.request_class.json_module.tag"
+            ], 
+            "threading": [
+                "flask.logging.logging.threading", 
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.subprocess.threading"
+            ], 
+            "dis": [
+                "flask.app.cli.click.core.inspect.dis"
+            ], 
+            "cStringIO": [
+                "flask.logging.logging.cStringIO"
+            ], 
+            "flask.cli": [
+                "flask.app.cli", 
+                "flask.cli"
+            ], 
+            "stat": [
+                "flask.Flask.request_class.json_module.uuid.ctypes._os.path.stat", 
+                "flask.Flask.request_class.json_module.uuid.ctypes._os.path.genericpath.stat", 
+                "flask.app.cli.click.types.stat"
+            ], 
+            "atexit": [
+                "flask.logging.logging.atexit"
+            ], 
+            "click": [
+                "flask.app.cli.click"
+            ], 
+            "abc": [
+                "flask.Flask.request_class.json_module.io.abc"
+            ], 
+            "warnings": [
+                "flask.logging.logging.warnings", 
+                "flask.helpers.mimetypes.urllib.socket.warnings", 
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.subprocess.threading.warnings", 
+                "flask.sessions.warnings", 
+                "flask.Flask.request_class.json_module.uuid.ctypes._os.path.warnings", 
+                "flask.app.warnings", 
+                "flask.logging.warnings", 
+                "flask.app.cli.ssl.warnings"
+            ], 
+            "urllib": [
+                "flask.helpers.mimetypes.urllib"
+            ], 
+            "re": [
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.re", 
+                "flask.Flask.request_class.json_module._json.decoder.scanner.re", 
+                "flask.app.cli.click.core.inspect.string._re", 
+                "flask.app.cli.ssl.base64.re", 
+                "flask.Flask.request_class.json_module._json.decoder.re", 
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.subprocess.pickle.re", 
+                "flask.app.cli.click.core.inspect.re", 
+                "flask.app.cli.ssl.textwrap.re", 
+                "flask.Flask.request_class.json_module._json.encoder.re", 
+                "flask.app.cli.click.parser.re", 
+                "flask.app.cli.ssl.re", 
+                "flask.app.cli.re", 
+                "flask.helpers.mimetypes.urllib.re", 
+                "flask.app.cli.click._compat.re", 
+                "flask.app.cli.click.core.inspect.tokenize.re", 
+                "flask.app.cli.platform.re"
+            ], 
+            "click.parser": [
+                "flask.app.cli.click.parser"
+            ], 
+            "fcntl": [
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.tempfile._fcntl", 
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.subprocess.fcntl", 
+                "flask.app.cli.click._compat.fcntl"
+            ], 
+            "ast": [
+                "flask.app.cli.ast"
+            ], 
+            "UserDict": [
+                "flask.Flask.request_class.json_module.uuid.ctypes._os.UserDict", 
+                "flask.logging.logging.weakref.UserDict"
+            ], 
+            "inspect": [
+                "flask.app.cli.click.decorators.inspect", 
+                "flask.app.cli.click.core.inspect", 
+                "flask.app.cli.click.termui.inspect", 
+                "flask.app.cli.inspect"
+            ], 
+            "json.scanner": [
+                "flask.Flask.request_class.json_module._json.scanner", 
+                "flask.Flask.request_class.json_module._json.decoder.scanner"
+            ], 
+            "ctypes": [
+                "flask.Flask.request_class.json_module.uuid.ctypes"
+            ], 
+            "codecs": [
+                "flask.app.cli.click._compat.codecs", 
+                "flask.logging.logging.codecs", 
+                "flask.app.cli.click._unicodefun.codecs", 
+                "flask.Flask.request_class.json_module.codecs"
+            ], 
+            "click.core": [
+                "flask.app.cli.click.core"
+            ], 
+            "struct": [
+                "flask.app.cli.click.termui.struct", 
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.subprocess.pickle.struct", 
+                "flask.app.cli.ssl.base64.struct", 
+                "flask.Flask.request_class.json_module._json.decoder.struct"
+            ], 
+            "flask.helpers": [
+                "flask.helpers"
+            ], 
+            "_locale": [
+                "flask.Flask.request_class.json_module._json.decoder.re._locale"
+            ], 
+            "logging": [
+                "flask.logging.logging"
+            ], 
+            "socket": [
+                "flask.helpers.socket", 
+                "flask.helpers.mimetypes.urllib.socket"
+            ], 
+            "thread": [
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.tempfile._thread", 
+                "flask.logging.logging.thread"
+            ], 
+            "traceback": [
+                "flask.app.cli.traceback", 
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.subprocess.traceback", 
+                "flask.logging.logging.traceback"
+            ], 
+            "weakref": [
+                "flask.logging.logging.weakref"
+            ], 
+            "itertools": [
+                "flask.app.cli.click.termui.itertools"
+            ], 
+            "posixpath": [
+                "flask.Flask.request_class.json_module.uuid.ctypes._os.path", 
+                "flask.helpers.mimetypes.posixpath", 
+                "flask.helpers.posixpath"
+            ], 
+            "os": [
+                "flask.app.os", 
+                "flask.app.cli.click.termui.os", 
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.tempfile._os", 
+                "flask.Flask.request_class.json_module.uuid.ctypes._os", 
+                "flask.app.cli.click.core.os", 
+                "flask.Flask.request_class.json_module.uuid.os", 
+                "flask.helpers.mimetypes.urllib.os", 
+                "flask.app.cli.platform.os", 
+                "flask.helpers.pkgutil.os", 
+                "flask.app.cli.click.utils.os", 
+                "flask.app.cli.click.core.inspect.os", 
+                "flask.helpers.mimetypes.os", 
+                "flask.app.cli.os", 
+                "flask.app.cli.ssl.os", 
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.os", 
+                "flask.helpers.os", 
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.subprocess.os", 
+                "flask.app.cli.click._unicodefun.os", 
+                "flask.logging.logging.os", 
+                "flask.app.cli.click.types.os", 
+                "flask.app.cli.click._compat.os", 
+                "flask.config.os", 
+                "flask.helpers.mimetypes.urllib.socket.os"
+            ], 
+            "marshal": [
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.subprocess.pickle.marshal"
+            ], 
+            "_sre": [
+                "flask.Flask.request_class.json_module._json.decoder.re.sre_compile._sre"
+            ], 
+            "__builtin__": [
+                "flask.Flask.request_class.json_module.codecs.__builtin__"
+            ], 
+            "click.decorators": [
+                "flask.app.cli.click.decorators"
+            ], 
+            "hashlib": [
+                "flask.sessions.hashlib"
+            ], 
+            "select": [
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.subprocess.select"
+            ], 
+            "pkgutil": [
+                "flask.helpers.pkgutil"
+            ], 
+            "imp": [
+                "flask.app.cli.click.core.inspect.imp", 
+                "flask.helpers.pkgutil.imp"
+            ], 
+            "errno": [
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.tempfile._errno", 
+                "flask.app.cli.ssl.errno", 
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.subprocess.errno", 
+                "flask.config.errno", 
+                "flask.helpers.mimetypes.urllib.socket.errno", 
+                "flask.app.cli.click.core.errno", 
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.errno", 
+                "flask.Flask.request_class.json_module.uuid.ctypes._os.errno"
+            ], 
+            "_socket": [
+                "flask.helpers.mimetypes.urllib.socket._socket"
+            ], 
+            "binascii": [
+                "flask.app.cli.ssl.base64.binascii", 
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.subprocess.pickle._binascii"
+            ], 
+            "json": [
+                "flask.Flask.request_class.json_module._json"
+            ], 
+            "tokenize": [
+                "flask.app.cli.click.core.inspect.tokenize"
+            ], 
+            "flask.app": [
+                "flask.app"
+            ], 
+            "flask.ctx": [
+                "flask.ctx"
+            ], 
+            "flask.config": [
+                "flask.config"
+            ], 
+            "click._unicodefun": [
+                "flask.app.cli.click._unicodefun"
+            ], 
+            "unicodedata": [
+                "flask.helpers.unicodedata"
+            ], 
+            "click.formatting": [
+                "flask.app.cli.click.formatting"
+            ], 
+            "click.globals": [
+                "flask.app.cli.click.globals"
+            ], 
+            "sre_parse": [
+                "flask.Flask.request_class.json_module._json.decoder.re.sre_parse", 
+                "flask.Flask.request_class.json_module._json.decoder.re.sre_compile.sre_parse"
+            ], 
+            "pickle": [
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.subprocess.pickle"
+            ], 
+            "json.decoder": [
+                "flask.Flask.request_class.json_module._json.decoder"
+            ], 
+            "copy_reg": [
+                "flask.Flask.request_class.json_module.uuid.ctypes._os._copy_reg", 
+                "flask.Flask.request_class.json_module._json.decoder.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "flask.Flask.request_class.json_module._json.decoder.re.sre_compile"
+            ], 
+            "_hashlib": [
+                "flask.sessions.hashlib._hashlib"
+            ], 
+            "io": [
+                "flask.Flask.request_class.json_module.io", 
+                "flask.helpers.io", 
+                "flask.app.cli.click._compat.io", 
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.tempfile._io", 
+                "flask.app.cli.click.termui.io"
+            ], 
+            "flask._compat": [
+                "flask._compat"
+            ], 
+            "_abcoll": [
+                "flask.Flask.request_class.json_module.uuid.ctypes._os.UserDict._abcoll", 
+                "flask._compat.collections_abc._abcoll"
+            ], 
+            "flask.sessions": [
+                "flask.sessions"
+            ], 
+            "genericpath": [
+                "flask.Flask.request_class.json_module.uuid.ctypes._os.path.genericpath"
+            ], 
+            "mimetypes": [
+                "flask.helpers.mimetypes"
+            ], 
+            "_ssl": [
+                "flask.app.cli.ssl._ssl", 
+                "flask.helpers.mimetypes.urllib.socket._ssl"
+            ], 
+            "ctypes.util": [
+                "flask.Flask.request_class.json_module.uuid.ctypes.util"
+            ], 
+            "click.exceptions": [
+                "flask.app.cli.click.exceptions"
+            ], 
+            "sys": [
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.sys", 
+                "flask.Flask.request_class.json_module.uuid.ctypes._endian.sys", 
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.subprocess.sys", 
+                "flask.app.cli.click._unicodefun.sys", 
+                "flask.app.cli.click.core.inspect.dis.sys", 
+                "flask.Flask.request_class.json_module.codecs.sys", 
+                "flask._compat.collections_abc._sys", 
+                "flask.helpers.mimetypes.urllib.socket.sys", 
+                "flask.Flask.request_class.json_module.uuid.ctypes._os.UserDict._abcoll.sys", 
+                "flask.app.cli.click.decorators.sys", 
+                "flask.app.cli.click.utils.sys", 
+                "flask.Flask.request_class.json_module._json.decoder.sys", 
+                "flask.Flask.request_class.json_module.uuid.sys", 
+                "flask.logging.sys", 
+                "flask.Flask.request_class.json_module._json.decoder.re.sre_compile.sys", 
+                "flask.helpers.pkgutil.sys", 
+                "flask.Flask.request_class.json_module.uuid.ctypes._os.path.sys", 
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.subprocess.pickle.sys", 
+                "flask.Flask.request_class.json_module.uuid.ctypes._os.path.warnings.sys", 
+                "flask.logging.logging.sys", 
+                "flask.Flask.request_class.json_module._json.decoder.re.sys", 
+                "flask.app.cli.click.core.sys", 
+                "flask.Flask.request_class.json_module.uuid.ctypes._os.path.warnings.linecache.sys", 
+                "flask.Flask.request_class.json_module._json.decoder.re.sre_compile.sre_parse.sys", 
+                "flask.helpers.mimetypes.sys", 
+                "flask.ctx.sys", 
+                "flask._compat.sys", 
+                "flask.helpers.mimetypes.urllib.sys", 
+                "flask.Flask.request_class.json_module.uuid.ctypes._os.sys", 
+                "flask.app.sys", 
+                "flask.app.cli.sys", 
+                "flask.app.cli.click._compat.sys", 
+                "flask.Flask.request_class.json_module.uuid.ctypes._sys", 
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.subprocess.traceback.sys", 
+                "flask.logging.logging.atexit.sys", 
+                "flask.app.cli.click.core.inspect.sys", 
+                "flask.app.cli.ssl.sys", 
+                "flask.app.cli.click.termui.sys", 
+                "flask.helpers.sys", 
+                "flask.app.cli.platform.sys", 
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.subprocess.threading._sys"
+            ], 
+            "click.types": [
+                "flask.app.cli.click.types"
+            ], 
+            "types": [
+                "flask.Flask.request_class.json_module.io.abc.types", 
+                "flask.app.cli.click.core.inspect.types", 
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.subprocess.types", 
+                "flask.app.cli.click.core.inspect.dis.types", 
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.subprocess.traceback.types", 
+                "flask.Flask.request_class.json_module.uuid.ctypes._os.path.warnings.types", 
+                "flask.config.types"
+            ], 
+            "click._compat": [
+                "flask.app.cli.click._compat"
+            ], 
+            "flask.json": [
+                "flask.wrappers.JSONMixin.json_module", 
+                "flask.app.json", 
+                "flask.json", 
+                "flask.wrappers.json", 
+                "flask.config.json", 
+                "flask.Flask.response_class.json_module", 
+                "flask.Flask.request_class.json_module"
+            ], 
+            "_io": [
+                "flask.Flask.request_class.json_module.io._io"
+            ], 
+            "linecache": [
+                "flask.Flask.request_class.json_module.uuid.ctypes._os.path.warnings.linecache", 
+                "flask.app.cli.click.core.inspect.linecache", 
+                "flask.Flask.request_class.json_module.uuid.ctypes.util.subprocess.traceback.linecache"
+            ], 
+            "flask.blueprints": [
+                "flask.blueprints"
+            ], 
+            "time": [
+                "flask.helpers.mimetypes.urllib.time", 
+                "flask.logging.logging.time"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "1.1.3", 
+        "name": "flask", 
+        "python_version": "2.7.18"
+    }
+}
