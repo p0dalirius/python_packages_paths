@@ -1,0 +1,128 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "django.utils": [
+                "django.utils"
+            ], 
+            "sre_compile": [
+                "django.utils.version.subprocess.pickle.re.sre_compile"
+            ], 
+            "_sre": [
+                "django.utils.version.subprocess.pickle.re.sre_compile._sre"
+            ], 
+            "datetime": [
+                "django.utils.version.datetime"
+            ], 
+            "gc": [
+                "django.utils.version.subprocess.gc"
+            ], 
+            "copy_reg": [
+                "django.utils.version.subprocess.pickle.re.copy_reg", 
+                "django.utils.version.os._copy_reg"
+            ], 
+            "select": [
+                "django.utils.version.subprocess.select"
+            ], 
+            "django.utils.lru_cache": [
+                "django.utils.lru_cache"
+            ], 
+            "posixpath": [
+                "django.utils.version.os.path"
+            ], 
+            "threading": [
+                "django.utils.version.subprocess.threading"
+            ], 
+            "errno": [
+                "django.utils.version.subprocess.errno", 
+                "django.utils.version.os.errno"
+            ], 
+            "binascii": [
+                "django.utils.version.subprocess.pickle._binascii"
+            ], 
+            "re": [
+                "django.utils.version.subprocess.pickle.re"
+            ], 
+            "_abcoll": [
+                "django.utils.version.os.UserDict._abcoll"
+            ], 
+            "django.utils.version": [
+                "django.utils.version"
+            ], 
+            "fcntl": [
+                "django.utils.version.subprocess.fcntl"
+            ], 
+            "genericpath": [
+                "django.utils.version.os.path.genericpath"
+            ], 
+            "stat": [
+                "django.utils.version.os.path.stat", 
+                "django.utils.version.os.path.genericpath.stat"
+            ], 
+            "warnings": [
+                "django.utils.version.subprocess.threading.warnings", 
+                "django.utils.version.os.path.warnings"
+            ], 
+            "UserDict": [
+                "django.utils.version.os.UserDict"
+            ], 
+            "sys": [
+                "django.utils.version.subprocess.pickle.re.sre_compile.sre_parse.sys", 
+                "django.utils.version.subprocess.pickle.re.sys", 
+                "django.utils.version.os.path.sys", 
+                "django.utils.version.subprocess.pickle.sys", 
+                "django.utils.version.subprocess.traceback.sys", 
+                "django.utils.version.subprocess.pickle.re.sre_compile.sys", 
+                "django.utils.version.os.path.warnings.sys", 
+                "django.utils.version.subprocess.threading._sys", 
+                "django.utils.version.os.UserDict._abcoll.sys", 
+                "django.utils.version.os.sys", 
+                "django.utils.version.subprocess.sys", 
+                "django.utils.version.os.path.warnings.linecache.sys"
+            ], 
+            "subprocess": [
+                "django.utils.version.subprocess"
+            ], 
+            "types": [
+                "django.utils.version.os.path.warnings.types", 
+                "django.utils.version.subprocess.traceback.types", 
+                "django.utils.version.subprocess.types"
+            ], 
+            "struct": [
+                "django.utils.version.subprocess.pickle.struct"
+            ], 
+            "_locale": [
+                "django.utils.version.subprocess.pickle.re._locale"
+            ], 
+            "os": [
+                "django.utils.version.os", 
+                "django.utils.version.subprocess.os"
+            ], 
+            "signal": [
+                "django.utils.version.subprocess.signal"
+            ], 
+            "traceback": [
+                "django.utils.version.subprocess.traceback"
+            ], 
+            "linecache": [
+                "django.utils.version.subprocess.traceback.linecache", 
+                "django.utils.version.os.path.warnings.linecache"
+            ], 
+            "sre_parse": [
+                "django.utils.version.subprocess.pickle.re.sre_compile.sre_parse", 
+                "django.utils.version.subprocess.pickle.re.sre_parse"
+            ], 
+            "pickle": [
+                "django.utils.version.subprocess.pickle"
+            ], 
+            "marshal": [
+                "django.utils.version.subprocess.pickle.marshal"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "1.10a1", 
+        "name": "django", 
+        "python_version": "2.7.18"
+    }
+}
