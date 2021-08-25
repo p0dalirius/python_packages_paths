@@ -1,0 +1,113 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "base64": [
+                "poplib.ssl.base64"
+            ], 
+            "copy_reg": [
+                "poplib.re.copy_reg", 
+                "poplib.socket.os._copy_reg"
+            ], 
+            "sre_compile": [
+                "poplib.re.sre_compile"
+            ], 
+            "_sre": [
+                "poplib.re.sre_compile._sre"
+            ], 
+            "posixpath": [
+                "poplib.socket.os.path"
+            ], 
+            "errno": [
+                "poplib.socket.os.errno", 
+                "poplib.socket.errno", 
+                "poplib.ssl.errno"
+            ], 
+            "_socket": [
+                "poplib.socket._socket"
+            ], 
+            "binascii": [
+                "poplib.ssl.base64.binascii"
+            ], 
+            "re": [
+                "poplib.ssl.textwrap.re", 
+                "poplib.re", 
+                "poplib.ssl.base64.string._re", 
+                "poplib.ssl.base64.re", 
+                "poplib.ssl.re"
+            ], 
+            "_abcoll": [
+                "poplib.socket.os.UserDict._abcoll"
+            ], 
+            "genericpath": [
+                "poplib.socket.os.path.genericpath"
+            ], 
+            "stat": [
+                "poplib.socket.os.path.stat", 
+                "poplib.socket.os.path.genericpath.stat"
+            ], 
+            "_ssl": [
+                "poplib.ssl._ssl", 
+                "poplib.socket._ssl"
+            ], 
+            "string": [
+                "poplib.ssl.textwrap.string", 
+                "poplib.ssl.base64.string"
+            ], 
+            "warnings": [
+                "poplib.socket.warnings", 
+                "poplib.ssl.warnings", 
+                "poplib.socket.os.path.warnings"
+            ], 
+            "UserDict": [
+                "poplib.socket.os.UserDict"
+            ], 
+            "textwrap": [
+                "poplib.ssl.textwrap"
+            ], 
+            "sys": [
+                "poplib.socket.os.UserDict._abcoll.sys", 
+                "poplib.socket.sys", 
+                "poplib.ssl.sys", 
+                "poplib.re.sre_compile.sys", 
+                "poplib.re.sys", 
+                "poplib.socket.os.sys", 
+                "poplib.socket.os.path.warnings.sys", 
+                "poplib.re.sre_compile.sre_parse.sys", 
+                "poplib.socket.os.path.sys", 
+                "poplib.socket.os.path.warnings.linecache.sys"
+            ], 
+            "ssl": [
+                "poplib.ssl"
+            ], 
+            "types": [
+                "poplib.socket.os.path.warnings.types"
+            ], 
+            "struct": [
+                "poplib.ssl.base64.struct"
+            ], 
+            "_locale": [
+                "poplib.re._locale"
+            ], 
+            "socket": [
+                "poplib.socket"
+            ], 
+            "linecache": [
+                "poplib.socket.os.path.warnings.linecache"
+            ], 
+            "sre_parse": [
+                "poplib.re.sre_parse", 
+                "poplib.re.sre_compile.sre_parse"
+            ], 
+            "os": [
+                "poplib.ssl.os", 
+                "poplib.socket.os"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "poplib", 
+        "python_version": "2.7.18"
+    }
+}
