@@ -1,0 +1,39 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "_locale": [
+                "acceptable.re._locale"
+            ], 
+            "copy_reg": [
+                "acceptable.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "acceptable.re.sre_compile"
+            ], 
+            "_sre": [
+                "acceptable.re.sre_compile._sre"
+            ], 
+            "functools": [
+                "acceptable.functools"
+            ], 
+            "sys": [
+                "acceptable.re.sre_compile.sys", 
+                "acceptable.re.sre_compile.sre_parse.sys", 
+                "acceptable.re.sys"
+            ], 
+            "re": [
+                "acceptable.re"
+            ], 
+            "sre_parse": [
+                "acceptable.re.sre_compile.sre_parse", 
+                "acceptable.re.sre_parse"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.4", 
+        "name": "acceptable", 
+        "python_version": "2.7.18"
+    }
+}
