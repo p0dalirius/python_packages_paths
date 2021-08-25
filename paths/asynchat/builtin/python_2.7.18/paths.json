@@ -1,0 +1,82 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "fcntl": [
+                "asynchat.asyncore.fcntl"
+            ], 
+            "genericpath": [
+                "asynchat.asyncore.os.path.genericpath"
+            ], 
+            "stat": [
+                "asynchat.asyncore.os.path.genericpath.stat", 
+                "asynchat.asyncore.os.path.stat"
+            ], 
+            "_ssl": [
+                "asynchat.asyncore.socket._ssl"
+            ], 
+            "asyncore": [
+                "asynchat.asyncore"
+            ], 
+            "posixpath": [
+                "asynchat.asyncore.os.path"
+            ], 
+            "warnings": [
+                "asynchat.asyncore.socket.warnings", 
+                "asynchat.asyncore.os.path.warnings", 
+                "asynchat.asyncore.warnings"
+            ], 
+            "UserDict": [
+                "asynchat.asyncore.os.UserDict"
+            ], 
+            "_socket": [
+                "asynchat.asyncore.socket._socket"
+            ], 
+            "sys": [
+                "asynchat.asyncore.os.path.sys", 
+                "asynchat.asyncore.os.UserDict._abcoll.sys", 
+                "asynchat.asyncore.os.sys", 
+                "asynchat.asyncore.socket.sys", 
+                "asynchat.asyncore.os.path.warnings.sys", 
+                "asynchat.asyncore.os.path.warnings.linecache.sys", 
+                "asynchat.asyncore.sys"
+            ], 
+            "linecache": [
+                "asynchat.asyncore.os.path.warnings.linecache"
+            ], 
+            "_abcoll": [
+                "asynchat.asyncore.os.UserDict._abcoll"
+            ], 
+            "select": [
+                "asynchat.asyncore.select"
+            ], 
+            "errno": [
+                "asynchat.asyncore.socket.errno", 
+                "asynchat.asyncore.os.errno", 
+                "asynchat.errno"
+            ], 
+            "copy_reg": [
+                "asynchat.asyncore.os._copy_reg"
+            ], 
+            "os": [
+                "asynchat.asyncore.os", 
+                "asynchat.asyncore.socket.os"
+            ], 
+            "time": [
+                "asynchat.asyncore.time"
+            ], 
+            "types": [
+                "asynchat.asyncore.os.path.warnings.types"
+            ], 
+            "socket": [
+                "asynchat.socket", 
+                "asynchat.asyncore.socket"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "asynchat", 
+        "python_version": "2.7.18"
+    }
+}
