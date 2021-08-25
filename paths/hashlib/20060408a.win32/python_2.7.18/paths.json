@@ -1,0 +1,15 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "_hashlib": [
+                "hashlib._hashlib"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "hashlib", 
+        "python_version": "2.7.18"
+    }
+}
