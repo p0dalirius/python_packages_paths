@@ -1,0 +1,36 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "_locale": [
+                "fnmatch.re._locale"
+            ], 
+            "copy_reg": [
+                "fnmatch.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "fnmatch.re.sre_compile"
+            ], 
+            "_sre": [
+                "fnmatch.re.sre_compile._sre"
+            ], 
+            "sys": [
+                "fnmatch.re.sys", 
+                "fnmatch.re.sre_compile.sre_parse.sys", 
+                "fnmatch.re.sre_compile.sys"
+            ], 
+            "re": [
+                "fnmatch.re"
+            ], 
+            "sre_parse": [
+                "fnmatch.re.sre_parse", 
+                "fnmatch.re.sre_compile.sre_parse"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "fnmatch", 
+        "python_version": "2.7.18"
+    }
+}
