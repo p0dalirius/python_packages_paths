@@ -1,0 +1,123 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "cStringIO": [
+                "zipfile.cStringIO"
+            ], 
+            "heapq": [
+                "zipfile.shutil.collections._heapq"
+            ], 
+            "copy_reg": [
+                "zipfile.os._copy_reg", 
+                "zipfile.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "zipfile.re.sre_compile"
+            ], 
+            "_sre": [
+                "zipfile.re.sre_compile._sre"
+            ], 
+            "io": [
+                "zipfile.io"
+            ], 
+            "shutil": [
+                "zipfile.shutil"
+            ], 
+            "abc": [
+                "zipfile.io.abc"
+            ], 
+            "posixpath": [
+                "zipfile.os.path"
+            ], 
+            "errno": [
+                "zipfile.shutil.errno", 
+                "zipfile.os.errno"
+            ], 
+            "binascii": [
+                "zipfile.binascii"
+            ], 
+            "re": [
+                "zipfile.string._re", 
+                "zipfile.shutil.fnmatch.re", 
+                "zipfile.re"
+            ], 
+            "_abcoll": [
+                "zipfile.os.UserDict._abcoll", 
+                "zipfile.shutil.collections._abcoll"
+            ], 
+            "collections": [
+                "zipfile.shutil.collections"
+            ], 
+            "genericpath": [
+                "zipfile.os.path.genericpath"
+            ], 
+            "stat": [
+                "zipfile.os.path.genericpath.stat", 
+                "zipfile.os.path.stat", 
+                "zipfile.stat", 
+                "zipfile.shutil.stat"
+            ], 
+            "string": [
+                "zipfile.string"
+            ], 
+            "warnings": [
+                "zipfile.os.path.warnings"
+            ], 
+            "UserDict": [
+                "zipfile.os.UserDict"
+            ], 
+            "sys": [
+                "zipfile.os.UserDict._abcoll.sys", 
+                "zipfile.shutil.collections._sys", 
+                "zipfile.os.path.warnings.sys", 
+                "zipfile.sys", 
+                "zipfile.re.sys", 
+                "zipfile.shutil.sys", 
+                "zipfile.os.sys", 
+                "zipfile.re.sre_compile.sre_parse.sys", 
+                "zipfile.os.path.warnings.linecache.sys", 
+                "zipfile.os.path.sys", 
+                "zipfile.re.sre_compile.sys"
+            ], 
+            "types": [
+                "zipfile.io.abc.types", 
+                "zipfile.os.path.warnings.types"
+            ], 
+            "struct": [
+                "zipfile.struct"
+            ], 
+            "_locale": [
+                "zipfile.re._locale"
+            ], 
+            "zlib": [
+                "zipfile.zlib"
+            ], 
+            "_io": [
+                "zipfile.io._io"
+            ], 
+            "linecache": [
+                "zipfile.os.path.warnings.linecache"
+            ], 
+            "time": [
+                "zipfile.time"
+            ], 
+            "fnmatch": [
+                "zipfile.shutil.fnmatch"
+            ], 
+            "sre_parse": [
+                "zipfile.re.sre_compile.sre_parse", 
+                "zipfile.re.sre_parse"
+            ], 
+            "os": [
+                "zipfile.shutil.os", 
+                "zipfile.os"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "zipfile", 
+        "python_version": "2.7.18"
+    }
+}
