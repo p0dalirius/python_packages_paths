@@ -1,0 +1,612 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "acapi.exceptions": [
+                "acapi.exceptions", 
+                "acapi.client.acapi.exceptions"
+            ], 
+            "acapi.resources.site": [
+                "acapi.client.acapi.resources.site"
+            ], 
+            "heapq": [
+                "acapi.client.acapi.resources.acquiadata.logging.collections._heapq", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.connectionpool._unused_module_Queue.heapq"
+            ], 
+            "acapi.resources.domainlist": [
+                "acapi.client.acapi.resources.domainlist"
+            ], 
+            "acapi.resources.sitelist": [
+                "acapi.client.acapi.resources.sitelist"
+            ], 
+            "functools": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.poolmanager.functools", 
+                "acapi.client.acapi.resources.acquiadata.requests.cookies.calendar._locale.functools", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.connection.six.functools"
+            ], 
+            "datetime": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.connection.datetime", 
+                "acapi.client.acapi.resources.acquiadata.requests_cache.backends.storage.dbdict.sqlite.datetime", 
+                "acapi.client.acapi.resources.acquiadata.requests.cookies.calendar.datetime", 
+                "acapi.client.acapi.resources.acquiadata.requests.models.datetime"
+            ], 
+            "acapi": [
+                "acapi"
+            ], 
+            "email.mime": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.fields.email.mime"
+            ], 
+            "requests.packages.chardet": [
+                "acapi.client.acapi.resources.acquiadata.requests.compat.chardet", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.chardet", 
+                "acapi.client.acapi.resources.acquiadata.requests.models.chardet"
+            ], 
+            "requests_cache.backends.base": [
+                "acapi.client.acapi.resources.acquiadata.requests_cache.backends.base"
+            ], 
+            "struct": [
+                "acapi.client.acapi.resources.acquiadata.requests.utils.struct", 
+                "acapi.client.acapi.resources.acquiadata.json.decoder.struct"
+            ], 
+            "requests.sessions": [
+                "acapi.client.acapi.resources.acquiadata.requests.sessions", 
+                "acapi.client.acapi.resources.acquiadata.requests.api.sessions"
+            ], 
+            "base64": [
+                "acapi.client.acapi.resources.acquiadata.requests.api.sessions.cookielib.urllib.base64"
+            ], 
+            "requests.packages.urllib3.packages.six.moves": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.connection.six.moves"
+            ], 
+            "acapi.client": [
+                "acapi.client"
+            ], 
+            "collections": [
+                "acapi.client.acapi.resources.acquiadata.requests.cookies.collections", 
+                "acapi.client.acapi.resources.acquiadata.requests.structures.collections", 
+                "acapi.client.acapi.resources.acquiadata.requests_cache.backends.storage.dbdict.sqlite.collections", 
+                "acapi.client.acapi.resources.acquiadata.requests.models.collections", 
+                "acapi.client.acapi.resources.acquiadata.logging.collections", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.poolmanager.collections", 
+                "acapi.client.acapi.resources.acquiadata.requests.utils.collections"
+            ], 
+            "requests.utils": [
+                "acapi.client.acapi.resources.acquiadata.requests.utils"
+            ], 
+            "requests.packages.urllib3.fields": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.fields"
+            ], 
+            "requests.adapters": [
+                "acapi.client.acapi.resources.acquiadata.requests.adapters"
+            ], 
+            "string": [
+                "acapi.client.acapi.resources.acquiadata.requests.api.sessions.cookielib.urllib.string"
+            ], 
+            "encodings.utf_8": [
+                "acapi.client.acapi.resources.acquiadata.requests.cookies.calendar._locale.encodings.utf_8"
+            ], 
+            "requests.packages.urllib3": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3"
+            ], 
+            "ssl": [
+                "acapi.client.acapi.resources.acquiadata.requests.api.sessions.cookielib.urllib.ssl", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.util.ssl_.ssl", 
+                "acapi.client.acapi.resources.acquiadata.requests.api.sessions.cookielib.httplib.ssl", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.connection.ssl"
+            ], 
+            "requests_cache.backends.sqlite": [
+                "acapi.client.acapi.resources.acquiadata.requests_cache.backends.sqlite"
+            ], 
+            "requests.packages.urllib3.util.request": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.util.request"
+            ], 
+            "json.encoder": [
+                "acapi.client.acapi.resources.acquiadata.json.encoder"
+            ], 
+            "cookielib": [
+                "acapi.client.acapi.resources.acquiadata.requests_cache.compat.cookielib", 
+                "acapi.client.acapi.resources.acquiadata.requests.cookies.cookielib", 
+                "acapi.client.acapi.resources.acquiadata.requests.compat.cookielib", 
+                "acapi.client.acapi.resources.acquiadata.requests.models.cookielib", 
+                "acapi.client.acapi.resources.acquiadata.requests.api.sessions.cookielib"
+            ], 
+            "httplib": [
+                "acapi.client.acapi.resources.acquiadata.requests.api.sessions.cookielib.httplib", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.util.response.httplib", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.response.httplib"
+            ], 
+            "requests.packages.urllib3.response": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.response"
+            ], 
+            "acapi.resources.tasklist": [
+                "acapi.client.acapi.resources.tasklist"
+            ], 
+            "threading": [
+                "acapi.client.acapi.resources.acquiadata.logging.threading", 
+                "acapi.client.acapi.resources.acquiadata.requests.api.sessions.cookielib._threading", 
+                "acapi.client.acapi.resources.acquiadata.requests_cache.backends.storage.dbdict.threading", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.connectionpool._unused_module_Queue._threading", 
+                "acapi.client.acapi.resources.acquiadata.requests.cookies.threading", 
+                "acapi.client.acapi.resources.acquiadata.requests.auth.threading"
+            ], 
+            "email.encoders": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.fields.email.encoders"
+            ], 
+            "requests.packages.urllib3.request": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.request"
+            ], 
+            "requests.packages.urllib3.packages.ordered_dict": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.packages.ordered_dict"
+            ], 
+            "acapi.resources.environment": [
+                "acapi.client.acapi.resources.environment"
+            ], 
+            "cStringIO": [
+                "acapi.client.acapi.resources.acquiadata.logging.cStringIO"
+            ], 
+            "locale": [
+                "acapi.client.acapi.resources.acquiadata.requests.cookies.calendar._locale"
+            ], 
+            "requests.packages.urllib3.contrib": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.contrib"
+            ], 
+            "mimetypes": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.fields.mimetypes"
+            ], 
+            "atexit": [
+                "acapi.client.acapi.resources.acquiadata.logging.atexit"
+            ], 
+            "encodings": [
+                "acapi.client.acapi.resources.acquiadata.requests.cookies.calendar._locale.encodings"
+            ], 
+            "requests.status_codes": [
+                "acapi.client.acapi.resources.acquiadata.requests.status_codes"
+            ], 
+            "acapi.resources.backup": [
+                "acapi.client.acapi.resources.backup"
+            ], 
+            "calendar": [
+                "acapi.client.acapi.resources.acquiadata.requests.cookies.calendar"
+            ], 
+            "requests.auth": [
+                "acapi.client.acapi.resources.acquiadata.requests.auth"
+            ], 
+            "abc": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.response.io.abc"
+            ], 
+            "acapi.resources.serverlist": [
+                "acapi.client.acapi.resources.serverlist"
+            ], 
+            "rfc822": [
+                "acapi.client.acapi.resources.acquiadata.requests.utils.cgi.rfc822"
+            ], 
+            "urllib": [
+                "acapi.client.acapi.resources.acquiadata.requests.api.sessions.cookielib.urllib", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.fields.mimetypes.urllib"
+            ], 
+            "re": [
+                "acapi.client.acapi.resources.acquiadata.requests.api.sessions.cookielib.urlparse.re", 
+                "acapi.client.acapi.resources.acquiadata.requests.utils.re", 
+                "acapi.client.acapi.resources.acquiadata.requests.api.sessions.cookielib.httplib.re", 
+                "acapi.client.acapi.resources.acquiadata.requests.cookies.calendar._locale.re", 
+                "acapi.client.acapi.resources.domain.re", 
+                "acapi.client.acapi.resources.acquiadata.json.decoder.scanner.re", 
+                "acapi.client.acapi.resources.databaselist.re", 
+                "acapi.client.acapi.resources.acquiadata.requests.api.sessions.cookielib.re", 
+                "acapi.client.acapi.resources.acquiadata.json.encoder.re", 
+                "acapi.client.acapi.resources.acquiadata.requests.api.sessions.cookielib.urllib.re", 
+                "acapi.client.acapi.resources.database.re", 
+                "acapi.client.acapi.resources.environment.re", 
+                "acapi.client.acapi.resources.acquiadata.json.decoder.re", 
+                "acapi.client.acapi.resources.task.re", 
+                "acapi.client.acapi.resources.acquiadata.requests.auth.re"
+            ], 
+            "acapi.resources.domain": [
+                "acapi.client.acapi.resources.domain"
+            ], 
+            "email": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.fields.email"
+            ], 
+            "acapi.resources.task": [
+                "acapi.client.acapi.resources.task"
+            ], 
+            "requests_cache.backends": [
+                "acapi.client.acapi.resources.acquiadata.requests_cache.backends", 
+                "acapi.client.acapi.resources.acquiadata.requests_cache.core.backends"
+            ], 
+            "cgi": [
+                "acapi.client.acapi.resources.acquiadata.requests.utils.cgi"
+            ], 
+            "requests.packages.urllib3.exceptions": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.exceptions"
+            ], 
+            "UserDict": [
+                "acapi.client.acapi.resources.acquiadata.logging.weakref.UserDict", 
+                "acapi.client.acapi.resources.acquiadata.requests.utils.cgi.UserDict", 
+                "acapi.client.acapi.resources.acquiadata.logging.os.UserDict"
+            ], 
+            "Queue": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.connectionpool._unused_module_Queue"
+            ], 
+            "json.scanner": [
+                "acapi.client.acapi.resources.acquiadata.json.decoder.scanner", 
+                "acapi.client.acapi.resources.acquiadata.json.scanner"
+            ], 
+            "requests.packages.urllib3.util.retry": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.util.retry"
+            ], 
+            "codecs": [
+                "acapi.client.acapi.resources.acquiadata.requests.cookies.calendar._locale.encodings.codecs", 
+                "acapi.client.acapi.resources.acquiadata.requests.utils.codecs", 
+                "acapi.client.acapi.resources.acquiadata.logging.codecs", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.filepost.codecs"
+            ], 
+            "sqlite3.dbapi2": [
+                "acapi.client.acapi.resources.acquiadata.requests_cache.backends.storage.dbdict.sqlite.dbapi2"
+            ], 
+            "requests.cookies": [
+                "acapi.client.acapi.resources.acquiadata.requests.cookies"
+            ], 
+            "requests.packages.urllib3._collections": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3._collections"
+            ], 
+            "_locale": [
+                "acapi.client.acapi.resources.acquiadata.json.decoder.re._locale"
+            ], 
+            "logging": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.util.retry.logging", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.connectionpool.logging", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.logging", 
+                "acapi.client.acapi.resources.acquiadata.logging", 
+                "acapi.client.acapi.resources.task.logging", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.connection.logging", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.poolmanager.logging", 
+                "acapi.client.acapi.resources.acquiadata.requests.logging"
+            ], 
+            "socket": [
+                "acapi.client.acapi.resources.acquiadata.requests.utils.socket", 
+                "acapi.client.acapi.resources.acquiadata.requests.api.sessions.cookielib.httplib.socket", 
+                "acapi.client.acapi.resources.acquiadata.requests.adapters.socket", 
+                "acapi.client.acapi.resources.acquiadata.requests.api.sessions.cookielib.urllib.socket", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.connection.connection.socket", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.connection.socket", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.connectionpool.socket"
+            ], 
+            "thread": [
+                "acapi.client.acapi.resources.acquiadata.logging.thread"
+            ], 
+            "requests.packages.urllib3.connection": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.connection"
+            ], 
+            "traceback": [
+                "acapi.client.acapi.resources.acquiadata.logging.traceback"
+            ], 
+            "acapi.resources.database": [
+                "acapi.client.acapi.resources.database"
+            ], 
+            "weakref": [
+                "acapi.client.acapi.resources.acquiadata.logging.weakref", 
+                "acapi.client.acapi.resources.acquiadata.requests.api.sessions.cookielib.copy.weakref"
+            ], 
+            "itertools": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.connection.six.itertools"
+            ], 
+            "requests": [
+                "acapi.client.acapi.resources.acquiadata.requests_cache.core.requests", 
+                "acapi.client.acapi.resources.acquiadata.requests_cache.backends.base.requests", 
+                "acapi.client.acapi.resources.acquiadata.requests"
+            ], 
+            "os": [
+                "acapi.client.acapi.resources.acquiadata.requests.adapters.socket.os", 
+                "acapi.client.acapi.resources.acquiadata.logging.os", 
+                "acapi.client.acapi.resources.acquiadata.requests.utils.cgi.os", 
+                "acapi.client.acapi.resources.acquiadata.requests.auth.os", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.connection.os", 
+                "acapi.client.acapi.resources.acquiadata.requests.utils.os", 
+                "acapi.client.acapi.resources.acquiadata.requests.api.sessions.cookielib.urllib.os", 
+                "acapi.client.acapi.resources.acquiadata.requests.api.sessions.cookielib.httplib.os", 
+                "acapi.client.os", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.fields.mimetypes.os", 
+                "acapi.client.acapi.resources.acquiadata.requests.adapters.os", 
+                "acapi.client.acapi.resources.acquiadata.requests.api.sessions.os", 
+                "acapi.client.acapi.resources.acquiadata.requests.certs.os"
+            ], 
+            "acapi.resources.acquiaresource": [
+                "acapi.client.acapi.resources.acquiaresource"
+            ], 
+            "sre_parse": [
+                "acapi.client.acapi.resources.acquiadata.json.decoder.re.sre_parse", 
+                "acapi.client.acapi.resources.acquiadata.json.decoder.re.sre_compile.sre_parse"
+            ], 
+            "mimetools": [
+                "acapi.client.acapi.resources.acquiadata.requests.utils.cgi.mimetools", 
+                "acapi.client.acapi.resources.acquiadata.requests.api.sessions.cookielib.httplib.mimetools"
+            ], 
+            "acapi.resources.acquiadata": [
+                "acapi.client.acapi.resources.acquiadata"
+            ], 
+            "_sre": [
+                "acapi.client.acapi.resources.acquiadata.json.decoder.re.sre_compile._sre"
+            ], 
+            "acapi.resources.environmentlist": [
+                "acapi.client.acapi.resources.environmentlist"
+            ], 
+            "__builtin__": [
+                "acapi.client.acapi.resources.acquiadata.requests_cache.backends.storage.dbdict.pickle.__builtins__", 
+                "acapi.client.acapi.resources.acquiadata.requests.cookies.calendar._locale.encodings.__builtin__", 
+                "acapi.client.acapi.resources.acquiadata.logging.codecs.__builtin__"
+            ], 
+            "operator": [
+                "acapi.client.acapi.resources.acquiadata.requests.cookies.calendar._locale.operator", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.connection.six.operator"
+            ], 
+            "requests.packages.urllib3.packages.ssl_match_hostname": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.packages.ssl_match_hostname"
+            ], 
+            "requests.packages.urllib3.util.url": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.util.url"
+            ], 
+            "acapi.resources": [
+                "acapi.client.acapi.resources", 
+                "acapi.resources"
+            ], 
+            "requests.api": [
+                "acapi.client.acapi.resources.acquiadata.requests.api"
+            ], 
+            "posixpath": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.fields.mimetypes.posixpath", 
+                "acapi.client.acapi.resources.acquiadata.logging.os.path"
+            ], 
+            "requests.packages.urllib3.util": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.util"
+            ], 
+            "acapi.resources.user": [
+                "acapi.client.acapi.resources.user"
+            ], 
+            "errno": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.connectionpool.errno", 
+                "acapi.client.acapi.resources.acquiadata.logging.os.errno", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.util.ssl_.errno", 
+                "acapi.client.acapi.resources.acquiadata.requests.adapters.socket.errno"
+            ], 
+            "_socket": [
+                "acapi.client.acapi.resources.acquiadata.requests.adapters.socket._socket"
+            ], 
+            "json": [
+                "acapi.client.acapi.resources.backuplist.json", 
+                "acapi.client.acapi.resources.acquiadata.requests.models.complexjson", 
+                "acapi.client.acapi.resources.acquiadata.requests.compat.json", 
+                "acapi.client.acapi.resources.acquiadata.json"
+            ], 
+            "email._parseaddr": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.fields.email._parseaddr"
+            ], 
+            "requests.structures": [
+                "acapi.client.acapi.resources.acquiadata.requests.structures"
+            ], 
+            "cPickle": [
+                "acapi.client.acapi.resources.acquiadata.requests_cache.backends.storage.dbdict.pickle"
+            ], 
+            "requests.packages.urllib3.connectionpool": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.connectionpool"
+            ], 
+            "requests.packages.urllib3.util.connection": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.connection.connection", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.util.connection"
+            ], 
+            "email.utils": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.fields.email.utils"
+            ], 
+            "requests.compat": [
+                "acapi.client.acapi.resources.acquiadata.requests.compat"
+            ], 
+            "requests_cache.backends.storage.dbdict": [
+                "acapi.client.acapi.resources.acquiadata.requests_cache.backends.storage.dbdict"
+            ], 
+            "copy": [
+                "acapi.client.acapi.resources.acquiadata.requests.api.sessions.cookielib.copy", 
+                "acapi.client.acapi.resources.acquiadata.requests.cookies.copy"
+            ], 
+            "acapi.version": [
+                "acapi.client.acapi.version", 
+                "acapi.version"
+            ], 
+            "hashlib": [
+                "acapi.client.acapi.resources.acquiadata.requests_cache.backends.base.hashlib", 
+                "acapi.client.acapi.resources.acquiadata.requests.auth.hashlib"
+            ], 
+            "requests.packages.urllib3.util.ssl_": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.util.ssl_"
+            ], 
+            "requests.packages": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages"
+            ], 
+            "zlib": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.response.zlib"
+            ], 
+            "requests_cache.backends.storage": [
+                "acapi.client.acapi.resources.acquiadata.requests_cache.backends.storage"
+            ], 
+            "encodings.aliases": [
+                "acapi.client.acapi.resources.acquiadata.requests.cookies.calendar._locale.encodings.aliases"
+            ], 
+            "requests.models": [
+                "acapi.client.acapi.resources.acquiadata.requests.models"
+            ], 
+            "json.decoder": [
+                "acapi.client.acapi.resources.acquiadata.json.decoder"
+            ], 
+            "requests_cache": [
+                "acapi.client.acapi.resources.task.requests_cache", 
+                "acapi.client.requests_cache", 
+                "acapi.client.acapi.resources.acquiadata.requests_cache"
+            ], 
+            "copy_reg": [
+                "acapi.client.acapi.resources.acquiadata.logging.os._copy_reg", 
+                "acapi.client.acapi.resources.acquiadata.json.decoder.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "acapi.client.acapi.resources.acquiadata.json.decoder.re.sre_compile"
+            ], 
+            "acapi.resources.databaselist": [
+                "acapi.client.acapi.resources.databaselist"
+            ], 
+            "_hashlib": [
+                "acapi.client.acapi.resources.acquiadata.requests.auth.hashlib._hashlib"
+            ], 
+            "acapi.resources.backuplist": [
+                "acapi.client.acapi.resources.backuplist"
+            ], 
+            "requests.packages.urllib3.filepost": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.filepost"
+            ], 
+            "acapi.resources.acquialist": [
+                "acapi.client.acapi.resources.acquialist"
+            ], 
+            "io": [
+                "acapi.client.acapi.resources.acquiadata.requests.utils.io", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.response.io"
+            ], 
+            "requests.exceptions": [
+                "acapi.client.acapi.resources.acquiadata.requests.exceptions"
+            ], 
+            "_io": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.response.io._io"
+            ], 
+            "acapi.resources.server": [
+                "acapi.client.acapi.resources.server"
+            ], 
+            "requests_cache.core": [
+                "acapi.client.acapi.resources.acquiadata.requests_cache.core"
+            ], 
+            "requests_cache.compat": [
+                "acapi.client.acapi.resources.acquiadata.requests_cache.compat"
+            ], 
+            "requests.packages.urllib3.util.response": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.util.response"
+            ], 
+            "requests.packages.urllib3.util.timeout": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.util.timeout"
+            ], 
+            "_abcoll": [
+                "acapi.client.acapi.resources.acquiadata.logging.os.UserDict._abcoll", 
+                "acapi.client.acapi.resources.acquiadata.logging.collections._abcoll"
+            ], 
+            "sqlite3": [
+                "acapi.client.acapi.resources.acquiadata.requests_cache.backends.storage.dbdict.sqlite"
+            ], 
+            "requests.packages.urllib3.poolmanager": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.poolmanager"
+            ], 
+            "genericpath": [
+                "acapi.client.acapi.resources.acquiadata.logging.os.path.genericpath"
+            ], 
+            "stat": [
+                "acapi.client.acapi.resources.acquiadata.logging.os.path.stat", 
+                "acapi.client.acapi.resources.acquiadata.logging.os.path.genericpath.stat"
+            ], 
+            "_ssl": [
+                "acapi.client.acapi.resources.acquiadata.requests.adapters.socket._ssl"
+            ], 
+            "warnings": [
+                "acapi.client.acapi.resources.acquiadata.logging.threading.warnings", 
+                "acapi.client.acapi.resources.acquiadata.logging.warnings", 
+                "acapi.client.acapi.resources.acquiadata.requests.adapters.socket.warnings", 
+                "acapi.client.acapi.resources.acquiadata.logging.os.path.warnings", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.connection.warnings", 
+                "acapi.client.acapi.resources.acquiadata.requests.warnings", 
+                "acapi.client.acapi.resources.acquiadata.requests.api.sessions.cookielib.httplib.warnings", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.util.ssl_.warnings", 
+                "acapi.client.acapi.resources.acquiadata.requests.utils.warnings", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.connectionpool.warnings", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.warnings"
+            ], 
+            "encodings.ascii": [
+                "acapi.client.acapi.resources.acquiadata.requests.cookies.calendar._locale.encodings.ascii"
+            ], 
+            "sys": [
+                "acapi.client.acapi.resources.acquiadata.requests.utils.cgi.sys", 
+                "acapi.client.acapi.resources.acquiadata.logging.collections._abcoll.sys", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.connection.six.sys", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.fields.email.sys", 
+                "acapi.client.acapi.resources.acquiadata.requests.cookies.calendar.sys", 
+                "acapi.client.acapi.resources.acquiadata.requests_cache.compat.sys", 
+                "acapi.client.acapi.resources.acquiadata.logging.sys", 
+                "acapi.client.acapi.resources.acquiadata.json.decoder.sys", 
+                "acapi.client.acapi.resources.acquiadata.logging.traceback.sys", 
+                "acapi.client.acapi.resources.acquiadata.logging.collections._sys", 
+                "acapi.client.acapi.resources.acquiadata.requests.compat.sys", 
+                "acapi.client.acapi.resources.acquiadata.json.decoder.re.sys", 
+                "acapi.client.acapi.resources.acquiadata.logging.os.path.warnings.linecache.sys", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.connection.sys", 
+                "acapi.client.acapi.resources.acquiadata.json.decoder.re.sre_compile.sre_parse.sys", 
+                "acapi.client.acapi.resources.acquiadata.requests.api.sessions.cookielib.urllib.sys", 
+                "acapi.client.acapi.resources.acquiadata.logging.codecs.sys", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.fields.mimetypes.sys", 
+                "acapi.client.acapi.resources.acquiadata.logging.threading._sys", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.connectionpool.sys", 
+                "acapi.client.acapi.resources.acquiadata.requests.adapters.socket.sys", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.sys", 
+                "acapi.client.acapi.resources.acquiadata.logging.os.path.warnings.sys", 
+                "acapi.client.acapi.resources.acquiadata.logging.os.path.sys", 
+                "acapi.client.acapi.resources.acquiadata.logging.atexit.sys", 
+                "acapi.client.acapi.resources.acquiadata.logging.os.sys", 
+                "acapi.client.acapi.resources.acquiadata.json.decoder.re.sre_compile.sys", 
+                "acapi.client.acapi.resources.acquiadata.requests.cookies.calendar._locale.sys"
+            ], 
+            "requests.certs": [
+                "acapi.client.acapi.resources.acquiadata.requests.certs", 
+                "acapi.client.acapi.resources.acquiadata.requests.utils.certs"
+            ], 
+            "requests.hooks": [
+                "acapi.client.acapi.resources.acquiadata.requests.hooks"
+            ], 
+            "requests.packages.urllib3.packages": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.packages"
+            ], 
+            "types": [
+                "acapi.client.acapi.resources.acquiadata.logging.traceback.types", 
+                "acapi.client.acapi.resources.acquiadata.logging.os.path.warnings.types", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.connection.six.types"
+            ], 
+            "urlparse": [
+                "acapi.client.acapi.resources.acquiadata.requests.api.sessions.cookielib.urlparse", 
+                "acapi.client.acapi.resources.backup.urlparse", 
+                "acapi.client.acapi.resources.acquiadata.requests.utils.cgi.urlparse"
+            ], 
+            "linecache": [
+                "acapi.client.acapi.resources.acquiadata.logging.os.path.warnings.linecache", 
+                "acapi.client.acapi.resources.acquiadata.logging.traceback.linecache"
+            ], 
+            "time": [
+                "acapi.client.acapi.resources.acquiadata.time", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.util.retry.time", 
+                "acapi.client.acapi.resources.acquiadata.requests.auth.time", 
+                "acapi.client.acapi.resources.acquiadata.requests.cookies.time", 
+                "acapi.client.acapi.resources.acquiadata.requests.utils.cgi.rfc822.time", 
+                "acapi.client.acapi.resources.acquiadata.requests_cache.backends.storage.dbdict.sqlite.time", 
+                "acapi.client.acapi.resources.task.time", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.util.timeout.time", 
+                "acapi.client.acapi.resources.acquiadata.logging.time", 
+                "acapi.client.acapi.resources.acquiadata.requests.api.sessions.cookielib.urllib.time", 
+                "acapi.client.acapi.resources.acquiadata.requests.api.sessions.cookielib.time"
+            ], 
+            "requests.packages.urllib3.packages.six": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.fields.six", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.filepost.six", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.util.retry.six", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.connectionpool.six", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.connection.six", 
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.packages.six"
+            ], 
+            "hmac": [
+                "acapi.client.acapi.resources.acquiadata.requests.packages.urllib3.util.ssl_.hmac"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.4.5", 
+        "name": "acapi", 
+        "python_version": "2.7.18"
+    }
+}
