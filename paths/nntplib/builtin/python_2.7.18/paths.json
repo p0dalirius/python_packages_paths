@@ -1,0 +1,85 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "genericpath": [
+                "nntplib.socket.os.path.genericpath"
+            ], 
+            "_locale": [
+                "nntplib.re._locale"
+            ], 
+            "_ssl": [
+                "nntplib.socket._ssl"
+            ], 
+            "copy_reg": [
+                "nntplib.socket.os._copy_reg", 
+                "nntplib.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "nntplib.re.sre_compile"
+            ], 
+            "warnings": [
+                "nntplib.socket.os.path.warnings", 
+                "nntplib.socket.warnings"
+            ], 
+            "_sre": [
+                "nntplib.re.sre_compile._sre"
+            ], 
+            "UserDict": [
+                "nntplib.socket.os.UserDict"
+            ], 
+            "_socket": [
+                "nntplib.socket._socket"
+            ], 
+            "stat": [
+                "nntplib.socket.os.path.genericpath.stat", 
+                "nntplib.socket.os.path.stat"
+            ], 
+            "sys": [
+                "nntplib.re.sys", 
+                "nntplib.socket.os.UserDict._abcoll.sys", 
+                "nntplib.re.sre_compile.sys", 
+                "nntplib.socket.os.path.sys", 
+                "nntplib.re.sre_compile.sre_parse.sys", 
+                "nntplib.socket.os.sys", 
+                "nntplib.socket.os.path.warnings.sys", 
+                "nntplib.socket.sys", 
+                "nntplib.socket.os.path.warnings.linecache.sys"
+            ], 
+            "re": [
+                "nntplib.re"
+            ], 
+            "_abcoll": [
+                "nntplib.socket.os.UserDict._abcoll"
+            ], 
+            "posixpath": [
+                "nntplib.socket.os.path"
+            ], 
+            "errno": [
+                "nntplib.socket.os.errno", 
+                "nntplib.socket.errno"
+            ], 
+            "sre_parse": [
+                "nntplib.re.sre_compile.sre_parse", 
+                "nntplib.re.sre_parse"
+            ], 
+            "linecache": [
+                "nntplib.socket.os.path.warnings.linecache"
+            ], 
+            "os": [
+                "nntplib.socket.os"
+            ], 
+            "types": [
+                "nntplib.socket.os.path.warnings.types"
+            ], 
+            "socket": [
+                "nntplib.socket"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "nntplib", 
+        "python_version": "2.7.18"
+    }
+}
