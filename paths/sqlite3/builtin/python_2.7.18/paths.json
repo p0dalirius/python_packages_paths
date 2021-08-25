@@ -1,0 +1,37 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "heapq": [
+                "sqlite3.collections._heapq"
+            ], 
+            "datetime": [
+                "sqlite3.dbapi2.datetime", 
+                "sqlite3.datetime"
+            ], 
+            "sys": [
+                "sqlite3.collections._abcoll.sys", 
+                "sqlite3.collections._sys"
+            ], 
+            "_abcoll": [
+                "sqlite3.collections._abcoll"
+            ], 
+            "collections": [
+                "sqlite3.dbapi2.collections", 
+                "sqlite3.collections"
+            ], 
+            "time": [
+                "sqlite3.dbapi2.time", 
+                "sqlite3.time"
+            ], 
+            "sqlite3.dbapi2": [
+                "sqlite3.dbapi2"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "sqlite3", 
+        "python_version": "2.7.18"
+    }
+}
