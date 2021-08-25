@@ -1,0 +1,183 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "copy_reg": [
+                "cgitb.inspect.linecache.os._copy_reg", 
+                "cgitb.inspect.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "cgitb.inspect.re.sre_compile"
+            ], 
+            "locale": [
+                "cgitb.pydoc.locale"
+            ], 
+            "_sre": [
+                "cgitb.inspect.re.sre_compile._sre"
+            ], 
+            "functools": [
+                "cgitb.pydoc.locale.functools"
+            ], 
+            "__builtin__": [
+                "cgitb.pydoc.__builtin__", 
+                "cgitb.pydoc.locale.encodings.__builtin__", 
+                "cgitb.pydoc.locale.encodings.codecs.__builtin__"
+            ], 
+            "io": [
+                "cgitb.tempfile._io"
+            ], 
+            "encodings": [
+                "cgitb.pydoc.locale.encodings"
+            ], 
+            "operator": [
+                "cgitb.pydoc.locale.operator"
+            ], 
+            "_io": [
+                "cgitb.tempfile._io._io"
+            ], 
+            "abc": [
+                "cgitb.tempfile._io.abc"
+            ], 
+            "posixpath": [
+                "cgitb.inspect.linecache.os.path"
+            ], 
+            "re": [
+                "cgitb.inspect.tokenize.re", 
+                "cgitb.pydoc.locale.re", 
+                "cgitb.inspect.re", 
+                "cgitb.pydoc.re", 
+                "cgitb.inspect.string._re"
+            ], 
+            "tempfile": [
+                "cgitb.tempfile"
+            ], 
+            "errno": [
+                "cgitb.tempfile._errno", 
+                "cgitb.inspect.linecache.os.errno"
+            ], 
+            "imp": [
+                "cgitb.pydoc.imp", 
+                "cgitb.inspect.imp", 
+                "cgitb.pydoc.pkgutil.imp"
+            ], 
+            "_abcoll": [
+                "cgitb.inspect.linecache.os.UserDict._abcoll"
+            ], 
+            "tokenize": [
+                "cgitb.tokenize", 
+                "cgitb.inspect.tokenize"
+            ], 
+            "fcntl": [
+                "cgitb.tempfile._fcntl"
+            ], 
+            "genericpath": [
+                "cgitb.inspect.linecache.os.path.genericpath"
+            ], 
+            "stat": [
+                "cgitb.inspect.linecache.os.path.genericpath.stat", 
+                "cgitb.inspect.linecache.os.path.stat"
+            ], 
+            "zipimport": [
+                "cgitb.pydoc.pkgutil.zipimport"
+            ], 
+            "string": [
+                "cgitb.inspect.string", 
+                "cgitb.inspect.tokenize.string"
+            ], 
+            "warnings": [
+                "cgitb.inspect.linecache.os.path.warnings", 
+                "cgitb.pydoc.warnings"
+            ], 
+            "UserDict": [
+                "cgitb.inspect.linecache.os.UserDict"
+            ], 
+            "inspect": [
+                "cgitb.inspect", 
+                "cgitb.pydoc.inspect"
+            ], 
+            "encodings.utf_8": [
+                "cgitb.pydoc.locale.encodings.utf_8"
+            ], 
+            "sys": [
+                "cgitb.traceback.sys", 
+                "cgitb.inspect.dis.sys", 
+                "cgitb.pydoc.locale.sys", 
+                "cgitb.inspect.linecache.os.UserDict._abcoll.sys", 
+                "cgitb.pydoc.locale.encodings.codecs.sys", 
+                "cgitb.pydoc.pkgutil.sys", 
+                "cgitb.sys", 
+                "cgitb.inspect.linecache.os.path.sys", 
+                "cgitb.inspect.re.sre_compile.sre_parse.sys", 
+                "cgitb.inspect.linecache.os.path.warnings.sys", 
+                "cgitb.inspect.sys", 
+                "cgitb.inspect.linecache.os.sys", 
+                "cgitb.inspect.linecache.sys", 
+                "cgitb.pydoc.sys", 
+                "cgitb.inspect.re.sre_compile.sys", 
+                "cgitb.inspect.re.sys"
+            ], 
+            "codecs": [
+                "cgitb.pydoc.locale.encodings.codecs", 
+                "cgitb.pydoc.locale.encodings.utf_8.codecs"
+            ], 
+            "types": [
+                "cgitb.inspect.dis.types", 
+                "cgitb.traceback.types", 
+                "cgitb.pydoc.types", 
+                "cgitb.tempfile._io.abc.types", 
+                "cgitb.inspect.types", 
+                "cgitb.types", 
+                "cgitb.inspect.linecache.os.path.warnings.types"
+            ], 
+            "pkgutil": [
+                "cgitb.pydoc.pkgutil"
+            ], 
+            "_locale": [
+                "cgitb.inspect.re._locale"
+            ], 
+            "thread": [
+                "cgitb.tempfile._thread"
+            ], 
+            "keyword": [
+                "cgitb.keyword"
+            ], 
+            "traceback": [
+                "cgitb.traceback"
+            ], 
+            "pydoc": [
+                "cgitb.pydoc"
+            ], 
+            "linecache": [
+                "cgitb.inspect.linecache", 
+                "cgitb.linecache", 
+                "cgitb.traceback.linecache"
+            ], 
+            "encodings.aliases": [
+                "cgitb.pydoc.locale.encodings.aliases"
+            ], 
+            "time": [
+                "cgitb.time"
+            ], 
+            "sre_parse": [
+                "cgitb.inspect.re.sre_compile.sre_parse", 
+                "cgitb.inspect.re.sre_parse"
+            ], 
+            "os": [
+                "cgitb.pydoc.pkgutil.os", 
+                "cgitb.inspect.os", 
+                "cgitb.tempfile._os", 
+                "cgitb.inspect.linecache.os", 
+                "cgitb.os", 
+                "cgitb.pydoc.os"
+            ], 
+            "dis": [
+                "cgitb.inspect.dis"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "cgitb", 
+        "python_version": "2.7.18"
+    }
+}
