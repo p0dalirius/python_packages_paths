@@ -1,0 +1,27 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "weakref": [
+                "aabbtree.copy.weakref"
+            ], 
+            "UserDict": [
+                "aabbtree.copy.weakref.UserDict"
+            ], 
+            "copy": [
+                "aabbtree.copy"
+            ], 
+            "sys": [
+                "aabbtree.copy.weakref.UserDict._abcoll.sys"
+            ], 
+            "_abcoll": [
+                "aabbtree.copy.weakref.UserDict._abcoll"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "2.6.2", 
+        "name": "aabbtree", 
+        "python_version": "2.7.18"
+    }
+}
