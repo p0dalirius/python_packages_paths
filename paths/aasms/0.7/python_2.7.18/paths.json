@@ -1,0 +1,194 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "mimetools": [
+                "aasms.urllib2.mimetools", 
+                "aasms.urllib2.httplib.mimetools"
+            ], 
+            "_socket": [
+                "aasms.urllib.socket._socket"
+            ], 
+            "copy_reg": [
+                "aasms.urllib.os._copy_reg", 
+                "aasms.urllib.base64.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "aasms.urllib.base64.re.sre_compile"
+            ], 
+            "rfc822": [
+                "aasms.urllib2.httplib.mimetools.rfc822"
+            ], 
+            "_hashlib": [
+                "aasms.urllib2.hashlib._hashlib"
+            ], 
+            "_sre": [
+                "aasms.urllib.base64.re.sre_compile._sre"
+            ], 
+            "random": [
+                "aasms.urllib2.random"
+            ], 
+            "httplib": [
+                "aasms.urllib2.httplib"
+            ], 
+            "io": [
+                "aasms.urllib2.httplib.mimetools.tempfile._io"
+            ], 
+            "hashlib": [
+                "aasms.urllib2.random._hashlib", 
+                "aasms.urllib2.hashlib"
+            ], 
+            "urlparse": [
+                "aasms.urllib2.urlparse"
+            ], 
+            "abc": [
+                "aasms.urllib2.httplib.mimetools.tempfile._io.abc"
+            ], 
+            "struct": [
+                "aasms.urllib.base64.struct"
+            ], 
+            "tempfile": [
+                "aasms.urllib2.httplib.mimetools.tempfile"
+            ], 
+            "errno": [
+                "aasms.urllib2.httplib.mimetools.tempfile._errno", 
+                "aasms.urllib.os.errno", 
+                "aasms.urllib.socket.errno", 
+                "aasms.urllib.ssl.errno"
+            ], 
+            "base64": [
+                "aasms.urllib.base64", 
+                "aasms.urllib2.base64", 
+                "aasms.urllib.ssl.base64"
+            ], 
+            "binascii": [
+                "aasms.urllib.base64.binascii"
+            ], 
+            "urllib": [
+                "aasms.urllib"
+            ], 
+            "re": [
+                "aasms.urllib.base64.re", 
+                "aasms.urllib.ssl.re", 
+                "aasms.urllib2.urlparse.re", 
+                "aasms.urllib.re", 
+                "aasms.urllib2.re", 
+                "aasms.urllib2.httplib.re", 
+                "aasms.urllib.ssl.textwrap.re", 
+                "aasms.urllib.base64.string._re"
+            ], 
+            "_abcoll": [
+                "aasms.urllib.os.UserDict._abcoll"
+            ], 
+            "_random": [
+                "aasms.urllib2.random._random"
+            ], 
+            "fcntl": [
+                "aasms.urllib2.httplib.mimetools.tempfile._fcntl"
+            ], 
+            "genericpath": [
+                "aasms.urllib.os.path.genericpath"
+            ], 
+            "stat": [
+                "aasms.urllib.os.path.genericpath.stat", 
+                "aasms.urllib.os.path.stat"
+            ], 
+            "_ssl": [
+                "aasms.urllib.ssl._ssl", 
+                "aasms.urllib.socket._ssl"
+            ], 
+            "string": [
+                "aasms.urllib.base64.string", 
+                "aasms.urllib.ssl.textwrap.string", 
+                "aasms.urllib.string"
+            ], 
+            "warnings": [
+                "aasms.urllib.ssl.warnings", 
+                "aasms.urllib2.httplib.warnings", 
+                "aasms.urllib.os.path.warnings", 
+                "aasms.urllib.socket.warnings", 
+                "aasms.urllib2.warnings"
+            ], 
+            "UserDict": [
+                "aasms.urllib.os.UserDict"
+            ], 
+            "textwrap": [
+                "aasms.urllib.ssl.textwrap"
+            ], 
+            "urllib2": [
+                "aasms.urllib2"
+            ], 
+            "sys": [
+                "aasms.urllib.os.UserDict._abcoll.sys", 
+                "aasms.urllib.os.path.warnings.sys", 
+                "aasms.urllib.ssl.sys", 
+                "aasms.urllib.os.sys", 
+                "aasms.urllib.base64.re.sys", 
+                "aasms.urllib.os.path.warnings.linecache.sys", 
+                "aasms.urllib.sys", 
+                "aasms.urllib.base64.re.sre_compile.sre_parse.sys", 
+                "aasms.urllib.socket.sys", 
+                "aasms.urllib2.httplib.mimetools.sys", 
+                "aasms.urllib.base64.re.sre_compile.sys", 
+                "aasms.urllib.os.path.sys", 
+                "aasms.urllib2.sys"
+            ], 
+            "ssl": [
+                "aasms.urllib2.ssl", 
+                "aasms.urllib.ssl", 
+                "aasms.urllib2.httplib.ssl"
+            ], 
+            "types": [
+                "aasms.urllib.os.path.warnings.types", 
+                "aasms.urllib2.httplib.mimetools.tempfile._io.abc.types"
+            ], 
+            "posixpath": [
+                "aasms.urllib2.posixpath", 
+                "aasms.urllib.os.path"
+            ], 
+            "_locale": [
+                "aasms.urllib.base64.re._locale"
+            ], 
+            "socket": [
+                "aasms.urllib.socket", 
+                "aasms.urllib2.socket", 
+                "aasms.urllib2.httplib.socket"
+            ], 
+            "thread": [
+                "aasms.urllib2.httplib.mimetools.tempfile._thread"
+            ], 
+            "bisect": [
+                "aasms.urllib2.bisect"
+            ], 
+            "_io": [
+                "aasms.urllib2.httplib.mimetools.tempfile._io._io"
+            ], 
+            "linecache": [
+                "aasms.urllib.os.path.warnings.linecache"
+            ], 
+            "time": [
+                "aasms.urllib2.time", 
+                "aasms.urllib.time", 
+                "aasms.urllib2.httplib.mimetools.rfc822.time"
+            ], 
+            "sre_parse": [
+                "aasms.urllib.base64.re.sre_parse", 
+                "aasms.urllib.base64.re.sre_compile.sre_parse"
+            ], 
+            "os": [
+                "aasms.urllib.os", 
+                "aasms.urllib2.os", 
+                "aasms.urllib2.httplib.mimetools.tempfile._os", 
+                "aasms.urllib2.httplib.mimetools.os", 
+                "aasms.urllib2.httplib.os", 
+                "aasms.urllib.ssl.os", 
+                "aasms.urllib.socket.os"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.7", 
+        "name": "aasms", 
+        "python_version": "2.7.18"
+    }
+}
