@@ -1,0 +1,62 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "genericpath": [
+                "netrc.os.path.genericpath"
+            ], 
+            "stat": [
+                "netrc.stat", 
+                "netrc.os.path.stat", 
+                "netrc.os.path.genericpath.stat"
+            ], 
+            "copy_reg": [
+                "netrc.os._copy_reg"
+            ], 
+            "posixpath": [
+                "netrc.os.path"
+            ], 
+            "warnings": [
+                "netrc.os.path.warnings"
+            ], 
+            "UserDict": [
+                "netrc.os.UserDict"
+            ], 
+            "sys": [
+                "netrc.os.path.sys", 
+                "netrc.os.UserDict._abcoll.sys", 
+                "netrc.os.path.warnings.linecache.sys", 
+                "netrc.shlex.sys", 
+                "netrc.os.path.warnings.sys", 
+                "netrc.os.sys"
+            ], 
+            "linecache": [
+                "netrc.os.path.warnings.linecache"
+            ], 
+            "pwd": [
+                "netrc.pwd"
+            ], 
+            "_abcoll": [
+                "netrc.os.UserDict._abcoll"
+            ], 
+            "shlex": [
+                "netrc.shlex"
+            ], 
+            "errno": [
+                "netrc.os.errno"
+            ], 
+            "os": [
+                "netrc.shlex.os", 
+                "netrc.os"
+            ], 
+            "types": [
+                "netrc.os.path.warnings.types"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "netrc", 
+        "python_version": "2.7.18"
+    }
+}
