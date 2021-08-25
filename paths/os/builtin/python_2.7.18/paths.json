@@ -1,0 +1,57 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "genericpath": [
+                "os.path.genericpath"
+            ], 
+            "stat": [
+                "os.path.genericpath.stat", 
+                "os.path.stat"
+            ], 
+            "copy_reg": [
+                "os._copy_reg", 
+                "os.path.genericpath.os._copy_reg"
+            ], 
+            "posixpath": [
+                "os.path"
+            ], 
+            "warnings": [
+                "os.path.warnings"
+            ], 
+            "UserDict": [
+                "os.path.genericpath.os.UserDict", 
+                "os.UserDict"
+            ], 
+            "sys": [
+                "os.path.warnings.linecache.sys", 
+                "os.path.warnings.sys", 
+                "os.sys", 
+                "os.UserDict._abcoll.sys", 
+                "os.path.genericpath.os.sys", 
+                "os.path.sys"
+            ], 
+            "linecache": [
+                "os.path.warnings.linecache"
+            ], 
+            "_abcoll": [
+                "os.UserDict._abcoll"
+            ], 
+            "errno": [
+                "os.errno", 
+                "os.path.genericpath.os.errno"
+            ], 
+            "os": [
+                "os"
+            ], 
+            "types": [
+                "os.path.warnings.types"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "os", 
+        "python_version": "2.7.18"
+    }
+}
