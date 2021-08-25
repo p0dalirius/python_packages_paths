@@ -1,0 +1,179 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "cStringIO": [
+                "acs_student_mail_harvester.logging.cStringIO"
+            ], 
+            "heapq": [
+                "acs_student_mail_harvester.argparse._collections._heapq"
+            ], 
+            "copy_reg": [
+                "acs_student_mail_harvester.argparse._os._copy_reg", 
+                "acs_student_mail_harvester.argparse._re.copy_reg"
+            ], 
+            "sre_compile": [
+                "acs_student_mail_harvester.argparse._re.sre_compile"
+            ], 
+            "_sre": [
+                "acs_student_mail_harvester.argparse._re.sre_compile._sre"
+            ], 
+            "__builtin__": [
+                "acs_student_mail_harvester.logging.codecs.__builtin__"
+            ], 
+            "atexit": [
+                "acs_student_mail_harvester.logging.atexit"
+            ], 
+            "operator": [
+                "acs_student_mail_harvester.tarfile.operator"
+            ], 
+            "shutil": [
+                "acs_student_mail_harvester.tarfile.shutil"
+            ], 
+            "posixpath": [
+                "acs_student_mail_harvester.argparse._os.path"
+            ], 
+            "grp": [
+                "acs_student_mail_harvester.tarfile.grp"
+            ], 
+            "threading": [
+                "acs_student_mail_harvester.logging.threading"
+            ], 
+            "errno": [
+                "acs_student_mail_harvester.argparse._os.errno", 
+                "acs_student_mail_harvester.tarfile.shutil.errno", 
+                "acs_student_mail_harvester.tarfile.errno"
+            ], 
+            "tarfile": [
+                "acs_student_mail_harvester.tarfile"
+            ], 
+            "re": [
+                "acs_student_mail_harvester.fnmatch.re", 
+                "acs_student_mail_harvester.argparse._re", 
+                "acs_student_mail_harvester.tarfile.re", 
+                "acs_student_mail_harvester.argparse._textwrap.re", 
+                "acs_student_mail_harvester.argparse._textwrap.string._re", 
+                "acs_student_mail_harvester.csv.re"
+            ], 
+            "_abcoll": [
+                "acs_student_mail_harvester.argparse._copy.weakref.UserDict._abcoll", 
+                "acs_student_mail_harvester.argparse._collections._abcoll"
+            ], 
+            "collections": [
+                "acs_student_mail_harvester.tarfile.shutil.collections", 
+                "acs_student_mail_harvester.argparse._collections", 
+                "acs_student_mail_harvester.logging.collections"
+            ], 
+            "csv": [
+                "acs_student_mail_harvester.csv"
+            ], 
+            "genericpath": [
+                "acs_student_mail_harvester.argparse._os.path.genericpath"
+            ], 
+            "stat": [
+                "acs_student_mail_harvester.argparse._os.path.stat", 
+                "acs_student_mail_harvester.tarfile.stat", 
+                "acs_student_mail_harvester.tarfile.shutil.stat", 
+                "acs_student_mail_harvester.argparse._os.path.genericpath.stat"
+            ], 
+            "string": [
+                "acs_student_mail_harvester.argparse._textwrap.string"
+            ], 
+            "warnings": [
+                "acs_student_mail_harvester.logging.threading.warnings", 
+                "acs_student_mail_harvester.argparse._os.path.warnings", 
+                "acs_student_mail_harvester.logging.warnings"
+            ], 
+            "UserDict": [
+                "acs_student_mail_harvester.argparse._copy.weakref.UserDict", 
+                "acs_student_mail_harvester.argparse._os.UserDict"
+            ], 
+            "textwrap": [
+                "acs_student_mail_harvester.argparse._textwrap"
+            ], 
+            "sys": [
+                "acs_student_mail_harvester.logging.threading._sys", 
+                "acs_student_mail_harvester.logging.atexit.sys", 
+                "acs_student_mail_harvester.argparse._re.sre_compile.sre_parse.sys", 
+                "acs_student_mail_harvester.argparse._os.path.warnings.linecache.sys", 
+                "acs_student_mail_harvester.tarfile.sys", 
+                "acs_student_mail_harvester.logging.traceback.sys", 
+                "acs_student_mail_harvester.logging.sys", 
+                "acs_student_mail_harvester.argparse._re.sre_compile.sys", 
+                "acs_student_mail_harvester.argparse._os.path.warnings.sys", 
+                "acs_student_mail_harvester.argparse._sys", 
+                "acs_student_mail_harvester.argparse._os.sys", 
+                "acs_student_mail_harvester.argparse._collections._sys", 
+                "acs_student_mail_harvester.logging.codecs.sys", 
+                "acs_student_mail_harvester.argparse._collections._abcoll.sys", 
+                "acs_student_mail_harvester.argparse._re.sys", 
+                "acs_student_mail_harvester.tarfile.shutil.sys", 
+                "acs_student_mail_harvester.argparse._os.path.sys"
+            ], 
+            "pwd": [
+                "acs_student_mail_harvester.tarfile.pwd"
+            ], 
+            "codecs": [
+                "acs_student_mail_harvester.logging.codecs"
+            ], 
+            "copy": [
+                "acs_student_mail_harvester.tarfile.copy", 
+                "acs_student_mail_harvester.argparse._copy"
+            ], 
+            "types": [
+                "acs_student_mail_harvester.argparse._os.path.warnings.types", 
+                "acs_student_mail_harvester.logging.traceback.types"
+            ], 
+            "struct": [
+                "acs_student_mail_harvester.tarfile.struct"
+            ], 
+            "argparse": [
+                "acs_student_mail_harvester.argparse"
+            ], 
+            "_locale": [
+                "acs_student_mail_harvester.argparse._re._locale"
+            ], 
+            "logging": [
+                "acs_student_mail_harvester.logging"
+            ], 
+            "thread": [
+                "acs_student_mail_harvester.logging.thread"
+            ], 
+            "traceback": [
+                "acs_student_mail_harvester.logging.traceback"
+            ], 
+            "weakref": [
+                "acs_student_mail_harvester.argparse._copy.weakref", 
+                "acs_student_mail_harvester.logging.weakref"
+            ], 
+            "linecache": [
+                "acs_student_mail_harvester.argparse._os.path.warnings.linecache", 
+                "acs_student_mail_harvester.logging.traceback.linecache"
+            ], 
+            "time": [
+                "acs_student_mail_harvester.tarfile.time", 
+                "acs_student_mail_harvester.logging.time"
+            ], 
+            "fnmatch": [
+                "acs_student_mail_harvester.tarfile.shutil.fnmatch", 
+                "acs_student_mail_harvester.fnmatch"
+            ], 
+            "sre_parse": [
+                "acs_student_mail_harvester.argparse._re.sre_parse", 
+                "acs_student_mail_harvester.argparse._re.sre_compile.sre_parse"
+            ], 
+            "os": [
+                "acs_student_mail_harvester.os", 
+                "acs_student_mail_harvester.tarfile.os", 
+                "acs_student_mail_harvester.argparse._os", 
+                "acs_student_mail_harvester.tarfile.shutil.os", 
+                "acs_student_mail_harvester.logging.os"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "1.0.1", 
+        "name": "acs_student_mail_harvester", 
+        "python_version": "2.7.18"
+    }
+}
