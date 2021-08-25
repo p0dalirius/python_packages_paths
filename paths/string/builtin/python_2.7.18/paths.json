@@ -1,0 +1,36 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "_locale": [
+                "string._re._locale"
+            ], 
+            "copy_reg": [
+                "string._re.copy_reg"
+            ], 
+            "sre_compile": [
+                "string._re.sre_compile"
+            ], 
+            "_sre": [
+                "string._re.sre_compile._sre"
+            ], 
+            "sys": [
+                "string._re.sys", 
+                "string._re.sre_compile.sre_parse.sys", 
+                "string._re.sre_compile.sys"
+            ], 
+            "re": [
+                "string._re"
+            ], 
+            "sre_parse": [
+                "string._re.sre_parse", 
+                "string._re.sre_compile.sre_parse"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "string", 
+        "python_version": "2.7.18"
+    }
+}
