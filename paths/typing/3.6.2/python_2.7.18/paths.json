@@ -1,0 +1,59 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "heapq": [
+                "typing.collections._heapq"
+            ], 
+            "abc": [
+                "typing.abc"
+            ], 
+            "copy_reg": [
+                "typing.stdlib_re.copy_reg"
+            ], 
+            "sre_compile": [
+                "typing.stdlib_re.sre_compile"
+            ], 
+            "_sre": [
+                "typing.stdlib_re.sre_compile._sre"
+            ], 
+            "functools": [
+                "typing.functools"
+            ], 
+            "_locale": [
+                "typing.stdlib_re._locale"
+            ], 
+            "sys": [
+                "typing.stdlib_re.sre_compile.sys", 
+                "typing.sys", 
+                "typing.collections._sys", 
+                "typing.stdlib_re.sre_compile.sre_parse.sys", 
+                "typing.stdlib_re.sys", 
+                "typing.collections._abcoll.sys"
+            ], 
+            "re": [
+                "typing.stdlib_re"
+            ], 
+            "_abcoll": [
+                "typing.collections._abcoll"
+            ], 
+            "collections": [
+                "typing.collections_abc", 
+                "typing.collections"
+            ], 
+            "sre_parse": [
+                "typing.stdlib_re.sre_compile.sre_parse", 
+                "typing.stdlib_re.sre_parse"
+            ], 
+            "types": [
+                "typing.types", 
+                "typing.abc.types"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "3.6.2", 
+        "name": "typing", 
+        "python_version": "2.7.18"
+    }
+}
