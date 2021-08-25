@@ -1,0 +1,45 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "_locale": [
+                "fractions.re._locale"
+            ], 
+            "copy_reg": [
+                "fractions.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "fractions.re.sre_compile"
+            ], 
+            "_sre": [
+                "fractions.re.sre_compile._sre"
+            ], 
+            "sys": [
+                "fractions.re.sre_compile.sys", 
+                "fractions.re.sys", 
+                "fractions.re.sre_compile.sre_parse.sys"
+            ], 
+            "re": [
+                "fractions.re"
+            ], 
+            "numbers": [
+                "fractions.numbers"
+            ], 
+            "operator": [
+                "fractions.operator"
+            ], 
+            "sre_parse": [
+                "fractions.re.sre_parse", 
+                "fractions.re.sre_compile.sre_parse"
+            ], 
+            "math": [
+                "fractions.math"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "fractions", 
+        "python_version": "2.7.18"
+    }
+}
