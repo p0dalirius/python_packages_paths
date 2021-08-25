@@ -1,0 +1,531 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "heapq": [
+                "able.serializer.collections._heapq", 
+                "able.serializer.six.moves.queue.heapq"
+            ], 
+            "dbm": [
+                "able.serializer.six.moves.dbm_ndbm"
+            ], 
+            "tkFileDialog": [
+                "able.serializer.six.moves.tkinter_tkfiledialog"
+            ], 
+            "functools": [
+                "able.serializer.six.functools"
+            ], 
+            "datetime": [
+                "able.serializer.six.moves.xmlrpc_client.datetime"
+            ], 
+            "ttk": [
+                "able.serializer.six.moves.tkinter_ttk"
+            ], 
+            "pprint": [
+                "able.util.pprint"
+            ], 
+            "tkSimpleDialog": [
+                "able.serializer.six.moves.tkinter_tksimpledialog"
+            ], 
+            "gdbm": [
+                "able.serializer.six.moves.dbm_gnu"
+            ], 
+            "six.moves.urllib.robotparser": [
+                "able.serializer.six.moves.urllib.robotparser", 
+                "able.serializer.six.Module_six_moves_urllib.robotparser"
+            ], 
+            "struct": [
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.base64.struct", 
+                "able.util.json.decoder.struct", 
+                "able.serializer.six.moves.xmlrpc_client.gzip.struct"
+            ], 
+            "tempfile": [
+                "able.serializer.six.moves.BaseHTTPServer.mimetools.tempfile"
+            ], 
+            "six.moves.urllib.request": [
+                "able.serializer.six.moves.urllib.request", 
+                "able.serializer.six.Module_six_moves_urllib.request"
+            ], 
+            "pyexpat.errors": [
+                "able.serializer.six.moves.xmlrpc_client.expat.errors"
+            ], 
+            "collections": [
+                "able.util.argparse._collections", 
+                "able.serializer.six.moves.collections_abc", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.collections", 
+                "able.serializer.collections", 
+                "able.util.lictionary.collections"
+            ], 
+            "six.moves.urllib_parse": [
+                "able.serializer.six.moves.urllib.parse", 
+                "able.serializer.six.moves.urllib_parse", 
+                "able.serializer.six.Module_six_moves_urllib.parse"
+            ], 
+            "string": [
+                "able.serializer.six.moves.xmlrpc_client.string", 
+                "able.serializer.six.moves.http_cookies.string", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.string", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.base64.string", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.textwrap.string"
+            ], 
+            "SocketServer": [
+                "able.serializer.six.moves.socketserver", 
+                "able.serializer.six.moves.xmlrpc_server.SocketServer", 
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer"
+            ], 
+            "textwrap": [
+                "able.util.argparse._textwrap", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.textwrap"
+            ], 
+            "ssl": [
+                "able.serializer.six.moves.http_client.ssl", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl"
+            ], 
+            "json.encoder": [
+                "able.util.json.encoder"
+            ], 
+            "ScrolledText": [
+                "able.serializer.six.moves.tkinter_scrolledtext"
+            ], 
+            "cookielib": [
+                "able.serializer.six.moves.http_cookiejar"
+            ], 
+            "ConfigParser": [
+                "able.serializer.six.moves.configparser"
+            ], 
+            "httplib": [
+                "able.serializer.six.moves.xmlrpc_client.httplib", 
+                "able.serializer.six.moves.http_client", 
+                "able.serializer.six.moves.http_cookiejar.httplib"
+            ], 
+            "threading": [
+                "able.serializer.six.moves.queue._threading", 
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer.threading", 
+                "able.serializer.six.moves.http_cookiejar._threading"
+            ], 
+            "tkMessageBox": [
+                "able.serializer.six.moves.tkinter_messagebox"
+            ], 
+            "six.moves.urllib.response": [
+                "able.serializer.six.moves.urllib.response", 
+                "able.serializer.six.Module_six_moves_urllib.response"
+            ], 
+            "pyexpat.model": [
+                "able.serializer.six.moves.xmlrpc_client.expat.model"
+            ], 
+            "fcntl": [
+                "able.serializer.six.moves.BaseHTTPServer.mimetools.tempfile._fcntl", 
+                "able.serializer.six.moves.xmlrpc_server.fcntl"
+            ], 
+            "Tkdnd": [
+                "able.serializer.six.moves.tkinter_dnd"
+            ], 
+            "SimpleHTTPServer": [
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer", 
+                "able.serializer.six.moves.SimpleHTTPServer"
+            ], 
+            "stat": [
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer.os.path.stat", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.stat", 
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer.os.path.genericpath.stat"
+            ], 
+            "xml.parsers.expat": [
+                "able.serializer.six.moves.xmlrpc_client.expat"
+            ], 
+            "operator": [
+                "able.serializer.six.moves.xmlrpc_client.operator", 
+                "able.serializer.six.operator"
+            ], 
+            "HTMLParser": [
+                "able.serializer.six.moves.html_parser"
+            ], 
+            "BaseHTTPServer": [
+                "able.serializer.six.moves.BaseHTTPServer", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.BaseHTTPServer", 
+                "able.serializer.six.moves.CGIHTTPServer.BaseHTTPServer", 
+                "able.serializer.six.moves.xmlrpc_server.BaseHTTPServer"
+            ], 
+            "abc": [
+                "able.serializer.six.moves.BaseHTTPServer.mimetools.tempfile._io.abc"
+            ], 
+            "_tkinter": [
+                "able.serializer.six.moves.tkinter_simpledialog.tkinter", 
+                "able.serializer.six.moves.tkinter_tix._tkinter", 
+                "able.serializer.six.moves.tkinter_commondialog.tkinter", 
+                "able.serializer.six.moves.tkinter_filedialog.tkinter", 
+                "able.serializer.six.moves.tkinter_tksimpledialog.tkinter", 
+                "able.serializer.six.moves.tkinter_dialog.tkinter", 
+                "able.serializer.six.moves.tkinter.tkinter", 
+                "able.serializer.six.moves.tkinter._tkinter", 
+                "able.serializer.six.moves.tkinter_tix.tkinter"
+            ], 
+            "warnings": [
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.warnings", 
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer.socket.warnings", 
+                "able.util.pprint.warnings", 
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer.threading.warnings", 
+                "able.serializer.six.moves.http_cookies.warnings", 
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer.os.path.warnings", 
+                "able.serializer.six.moves.http_client.warnings"
+            ], 
+            "able.parser": [
+                "able.parser", 
+                "able.util.parser"
+            ], 
+            "urllib": [
+                "able.serializer.six.moves.CGIHTTPServer.urllib", 
+                "able.serializer.six.moves.http_cookiejar.urllib", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.urllib", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib"
+            ], 
+            "re": [
+                "able.parser.re", 
+                "able.serializer.six.moves.tkinter_tix.re", 
+                "able.serializer.six.moves.tkinter_commondialog.re", 
+                "able.util.argparse._re", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.re", 
+                "able.util.json.decoder.scanner.re", 
+                "able.serializer.six.moves.tkinter_filedialog.re", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.textwrap.re", 
+                "able.serializer.six.moves.tkinter_tksimpledialog.re", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.fnmatch.re", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.re", 
+                "able.serializer.six.moves.http_client.re", 
+                "able.serializer.six.moves.tkinter_dialog.re", 
+                "able.serializer.six.moves.tkinter.re", 
+                "able.serializer.six.moves.http_cookies.re", 
+                "able.serializer.six.moves.configparser.re", 
+                "able.serializer.six.moves.http_cookiejar.re", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.urlparse.re", 
+                "able.util.json.decoder.re", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.base64.re", 
+                "able.util.json.encoder.re", 
+                "able.serializer.six.moves.html_parser.re", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.base64.string._re", 
+                "able.serializer.six.moves.xmlrpc_server.re", 
+                "able.serializer.six.moves.xmlrpc_client.re", 
+                "able.serializer.six.moves.tkinter_simpledialog.re"
+            ], 
+            "robotparser": [
+                "able.serializer.six.moves.urllib_robotparser"
+            ], 
+            "cgi": [
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi"
+            ], 
+            "Tkinter": [
+                "able.serializer.six.moves.tkinter_font.Tkinter", 
+                "able.serializer.six.moves.tkinter_ttk.Tkinter", 
+                "able.serializer.six.moves.tkinter", 
+                "able.serializer.six.moves.tkinter_dnd.Tkinter", 
+                "able.serializer.six.moves.tkinter_tix.Tkinter"
+            ], 
+            "tkFont": [
+                "able.serializer.six.moves.tkinter_font"
+            ], 
+            "UserDict": [
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.UserDict", 
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer.os.UserDict", 
+                "able.serializer.six.moves.CGIHTTPServer.copy.weakref.UserDict", 
+                "able.serializer.six.moves.configparser._UserDict"
+            ], 
+            "Queue": [
+                "able.serializer.six.moves.queue"
+            ], 
+            "json.scanner": [
+                "able.util.json.scanner", 
+                "able.util.json.decoder.scanner"
+            ], 
+            "lictionary": [
+                "able.util.lictionary"
+            ], 
+            "_locale": [
+                "able.parser.re._locale"
+            ], 
+            "socket": [
+                "able.serializer.six.moves.http_client.socket", 
+                "able.serializer.six.moves.xmlrpc_client.socket", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.socket", 
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer.socket", 
+                "able.serializer.six.moves.BaseHTTPServer.socket"
+            ], 
+            "thread": [
+                "able.serializer.six.moves._thread", 
+                "able.serializer.six.moves.BaseHTTPServer.mimetools.tempfile._thread"
+            ], 
+            "traceback": [
+                "able.serializer.six.moves.xmlrpc_server.traceback"
+            ], 
+            "weakref": [
+                "able.serializer.six.moves.CGIHTTPServer.copy.weakref"
+            ], 
+            "itertools": [
+                "able.serializer.six.itertools"
+            ], 
+            "os": [
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.os", 
+                "able.serializer.six.moves.tkinter_tix.os", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.os", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.os", 
+                "able.serializer.six.moves.http_client.os", 
+                "able.serializer.six.moves.tkinter_filedialog.os", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.os", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.os", 
+                "able.serializer.six.moves.CGIHTTPServer.os", 
+                "able.serializer.six.moves.BaseHTTPServer.mimetools.os", 
+                "able.serializer.six.moves.xmlrpc_server.os", 
+                "able.util.argparse._os", 
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer.os", 
+                "able.util.os", 
+                "able.serializer.six.moves.BaseHTTPServer.mimetools.tempfile._os", 
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer.socket.os", 
+                "able.serializer.six.moves.xmlrpc_client.gzip.os", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.os"
+            ], 
+            "json.decoder": [
+                "able.util.json.decoder"
+            ], 
+            "base64": [
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.base64", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.base64", 
+                "able.serializer.six.moves.xmlrpc_client.base64"
+            ], 
+            "six.moves": [
+                "able.serializer.six.moves"
+            ], 
+            "cStringIO": [
+                "able.serializer.six.moves.xmlrpc_client.StringIO"
+            ], 
+            "_sre": [
+                "able.parser.re.sre_compile._sre"
+            ], 
+            "able.serializer": [
+                "able.util.serializer", 
+                "able.serializer"
+            ], 
+            "__builtin__": [
+                "able.serializer.six.moves.builtins", 
+                "able.serializer.six.moves.cPickle.__builtins__", 
+                "able.serializer.six.moves.reprlib.__builtin__", 
+                "able.serializer.six.moves.xmlrpc_client.gzip.__builtin__"
+            ], 
+            "dummy_thread": [
+                "able.serializer.six.moves._dummy_thread"
+            ], 
+            "FileDialog": [
+                "able.serializer.six.moves.tkinter_filedialog"
+            ], 
+            "Tix": [
+                "able.serializer.six.moves.tkinter_tix"
+            ], 
+            "select": [
+                "able.serializer.six.moves.CGIHTTPServer.select", 
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer.select"
+            ], 
+            "six.moves.urllib": [
+                "able.serializer.six.moves.urllib"
+            ], 
+            "posixpath": [
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer.os.path", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.posixpath", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.posixpath"
+            ], 
+            "errno": [
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer.os.errno", 
+                "able.serializer.six.moves.BaseHTTPServer.mimetools.tempfile._errno", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.errno", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.errno", 
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer.errno", 
+                "able.serializer.six.moves.xmlrpc_client.errno", 
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer.socket.errno"
+            ], 
+            "_socket": [
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer.socket._socket"
+            ], 
+            "binascii": [
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.base64.binascii"
+            ], 
+            "json": [
+                "able.util.json"
+            ], 
+            "Cookie": [
+                "able.serializer.six.moves.http_cookies"
+            ], 
+            "six.moves.urllib.error": [
+                "able.serializer.six.Module_six_moves_urllib.error", 
+                "able.serializer.six.moves.urllib.error", 
+                "able.serializer.six.moves.urllib_error"
+            ], 
+            "cPickle": [
+                "able.serializer.six.moves.cPickle"
+            ], 
+            "SimpleXMLRPCServer": [
+                "able.serializer.six.moves.xmlrpc_server"
+            ], 
+            "Dialog": [
+                "able.serializer.six.moves.tkinter_dialog"
+            ], 
+            "copy": [
+                "able.serializer.six.moves.CGIHTTPServer.copy", 
+                "able.serializer.six.moves.http_cookiejar.copy", 
+                "able.util.argparse._copy"
+            ], 
+            "zlib": [
+                "able.serializer.six.moves.xmlrpc_client.gzip.zlib"
+            ], 
+            "markupbase": [
+                "able.serializer.six.moves.html_parser.markupbase"
+            ], 
+            "fnmatch": [
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.fnmatch", 
+                "able.serializer.six.moves.tkinter_filedialog.fnmatch"
+            ], 
+            "sre_parse": [
+                "able.parser.re.sre_compile.sre_parse", 
+                "able.parser.re.sre_parse"
+            ], 
+            "mimetools": [
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.mimetools", 
+                "able.serializer.six.moves.http_client.mimetools", 
+                "able.serializer.six.moves.BaseHTTPServer.mimetools"
+            ], 
+            "copy_reg": [
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer.os._copy_reg", 
+                "able.serializer.six.moves.copyreg", 
+                "able.parser.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "able.parser.re.sre_compile"
+            ], 
+            "CGIHTTPServer": [
+                "able.serializer.six.moves.CGIHTTPServer"
+            ], 
+            "SimpleDialog": [
+                "able.serializer.six.moves.tkinter_simpledialog"
+            ], 
+            "io": [
+                "able.serializer.six.moves.BaseHTTPServer.mimetools.tempfile._io", 
+                "able.serializer.six.moves.xmlrpc_client.gzip.io"
+            ], 
+            "shutil": [
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil"
+            ], 
+            "_io": [
+                "able.serializer.six.moves.BaseHTTPServer.mimetools.tempfile._io._io"
+            ], 
+            "tkCommonDialog": [
+                "able.serializer.six.moves.tkinter_commondialog"
+            ], 
+            "six": [
+                "able.serializer.six"
+            ], 
+            "_abcoll": [
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer.os.UserDict._abcoll", 
+                "able.serializer.collections._abcoll"
+            ], 
+            "genericpath": [
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer.os.path.genericpath"
+            ], 
+            "mimetypes": [
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes"
+            ], 
+            "_ssl": [
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer.socket._ssl", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl._ssl"
+            ], 
+            "rfc822": [
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.rfc822", 
+                "able.serializer.six.moves.BaseHTTPServer.mimetools.rfc822"
+            ], 
+            "htmlentitydefs": [
+                "able.serializer.six.moves.html_entities"
+            ], 
+            "repr": [
+                "able.serializer.six.moves.reprlib"
+            ], 
+            "sys": [
+                "able.serializer.six.moves.xmlrpc_server.traceback.sys", 
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer.os.path.warnings.linecache.sys", 
+                "able.serializer.six.moves.BaseHTTPServer.sys", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.sys", 
+                "able.serializer.six.moves.xmlrpc_server.sys", 
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer.os.path.warnings.sys", 
+                "able.serializer.six.moves.tkinter_dialog.sys", 
+                "able.util.json.decoder.sys", 
+                "able.parser.re.sys", 
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer.threading._sys", 
+                "able.serializer.collections._sys", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.sys", 
+                "able.serializer.six.moves.tkinter.sys", 
+                "able.serializer.six.moves.BaseHTTPServer.mimetools.sys", 
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer.socket.sys", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.sys", 
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer.os.sys", 
+                "able.util.argparse._sys", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.sys", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.sys", 
+                "able.util.pprint._sys", 
+                "able.serializer.six.moves.xmlrpc_client.gzip.sys", 
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer.sys", 
+                "able.serializer.collections._abcoll.sys", 
+                "able.serializer.six.moves.tkinter_tksimpledialog.sys", 
+                "able.serializer.six.moves.tkinter_filedialog.sys", 
+                "able.serializer.six.moves.tkinter_commondialog.sys", 
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer.os.path.sys", 
+                "able.serializer.six.moves.tkinter_tix.sys", 
+                "able.serializer.six.moves.CGIHTTPServer.sys", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.sys", 
+                "able.serializer.six.sys", 
+                "able.parser.re.sre_compile.sys", 
+                "able.serializer.six.moves.tkinter_simpledialog.sys", 
+                "able.parser.re.sre_compile.sre_parse.sys"
+            ], 
+            "tkColorChooser": [
+                "able.serializer.six.moves.tkinter_colorchooser"
+            ], 
+            "types": [
+                "able.serializer.six.types", 
+                "able.serializer.six.moves.BaseHTTPServer.mimetools.tempfile._io.abc.types", 
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer.os.path.warnings.types", 
+                "able.serializer.six.moves.xmlrpc_server.traceback.types"
+            ], 
+            "argparse": [
+                "able.util.argparse"
+            ], 
+            "able.util": [
+                "able.util"
+            ], 
+            "xmlrpclib": [
+                "able.serializer.six.moves.xmlrpc_server.xmlrpclib", 
+                "able.serializer.six.moves.xmlrpc_client"
+            ], 
+            "Tkconstants": [
+                "able.serializer.six.moves.tkinter_constants"
+            ], 
+            "urlparse": [
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.urlparse", 
+                "able.serializer.six.moves.http_cookiejar.urlparse", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.urlparse"
+            ], 
+            "linecache": [
+                "able.serializer.six.moves.xmlrpc_server.traceback.linecache", 
+                "able.serializer.six.moves.BaseHTTPServer.SocketServer.os.path.warnings.linecache"
+            ], 
+            "time": [
+                "able.serializer.six.moves.http_cookiejar.time", 
+                "able.serializer.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.time", 
+                "able.serializer.six.moves.xmlrpc_client.gzip.time", 
+                "able.serializer.six.moves.BaseHTTPServer.mimetools.rfc822.time", 
+                "able.serializer.six.moves.xmlrpc_client.time", 
+                "able.serializer.six.moves.BaseHTTPServer.time"
+            ], 
+            "gzip": [
+                "able.serializer.six.moves.xmlrpc_client.gzip"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.1.4", 
+        "name": "able", 
+        "python_version": "2.7.18"
+    }
+}
