@@ -1,0 +1,21 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "absorbing_centrality.algorithms": [
+                "absorbing_centrality.algorithms"
+            ], 
+            "absorbing_centrality.graph_helpers": [
+                "absorbing_centrality.graph_helpers"
+            ], 
+            "absorbing_centrality.exceptions": [
+                "absorbing_centrality.exceptions"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.1.0", 
+        "name": "absorbing_centrality", 
+        "python_version": "2.7.18"
+    }
+}
