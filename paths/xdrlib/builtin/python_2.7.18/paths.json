@@ -1,0 +1,15 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "struct": [
+                "xdrlib.struct"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "xdrlib", 
+        "python_version": "2.7.18"
+    }
+}
