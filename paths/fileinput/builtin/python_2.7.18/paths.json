@@ -1,0 +1,54 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "genericpath": [
+                "fileinput.os.path.genericpath"
+            ], 
+            "stat": [
+                "fileinput.os.path.genericpath.stat", 
+                "fileinput.os.path.stat"
+            ], 
+            "copy_reg": [
+                "fileinput.os._copy_reg"
+            ], 
+            "posixpath": [
+                "fileinput.os.path"
+            ], 
+            "warnings": [
+                "fileinput.os.path.warnings"
+            ], 
+            "UserDict": [
+                "fileinput.os.UserDict"
+            ], 
+            "sys": [
+                "fileinput.os.path.warnings.sys", 
+                "fileinput.sys", 
+                "fileinput.os.path.sys", 
+                "fileinput.os.UserDict._abcoll.sys", 
+                "fileinput.os.sys", 
+                "fileinput.os.path.warnings.linecache.sys"
+            ], 
+            "linecache": [
+                "fileinput.os.path.warnings.linecache"
+            ], 
+            "_abcoll": [
+                "fileinput.os.UserDict._abcoll"
+            ], 
+            "errno": [
+                "fileinput.os.errno"
+            ], 
+            "os": [
+                "fileinput.os"
+            ], 
+            "types": [
+                "fileinput.os.path.warnings.types"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "fileinput", 
+        "python_version": "2.7.18"
+    }
+}
