@@ -1,0 +1,54 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "genericpath": [
+                "sysconfig.os.path.genericpath"
+            ], 
+            "stat": [
+                "sysconfig.os.path.stat", 
+                "sysconfig.os.path.genericpath.stat"
+            ], 
+            "copy_reg": [
+                "sysconfig.os._copy_reg"
+            ], 
+            "posixpath": [
+                "sysconfig.os.path"
+            ], 
+            "warnings": [
+                "sysconfig.os.path.warnings"
+            ], 
+            "UserDict": [
+                "sysconfig.os.UserDict"
+            ], 
+            "sys": [
+                "sysconfig.os.path.warnings.sys", 
+                "sysconfig.os.UserDict._abcoll.sys", 
+                "sysconfig.os.path.sys", 
+                "sysconfig.os.path.warnings.linecache.sys", 
+                "sysconfig.os.sys", 
+                "sysconfig.sys"
+            ], 
+            "linecache": [
+                "sysconfig.os.path.warnings.linecache"
+            ], 
+            "_abcoll": [
+                "sysconfig.os.UserDict._abcoll"
+            ], 
+            "errno": [
+                "sysconfig.os.errno"
+            ], 
+            "os": [
+                "sysconfig.os"
+            ], 
+            "types": [
+                "sysconfig.os.path.warnings.types"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "sysconfig", 
+        "python_version": "2.7.18"
+    }
+}
