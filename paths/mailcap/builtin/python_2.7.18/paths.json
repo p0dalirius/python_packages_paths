@@ -1,0 +1,53 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "genericpath": [
+                "mailcap.os.path.genericpath"
+            ], 
+            "stat": [
+                "mailcap.os.path.stat", 
+                "mailcap.os.path.genericpath.stat"
+            ], 
+            "copy_reg": [
+                "mailcap.os._copy_reg"
+            ], 
+            "posixpath": [
+                "mailcap.os.path"
+            ], 
+            "warnings": [
+                "mailcap.os.path.warnings"
+            ], 
+            "UserDict": [
+                "mailcap.os.UserDict"
+            ], 
+            "sys": [
+                "mailcap.os.path.warnings.sys", 
+                "mailcap.os.sys", 
+                "mailcap.os.path.warnings.linecache.sys", 
+                "mailcap.os.UserDict._abcoll.sys", 
+                "mailcap.os.path.sys"
+            ], 
+            "linecache": [
+                "mailcap.os.path.warnings.linecache"
+            ], 
+            "_abcoll": [
+                "mailcap.os.UserDict._abcoll"
+            ], 
+            "errno": [
+                "mailcap.os.errno"
+            ], 
+            "os": [
+                "mailcap.os"
+            ], 
+            "types": [
+                "mailcap.os.path.warnings.types"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "mailcap", 
+        "python_version": "2.7.18"
+    }
+}
