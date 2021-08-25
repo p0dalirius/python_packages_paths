@@ -1,0 +1,230 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "heapq": [
+                "doctest.difflib.heapq", 
+                "doctest.unittest.case.collections._heapq"
+            ], 
+            "__future__": [
+                "doctest.__future__"
+            ], 
+            "copy_reg": [
+                "doctest.inspect.linecache.os._copy_reg", 
+                "doctest.inspect.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "doctest.inspect.re.sre_compile"
+            ], 
+            "unittest.case": [
+                "doctest.unittest.case", 
+                "doctest.unittest.loader.case", 
+                "doctest.unittest.loader.suite.case"
+            ], 
+            "_sre": [
+                "doctest.inspect.re.sre_compile._sre"
+            ], 
+            "unittest": [
+                "doctest.unittest"
+            ], 
+            "traceback": [
+                "doctest.traceback", 
+                "doctest.unittest.loader.traceback", 
+                "doctest.pdb.traceback", 
+                "doctest.unittest.case.result.traceback"
+            ], 
+            "cmd": [
+                "doctest.pdb.cmd"
+            ], 
+            "io": [
+                "doctest.tempfile._io"
+            ], 
+            "weakref": [
+                "doctest.unittest.signals.weakref"
+            ], 
+            "abc": [
+                "doctest.tempfile._io.abc"
+            ], 
+            "unittest.result": [
+                "doctest.unittest.case.result", 
+                "doctest.unittest.result", 
+                "doctest.unittest.runner.result"
+            ], 
+            "posixpath": [
+                "doctest.inspect.linecache.os.path"
+            ], 
+            "re": [
+                "doctest.re", 
+                "doctest.inspect.string._re", 
+                "doctest.unittest.case.re", 
+                "doctest.inspect.tokenize.re", 
+                "doctest.pdb.bdb.fnmatch.re", 
+                "doctest.unittest.loader.re", 
+                "doctest.pdb.re", 
+                "doctest.inspect.re"
+            ], 
+            "tempfile": [
+                "doctest.tempfile"
+            ], 
+            "errno": [
+                "doctest.inspect.linecache.os.errno", 
+                "doctest.tempfile._errno"
+            ], 
+            "pprint": [
+                "doctest.pdb.pprint", 
+                "doctest.unittest.case.pprint"
+            ], 
+            "imp": [
+                "doctest.inspect.imp"
+            ], 
+            "_abcoll": [
+                "doctest.unittest.case.collections._abcoll", 
+                "doctest.inspect.linecache.os.UserDict._abcoll"
+            ], 
+            "collections": [
+                "doctest.unittest.case.collections"
+            ], 
+            "unittest.loader": [
+                "doctest.unittest.loader"
+            ], 
+            "tokenize": [
+                "doctest.inspect.tokenize"
+            ], 
+            "functools": [
+                "doctest.unittest.case.functools"
+            ], 
+            "fcntl": [
+                "doctest.tempfile._fcntl"
+            ], 
+            "genericpath": [
+                "doctest.inspect.linecache.os.path.genericpath"
+            ], 
+            "stat": [
+                "doctest.inspect.linecache.os.path.genericpath.stat", 
+                "doctest.inspect.linecache.os.path.stat"
+            ], 
+            "string": [
+                "doctest.inspect.tokenize.string", 
+                "doctest.pdb.cmd.string", 
+                "doctest.inspect.string"
+            ], 
+            "warnings": [
+                "doctest.inspect.linecache.os.path.warnings", 
+                "doctest.pdb.pprint.warnings", 
+                "doctest.warnings", 
+                "doctest.unittest.case.warnings"
+            ], 
+            "UserDict": [
+                "doctest.inspect.linecache.os.UserDict", 
+                "doctest.unittest.signals.weakref.UserDict"
+            ], 
+            "unittest.suite": [
+                "doctest.unittest.suite", 
+                "doctest.unittest.loader.suite"
+            ], 
+            "inspect": [
+                "doctest.inspect"
+            ], 
+            "unittest.signals": [
+                "doctest.unittest.signals"
+            ], 
+            "sys": [
+                "doctest.sys", 
+                "doctest.unittest.runner.sys", 
+                "doctest.inspect.sys", 
+                "doctest.pdb.pprint._sys", 
+                "doctest.inspect.linecache.os.path.warnings.sys", 
+                "doctest.inspect.linecache.sys", 
+                "doctest.inspect.linecache.os.sys", 
+                "doctest.inspect.dis.sys", 
+                "doctest.unittest.case.collections._sys", 
+                "doctest.pdb.sys", 
+                "doctest.inspect.linecache.os.UserDict._abcoll.sys", 
+                "doctest.pdb.bdb.sys", 
+                "doctest.inspect.re.sys", 
+                "doctest.unittest.case.result.sys", 
+                "doctest.inspect.re.sre_compile.sre_parse.sys", 
+                "doctest.unittest.case.sys", 
+                "doctest.inspect.linecache.os.path.sys", 
+                "doctest.inspect.re.sre_compile.sys", 
+                "doctest.unittest.loader.suite.sys", 
+                "doctest.pdb.traceback.sys", 
+                "doctest.unittest.loader.sys"
+            ], 
+            "unittest.util": [
+                "doctest.unittest.loader.suite.util", 
+                "doctest.unittest.case.result.util", 
+                "doctest.unittest.util"
+            ], 
+            "unittest.runner": [
+                "doctest.unittest.runner"
+            ], 
+            "types": [
+                "doctest.inspect.types", 
+                "doctest.inspect.linecache.os.path.warnings.types", 
+                "doctest.pdb.traceback.types", 
+                "doctest.tempfile._io.abc.types", 
+                "doctest.inspect.dis.types", 
+                "doctest.unittest.loader.types", 
+                "doctest.pdb.bdb.types", 
+                "doctest.unittest.case.types"
+            ], 
+            "_locale": [
+                "doctest.inspect.re._locale"
+            ], 
+            "thread": [
+                "doctest.tempfile._thread"
+            ], 
+            "signal": [
+                "doctest.unittest.signals.signal"
+            ], 
+            "bdb": [
+                "doctest.pdb.bdb"
+            ], 
+            "difflib": [
+                "doctest.unittest.case.difflib", 
+                "doctest.difflib"
+            ], 
+            "_io": [
+                "doctest.tempfile._io._io"
+            ], 
+            "linecache": [
+                "doctest.linecache", 
+                "doctest.inspect.linecache", 
+                "doctest.pdb.traceback.linecache", 
+                "doctest.pdb.linecache"
+            ], 
+            "time": [
+                "doctest.unittest.runner.time"
+            ], 
+            "fnmatch": [
+                "doctest.pdb.bdb.fnmatch"
+            ], 
+            "sre_parse": [
+                "doctest.inspect.re.sre_parse", 
+                "doctest.inspect.re.sre_compile.sre_parse"
+            ], 
+            "os": [
+                "doctest.unittest.case.result.os", 
+                "doctest.pdb.os", 
+                "doctest.inspect.linecache.os", 
+                "doctest.os", 
+                "doctest.tempfile._os", 
+                "doctest.unittest.loader.os", 
+                "doctest.inspect.os", 
+                "doctest.pdb.bdb.os"
+            ], 
+            "pdb": [
+                "doctest.pdb"
+            ], 
+            "dis": [
+                "doctest.inspect.dis"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "doctest", 
+        "python_version": "2.7.18"
+    }
+}
