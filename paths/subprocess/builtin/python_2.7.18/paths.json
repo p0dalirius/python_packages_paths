@@ -1,0 +1,112 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "copy_reg": [
+                "subprocess.os._copy_reg", 
+                "subprocess.pickle.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "subprocess.pickle.re.sre_compile"
+            ], 
+            "_sre": [
+                "subprocess.pickle.re.sre_compile._sre"
+            ], 
+            "gc": [
+                "subprocess.gc"
+            ], 
+            "select": [
+                "subprocess.select"
+            ], 
+            "posixpath": [
+                "subprocess.os.path"
+            ], 
+            "threading": [
+                "subprocess.threading"
+            ], 
+            "errno": [
+                "subprocess.os.errno", 
+                "subprocess.errno"
+            ], 
+            "binascii": [
+                "subprocess.pickle._binascii"
+            ], 
+            "re": [
+                "subprocess.pickle.re"
+            ], 
+            "_abcoll": [
+                "subprocess.os.UserDict._abcoll"
+            ], 
+            "fcntl": [
+                "subprocess.fcntl"
+            ], 
+            "genericpath": [
+                "subprocess.os.path.genericpath"
+            ], 
+            "stat": [
+                "subprocess.os.path.genericpath.stat", 
+                "subprocess.os.path.stat"
+            ], 
+            "warnings": [
+                "subprocess.os.path.warnings", 
+                "subprocess.threading.warnings"
+            ], 
+            "UserDict": [
+                "subprocess.os.UserDict"
+            ], 
+            "sys": [
+                "subprocess.traceback.sys", 
+                "subprocess.pickle.re.sre_compile.sys", 
+                "subprocess.sys", 
+                "subprocess.os.path.sys", 
+                "subprocess.pickle.re.sre_compile.sre_parse.sys", 
+                "subprocess.os.path.warnings.sys", 
+                "subprocess.os.sys", 
+                "subprocess.threading._sys", 
+                "subprocess.pickle.re.sys", 
+                "subprocess.pickle.sys", 
+                "subprocess.os.path.warnings.linecache.sys", 
+                "subprocess.os.UserDict._abcoll.sys"
+            ], 
+            "types": [
+                "subprocess.types", 
+                "subprocess.traceback.types", 
+                "subprocess.os.path.warnings.types"
+            ], 
+            "struct": [
+                "subprocess.pickle.struct"
+            ], 
+            "_locale": [
+                "subprocess.pickle.re._locale"
+            ], 
+            "os": [
+                "subprocess.os"
+            ], 
+            "signal": [
+                "subprocess.signal"
+            ], 
+            "traceback": [
+                "subprocess.traceback"
+            ], 
+            "linecache": [
+                "subprocess.traceback.linecache", 
+                "subprocess.os.path.warnings.linecache"
+            ], 
+            "sre_parse": [
+                "subprocess.pickle.re.sre_compile.sre_parse", 
+                "subprocess.pickle.re.sre_parse"
+            ], 
+            "pickle": [
+                "subprocess.pickle"
+            ], 
+            "marshal": [
+                "subprocess.pickle.marshal"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "subprocess", 
+        "python_version": "2.7.18"
+    }
+}
