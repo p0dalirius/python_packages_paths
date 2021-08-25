@@ -1,0 +1,78 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "genericpath": [
+                "platform.os.path.genericpath"
+            ], 
+            "stat": [
+                "platform.os.path.stat", 
+                "platform.os.path.genericpath.stat"
+            ], 
+            "_sre": [
+                "platform.re.sre_compile._sre"
+            ], 
+            "copy_reg": [
+                "platform.re.copy_reg", 
+                "platform.os._copy_reg"
+            ], 
+            "posixpath": [
+                "platform.os.path"
+            ], 
+            "warnings": [
+                "platform.os.path.warnings"
+            ], 
+            "UserDict": [
+                "platform.os.UserDict"
+            ], 
+            "string": [
+                "platform.string"
+            ], 
+            "_locale": [
+                "platform.re._locale"
+            ], 
+            "sys": [
+                "platform.re.sys", 
+                "platform.os.UserDict._abcoll.sys", 
+                "platform.re.sre_compile.sre_parse.sys", 
+                "platform.os.sys", 
+                "platform.os.path.sys", 
+                "platform.os.path.warnings.sys", 
+                "platform.re.sre_compile.sys", 
+                "platform.sys", 
+                "platform.os.path.warnings.linecache.sys"
+            ], 
+            "linecache": [
+                "platform.os.path.warnings.linecache"
+            ], 
+            "sre_parse": [
+                "platform.re.sre_compile.sre_parse", 
+                "platform.re.sre_parse"
+            ], 
+            "_abcoll": [
+                "platform.os.UserDict._abcoll"
+            ], 
+            "errno": [
+                "platform.os.errno"
+            ], 
+            "re": [
+                "platform.re", 
+                "platform.string._re"
+            ], 
+            "os": [
+                "platform.os"
+            ], 
+            "types": [
+                "platform.os.path.warnings.types"
+            ], 
+            "sre_compile": [
+                "platform.re.sre_compile"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "platform", 
+        "python_version": "2.7.18"
+    }
+}
