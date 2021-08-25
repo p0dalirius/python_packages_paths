@@ -1,0 +1,77 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "fcntl": [
+                "asyncore.fcntl"
+            ], 
+            "genericpath": [
+                "asyncore.os.path.genericpath"
+            ], 
+            "stat": [
+                "asyncore.os.path.stat", 
+                "asyncore.os.path.genericpath.stat"
+            ], 
+            "_ssl": [
+                "asyncore.socket._ssl"
+            ], 
+            "copy_reg": [
+                "asyncore.os._copy_reg"
+            ], 
+            "posixpath": [
+                "asyncore.os.path"
+            ], 
+            "warnings": [
+                "asyncore.warnings", 
+                "asyncore.os.path.warnings", 
+                "asyncore.socket.warnings"
+            ], 
+            "UserDict": [
+                "asyncore.os.UserDict"
+            ], 
+            "_socket": [
+                "asyncore.socket._socket"
+            ], 
+            "sys": [
+                "asyncore.os.UserDict._abcoll.sys", 
+                "asyncore.os.path.warnings.linecache.sys", 
+                "asyncore.sys", 
+                "asyncore.os.path.sys", 
+                "asyncore.os.sys", 
+                "asyncore.socket.sys", 
+                "asyncore.os.path.warnings.sys"
+            ], 
+            "linecache": [
+                "asyncore.os.path.warnings.linecache"
+            ], 
+            "_abcoll": [
+                "asyncore.os.UserDict._abcoll"
+            ], 
+            "select": [
+                "asyncore.select"
+            ], 
+            "errno": [
+                "asyncore.socket.errno", 
+                "asyncore.os.errno"
+            ], 
+            "os": [
+                "asyncore.os", 
+                "asyncore.socket.os"
+            ], 
+            "time": [
+                "asyncore.time"
+            ], 
+            "types": [
+                "asyncore.os.path.warnings.types"
+            ], 
+            "socket": [
+                "asyncore.socket"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "asyncore", 
+        "python_version": "2.7.18"
+    }
+}
