@@ -1,0 +1,95 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "fcntl": [
+                "smtpd.asynchat.asyncore.fcntl"
+            ], 
+            "genericpath": [
+                "smtpd.asynchat.asyncore.os.path.genericpath"
+            ], 
+            "stat": [
+                "smtpd.asynchat.asyncore.os.path.genericpath.stat", 
+                "smtpd.asynchat.asyncore.os.path.stat"
+            ], 
+            "asynchat": [
+                "smtpd.asynchat"
+            ], 
+            "asyncore": [
+                "smtpd.asynchat.asyncore", 
+                "smtpd.asyncore"
+            ], 
+            "posixpath": [
+                "smtpd.asynchat.asyncore.os.path"
+            ], 
+            "warnings": [
+                "smtpd.asynchat.asyncore.os.path.warnings", 
+                "smtpd.asynchat.asyncore.socket.warnings", 
+                "smtpd.asynchat.asyncore.warnings"
+            ], 
+            "time": [
+                "smtpd.asynchat.asyncore.time", 
+                "smtpd.time"
+            ], 
+            "UserDict": [
+                "smtpd.asynchat.asyncore.os.UserDict"
+            ], 
+            "_socket": [
+                "smtpd.asynchat.asyncore.socket._socket"
+            ], 
+            "getopt": [
+                "smtpd.getopt"
+            ], 
+            "sys": [
+                "smtpd.asynchat.asyncore.os.UserDict._abcoll.sys", 
+                "smtpd.sys", 
+                "smtpd.asynchat.asyncore.os.path.sys", 
+                "smtpd.asynchat.asyncore.os.path.warnings.sys", 
+                "smtpd.asynchat.asyncore.os.sys", 
+                "smtpd.asynchat.asyncore.os.path.warnings.linecache.sys", 
+                "smtpd.asynchat.asyncore.sys", 
+                "smtpd.asynchat.asyncore.socket.sys"
+            ], 
+            "linecache": [
+                "smtpd.asynchat.asyncore.os.path.warnings.linecache"
+            ], 
+            "_abcoll": [
+                "smtpd.asynchat.asyncore.os.UserDict._abcoll"
+            ], 
+            "select": [
+                "smtpd.asynchat.asyncore.select"
+            ], 
+            "errno": [
+                "smtpd.errno", 
+                "smtpd.asynchat.asyncore.socket.errno", 
+                "smtpd.asynchat.asyncore.os.errno", 
+                "smtpd.asynchat.errno"
+            ], 
+            "copy_reg": [
+                "smtpd.asynchat.asyncore.os._copy_reg"
+            ], 
+            "os": [
+                "smtpd.os", 
+                "smtpd.asynchat.asyncore.socket.os", 
+                "smtpd.getopt.os", 
+                "smtpd.asynchat.asyncore.os"
+            ], 
+            "_ssl": [
+                "smtpd.asynchat.asyncore.socket._ssl"
+            ], 
+            "types": [
+                "smtpd.asynchat.asyncore.os.path.warnings.types"
+            ], 
+            "socket": [
+                "smtpd.asynchat.asyncore.socket", 
+                "smtpd.socket", 
+                "smtpd.asynchat.socket"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "smtpd", 
+        "python_version": "2.7.18"
+    }
+}
