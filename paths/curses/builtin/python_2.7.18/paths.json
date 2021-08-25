@@ -1,0 +1,54 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "genericpath": [
+                "curses._os.path.genericpath"
+            ], 
+            "stat": [
+                "curses._os.path.stat", 
+                "curses._os.path.genericpath.stat"
+            ], 
+            "copy_reg": [
+                "curses._os._copy_reg"
+            ], 
+            "posixpath": [
+                "curses._os.path"
+            ], 
+            "warnings": [
+                "curses._os.path.warnings"
+            ], 
+            "UserDict": [
+                "curses._os.UserDict"
+            ], 
+            "sys": [
+                "curses._sys", 
+                "curses._os.path.warnings.sys", 
+                "curses._os.path.warnings.linecache.sys", 
+                "curses._os.UserDict._abcoll.sys", 
+                "curses._os.sys", 
+                "curses._os.path.sys"
+            ], 
+            "linecache": [
+                "curses._os.path.warnings.linecache"
+            ], 
+            "_abcoll": [
+                "curses._os.UserDict._abcoll"
+            ], 
+            "errno": [
+                "curses._os.errno"
+            ], 
+            "os": [
+                "curses._os"
+            ], 
+            "types": [
+                "curses._os.path.warnings.types"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "curses", 
+        "python_version": "2.7.18"
+    }
+}
