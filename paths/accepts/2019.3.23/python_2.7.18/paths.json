@@ -1,0 +1,100 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "copy_reg": [
+                "accepts.inspect.re.copy_reg", 
+                "accepts.inspect.linecache.os._copy_reg"
+            ], 
+            "sre_compile": [
+                "accepts.inspect.re.sre_compile"
+            ], 
+            "_sre": [
+                "accepts.inspect.re.sre_compile._sre"
+            ], 
+            "posixpath": [
+                "accepts.inspect.linecache.os.path"
+            ], 
+            "re": [
+                "accepts.inspect.tokenize.re", 
+                "accepts.inspect.string._re", 
+                "accepts.inspect.re"
+            ], 
+            "errno": [
+                "accepts.inspect.linecache.os.errno"
+            ], 
+            "imp": [
+                "accepts.inspect.imp"
+            ], 
+            "_abcoll": [
+                "accepts.inspect.linecache.os.UserDict._abcoll"
+            ], 
+            "tokenize": [
+                "accepts.inspect.tokenize"
+            ], 
+            "public": [
+                "accepts.public"
+            ], 
+            "genericpath": [
+                "accepts.inspect.linecache.os.path.genericpath"
+            ], 
+            "stat": [
+                "accepts.inspect.linecache.os.path.genericpath.stat", 
+                "accepts.inspect.linecache.os.path.stat"
+            ], 
+            "string": [
+                "accepts.inspect.tokenize.string", 
+                "accepts.inspect.string"
+            ], 
+            "warnings": [
+                "accepts.inspect.linecache.os.path.warnings"
+            ], 
+            "UserDict": [
+                "accepts.inspect.linecache.os.UserDict"
+            ], 
+            "inspect": [
+                "accepts.inspect", 
+                "accepts.public.inspect"
+            ], 
+            "sys": [
+                "accepts.inspect.re.sre_compile.sre_parse.sys", 
+                "accepts.inspect.linecache.os.UserDict._abcoll.sys", 
+                "accepts.inspect.re.sre_compile.sys", 
+                "accepts.inspect.linecache.os.path.warnings.sys", 
+                "accepts.inspect.linecache.os.sys", 
+                "accepts.inspect.re.sys", 
+                "accepts.inspect.linecache.os.path.sys", 
+                "accepts.inspect.dis.sys", 
+                "accepts.inspect.sys", 
+                "accepts.inspect.linecache.sys"
+            ], 
+            "types": [
+                "accepts.inspect.dis.types", 
+                "accepts.inspect.linecache.os.path.warnings.types", 
+                "accepts.inspect.types"
+            ], 
+            "_locale": [
+                "accepts.inspect.re._locale"
+            ], 
+            "linecache": [
+                "accepts.inspect.linecache"
+            ], 
+            "sre_parse": [
+                "accepts.inspect.re.sre_compile.sre_parse", 
+                "accepts.inspect.re.sre_parse"
+            ], 
+            "os": [
+                "accepts.inspect.linecache.os", 
+                "accepts.inspect.os"
+            ], 
+            "dis": [
+                "accepts.inspect.dis"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "2019.3.23", 
+        "name": "accepts", 
+        "python_version": "2.7.18"
+    }
+}
