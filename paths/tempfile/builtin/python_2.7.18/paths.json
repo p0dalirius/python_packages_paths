@@ -1,0 +1,70 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "fcntl": [
+                "tempfile._fcntl"
+            ], 
+            "sys": [
+                "tempfile._os.UserDict._abcoll.sys", 
+                "tempfile._os.path.warnings.linecache.sys", 
+                "tempfile._os.sys", 
+                "tempfile._os.path.warnings.sys", 
+                "tempfile._os.path.sys"
+            ], 
+            "stat": [
+                "tempfile._os.path.stat", 
+                "tempfile._os.path.genericpath.stat"
+            ], 
+            "abc": [
+                "tempfile._io.abc"
+            ], 
+            "copy_reg": [
+                "tempfile._os._copy_reg"
+            ], 
+            "posixpath": [
+                "tempfile._os.path"
+            ], 
+            "thread": [
+                "tempfile._thread"
+            ], 
+            "genericpath": [
+                "tempfile._os.path.genericpath"
+            ], 
+            "errno": [
+                "tempfile._os.errno", 
+                "tempfile._errno"
+            ], 
+            "warnings": [
+                "tempfile._os.path.warnings"
+            ], 
+            "_io": [
+                "tempfile._io._io"
+            ], 
+            "linecache": [
+                "tempfile._os.path.warnings.linecache"
+            ], 
+            "_abcoll": [
+                "tempfile._os.UserDict._abcoll"
+            ], 
+            "io": [
+                "tempfile._io"
+            ], 
+            "UserDict": [
+                "tempfile._os.UserDict"
+            ], 
+            "os": [
+                "tempfile._os"
+            ], 
+            "types": [
+                "tempfile._os.path.warnings.types", 
+                "tempfile._io.abc.types"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "tempfile", 
+        "python_version": "2.7.18"
+    }
+}
