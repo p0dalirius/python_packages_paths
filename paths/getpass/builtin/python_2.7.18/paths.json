@@ -1,0 +1,58 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "genericpath": [
+                "getpass.os.path.genericpath"
+            ], 
+            "stat": [
+                "getpass.os.path.stat", 
+                "getpass.os.path.genericpath.stat"
+            ], 
+            "copy_reg": [
+                "getpass.os._copy_reg"
+            ], 
+            "posixpath": [
+                "getpass.os.path"
+            ], 
+            "warnings": [
+                "getpass.warnings", 
+                "getpass.os.path.warnings"
+            ], 
+            "UserDict": [
+                "getpass.os.UserDict"
+            ], 
+            "termios": [
+                "getpass.termios"
+            ], 
+            "sys": [
+                "getpass.os.path.warnings.sys", 
+                "getpass.os.UserDict._abcoll.sys", 
+                "getpass.sys", 
+                "getpass.os.sys", 
+                "getpass.os.path.warnings.linecache.sys", 
+                "getpass.os.path.sys"
+            ], 
+            "linecache": [
+                "getpass.os.path.warnings.linecache"
+            ], 
+            "_abcoll": [
+                "getpass.os.UserDict._abcoll"
+            ], 
+            "errno": [
+                "getpass.os.errno"
+            ], 
+            "os": [
+                "getpass.os"
+            ], 
+            "types": [
+                "getpass.os.path.warnings.types"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "getpass", 
+        "python_version": "2.7.18"
+    }
+}
