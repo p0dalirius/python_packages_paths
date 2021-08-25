@@ -1,0 +1,121 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "accessible_output.priority": [
+                "accessible_output.priority", 
+                "accessible_output.speech.outputs.main.priority", 
+                "accessible_output.output.priority"
+            ], 
+            "copy_reg": [
+                "accessible_output.braille.brailler.outputs.platform.os._copy_reg", 
+                "accessible_output.braille.brailler.outputs.platform.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "accessible_output.braille.brailler.outputs.platform.re.sre_compile"
+            ], 
+            "accessible_output.speech.outputs.speech_d": [
+                "accessible_output.speech.outputs.speech_d"
+            ], 
+            "_sre": [
+                "accessible_output.braille.brailler.outputs.platform.re.sre_compile._sre"
+            ], 
+            "accessible_output.speech": [
+                "accessible_output.speech"
+            ], 
+            "accessible_output.braille.brailler": [
+                "accessible_output.braille.brailler"
+            ], 
+            "accessible_output.speech.outputs.main": [
+                "accessible_output.speech.outputs.main"
+            ], 
+            "atexit": [
+                "accessible_output.speech.outputs.speech_d.atexit"
+            ], 
+            "posixpath": [
+                "accessible_output.braille.brailler.outputs.platform.os.path"
+            ], 
+            "re": [
+                "accessible_output.braille.brailler.outputs.platform.string._re", 
+                "accessible_output.braille.brailler.outputs.platform.re"
+            ], 
+            "errno": [
+                "accessible_output.braille.brailler.outputs.platform.os.errno"
+            ], 
+            "accessible_output.output": [
+                "accessible_output.output"
+            ], 
+            "platform": [
+                "accessible_output.braille.brailler.outputs.platform", 
+                "accessible_output.speech.outputs.speech_d.platform", 
+                "accessible_output.speech.outputs.platform"
+            ], 
+            "_abcoll": [
+                "accessible_output.braille.brailler.outputs.platform.os.UserDict._abcoll"
+            ], 
+            "genericpath": [
+                "accessible_output.braille.brailler.outputs.platform.os.path.genericpath"
+            ], 
+            "stat": [
+                "accessible_output.braille.brailler.outputs.platform.os.path.stat", 
+                "accessible_output.braille.brailler.outputs.platform.os.path.genericpath.stat"
+            ], 
+            "string": [
+                "accessible_output.braille.brailler.outputs.platform.string"
+            ], 
+            "warnings": [
+                "accessible_output.braille.brailler.outputs.platform.os.path.warnings"
+            ], 
+            "UserDict": [
+                "accessible_output.braille.brailler.outputs.platform.os.UserDict"
+            ], 
+            "accessible_output.braille.outputs": [
+                "accessible_output.braille.brailler.outputs", 
+                "accessible_output.braille.outputs"
+            ], 
+            "sys": [
+                "accessible_output.braille.brailler.outputs.platform.os.path.warnings.linecache.sys", 
+                "accessible_output.braille.brailler.outputs.platform.sys", 
+                "accessible_output.braille.brailler.outputs.platform.os.UserDict._abcoll.sys", 
+                "accessible_output.braille.brailler.outputs.platform.re.sys", 
+                "accessible_output.speech.outputs.speech_d.atexit.sys", 
+                "accessible_output.braille.brailler.outputs.platform.os.sys", 
+                "accessible_output.braille.brailler.outputs.platform.re.sre_compile.sre_parse.sys", 
+                "accessible_output.braille.brailler.outputs.platform.os.path.warnings.sys", 
+                "accessible_output.braille.brailler.outputs.platform.os.path.sys", 
+                "accessible_output.braille.brailler.outputs.platform.re.sre_compile.sys"
+            ], 
+            "accessible_output.braille": [
+                "accessible_output.braille"
+            ], 
+            "types": [
+                "accessible_output.braille.brailler.outputs.platform.os.path.warnings.types"
+            ], 
+            "_locale": [
+                "accessible_output.braille.brailler.outputs.platform.re._locale"
+            ], 
+            "accessible_output.speech.outputs": [
+                "accessible_output.speech.outputs", 
+                "accessible_output.speech.speaker.outputs"
+            ], 
+            "accessible_output.speech.speaker": [
+                "accessible_output.speech.speaker"
+            ], 
+            "linecache": [
+                "accessible_output.braille.brailler.outputs.platform.os.path.warnings.linecache"
+            ], 
+            "sre_parse": [
+                "accessible_output.braille.brailler.outputs.platform.re.sre_parse", 
+                "accessible_output.braille.brailler.outputs.platform.re.sre_compile.sre_parse"
+            ], 
+            "os": [
+                "accessible_output.braille.brailler.outputs.platform.os"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.7.5", 
+        "name": "accessible_output", 
+        "python_version": "2.7.18"
+    }
+}
