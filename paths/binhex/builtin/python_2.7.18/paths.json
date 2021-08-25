@@ -1,0 +1,60 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "genericpath": [
+                "binhex.os.path.genericpath"
+            ], 
+            "stat": [
+                "binhex.os.path.stat", 
+                "binhex.os.path.genericpath.stat"
+            ], 
+            "copy_reg": [
+                "binhex.os._copy_reg"
+            ], 
+            "posixpath": [
+                "binhex.os.path"
+            ], 
+            "warnings": [
+                "binhex.os.path.warnings"
+            ], 
+            "UserDict": [
+                "binhex.os.UserDict"
+            ], 
+            "binascii": [
+                "binhex.binascii"
+            ], 
+            "sys": [
+                "binhex.os.path.warnings.linecache.sys", 
+                "binhex.sys", 
+                "binhex.os.UserDict._abcoll.sys", 
+                "binhex.os.sys", 
+                "binhex.os.path.sys", 
+                "binhex.os.path.warnings.sys"
+            ], 
+            "linecache": [
+                "binhex.os.path.warnings.linecache"
+            ], 
+            "_abcoll": [
+                "binhex.os.UserDict._abcoll"
+            ], 
+            "errno": [
+                "binhex.os.errno"
+            ], 
+            "os": [
+                "binhex.os"
+            ], 
+            "types": [
+                "binhex.os.path.warnings.types"
+            ], 
+            "struct": [
+                "binhex.struct"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "binhex", 
+        "python_version": "2.7.18"
+    }
+}
