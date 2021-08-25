@@ -1,0 +1,126 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "_socket": [
+                "mimetypes.urllib.socket._socket"
+            ], 
+            "copy_reg": [
+                "mimetypes.urllib.base64.re.copy_reg", 
+                "mimetypes.os._copy_reg"
+            ], 
+            "sre_compile": [
+                "mimetypes.urllib.base64.re.sre_compile"
+            ], 
+            "_sre": [
+                "mimetypes.urllib.base64.re.sre_compile._sre"
+            ], 
+            "posixpath": [
+                "mimetypes.os.path", 
+                "mimetypes.posixpath"
+            ], 
+            "errno": [
+                "mimetypes.urllib.ssl.errno", 
+                "mimetypes.urllib.socket.errno", 
+                "mimetypes.os.errno"
+            ], 
+            "base64": [
+                "mimetypes.urllib.base64", 
+                "mimetypes.urllib.ssl.base64"
+            ], 
+            "binascii": [
+                "mimetypes.urllib.base64.binascii"
+            ], 
+            "urllib": [
+                "mimetypes.urllib"
+            ], 
+            "re": [
+                "mimetypes.urllib.base64.re", 
+                "mimetypes.urllib.re", 
+                "mimetypes.urllib.base64.string._re", 
+                "mimetypes.urllib.ssl.textwrap.re", 
+                "mimetypes.urllib.ssl.re"
+            ], 
+            "_abcoll": [
+                "mimetypes.os.UserDict._abcoll"
+            ], 
+            "genericpath": [
+                "mimetypes.os.path.genericpath"
+            ], 
+            "stat": [
+                "mimetypes.os.path.genericpath.stat", 
+                "mimetypes.os.path.stat"
+            ], 
+            "_ssl": [
+                "mimetypes.urllib.ssl._ssl", 
+                "mimetypes.urllib.socket._ssl"
+            ], 
+            "string": [
+                "mimetypes.urllib.ssl.textwrap.string", 
+                "mimetypes.urllib.base64.string", 
+                "mimetypes.urllib.string"
+            ], 
+            "warnings": [
+                "mimetypes.urllib.ssl.warnings", 
+                "mimetypes.os.path.warnings", 
+                "mimetypes.urllib.socket.warnings"
+            ], 
+            "UserDict": [
+                "mimetypes.os.UserDict"
+            ], 
+            "textwrap": [
+                "mimetypes.urllib.ssl.textwrap"
+            ], 
+            "sys": [
+                "mimetypes.urllib.base64.re.sre_compile.sys", 
+                "mimetypes.os.sys", 
+                "mimetypes.urllib.base64.re.sys", 
+                "mimetypes.urllib.socket.sys", 
+                "mimetypes.urllib.base64.re.sre_compile.sre_parse.sys", 
+                "mimetypes.os.path.warnings.sys", 
+                "mimetypes.os.path.warnings.linecache.sys", 
+                "mimetypes.sys", 
+                "mimetypes.urllib.ssl.sys", 
+                "mimetypes.os.path.sys", 
+                "mimetypes.urllib.sys", 
+                "mimetypes.os.UserDict._abcoll.sys"
+            ], 
+            "ssl": [
+                "mimetypes.urllib.ssl"
+            ], 
+            "types": [
+                "mimetypes.os.path.warnings.types"
+            ], 
+            "struct": [
+                "mimetypes.urllib.base64.struct"
+            ], 
+            "_locale": [
+                "mimetypes.urllib.base64.re._locale"
+            ], 
+            "socket": [
+                "mimetypes.urllib.socket"
+            ], 
+            "linecache": [
+                "mimetypes.os.path.warnings.linecache"
+            ], 
+            "time": [
+                "mimetypes.urllib.time"
+            ], 
+            "sre_parse": [
+                "mimetypes.urllib.base64.re.sre_compile.sre_parse", 
+                "mimetypes.urllib.base64.re.sre_parse"
+            ], 
+            "os": [
+                "mimetypes.os", 
+                "mimetypes.urllib.os", 
+                "mimetypes.urllib.ssl.os", 
+                "mimetypes.urllib.socket.os"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "mimetypes", 
+        "python_version": "2.7.18"
+    }
+}
