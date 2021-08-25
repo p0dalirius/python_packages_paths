@@ -1,0 +1,39 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "_locale": [
+                "cmd.string._re._locale"
+            ], 
+            "copy_reg": [
+                "cmd.string._re.copy_reg"
+            ], 
+            "string": [
+                "cmd.string"
+            ], 
+            "_sre": [
+                "cmd.string._re.sre_compile._sre"
+            ], 
+            "sys": [
+                "cmd.string._re.sre_compile.sys", 
+                "cmd.string._re.sys", 
+                "cmd.string._re.sre_compile.sre_parse.sys"
+            ], 
+            "re": [
+                "cmd.string._re"
+            ], 
+            "sre_parse": [
+                "cmd.string._re.sre_compile.sre_parse", 
+                "cmd.string._re.sre_parse"
+            ], 
+            "sre_compile": [
+                "cmd.string._re.sre_compile"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "cmd", 
+        "python_version": "2.7.18"
+    }
+}
