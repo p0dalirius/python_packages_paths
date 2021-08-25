@@ -1,0 +1,219 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "_socket": [
+                "activitypub.classes.mimetypes.urllib.socket._socket"
+            ], 
+            "copy_reg": [
+                "activitypub.classes.mimetypes.os._copy_reg", 
+                "activitypub.classes.mimetypes.urllib.base64.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "activitypub.classes.mimetypes.urllib.base64.re.sre_compile"
+            ], 
+            "_sre": [
+                "activitypub.classes.mimetypes.urllib.base64.re.sre_compile._sre"
+            ], 
+            "mimetypes": [
+                "activitypub.mimetypes", 
+                "activitypub.classes.mimetypes"
+            ], 
+            "subprocess": [
+                "activitypub.manager.uuid.ctypes.util.subprocess"
+            ], 
+            "gc": [
+                "activitypub.manager.uuid.ctypes.util.subprocess.gc"
+            ], 
+            "io": [
+                "activitypub.manager.uuid.ctypes.util.tempfile._io"
+            ], 
+            "ctypes._endian": [
+                "activitypub.manager.uuid.ctypes._endian"
+            ], 
+            "select": [
+                "activitypub.manager.uuid.ctypes.util.subprocess.select"
+            ], 
+            "abc": [
+                "activitypub.manager.uuid.ctypes.util.tempfile._io.abc"
+            ], 
+            "posixpath": [
+                "activitypub.classes.mimetypes.os.path", 
+                "activitypub.classes.mimetypes.posixpath"
+            ], 
+            "ctypes.util": [
+                "activitypub.manager.uuid.ctypes.util"
+            ], 
+            "threading": [
+                "activitypub.manager.uuid.ctypes.util.subprocess.threading"
+            ], 
+            "tempfile": [
+                "activitypub.manager.uuid.ctypes.util.tempfile"
+            ], 
+            "errno": [
+                "activitypub.classes.mimetypes.urllib.socket.errno", 
+                "activitypub.classes.mimetypes.urllib.ssl.errno", 
+                "activitypub.manager.uuid.ctypes.util.errno", 
+                "activitypub.classes.mimetypes.os.errno", 
+                "activitypub.manager.uuid.ctypes.util.tempfile._errno", 
+                "activitypub.manager.uuid.ctypes.util.subprocess.errno"
+            ], 
+            "base64": [
+                "activitypub.classes.mimetypes.urllib.base64", 
+                "activitypub.classes.mimetypes.urllib.ssl.base64"
+            ], 
+            "binascii": [
+                "activitypub.classes.mimetypes.urllib.base64.binascii", 
+                "activitypub.manager.uuid.ctypes.util.subprocess.pickle._binascii"
+            ], 
+            "urllib": [
+                "activitypub.classes.mimetypes.urllib"
+            ], 
+            "re": [
+                "activitypub.classes.mimetypes.urllib.ssl.textwrap.re", 
+                "activitypub.classes.mimetypes.urllib.base64.string._re", 
+                "activitypub.classes.mimetypes.urllib.ssl.re", 
+                "activitypub.classes.mimetypes.urllib.base64.re", 
+                "activitypub.manager.uuid.ctypes.util.subprocess.pickle.re", 
+                "activitypub.classes.mimetypes.urllib.re", 
+                "activitypub.manager.uuid.ctypes.util.re"
+            ], 
+            "activitypub._version": [
+                "activitypub._version"
+            ], 
+            "activitypub.manager": [
+                "activitypub.manager"
+            ], 
+            "UserDict": [
+                "activitypub.classes.mimetypes.os.UserDict"
+            ], 
+            "fcntl": [
+                "activitypub.manager.uuid.ctypes.util.tempfile._fcntl", 
+                "activitypub.manager.uuid.ctypes.util.subprocess.fcntl"
+            ], 
+            "genericpath": [
+                "activitypub.classes.mimetypes.os.path.genericpath"
+            ], 
+            "stat": [
+                "activitypub.classes.mimetypes.os.path.stat", 
+                "activitypub.classes.mimetypes.os.path.genericpath.stat"
+            ], 
+            "_ssl": [
+                "activitypub.classes.mimetypes.urllib.socket._ssl", 
+                "activitypub.classes.mimetypes.urllib.ssl._ssl"
+            ], 
+            "string": [
+                "activitypub.classes.mimetypes.urllib.base64.string", 
+                "activitypub.classes.mimetypes.urllib.string", 
+                "activitypub.classes.mimetypes.urllib.ssl.textwrap.string"
+            ], 
+            "warnings": [
+                "activitypub.classes.mimetypes.urllib.socket.warnings", 
+                "activitypub.manager.uuid.ctypes.util.subprocess.threading.warnings", 
+                "activitypub.classes.mimetypes.urllib.ssl.warnings", 
+                "activitypub.classes.mimetypes.os.path.warnings"
+            ], 
+            "activitypub.classes": [
+                "activitypub.classes"
+            ], 
+            "textwrap": [
+                "activitypub.classes.mimetypes.urllib.ssl.textwrap"
+            ], 
+            "sys": [
+                "activitypub.classes.mimetypes.os.path.sys", 
+                "activitypub.classes.mimetypes.urllib.base64.re.sys", 
+                "activitypub.classes.mimetypes.os.path.warnings.linecache.sys", 
+                "activitypub.manager.uuid.ctypes.util.subprocess.traceback.sys", 
+                "activitypub.manager.uuid.ctypes._endian.sys", 
+                "activitypub.classes.mimetypes.urllib.sys", 
+                "activitypub.manager.uuid.ctypes._sys", 
+                "activitypub.manager.uuid.ctypes.util.subprocess.threading._sys", 
+                "activitypub.classes.mimetypes.os.UserDict._abcoll.sys", 
+                "activitypub.manager.uuid.sys", 
+                "activitypub.classes.mimetypes.urllib.base64.re.sre_compile.sre_parse.sys", 
+                "activitypub.classes.mimetypes.urllib.ssl.sys", 
+                "activitypub.classes.mimetypes.urllib.base64.re.sre_compile.sys", 
+                "activitypub.manager.uuid.ctypes.util.subprocess.sys", 
+                "activitypub.manager.uuid.ctypes.util.subprocess.pickle.sys", 
+                "activitypub.manager.uuid.ctypes.util.sys", 
+                "activitypub.classes.mimetypes.urllib.socket.sys", 
+                "activitypub.classes.mimetypes.sys", 
+                "activitypub.classes.mimetypes.os.sys", 
+                "activitypub.classes.mimetypes.os.path.warnings.sys"
+            ], 
+            "ssl": [
+                "activitypub.classes.mimetypes.urllib.ssl"
+            ], 
+            "ctypes": [
+                "activitypub.manager.uuid.ctypes"
+            ], 
+            "types": [
+                "activitypub.classes.mimetypes.os.path.warnings.types", 
+                "activitypub.manager.uuid.ctypes.util.tempfile._io.abc.types", 
+                "activitypub.manager.uuid.ctypes.util.subprocess.types", 
+                "activitypub.manager.uuid.ctypes.util.subprocess.traceback.types"
+            ], 
+            "struct": [
+                "activitypub.classes.mimetypes.urllib.base64.struct", 
+                "activitypub.manager.uuid.ctypes.util.subprocess.pickle.struct"
+            ], 
+            "_locale": [
+                "activitypub.classes.mimetypes.urllib.base64.re._locale"
+            ], 
+            "socket": [
+                "activitypub.classes.mimetypes.urllib.socket"
+            ], 
+            "thread": [
+                "activitypub.manager.uuid.ctypes.util.tempfile._thread"
+            ], 
+            "pickle": [
+                "activitypub.manager.uuid.ctypes.util.subprocess.pickle"
+            ], 
+            "signal": [
+                "activitypub.manager.uuid.ctypes.util.subprocess.signal"
+            ], 
+            "traceback": [
+                "activitypub.manager.uuid.ctypes.util.subprocess.traceback"
+            ], 
+            "uuid": [
+                "activitypub.manager.uuid"
+            ], 
+            "marshal": [
+                "activitypub.manager.uuid.ctypes.util.subprocess.pickle.marshal"
+            ], 
+            "_io": [
+                "activitypub.manager.uuid.ctypes.util.tempfile._io._io"
+            ], 
+            "linecache": [
+                "activitypub.manager.uuid.ctypes.util.subprocess.traceback.linecache", 
+                "activitypub.classes.mimetypes.os.path.warnings.linecache"
+            ], 
+            "time": [
+                "activitypub.classes.mimetypes.urllib.time"
+            ], 
+            "sre_parse": [
+                "activitypub.classes.mimetypes.urllib.base64.re.sre_compile.sre_parse", 
+                "activitypub.classes.mimetypes.urllib.base64.re.sre_parse"
+            ], 
+            "os": [
+                "activitypub.classes.mimetypes.urllib.socket.os", 
+                "activitypub.classes.mimetypes.urllib.ssl.os", 
+                "activitypub.manager.uuid.ctypes.util.tempfile._os", 
+                "activitypub.manager.uuid.os", 
+                "activitypub.classes.mimetypes.urllib.os", 
+                "activitypub.manager.uuid.ctypes.util.os", 
+                "activitypub.classes.mimetypes.os", 
+                "activitypub.manager.uuid.ctypes._os", 
+                "activitypub.manager.uuid.ctypes.util.subprocess.os"
+            ], 
+            "_abcoll": [
+                "activitypub.classes.mimetypes.os.UserDict._abcoll"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.0.1", 
+        "name": "activitypub", 
+        "python_version": "2.7.18"
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "_socket": [
+                "activitypub.classes.mimetypes.urllib.socket._socket"
+            ], 
+            "copy_reg": [
+                "activitypub.classes.mimetypes.os._copy_reg", 
+                "activitypub.classes.mimetypes.urllib.base64.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "activitypub.classes.mimetypes.urllib.base64.re.sre_compile"
+            ], 
+            "_sre": [
+                "activitypub.classes.mimetypes.urllib.base64.re.sre_compile._sre"
+            ], 
+            "mimetypes": [
+                "activitypub.mimetypes", 
+                "activitypub.classes.mimetypes"
+            ], 
+            "posixpath": [
+                "activitypub.classes.mimetypes.os.path", 
+                "activitypub.classes.mimetypes.posixpath"
+            ], 
+            "errno": [
+                "activitypub.classes.mimetypes.os.errno", 
+                "activitypub.classes.mimetypes.urllib.ssl.errno", 
+                "activitypub.classes.mimetypes.urllib.socket.errno"
+            ], 
+            "base64": [
+                "activitypub.classes.mimetypes.urllib.base64", 
+                "activitypub.classes.mimetypes.urllib.ssl.base64"
+            ], 
+            "binascii": [
+                "activitypub.classes.mimetypes.urllib.base64.binascii"
+            ], 
+            "urllib": [
+                "activitypub.classes.mimetypes.urllib"
+            ], 
+            "re": [
+                "activitypub.classes.mimetypes.urllib.ssl.re", 
+                "activitypub.classes.mimetypes.urllib.ssl.textwrap.re", 
+                "activitypub.classes.mimetypes.urllib.base64.re", 
+                "activitypub.classes.mimetypes.urllib.re", 
+                "activitypub.classes.mimetypes.urllib.base64.string._re"
+            ], 
+            "activitypub._version": [
+                "activitypub._version"
+            ], 
+            "UserDict": [
+                "activitypub.classes.mimetypes.os.UserDict"
+            ], 
+            "genericpath": [
+                "activitypub.classes.mimetypes.os.path.genericpath"
+            ], 
+            "stat": [
+                "activitypub.classes.mimetypes.os.path.stat", 
+                "activitypub.classes.mimetypes.os.path.genericpath.stat"
+            ], 
+            "_ssl": [
+                "activitypub.classes.mimetypes.urllib.socket._ssl", 
+                "activitypub.classes.mimetypes.urllib.ssl._ssl"
+            ], 
+            "string": [
+                "activitypub.classes.mimetypes.urllib.base64.string", 
+                "activitypub.classes.mimetypes.urllib.string", 
+                "activitypub.classes.mimetypes.urllib.ssl.textwrap.string"
+            ], 
+            "warnings": [
+                "activitypub.classes.mimetypes.urllib.socket.warnings", 
+                "activitypub.classes.mimetypes.urllib.ssl.warnings", 
+                "activitypub.classes.mimetypes.os.path.warnings"
+            ], 
+            "activitypub.classes": [
+                "activitypub.classes"
+            ], 
+            "textwrap": [
+                "activitypub.classes.mimetypes.urllib.ssl.textwrap"
+            ], 
+            "sys": [
+                "activitypub.classes.mimetypes.os.path.sys", 
+                "activitypub.classes.mimetypes.urllib.base64.re.sys", 
+                "activitypub.classes.mimetypes.os.path.warnings.linecache.sys", 
+                "activitypub.classes.mimetypes.urllib.sys", 
+                "activitypub.classes.mimetypes.os.UserDict._abcoll.sys", 
+                "activitypub.classes.mimetypes.urllib.base64.re.sre_compile.sre_parse.sys", 
+                "activitypub.classes.mimetypes.urllib.ssl.sys", 
+                "activitypub.classes.mimetypes.urllib.base64.re.sre_compile.sys", 
+                "activitypub.classes.mimetypes.urllib.socket.sys", 
+                "activitypub.classes.mimetypes.sys", 
+                "activitypub.classes.mimetypes.os.sys", 
+                "activitypub.classes.mimetypes.os.path.warnings.sys"
+            ], 
+            "ssl": [
+                "activitypub.classes.mimetypes.urllib.ssl"
+            ], 
+            "types": [
+                "activitypub.classes.mimetypes.os.path.warnings.types"
+            ], 
+            "struct": [
+                "activitypub.classes.mimetypes.urllib.base64.struct"
+            ], 
+            "_locale": [
+                "activitypub.classes.mimetypes.urllib.base64.re._locale"
+            ], 
+            "socket": [
+                "activitypub.classes.mimetypes.urllib.socket"
+            ], 
+            "linecache": [
+                "activitypub.classes.mimetypes.os.path.warnings.linecache"
+            ], 
+            "time": [
+                "activitypub.classes.mimetypes.urllib.time"
+            ], 
+            "sre_parse": [
+                "activitypub.classes.mimetypes.urllib.base64.re.sre_compile.sre_parse", 
+                "activitypub.classes.mimetypes.urllib.base64.re.sre_parse"
+            ], 
+            "os": [
+                "activitypub.classes.mimetypes.urllib.ssl.os", 
+                "activitypub.classes.mimetypes.urllib.socket.os", 
+                "activitypub.classes.mimetypes.os", 
+                "activitypub.classes.mimetypes.urllib.os"
+            ], 
+            "_abcoll": [
+                "activitypub.classes.mimetypes.os.UserDict._abcoll"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.0.2", 
+        "name": "activitypub", 
+        "python_version": "2.7.18"
+    }
+}
