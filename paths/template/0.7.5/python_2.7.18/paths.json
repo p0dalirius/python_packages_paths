@@ -1,0 +1,114 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "heapq": [
+                "template.argparse._collections._heapq"
+            ], 
+            "copy_reg": [
+                "template.argparse._re.copy_reg", 
+                "template.argparse._os._copy_reg"
+            ], 
+            "sre_compile": [
+                "template.argparse._re.sre_compile"
+            ], 
+            "_sre": [
+                "template.argparse._re.sre_compile._sre"
+            ], 
+            "template.filters": [
+                "template.template.filters", 
+                "template.filters"
+            ], 
+            "posixpath": [
+                "template.argparse._os.path"
+            ], 
+            "errno": [
+                "template.argparse._os.errno"
+            ], 
+            "re": [
+                "template.argparse._re", 
+                "template.argparse._textwrap.re", 
+                "template.argparse._textwrap.string._re"
+            ], 
+            "_abcoll": [
+                "template.argparse._collections._abcoll", 
+                "template.argparse._copy.weakref.UserDict._abcoll"
+            ], 
+            "collections": [
+                "template.argparse._collections"
+            ], 
+            "template.functions": [
+                "template.template.functions", 
+                "template.functions"
+            ], 
+            "template": [
+                "template"
+            ], 
+            "genericpath": [
+                "template.argparse._os.path.genericpath"
+            ], 
+            "stat": [
+                "template.argparse._os.path.stat", 
+                "template.argparse._os.path.genericpath.stat"
+            ], 
+            "string": [
+                "template.argparse._textwrap.string"
+            ], 
+            "warnings": [
+                "template.argparse._os.path.warnings"
+            ], 
+            "UserDict": [
+                "template.argparse._copy.weakref.UserDict", 
+                "template.argparse._os.UserDict"
+            ], 
+            "textwrap": [
+                "template.argparse._textwrap"
+            ], 
+            "sys": [
+                "template.argparse._collections._abcoll.sys", 
+                "template.sys", 
+                "template.argparse._os.path.warnings.sys", 
+                "template.argparse._sys", 
+                "template.argparse._os.sys", 
+                "template.argparse._re.sre_compile.sys", 
+                "template.argparse._os.path.warnings.linecache.sys", 
+                "template.template.sys", 
+                "template.argparse._collections._sys", 
+                "template.argparse._re.sre_compile.sre_parse.sys", 
+                "template.argparse._os.path.sys", 
+                "template.argparse._re.sys"
+            ], 
+            "copy": [
+                "template.argparse._copy"
+            ], 
+            "types": [
+                "template.argparse._os.path.warnings.types"
+            ], 
+            "argparse": [
+                "template.template.argparse", 
+                "template.argparse"
+            ], 
+            "_locale": [
+                "template.argparse._re._locale"
+            ], 
+            "weakref": [
+                "template.argparse._copy.weakref"
+            ], 
+            "linecache": [
+                "template.argparse._os.path.warnings.linecache"
+            ], 
+            "sre_parse": [
+                "template.argparse._re.sre_parse", 
+                "template.argparse._re.sre_compile.sre_parse"
+            ], 
+            "os": [
+                "template.argparse._os"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.7.5", 
+        "name": "template", 
+        "python_version": "2.7.18"
+    }
+}
