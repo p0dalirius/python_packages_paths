@@ -1,0 +1,126 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "copy_reg": [
+                "webbrowser.subprocess.pickle.re.copy_reg", 
+                "webbrowser.os._copy_reg"
+            ], 
+            "sre_compile": [
+                "webbrowser.subprocess.pickle.re.sre_compile"
+            ], 
+            "_sre": [
+                "webbrowser.subprocess.pickle.re.sre_compile._sre"
+            ], 
+            "subprocess": [
+                "webbrowser.subprocess"
+            ], 
+            "gc": [
+                "webbrowser.subprocess.gc"
+            ], 
+            "select": [
+                "webbrowser.subprocess.select"
+            ], 
+            "posixpath": [
+                "webbrowser.os.path"
+            ], 
+            "threading": [
+                "webbrowser.subprocess.threading"
+            ], 
+            "errno": [
+                "webbrowser.subprocess.errno", 
+                "webbrowser.os.errno"
+            ], 
+            "binascii": [
+                "webbrowser.subprocess.pickle._binascii"
+            ], 
+            "re": [
+                "webbrowser.subprocess.pickle.re"
+            ], 
+            "_abcoll": [
+                "webbrowser.os.UserDict._abcoll"
+            ], 
+            "fcntl": [
+                "webbrowser.subprocess.fcntl"
+            ], 
+            "genericpath": [
+                "webbrowser.os.path.genericpath"
+            ], 
+            "stat": [
+                "webbrowser.os.path.genericpath.stat", 
+                "webbrowser.os.path.stat", 
+                "webbrowser.stat"
+            ], 
+            "warnings": [
+                "webbrowser.subprocess.threading.warnings", 
+                "webbrowser.os.path.warnings"
+            ], 
+            "UserDict": [
+                "webbrowser.os.UserDict"
+            ], 
+            "sys": [
+                "webbrowser.os.path.warnings.sys", 
+                "webbrowser.sys", 
+                "webbrowser.subprocess.sys", 
+                "webbrowser.os.path.sys", 
+                "webbrowser.subprocess.pickle.re.sre_compile.sys", 
+                "webbrowser.subprocess.traceback.sys", 
+                "webbrowser.os.UserDict._abcoll.sys", 
+                "webbrowser.shlex.sys", 
+                "webbrowser.subprocess.pickle.sys", 
+                "webbrowser.os.sys", 
+                "webbrowser.os.path.warnings.linecache.sys", 
+                "webbrowser.subprocess.pickle.re.sys", 
+                "webbrowser.subprocess.pickle.re.sre_compile.sre_parse.sys", 
+                "webbrowser.subprocess.threading._sys"
+            ], 
+            "types": [
+                "webbrowser.subprocess.traceback.types", 
+                "webbrowser.os.path.warnings.types", 
+                "webbrowser.subprocess.types"
+            ], 
+            "struct": [
+                "webbrowser.subprocess.pickle.struct"
+            ], 
+            "_locale": [
+                "webbrowser.subprocess.pickle.re._locale"
+            ], 
+            "os": [
+                "webbrowser.subprocess.os", 
+                "webbrowser.shlex.os", 
+                "webbrowser.os"
+            ], 
+            "signal": [
+                "webbrowser.subprocess.signal"
+            ], 
+            "traceback": [
+                "webbrowser.subprocess.traceback"
+            ], 
+            "linecache": [
+                "webbrowser.os.path.warnings.linecache", 
+                "webbrowser.subprocess.traceback.linecache"
+            ], 
+            "shlex": [
+                "webbrowser.shlex"
+            ], 
+            "time": [
+                "webbrowser.time"
+            ], 
+            "sre_parse": [
+                "webbrowser.subprocess.pickle.re.sre_compile.sre_parse", 
+                "webbrowser.subprocess.pickle.re.sre_parse"
+            ], 
+            "pickle": [
+                "webbrowser.subprocess.pickle"
+            ], 
+            "marshal": [
+                "webbrowser.subprocess.pickle.marshal"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "webbrowser", 
+        "python_version": "2.7.18"
+    }
+}
