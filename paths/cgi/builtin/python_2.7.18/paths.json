@@ -1,0 +1,111 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "mimetools": [
+                "cgi.mimetools"
+            ], 
+            "copy_reg": [
+                "cgi.urlparse.re.copy_reg", 
+                "cgi.mimetools.os._copy_reg"
+            ], 
+            "sre_compile": [
+                "cgi.urlparse.re.sre_compile"
+            ], 
+            "_sre": [
+                "cgi.urlparse.re.sre_compile._sre"
+            ], 
+            "io": [
+                "cgi.mimetools.tempfile._io"
+            ], 
+            "urlparse": [
+                "cgi.urlparse"
+            ], 
+            "abc": [
+                "cgi.mimetools.tempfile._io.abc"
+            ], 
+            "posixpath": [
+                "cgi.mimetools.os.path"
+            ], 
+            "tempfile": [
+                "cgi.mimetools.tempfile"
+            ], 
+            "errno": [
+                "cgi.mimetools.os.errno", 
+                "cgi.mimetools.tempfile._errno"
+            ], 
+            "rfc822": [
+                "cgi.rfc822", 
+                "cgi.mimetools.rfc822"
+            ], 
+            "re": [
+                "cgi.urlparse.re"
+            ], 
+            "_abcoll": [
+                "cgi.UserDict._abcoll"
+            ], 
+            "fcntl": [
+                "cgi.mimetools.tempfile._fcntl"
+            ], 
+            "genericpath": [
+                "cgi.mimetools.os.path.genericpath"
+            ], 
+            "stat": [
+                "cgi.mimetools.os.path.genericpath.stat", 
+                "cgi.mimetools.os.path.stat"
+            ], 
+            "warnings": [
+                "cgi.mimetools.os.path.warnings"
+            ], 
+            "UserDict": [
+                "cgi.mimetools.os.UserDict", 
+                "cgi.UserDict"
+            ], 
+            "sys": [
+                "cgi.UserDict._abcoll.sys", 
+                "cgi.mimetools.os.path.sys", 
+                "cgi.mimetools.os.sys", 
+                "cgi.mimetools.sys", 
+                "cgi.urlparse.re.sys", 
+                "cgi.sys", 
+                "cgi.urlparse.re.sre_compile.sre_parse.sys", 
+                "cgi.mimetools.os.path.warnings.sys", 
+                "cgi.urlparse.re.sre_compile.sys", 
+                "cgi.mimetools.os.path.warnings.linecache.sys"
+            ], 
+            "types": [
+                "cgi.mimetools.os.path.warnings.types", 
+                "cgi.mimetools.tempfile._io.abc.types"
+            ], 
+            "_locale": [
+                "cgi.urlparse.re._locale"
+            ], 
+            "thread": [
+                "cgi.mimetools.tempfile._thread"
+            ], 
+            "_io": [
+                "cgi.mimetools.tempfile._io._io"
+            ], 
+            "linecache": [
+                "cgi.mimetools.os.path.warnings.linecache"
+            ], 
+            "time": [
+                "cgi.mimetools.rfc822.time"
+            ], 
+            "sre_parse": [
+                "cgi.urlparse.re.sre_parse", 
+                "cgi.urlparse.re.sre_compile.sre_parse"
+            ], 
+            "os": [
+                "cgi.mimetools.os", 
+                "cgi.mimetools.tempfile._os", 
+                "cgi.os"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "cgi", 
+        "python_version": "2.7.18"
+    }
+}
