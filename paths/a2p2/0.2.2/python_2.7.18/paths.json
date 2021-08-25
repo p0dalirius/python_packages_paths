@@ -1,0 +1,881 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "heapq": [
+                "a2p2.ob.np.testing._private.utils.unittest.case.difflib.heapq", 
+                "a2p2.ob.np._mat.defmatrix.N.arrayprint.multiarray.overrides.collections._heapq"
+            ], 
+            "numpy.core.info": [
+                "a2p2.ob.np.core.info"
+            ], 
+            "functools": [
+                "a2p2.ob.np._mat.defmatrix.N.arrayprint.multiarray.overrides.functools", 
+                "a2p2.ob.np.lib.arraysetops.functools", 
+                "a2p2.ob.np.lib.type_check.functools", 
+                "a2p2.ob.np.core.function_base.functools", 
+                "a2p2.ob.np._mat.defmatrix.N.arrayprint.functools", 
+                "a2p2.ob.np._mat.defmatrix.N.arrayprint.multiarray.functools", 
+                "a2p2.ob.np.lib.index_tricks.functools", 
+                "a2p2.ob.np.core.shape_base.functools", 
+                "a2p2.ob.np._mat.defmatrix.N.fromnumeric.functools", 
+                "a2p2.ob.np.linalg.linalg.functools", 
+                "a2p2.ob.np.lib.histograms.functools", 
+                "a2p2.ob.np.lib.ufunclike.functools", 
+                "a2p2.ob.np.lib.polynomial.functools", 
+                "a2p2.ob.np._mat.defmatrix.N.functools", 
+                "a2p2.ob.np.fft.fftpack.functools", 
+                "a2p2.ob.np.lib.function_base.functools", 
+                "a2p2.ob.np.lib.nanfunctions.functools", 
+                "a2p2.ob.np.lib.shape_base.functools", 
+                "a2p2.ob.np.char.functools", 
+                "a2p2.ob.np.lib.npyio.functools", 
+                "a2p2.ob.np.testing._private.utils.unittest.case.functools", 
+                "a2p2.ob.np.lib.financial.functools", 
+                "a2p2.ob.np.lib.twodim_base.functools"
+            ], 
+            "numpy._pytesttester": [
+                "a2p2.ob.np._pytesttester"
+            ], 
+            "numpy.lib._iotools": [
+                "a2p2.ob.np.lib._iotools"
+            ], 
+            "subprocess": [
+                "a2p2.ob.np.core._dtype_ctypes.ctypes.util.subprocess"
+            ], 
+            "ttk": [
+                "a2p2.gui.ttk"
+            ], 
+            "gc": [
+                "a2p2.ob.np.testing._private.utils.gc", 
+                "a2p2.ob.np.core._dtype_ctypes.ctypes.util.subprocess.gc"
+            ], 
+            "ctypes._endian": [
+                "a2p2.ob.np.core._dtype_ctypes.ctypes._endian"
+            ], 
+            "numpy.core.numerictypes": [
+                "a2p2.ob.np.core.getlimits.ntypes", 
+                "a2p2.ob.np.lib.recfunctions.ma.core.ntypes", 
+                "a2p2.ob.np._mat.defmatrix.N.arrayprint._nt", 
+                "a2p2.ob.np.core._add_newdocs._numerictypes", 
+                "a2p2.ob.np.core.numerictypes", 
+                "a2p2.ob.np.core.rec.nt", 
+                "a2p2.ob.np.emath.nt", 
+                "a2p2.ob.np._mat.defmatrix.N.numerictypes", 
+                "a2p2.ob.np._mat.defmatrix.N.fromnumeric._methods.nt", 
+                "a2p2.ob.np._mat.defmatrix.N.fromnumeric.nt", 
+                "a2p2.ob.np.lib.recfunctions.ma.mrecords.ntypes"
+            ], 
+            "numpy.polynomial.legendre": [
+                "a2p2.ob.np.polynomial.legendre"
+            ], 
+            "numpy.random.mtrand": [
+                "a2p2.ob.np.random.mtrand"
+            ], 
+            "struct": [
+                "a2p2.ob.np.core._dtype_ctypes.ctypes.util.subprocess.pickle.struct", 
+                "a2p2.ob.json.decoder.struct"
+            ], 
+            "numpy.matrixlib.defmatrix": [
+                "a2p2.ob.np._mat.defmatrix"
+            ], 
+            "tempfile": [
+                "a2p2.ob.np.core._dtype_ctypes.ctypes.util.tempfile", 
+                "a2p2.ob.cgi.mimetools.tempfile"
+            ], 
+            "pprint": [
+                "a2p2.ob.np.testing._private.utils.pprint", 
+                "a2p2.ob.np.testing._private.utils.unittest.case.pprint"
+            ], 
+            "numpy.core._dtype_ctypes": [
+                "a2p2.ob.np.core._dtype_ctypes"
+            ], 
+            "a2p2.gui": [
+                "a2p2.gui"
+            ], 
+            "platform": [
+                "a2p2.ob.np.testing._private.utils.platform", 
+                "a2p2.ob.np.core._internal.platform"
+            ], 
+            "numpy.testing": [
+                "a2p2.ob.np.testing"
+            ], 
+            "collections": [
+                "a2p2.ob.np.testing._private.utils.unittest.case.collections", 
+                "a2p2.ob.np._mat.defmatrix.N.arrayprint.multiarray.overrides.collections", 
+                "a2p2.ob.np._mat.defmatrix.N.collections_abc", 
+                "a2p2.ob.np.fft.helper.collections", 
+                "a2p2.ob.np.testing._private.decorators.collections_abc", 
+                "a2p2.ob.np.lib._datasource.shutil.collections", 
+                "a2p2.ob.np.lib.function_base.collections_abc"
+            ], 
+            "xml.etree.ElementTree": [
+                "a2p2.ob.ET"
+            ], 
+            "numpy.core.umath": [
+                "a2p2.ob.np._mat.defmatrix.N.fromnumeric.um", 
+                "a2p2.ob.np.lib.recfunctions.ma.extras.umath", 
+                "a2p2.ob.np._mat.defmatrix.N.umath", 
+                "a2p2.ob.np.lib.mixins.um", 
+                "a2p2.ob.np.lib.recfunctions.ma.core.umath", 
+                "a2p2.ob.np.core.umath", 
+                "a2p2.ob.np._mat.defmatrix.N.fromnumeric._methods.um", 
+                "a2p2.ob.np.core.getlimits.umath"
+            ], 
+            "numpy.core._type_aliases": [
+                "a2p2.ob.np.core._type_aliases"
+            ], 
+            "numpy.lib._version": [
+                "a2p2.ob.np.lib._version"
+            ], 
+            "string": [
+                "a2p2.ob.np.lib.recfunctions.ma.core.textwrap.string", 
+                "a2p2.ob.np.core._internal.platform.string"
+            ], 
+            "numpy.lib.type_check": [
+                "a2p2.ob.np.lib.type_check"
+            ], 
+            "numpy.polynomial._polybase": [
+                "a2p2.ob.np.polynomial._polybase"
+            ], 
+            "numpy.lib.arraysetops": [
+                "a2p2.ob.np.lib.arraysetops"
+            ], 
+            "numpy.core._multiarray_tests": [
+                "a2p2.ob.np.core._multiarray_tests"
+            ], 
+            "unittest.util": [
+                "a2p2.ob.np.testing._private.utils.unittest.util", 
+                "a2p2.ob.np.testing._private.utils.unittest.case.result.util", 
+                "a2p2.ob.np.testing._private.utils.unittest.loader.suite.util"
+            ], 
+            "numpy.version": [
+                "a2p2.ob.np.version"
+            ], 
+            "json.encoder": [
+                "a2p2.ob.json.encoder"
+            ], 
+            "numpy.core.machar": [
+                "a2p2.ob.np.core.machar"
+            ], 
+            "numpy.core.einsumfunc": [
+                "a2p2.ob.np.core.einsumfunc"
+            ], 
+            "numpy.testing._private.nosetester": [
+                "a2p2.ob.np.testing._private.nosetester"
+            ], 
+            "numpy.core._internal": [
+                "a2p2.ob.np.core._internal"
+            ], 
+            "signal": [
+                "a2p2.ob.np.core._dtype_ctypes.ctypes.util.subprocess.signal", 
+                "a2p2.ob.np.testing._private.utils.unittest.signals.signal"
+            ], 
+            "numpy.lib._datasource": [
+                "a2p2.ob.np.lib._datasource"
+            ], 
+            "a2p2.samp": [
+                "a2p2.samp"
+            ], 
+            "threading": [
+                "a2p2.ob.np.fft.helper.threading", 
+                "a2p2.ob.np.core._dtype_ctypes.ctypes.util.subprocess.threading"
+            ], 
+            "numpy.fft.fftpack_lite": [
+                "a2p2.ob.np.fft.fftpack_lite", 
+                "a2p2.ob.np.fft.fftpack.fftpack"
+            ], 
+            "a2p2.instrument": [
+                "a2p2.instrument"
+            ], 
+            "numpy.core.multiarray": [
+                "a2p2.ob.np._mat.defmatrix.N.fromnumeric.mu", 
+                "a2p2.ob.np._mat.defmatrix.N.multiarray", 
+                "a2p2.ob.np._mat.defmatrix.N.arrayprint.multiarray", 
+                "a2p2.ob.np._mat.defmatrix.N.fromnumeric._methods.mu", 
+                "a2p2.ob.np.core.multiarray"
+            ], 
+            "numpy.linalg._umath_linalg": [
+                "a2p2.ob.np.linalg.linalg._umath_linalg", 
+                "a2p2.ob.np.linalg._umath_linalg"
+            ], 
+            "numpy.lib.recfunctions": [
+                "a2p2.ob.np.lib.recfunctions"
+            ], 
+            "cgi": [
+                "a2p2.ob.cgi"
+            ], 
+            "numpy.ma.core": [
+                "a2p2.ob.np.lib.recfunctions.ma.extras.ma", 
+                "a2p2.ob.np.lib.recfunctions.ma.core"
+            ], 
+            "numpy.core._add_newdocs": [
+                "a2p2.ob.np.core._add_newdocs"
+            ], 
+            "numpy.lib.stride_tricks": [
+                "a2p2.ob.np.lib.stride_tricks"
+            ], 
+            "numpy.core.getlimits": [
+                "a2p2.ob.np.core.getlimits"
+            ], 
+            "abc": [
+                "a2p2.ob.cgi.mimetools.tempfile._io.abc", 
+                "a2p2.ob.np.compat.py3k.abc"
+            ], 
+            "numpy.matrixlib": [
+                "a2p2.ob.np.matrixlib", 
+                "a2p2.ob.np._mat", 
+                "a2p2.ob.np.lib.index_tricks.matrixlib"
+            ], 
+            "_tkinter": [
+                "a2p2.gui.tkinter", 
+                "a2p2.gui.ttk.Tkinter._tkinter", 
+                "a2p2.gui.ttk.Tkinter.tkinter"
+            ], 
+            "numpy.ma.extras": [
+                "a2p2.ob.np.lib.recfunctions.ma.extras"
+            ], 
+            "numpy._globals": [
+                "a2p2.ob.np._globals"
+            ], 
+            "rfc822": [
+                "a2p2.ob.cgi.mimetools.rfc822", 
+                "a2p2.ob.cgi.rfc822"
+            ], 
+            "numpy.lib.npyio": [
+                "a2p2.ob.np.lib.npyio"
+            ], 
+            "re": [
+                "a2p2.ob.np.lib.recfunctions.ma.core.textwrap.re", 
+                "a2p2.ob.re", 
+                "a2p2.ob.np.core._internal.platform.string._re", 
+                "a2p2.ob.np.lib.npyio.re", 
+                "a2p2.ob.np.lib._version.re", 
+                "a2p2.ob.np.lib.utils.re", 
+                "a2p2.ob.ET.ElementPath.re", 
+                "a2p2.ob.np.lib._datasource.shutil.fnmatch.re", 
+                "a2p2.ob.cgi.urlparse.re", 
+                "a2p2.ob.ET.re", 
+                "a2p2.ob.np.testing._private.utils.re", 
+                "a2p2.gui.re", 
+                "a2p2.ob.np.testing._private.utils.unittest.loader.re", 
+                "a2p2.ob.np.lib.recfunctions.ma.core.re", 
+                "a2p2.ob.np.core._internal.re", 
+                "a2p2.ob.np.core._internal.platform.re", 
+                "a2p2.ob.json.decoder.re", 
+                "a2p2.ob.np.core._dtype_ctypes.ctypes.util.re", 
+                "a2p2.ob.np.lib.function_base.re", 
+                "a2p2.ob.np.testing._private.utils.unittest.case.re", 
+                "a2p2.gui.ttk.Tkinter.re", 
+                "a2p2.ob.json.decoder.scanner.re", 
+                "a2p2.ob.json.encoder.re", 
+                "a2p2.ob.np.lib.polynomial.re", 
+                "a2p2.ob.np.core._dtype_ctypes.ctypes.util.subprocess.pickle.re"
+            ], 
+            "numpy.lib.mixins": [
+                "a2p2.ob.np.lib.mixins"
+            ], 
+            "numpy.testing._private.utils": [
+                "a2p2.ob.np.testing._private.utils"
+            ], 
+            "a2p2.facility": [
+                "a2p2.facility"
+            ], 
+            "math": [
+                "a2p2.ob.np.lib.index_tricks.math", 
+                "a2p2.ob.np.lib.math", 
+                "a2p2.ob.np.math"
+            ], 
+            "numpy.fft.helper": [
+                "a2p2.ob.np.fft.helper"
+            ], 
+            "fcntl": [
+                "a2p2.ob.cgi.mimetools.tempfile._fcntl", 
+                "a2p2.ob.np.core._dtype_ctypes.ctypes.util.subprocess.fcntl"
+            ], 
+            "unittest.case": [
+                "a2p2.ob.np.testing._private.utils.unittest.case", 
+                "a2p2.ob.np.testing._private.utils.unittest.loader.case", 
+                "a2p2.ob.np.testing._private.utils.unittest.loader.suite.case"
+            ], 
+            "Tkinter": [
+                "a2p2.gui.ttk.Tkinter"
+            ], 
+            "ast": [
+                "a2p2.ob.np._mat.defmatrix.ast"
+            ], 
+            "UserDict": [
+                "a2p2.ob.cgi.UserDict", 
+                "a2p2.ob.np.lib.npyio.weakref.UserDict", 
+                "a2p2.client.traceback.linecache.os.UserDict"
+            ], 
+            "unittest.suite": [
+                "a2p2.ob.np.testing._private.utils.unittest.suite", 
+                "a2p2.ob.np.testing._private.utils.unittest.loader.suite"
+            ], 
+            "_ctypes": [
+                "a2p2.ob.np.core._dtype_ctypes._ctypes"
+            ], 
+            "numpy.linalg": [
+                "a2p2.ob.np.polynomial.hermite_e.la", 
+                "a2p2.ob.np.polynomial.hermite.la", 
+                "a2p2.ob.np.polynomial.legendre.la", 
+                "a2p2.ob.np.polynomial.polynomial.la", 
+                "a2p2.ob.np.polynomial.laguerre.la", 
+                "a2p2.ob.np.linalg", 
+                "a2p2.ob.np.polynomial.chebyshev.la"
+            ], 
+            "numpy.lib.ufunclike": [
+                "a2p2.ob.np.lib.ufunclike"
+            ], 
+            "json.scanner": [
+                "a2p2.ob.json.decoder.scanner", 
+                "a2p2.ob.json.scanner"
+            ], 
+            "ctypes": [
+                "a2p2.ob.np.ctypeslib.ctypes", 
+                "a2p2.ob.np.core._dtype_ctypes.ctypes", 
+                "a2p2.ob.np.core._internal.ctypes"
+            ], 
+            "unittest.runner": [
+                "a2p2.ob.np.testing._private.utils.unittest.runner"
+            ], 
+            "unittest.signals": [
+                "a2p2.ob.np.testing._private.utils.unittest.signals"
+            ], 
+            "numpy.testing._private": [
+                "a2p2.ob.np.testing._private"
+            ], 
+            "unittest.loader": [
+                "a2p2.ob.np.testing._private.utils.unittest.loader"
+            ], 
+            "_locale": [
+                "a2p2.gui.re._locale"
+            ], 
+            "thread": [
+                "a2p2.ob.cgi.mimetools.tempfile._thread"
+            ], 
+            "numpy.core.overrides": [
+                "a2p2.ob.np.lib.histograms.overrides", 
+                "a2p2.ob.np._mat.defmatrix.N.arrayprint.multiarray.overrides", 
+                "a2p2.ob.np.char.overrides", 
+                "a2p2.ob.np.core.shape_base.overrides", 
+                "a2p2.ob.np.lib.npyio.overrides", 
+                "a2p2.ob.np._mat.defmatrix.N.overrides", 
+                "a2p2.ob.np.lib.twodim_base.overrides", 
+                "a2p2.ob.np._mat.defmatrix.N.fromnumeric.overrides", 
+                "a2p2.ob.np.fft.fftpack.overrides", 
+                "a2p2.ob.np.lib.arraysetops.overrides", 
+                "a2p2.ob.np.lib.type_check.overrides", 
+                "a2p2.ob.np.linalg.linalg.overrides", 
+                "a2p2.ob.np.lib.polynomial.overrides", 
+                "a2p2.ob.np.core.function_base.overrides", 
+                "a2p2.ob.np.lib.index_tricks.overrides", 
+                "a2p2.ob.np.lib.function_base.overrides", 
+                "a2p2.ob.np.lib.shape_base.overrides", 
+                "a2p2.ob.np.core.overrides", 
+                "a2p2.ob.np.lib.nanfunctions.overrides", 
+                "a2p2.ob.np.lib.financial.overrides"
+            ], 
+            "traceback": [
+                "a2p2.ob.np.testing._private.utils.unittest.case.result.traceback", 
+                "a2p2.ob.np.testing._private.utils.unittest.loader.traceback", 
+                "a2p2.ob.np.core._dtype_ctypes.ctypes.util.subprocess.traceback", 
+                "a2p2.ob.traceback", 
+                "a2p2.client.traceback"
+            ], 
+            "weakref": [
+                "a2p2.ob.np.testing._private.utils.unittest.signals.weakref", 
+                "a2p2.ob.np.lib.npyio.weakref"
+            ], 
+            "itertools": [
+                "a2p2.ob.np._mat.defmatrix.N.itertools", 
+                "a2p2.ob.np.lib.recfunctions.itertools", 
+                "a2p2.ob.np.lib.recfunctions.ma.extras.itertools", 
+                "a2p2.ob.np.lib.npyio.itertools", 
+                "a2p2.ob.np.core.einsumfunc.itertools"
+            ], 
+            "numpy.fft.fftpack": [
+                "a2p2.ob.np.fft.fftpack"
+            ], 
+            "warnings": [
+                "a2p2.ob.np.testing._private.utils.warnings", 
+                "a2p2.ob.np._mat.defmatrix.N.arrayprint.multiarray.warnings", 
+                "a2p2.ob.np.polynomial.hermite.warnings", 
+                "a2p2.ob.np.lib.polynomial.warnings", 
+                "a2p2.ob.np.lib.histograms.warnings", 
+                "a2p2.ob.np.lib.recfunctions.ma.mrecords.warnings", 
+                "a2p2.ob.np.lib.shape_base.warnings", 
+                "a2p2.ob.np.testing._private.nosetester.warnings", 
+                "a2p2.ob.np.core.function_base.warnings", 
+                "a2p2.ob.np._mat.defmatrix.N.fromnumeric.warnings", 
+                "a2p2.ob.np.lib.npyio.warnings", 
+                "a2p2.ob.np.lib.format.warnings", 
+                "a2p2.ob.np.random.mtrand.warnings", 
+                "a2p2.ob.np.polynomial.legendre.warnings", 
+                "a2p2.client.traceback.linecache.os.path.warnings", 
+                "a2p2.ob.np.lib.function_base.warnings", 
+                "a2p2.ob.np._mat.defmatrix.N.arrayprint.warnings", 
+                "a2p2.ob.np.testing._private.utils.unittest.case.warnings", 
+                "a2p2.ob.np.lib.nanfunctions.warnings", 
+                "a2p2.ob.np._mat.defmatrix.N.fromnumeric._methods.warnings", 
+                "a2p2.ob.np._mat.defmatrix.warnings", 
+                "a2p2.ob.np.lib._datasource.warnings", 
+                "a2p2.ob.np.linalg.linalg.warnings", 
+                "a2p2.ob.np.polynomial.polynomial.warnings", 
+                "a2p2.ob.np.lib.type_check.warnings", 
+                "a2p2.ob.np.core.shape_base.warnings", 
+                "a2p2.ob.np.random.warnings", 
+                "a2p2.ob.np.testing._private.utils.pprint.warnings", 
+                "a2p2.ob.np.core._type_aliases.warnings", 
+                "a2p2.ob.np.warnings", 
+                "a2p2.ob.np.core._dtype_ctypes.ctypes.util.subprocess.threading.warnings", 
+                "a2p2.ob.np.lib.ufunclike.warnings", 
+                "a2p2.ob.np._mat.defmatrix.N.warnings", 
+                "a2p2.ob.np.core.getlimits.warnings", 
+                "a2p2.ob.ET.warnings", 
+                "a2p2.ob.np.lib.recfunctions.ma.extras.warnings", 
+                "a2p2.ob.np.lib.utils.warnings", 
+                "a2p2.ob.np.polynomial.hermite_e.warnings", 
+                "a2p2.ob.np.polynomial.chebyshev.warnings", 
+                "a2p2.ob.np._mat.defmatrix.N.arrayprint._nt.warnings", 
+                "a2p2.ob.np.polynomial.laguerre.warnings", 
+                "a2p2.ob.np.lib.recfunctions.ma.core.warnings", 
+                "a2p2.ob.np.core.rec.warnings"
+            ], 
+            "numpy.linalg.lapack_lite": [
+                "a2p2.ob.np.linalg.linalg.lapack_lite", 
+                "a2p2.ob.np.linalg.lapack_lite"
+            ], 
+            "numpy.ma": [
+                "a2p2.ob.np.ma", 
+                "a2p2.ob.np.lib.recfunctions.ma"
+            ], 
+            "os": [
+                "a2p2.ob.np.__config__.os", 
+                "a2p2.ob.np._mat.defmatrix.N.arrayprint.multiarray.overrides.os", 
+                "a2p2.ob.np.core._dtype_ctypes.ctypes._os", 
+                "a2p2.ob.cgi.os", 
+                "a2p2.client.traceback.linecache.os", 
+                "a2p2.ob.np.core._dtype_ctypes.ctypes.util.subprocess.os", 
+                "a2p2.ob.np.lib.npyio.os", 
+                "a2p2.ob.cgi.mimetools.tempfile._os", 
+                "a2p2.ob.np.testing._private.nosetester.os", 
+                "a2p2.ob.np.testing._private.utils.unittest.loader.os", 
+                "a2p2.ob.cgi.mimetools.os", 
+                "a2p2.ob.np.core.rec.os", 
+                "a2p2.ob.np._pytesttester.os", 
+                "a2p2.ob.np.lib.utils.os", 
+                "a2p2.ob.np.testing._private.utils.os", 
+                "a2p2.ob.np.lib._datasource.shutil.os", 
+                "a2p2.ob.np.core._internal.platform.os", 
+                "a2p2.ob.np.ctypeslib.os", 
+                "a2p2.ob.np.lib._datasource.os", 
+                "a2p2.ob.np.core._dtype_ctypes.ctypes.util.os", 
+                "a2p2.ob.np.testing._private.utils.unittest.case.result.os"
+            ], 
+            "marshal": [
+                "a2p2.ob.np.core._dtype_ctypes.ctypes.util.subprocess.pickle.marshal"
+            ], 
+            "json.decoder": [
+                "a2p2.ob.json.decoder"
+            ], 
+            "numpy.core.shape_base": [
+                "a2p2.ob.np.core.shape_base"
+            ], 
+            "_sre": [
+                "a2p2.gui.re.sre_compile._sre"
+            ], 
+            "unittest": [
+                "a2p2.ob.np.testing._private.utils.unittest"
+            ], 
+            "numpy.random": [
+                "a2p2.ob.np.random"
+            ], 
+            "__builtin__": [
+                "a2p2.ob.np._mat.defmatrix.N.pickle.__builtins__", 
+                "a2p2.ob.np._mat.defmatrix.N.builtins", 
+                "a2p2.ob.np.lib.function_base.builtins", 
+                "a2p2.ob.np.lib.recfunctions.ma.core.builtins", 
+                "a2p2.ob.np.random.mtrand.__builtins__"
+            ], 
+            "numpy.lib.twodim_base": [
+                "a2p2.ob.np.lib.twodim_base"
+            ], 
+            "numpy.polynomial": [
+                "a2p2.ob.np.polynomial"
+            ], 
+            "operator": [
+                "a2p2.ob.np._mat.defmatrix.N.operator", 
+                "a2p2.ob.np.core.function_base.operator", 
+                "a2p2.ob.np.lib.recfunctions.ma.core.operator", 
+                "a2p2.ob.np.random.operator", 
+                "a2p2.ob.np.lib.histograms.operator", 
+                "a2p2.ob.np.core.shape_base.operator", 
+                "a2p2.ob.np.random.mtrand.operator", 
+                "a2p2.ob.np.linalg.linalg.operator", 
+                "a2p2.ob.np.testing._private.utils.operator"
+            ], 
+            "select": [
+                "a2p2.ob.np.core._dtype_ctypes.ctypes.util.subprocess.select"
+            ], 
+            "posixpath": [
+                "a2p2.client.traceback.linecache.os.path"
+            ], 
+            "numpy.lib.financial": [
+                "a2p2.ob.np.lib.financial"
+            ], 
+            "numpy.polynomial.laguerre": [
+                "a2p2.ob.np.polynomial.laguerre"
+            ], 
+            "errno": [
+                "a2p2.ob.np.core._dtype_ctypes.ctypes.util.errno", 
+                "a2p2.ob.np.core._dtype_ctypes.ctypes.util.subprocess.errno", 
+                "a2p2.client.traceback.linecache.os.errno", 
+                "a2p2.ob.cgi.mimetools.tempfile._errno", 
+                "a2p2.ob.np.lib._datasource.shutil.errno"
+            ], 
+            "binascii": [
+                "a2p2.ob.np.core._dtype_ctypes.ctypes.util.subprocess.pickle._binascii"
+            ], 
+            "json": [
+                "a2p2.ob.json"
+            ], 
+            "numpy.core.arrayprint": [
+                "a2p2.ob.np.core.arrayprint", 
+                "a2p2.ob.np._mat.defmatrix.N.arrayprint"
+            ], 
+            "numpy.core._methods": [
+                "a2p2.ob.np._mat.defmatrix.N.fromnumeric._methods", 
+                "a2p2.ob.np.core._methods"
+            ], 
+            "numpy.core.function_base": [
+                "a2p2.ob.np.core.function_base"
+            ], 
+            "a2p2.client": [
+                "a2p2.client"
+            ], 
+            "numpy": [
+                "a2p2.ob.np"
+            ], 
+            "numpy.lib.histograms": [
+                "a2p2.ob.np.lib.histograms"
+            ], 
+            "numpy.polynomial.chebyshev": [
+                "a2p2.ob.np.polynomial.chebyshev"
+            ], 
+            "cPickle": [
+                "a2p2.ob.np.lib.npyio.pickle", 
+                "a2p2.ob.np.lib.format.pickle", 
+                "a2p2.ob.np._mat.defmatrix.N.pickle", 
+                "a2p2.ob.np.lib.recfunctions.ma.core.pickle"
+            ], 
+            "numpy.polynomial.hermite_e": [
+                "a2p2.ob.np.polynomial.hermite_e"
+            ], 
+            "numpy.__config__": [
+                "a2p2.ob.np.__config__"
+            ], 
+            "numpy.core._string_helpers": [
+                "a2p2.ob.np.core._string_helpers"
+            ], 
+            "numpy.core._multiarray_umath": [
+                "a2p2.ob.np._mat.defmatrix.N.arrayprint.multiarray._multiarray_umath", 
+                "a2p2.ob.np.core._multiarray_umath", 
+                "a2p2.ob.np._mat.defmatrix.N.fromnumeric._methods.um._multiarray_umath"
+            ], 
+            "numpy.core.fromnumeric": [
+                "a2p2.ob.np._mat.defmatrix.N.fromnumeric", 
+                "a2p2.ob.np.core.fromnumeric"
+            ], 
+            "numpy.ctypeslib": [
+                "a2p2.ob.np.ctypeslib"
+            ], 
+            "numpy.lib.scimath": [
+                "a2p2.ob.np.lib.scimath", 
+                "a2p2.ob.np.emath", 
+                "a2p2.ob.np.lib.emath"
+            ], 
+            "numpy.fft": [
+                "a2p2.ob.np.fft"
+            ], 
+            "numpy.lib": [
+                "a2p2.ob.np.lib"
+            ], 
+            "numpy.lib.nanfunctions": [
+                "a2p2.ob.np.lib.nanfunctions"
+            ], 
+            "numpy.lib.function_base": [
+                "a2p2.ob.np.lib.function_base", 
+                "a2p2.ob.np.lib.nanfunctions.function_base"
+            ], 
+            "fnmatch": [
+                "a2p2.ob.np.lib._datasource.shutil.fnmatch"
+            ], 
+            "sre_parse": [
+                "a2p2.gui.re.sre_compile.sre_parse", 
+                "a2p2.gui.re.sre_parse"
+            ], 
+            "pickle": [
+                "a2p2.ob.np.core._dtype_ctypes.ctypes.util.subprocess.pickle"
+            ], 
+            "mimetools": [
+                "a2p2.ob.cgi.mimetools"
+            ], 
+            "copy_reg": [
+                "a2p2.client.traceback.linecache.os._copy_reg", 
+                "a2p2.gui.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "a2p2.gui.re.sre_compile"
+            ], 
+            "numpy.compat.py3k": [
+                "a2p2.ob.np.compat.py3k"
+            ], 
+            "numpy.lib.shape_base": [
+                "a2p2.ob.np.lib.shape_base"
+            ], 
+            "numpy.lib.polynomial": [
+                "a2p2.ob.np.lib.polynomial"
+            ], 
+            "numpy.compat": [
+                "a2p2.ob.np.compat"
+            ], 
+            "numpy.polynomial.hermite": [
+                "a2p2.ob.np.polynomial.hermite"
+            ], 
+            "contextlib": [
+                "a2p2.ob.np.testing._private.utils.contextlib", 
+                "a2p2.ob.np._mat.defmatrix.N.arrayprint.contextlib"
+            ], 
+            "numbers": [
+                "a2p2.ob.np._mat.defmatrix.N.arrayprint.numbers", 
+                "a2p2.ob.np._mat.defmatrix.N.arrayprint._nt.numbers", 
+                "a2p2.ob.np._mat.defmatrix.N.numbers", 
+                "a2p2.ob.np.polynomial._polybase.numbers"
+            ], 
+            "io": [
+                "a2p2.ob.np.lib._datasource.io", 
+                "a2p2.ob.np.lib.format.io", 
+                "a2p2.ob.cgi.mimetools.tempfile._io"
+            ], 
+            "a2p2.version": [
+                "a2p2.version"
+            ], 
+            "numpy.fft.info": [
+                "a2p2.ob.np.fft.info"
+            ], 
+            "numpy.core.records": [
+                "a2p2.ob.np.core.rec", 
+                "a2p2.ob.np.rec", 
+                "a2p2.ob.np.core.records"
+            ], 
+            "shutil": [
+                "a2p2.ob.np.testing._private.utils.shutil", 
+                "a2p2.ob.np.lib._datasource.shutil"
+            ], 
+            "numpy.polynomial.polynomial": [
+                "a2p2.ob.np.polynomial.polynomial"
+            ], 
+            "numpy.core._dtype": [
+                "a2p2.ob.np.core._dtype"
+            ], 
+            "_io": [
+                "a2p2.ob.cgi.mimetools.tempfile._io._io"
+            ], 
+            "unittest.result": [
+                "a2p2.ob.np.testing._private.utils.unittest.result", 
+                "a2p2.ob.np.testing._private.utils.unittest.runner.result", 
+                "a2p2.ob.np.testing._private.utils.unittest.case.result"
+            ], 
+            "xml.etree.ElementPath": [
+                "a2p2.ob.ET.ElementPath"
+            ], 
+            "numpy.core.numeric": [
+                "a2p2.ob.np.core.rec.sb", 
+                "a2p2.ob.np.core.shape_base._nx", 
+                "a2p2.ob.np.core.numeric", 
+                "a2p2.ob.np.lib.shape_base._nx", 
+                "a2p2.ob.np.lib.ufunclike.nx", 
+                "a2p2.ob.np.core.function_base._nx", 
+                "a2p2.ob.np.lib.type_check._nx", 
+                "a2p2.ob.np.lib._iotools.nx", 
+                "a2p2.ob.np.lib.index_tricks._nx", 
+                "a2p2.ob.np.core.getlimits.numeric", 
+                "a2p2.ob.np.lib.polynomial.NX", 
+                "a2p2.ob.np._mat.defmatrix.N", 
+                "a2p2.ob.np.emath.nx", 
+                "a2p2.ob.np.lib.function_base._nx"
+            ], 
+            "numpy.linalg.info": [
+                "a2p2.ob.np.linalg.info"
+            ], 
+            "numpy.core.defchararray": [
+                "a2p2.ob.np.core.defchararray", 
+                "a2p2.ob.np.char", 
+                "a2p2.ob.np.core.char"
+            ], 
+            "_abcoll": [
+                "a2p2.client.traceback.linecache.os.UserDict._abcoll", 
+                "a2p2.ob.np._mat.defmatrix.N.arrayprint.multiarray.overrides.collections._abcoll"
+            ], 
+            "numpy.core": [
+                "a2p2.ob.np.core"
+            ], 
+            "genericpath": [
+                "a2p2.client.traceback.linecache.os.path.genericpath"
+            ], 
+            "stat": [
+                "a2p2.client.traceback.linecache.os.path.genericpath.stat", 
+                "a2p2.client.traceback.linecache.os.path.stat", 
+                "a2p2.ob.np.lib._datasource.shutil.stat"
+            ], 
+            "numpy.ma.mrecords": [
+                "a2p2.ob.np.lib.recfunctions.ma.mrecords"
+            ], 
+            "numpy.lib.index_tricks": [
+                "a2p2.ob.np.lib.index_tricks"
+            ], 
+            "ctypes.util": [
+                "a2p2.ob.np.core._dtype_ctypes.ctypes.util"
+            ], 
+            "numpy.lib.utils": [
+                "a2p2.ob.np.lib.utils"
+            ], 
+            "numpy.polynomial.polyutils": [
+                "a2p2.ob.np.polynomial.hermite.pu", 
+                "a2p2.ob.np.polynomial.laguerre.pu", 
+                "a2p2.ob.np.polynomial.hermite_e.pu", 
+                "a2p2.ob.np.polynomial.chebyshev.pu", 
+                "a2p2.ob.np.polynomial.polyutils", 
+                "a2p2.ob.np.polynomial._polybase.pu", 
+                "a2p2.ob.np.polynomial.polynomial.pu", 
+                "a2p2.ob.np.polynomial.legendre.pu"
+            ], 
+            "textwrap": [
+                "a2p2.ob.np.lib.recfunctions.ma.core.textwrap"
+            ], 
+            "sys": [
+                "a2p2.ob.cgi.mimetools.sys", 
+                "a2p2.ob.np._mat.defmatrix.N.arrayprint.contextlib.sys", 
+                "a2p2.client.sys", 
+                "a2p2.ob.np.__config__.sys", 
+                "a2p2.ob.np.lib.recfunctions.ma.mrecords.sys", 
+                "a2p2.ob.np.testing._private.utils.unittest.loader.sys", 
+                "a2p2.ob.np._mat.defmatrix.N.arrayprint.multiarray.overrides.collections._sys", 
+                "a2p2.ob.cgi.sys", 
+                "a2p2.ob.np.core._dtype.sys", 
+                "a2p2.ob.np.core._dtype_ctypes.ctypes.util.subprocess.pickle.sys", 
+                "a2p2.ob.np.core._dtype_ctypes.ctypes._endian.sys", 
+                "a2p2.ob.np.testing._private.utils.unittest.loader.suite.sys", 
+                "a2p2.ob.np.core._internal.sys", 
+                "a2p2.ob.ET.sys", 
+                "a2p2.ob.np.core._type_aliases.sys", 
+                "a2p2.ob.np.testing._private.utils.sys", 
+                "a2p2.ob.np.testing._private.utils.unittest.case.result.sys", 
+                "a2p2.client.traceback.linecache.os.path.warnings.sys", 
+                "a2p2.ob.np.compat.py3k.sys", 
+                "a2p2.ob.np._mat.defmatrix.N.arrayprint.sys", 
+                "a2p2.gui.sys", 
+                "a2p2.ob.np._mat.defmatrix.N.arrayprint.multiarray.sys", 
+                "a2p2.ob.np._mat.defmatrix.N.arrayprint._nt.sys", 
+                "a2p2.ob.np.lib.recfunctions.sys", 
+                "a2p2.ob.np.lib.mixins.sys", 
+                "a2p2.client.traceback.linecache.sys", 
+                "a2p2.gui.re.sre_compile.sre_parse.sys", 
+                "a2p2.ob.np._pytesttester.sys", 
+                "a2p2.ob.np.core._dtype_ctypes.ctypes.util.subprocess.threading._sys", 
+                "a2p2.ob.np.lib.npyio.sys", 
+                "a2p2.ob.np.testing._private.utils.unittest.case.sys", 
+                "a2p2.ob.np.lib.format.sys", 
+                "a2p2.ob.np.char.sys", 
+                "a2p2.ob.np._mat.defmatrix.sys", 
+                "a2p2.ob.np.lib._datasource.sys", 
+                "a2p2.client.traceback.linecache.os.path.sys", 
+                "a2p2.ob.np.testing._private.nosetester.sys", 
+                "a2p2.gui.re.sre_compile.sys", 
+                "a2p2.gui.ttk.Tkinter.sys", 
+                "a2p2.ob.np.sys", 
+                "a2p2.ob.json.decoder.sys", 
+                "a2p2.ob.np.lib._iotools.sys", 
+                "a2p2.client.traceback.linecache.os.sys", 
+                "a2p2.ob.np.core._internal.platform.sys", 
+                "a2p2.ob.np.lib.utils.sys", 
+                "a2p2.ob.np.core._dtype_ctypes.ctypes.util.subprocess.sys", 
+                "a2p2.ob.np.core._dtype_ctypes.ctypes.util.sys", 
+                "a2p2.ob.np.core._dtype_ctypes.ctypes._sys", 
+                "a2p2.ob.np.lib._datasource.shutil.sys", 
+                "a2p2.client.traceback.sys", 
+                "a2p2.gui.re.sys", 
+                "a2p2.ob.np.lib.recfunctions.ma.core.sys", 
+                "a2p2.ob.np.lib.function_base.sys", 
+                "a2p2.client.traceback.linecache.os.UserDict._abcoll.sys", 
+                "a2p2.ob.np.core._add_newdocs.sys", 
+                "a2p2.ob.np._mat.defmatrix.N.sys", 
+                "a2p2.ob.np.core.rec.sys", 
+                "a2p2.ob.np.testing._private.utils.pprint._sys", 
+                "a2p2.ob.np.lib.index_tricks.sys", 
+                "a2p2.ob.np.testing._private.utils.unittest.runner.sys"
+            ], 
+            "numpy.compat._inspect": [
+                "a2p2.ob.np.compat._inspect"
+            ], 
+            "numpy.lib.format": [
+                "a2p2.ob.np.lib.npyio.format", 
+                "a2p2.ob.np.lib.format"
+            ], 
+            "numpy.lib.arrayterator": [
+                "a2p2.ob.np.lib.arrayterator"
+            ], 
+            "numpy._distributor_init": [
+                "a2p2.ob.np._distributor_init"
+            ], 
+            "types": [
+                "a2p2.client.traceback.types", 
+                "a2p2.client.traceback.linecache.os.path.warnings.types", 
+                "a2p2.ob.np.lib.utils.types", 
+                "a2p2.ob.np.core._dtype_ctypes.ctypes.util.subprocess.types", 
+                "a2p2.ob.np._mat.defmatrix.N.fromnumeric.types", 
+                "a2p2.ob.np.testing._private.utils.unittest.loader.types", 
+                "a2p2.ob.np.core.shape_base.types", 
+                "a2p2.ob.np.testing._private.utils.unittest.case.types", 
+                "a2p2.ob.np.compat._inspect.types", 
+                "a2p2.ob.np._mat.defmatrix.N.arrayprint._nt._types", 
+                "a2p2.ob.cgi.mimetools.tempfile._io.abc.types"
+            ], 
+            "numpy.testing._private.decorators": [
+                "a2p2.ob.np.testing.dec", 
+                "a2p2.ob.np.testing._private.decorators"
+            ], 
+            "numpy.lib.arraypad": [
+                "a2p2.ob.np.lib.arraypad"
+            ], 
+            "difflib": [
+                "a2p2.ob.np.testing._private.utils.unittest.case.difflib"
+            ], 
+            "urlparse": [
+                "a2p2.ob.cgi.urlparse"
+            ], 
+            "linecache": [
+                "a2p2.client.traceback.linecache"
+            ], 
+            "a2p2.ob": [
+                "a2p2.ob"
+            ], 
+            "time": [
+                "a2p2.ob.np.testing._private.utils.unittest.runner.time", 
+                "a2p2.client.time", 
+                "a2p2.gui.time", 
+                "a2p2.ob.cgi.mimetools.rfc822.time"
+            ], 
+            "numpy.linalg.linalg": [
+                "a2p2.ob.np.linalg.linalg"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.2.2", 
+        "name": "a2p2", 
+        "python_version": "2.7.18"
+    }
+}
