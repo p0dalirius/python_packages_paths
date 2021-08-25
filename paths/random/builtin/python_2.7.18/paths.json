@@ -1,0 +1,21 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "_hashlib": [
+                "random._hashlib._hashlib"
+            ], 
+            "_random": [
+                "random._random"
+            ], 
+            "hashlib": [
+                "random._hashlib"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "random", 
+        "python_version": "2.7.18"
+    }
+}
