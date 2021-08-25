@@ -1,0 +1,40 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "_locale": [
+                "textwrap.re._locale"
+            ], 
+            "copy_reg": [
+                "textwrap.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "textwrap.re.sre_compile"
+            ], 
+            "_sre": [
+                "textwrap.re.sre_compile._sre"
+            ], 
+            "sys": [
+                "textwrap.re.sre_compile.sre_parse.sys", 
+                "textwrap.re.sre_compile.sys", 
+                "textwrap.re.sys"
+            ], 
+            "re": [
+                "textwrap.string._re", 
+                "textwrap.re"
+            ], 
+            "sre_parse": [
+                "textwrap.re.sre_compile.sre_parse", 
+                "textwrap.re.sre_parse"
+            ], 
+            "string": [
+                "textwrap.string"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "textwrap", 
+        "python_version": "2.7.18"
+    }
+}
