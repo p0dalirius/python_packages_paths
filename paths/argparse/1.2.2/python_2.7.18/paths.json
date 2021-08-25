@@ -1,0 +1,97 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "heapq": [
+                "argparse._collections._heapq"
+            ], 
+            "copy_reg": [
+                "argparse._os._copy_reg", 
+                "argparse._re.copy_reg"
+            ], 
+            "sre_compile": [
+                "argparse._re.sre_compile"
+            ], 
+            "_sre": [
+                "argparse._re.sre_compile._sre"
+            ], 
+            "posixpath": [
+                "argparse._os.path"
+            ], 
+            "errno": [
+                "argparse._os.errno"
+            ], 
+            "re": [
+                "argparse._textwrap.re", 
+                "argparse._textwrap.string._re", 
+                "argparse._re"
+            ], 
+            "_abcoll": [
+                "argparse._copy.weakref.UserDict._abcoll", 
+                "argparse._collections._abcoll"
+            ], 
+            "collections": [
+                "argparse._collections"
+            ], 
+            "genericpath": [
+                "argparse._os.path.genericpath"
+            ], 
+            "stat": [
+                "argparse._os.path.genericpath.stat", 
+                "argparse._os.path.stat"
+            ], 
+            "string": [
+                "argparse._textwrap.string"
+            ], 
+            "warnings": [
+                "argparse._os.path.warnings"
+            ], 
+            "UserDict": [
+                "argparse._os.UserDict", 
+                "argparse._copy.weakref.UserDict"
+            ], 
+            "textwrap": [
+                "argparse._textwrap"
+            ], 
+            "sys": [
+                "argparse._os.path.sys", 
+                "argparse._re.sre_compile.sys", 
+                "argparse._collections._sys", 
+                "argparse._re.sre_compile.sre_parse.sys", 
+                "argparse._os.path.warnings.sys", 
+                "argparse._re.sys", 
+                "argparse._collections._abcoll.sys", 
+                "argparse._os.sys", 
+                "argparse._sys", 
+                "argparse._os.path.warnings.linecache.sys"
+            ], 
+            "copy": [
+                "argparse._copy"
+            ], 
+            "types": [
+                "argparse._os.path.warnings.types"
+            ], 
+            "_locale": [
+                "argparse._re._locale"
+            ], 
+            "weakref": [
+                "argparse._copy.weakref"
+            ], 
+            "linecache": [
+                "argparse._os.path.warnings.linecache"
+            ], 
+            "sre_parse": [
+                "argparse._re.sre_parse", 
+                "argparse._re.sre_compile.sre_parse"
+            ], 
+            "os": [
+                "argparse._os"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "1.2.2", 
+        "name": "argparse", 
+        "python_version": "2.7.18"
+    }
+}
