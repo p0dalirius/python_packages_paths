@@ -1,0 +1,22 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "Actifio.actexceptions": [
+                "Actifio.actexceptions"
+            ], 
+            "exceptions": [
+                "Actifio.actexceptions.exceptions"
+            ], 
+            "sys": [
+                "Actifio.actexceptions.sys", 
+                "Actifio.sys"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.1.3", 
+        "name": "Actifio", 
+        "python_version": "2.7.18"
+    }
+}
