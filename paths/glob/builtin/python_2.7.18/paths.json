@@ -1,0 +1,78 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "stat": [
+                "glob.os.path.genericpath.stat", 
+                "glob.os.path.stat"
+            ], 
+            "genericpath": [
+                "glob.os.path.genericpath"
+            ], 
+            "_locale": [
+                "glob.fnmatch.re._locale"
+            ], 
+            "linecache": [
+                "glob.os.path.warnings.linecache"
+            ], 
+            "copy_reg": [
+                "glob.os._copy_reg", 
+                "glob.fnmatch.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "glob.fnmatch.re.sre_compile"
+            ], 
+            "warnings": [
+                "glob.os.path.warnings"
+            ], 
+            "_sre": [
+                "glob.fnmatch.re.sre_compile._sre"
+            ], 
+            "errno": [
+                "glob.os.errno"
+            ], 
+            "sys": [
+                "glob.os.path.warnings.linecache.sys", 
+                "glob.os.UserDict._abcoll.sys", 
+                "glob.fnmatch.re.sys", 
+                "glob.os.path.sys", 
+                "glob.os.path.warnings.sys", 
+                "glob.sys", 
+                "glob.os.sys", 
+                "glob.fnmatch.re.sre_compile.sre_parse.sys", 
+                "glob.fnmatch.re.sre_compile.sys"
+            ], 
+            "re": [
+                "glob.re", 
+                "glob.fnmatch.re"
+            ], 
+            "_abcoll": [
+                "glob.os.UserDict._abcoll"
+            ], 
+            "UserDict": [
+                "glob.os.UserDict"
+            ], 
+            "fnmatch": [
+                "glob.fnmatch"
+            ], 
+            "sre_parse": [
+                "glob.fnmatch.re.sre_parse", 
+                "glob.fnmatch.re.sre_compile.sre_parse"
+            ], 
+            "os": [
+                "glob.os"
+            ], 
+            "types": [
+                "glob.os.path.warnings.types"
+            ], 
+            "posixpath": [
+                "glob.os.path"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "glob", 
+        "python_version": "2.7.18"
+    }
+}
