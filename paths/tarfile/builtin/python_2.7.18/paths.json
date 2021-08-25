@@ -1,0 +1,117 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "heapq": [
+                "tarfile.shutil.collections._heapq"
+            ], 
+            "copy_reg": [
+                "tarfile.os._copy_reg", 
+                "tarfile.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "tarfile.re.sre_compile"
+            ], 
+            "_sre": [
+                "tarfile.re.sre_compile._sre"
+            ], 
+            "operator": [
+                "tarfile.operator"
+            ], 
+            "shutil": [
+                "tarfile.shutil"
+            ], 
+            "posixpath": [
+                "tarfile.os.path"
+            ], 
+            "grp": [
+                "tarfile.grp"
+            ], 
+            "errno": [
+                "tarfile.shutil.errno", 
+                "tarfile.errno", 
+                "tarfile.os.errno"
+            ], 
+            "re": [
+                "tarfile.shutil.fnmatch.re", 
+                "tarfile.re"
+            ], 
+            "_abcoll": [
+                "tarfile.copy.weakref.UserDict._abcoll", 
+                "tarfile.shutil.collections._abcoll"
+            ], 
+            "collections": [
+                "tarfile.shutil.collections"
+            ], 
+            "genericpath": [
+                "tarfile.os.path.genericpath"
+            ], 
+            "stat": [
+                "tarfile.os.path.genericpath.stat", 
+                "tarfile.os.path.stat", 
+                "tarfile.stat", 
+                "tarfile.shutil.stat"
+            ], 
+            "warnings": [
+                "tarfile.os.path.warnings"
+            ], 
+            "UserDict": [
+                "tarfile.os.UserDict", 
+                "tarfile.copy.weakref.UserDict"
+            ], 
+            "sys": [
+                "tarfile.shutil.collections._sys", 
+                "tarfile.os.path.warnings.sys", 
+                "tarfile.sys", 
+                "tarfile.re.sys", 
+                "tarfile.shutil.sys", 
+                "tarfile.os.sys", 
+                "tarfile.re.sre_compile.sre_parse.sys", 
+                "tarfile.os.path.warnings.linecache.sys", 
+                "tarfile.os.path.sys", 
+                "tarfile.re.sre_compile.sys", 
+                "tarfile.copy.weakref.UserDict._abcoll.sys"
+            ], 
+            "pwd": [
+                "tarfile.pwd"
+            ], 
+            "copy": [
+                "tarfile.copy"
+            ], 
+            "types": [
+                "tarfile.os.path.warnings.types"
+            ], 
+            "struct": [
+                "tarfile.struct"
+            ], 
+            "_locale": [
+                "tarfile.re._locale"
+            ], 
+            "weakref": [
+                "tarfile.copy.weakref"
+            ], 
+            "linecache": [
+                "tarfile.os.path.warnings.linecache"
+            ], 
+            "time": [
+                "tarfile.time"
+            ], 
+            "fnmatch": [
+                "tarfile.shutil.fnmatch"
+            ], 
+            "sre_parse": [
+                "tarfile.re.sre_compile.sre_parse", 
+                "tarfile.re.sre_parse"
+            ], 
+            "os": [
+                "tarfile.shutil.os", 
+                "tarfile.os"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "tarfile", 
+        "python_version": "2.7.18"
+    }
+}
