@@ -1,0 +1,27 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "sys": [
+                "aafigure.aafigure.sys"
+            ], 
+            "aafigure.error": [
+                "aafigure.error"
+            ], 
+            "aafigure.aafigure": [
+                "aafigure.aafigure"
+            ], 
+            "aafigure.shapes": [
+                "aafigure.shapes"
+            ], 
+            "math": [
+                "aafigure.shapes.math"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.6", 
+        "name": "aafigure", 
+        "python_version": "2.7.18"
+    }
+}
