@@ -1,0 +1,55 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "genericpath": [
+                "myghty.unixpath.genericpath"
+            ], 
+            "stat": [
+                "myghty.unixpath.stat", 
+                "myghty.unixpath.genericpath.stat"
+            ], 
+            "copy_reg": [
+                "myghty.unixpath.genericpath.os._copy_reg"
+            ], 
+            "posixpath": [
+                "myghty.unixpath"
+            ], 
+            "warnings": [
+                "myghty.unixpath.warnings"
+            ], 
+            "UserDict": [
+                "myghty.unixpath.genericpath.os.UserDict"
+            ], 
+            "sys": [
+                "myghty.unixpath.sys", 
+                "myghty.unixpath.genericpath.os.sys", 
+                "myghty.unixpath.genericpath.os.UserDict._abcoll.sys", 
+                "myghty.unixpath.warnings.linecache.sys", 
+                "myghty.unixpath.warnings.sys"
+            ], 
+            "linecache": [
+                "myghty.unixpath.warnings.linecache"
+            ], 
+            "_abcoll": [
+                "myghty.unixpath.genericpath.os.UserDict._abcoll"
+            ], 
+            "errno": [
+                "myghty.unixpath.genericpath.os.errno"
+            ], 
+            "os": [
+                "myghty.unixpath.warnings.linecache.os", 
+                "myghty.unixpath.genericpath.os", 
+                "myghty.unixpath.os"
+            ], 
+            "types": [
+                "myghty.unixpath.warnings.types"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "1.0", 
+        "name": "myghty", 
+        "python_version": "2.7.18"
+    }
+}
