@@ -1,0 +1,120 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "_socket": [
+                "urllib.socket._socket"
+            ], 
+            "copy_reg": [
+                "urllib.os._copy_reg", 
+                "urllib.base64.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "urllib.base64.re.sre_compile"
+            ], 
+            "_sre": [
+                "urllib.base64.re.sre_compile._sre"
+            ], 
+            "struct": [
+                "urllib.base64.struct"
+            ], 
+            "errno": [
+                "urllib.socket.errno", 
+                "urllib.ssl.errno", 
+                "urllib.os.errno"
+            ], 
+            "base64": [
+                "urllib.base64", 
+                "urllib.ssl.base64"
+            ], 
+            "binascii": [
+                "urllib.base64.binascii"
+            ], 
+            "re": [
+                "urllib.re", 
+                "urllib.ssl.textwrap.re", 
+                "urllib.base64.re", 
+                "urllib.ssl.re", 
+                "urllib.base64.string._re"
+            ], 
+            "_abcoll": [
+                "urllib.os.UserDict._abcoll"
+            ], 
+            "genericpath": [
+                "urllib.os.path.genericpath"
+            ], 
+            "stat": [
+                "urllib.os.path.stat", 
+                "urllib.os.path.genericpath.stat"
+            ], 
+            "_ssl": [
+                "urllib.socket._ssl", 
+                "urllib.ssl._ssl"
+            ], 
+            "string": [
+                "urllib.base64.string", 
+                "urllib.string", 
+                "urllib.ssl.textwrap.string"
+            ], 
+            "warnings": [
+                "urllib.ssl.warnings", 
+                "urllib.socket.warnings", 
+                "urllib.os.path.warnings"
+            ], 
+            "UserDict": [
+                "urllib.os.UserDict"
+            ], 
+            "textwrap": [
+                "urllib.ssl.textwrap"
+            ], 
+            "sys": [
+                "urllib.os.path.sys", 
+                "urllib.base64.re.sys", 
+                "urllib.ssl.sys", 
+                "urllib.os.path.warnings.linecache.sys", 
+                "urllib.sys", 
+                "urllib.base64.re.sre_compile.sys", 
+                "urllib.os.path.warnings.sys", 
+                "urllib.os.sys", 
+                "urllib.os.UserDict._abcoll.sys", 
+                "urllib.base64.re.sre_compile.sre_parse.sys", 
+                "urllib.socket.sys"
+            ], 
+            "ssl": [
+                "urllib.ssl"
+            ], 
+            "types": [
+                "urllib.os.path.warnings.types"
+            ], 
+            "posixpath": [
+                "urllib.os.path"
+            ], 
+            "_locale": [
+                "urllib.base64.re._locale"
+            ], 
+            "socket": [
+                "urllib.socket"
+            ], 
+            "linecache": [
+                "urllib.os.path.warnings.linecache"
+            ], 
+            "time": [
+                "urllib.time"
+            ], 
+            "sre_parse": [
+                "urllib.base64.re.sre_compile.sre_parse", 
+                "urllib.base64.re.sre_parse"
+            ], 
+            "os": [
+                "urllib.socket.os", 
+                "urllib.os", 
+                "urllib.ssl.os"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "urllib", 
+        "python_version": "2.7.18"
+    }
+}
