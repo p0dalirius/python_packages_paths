@@ -1,0 +1,887 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "heapq": [
+                "acme.josepy.b64.six.moves.queue.heapq", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.collections._heapq"
+            ], 
+            "dbm": [
+                "acme.josepy.b64.six.moves.dbm_ndbm"
+            ], 
+            "tkFileDialog": [
+                "acme.josepy.b64.six.moves.tkinter_tkfiledialog"
+            ], 
+            "functools": [
+                "acme.josepy.b64.six.functools", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.calendar._locale.functools"
+            ], 
+            "datetime": [
+                "acme.josepy.b64.six.moves.xmlrpc_client.datetime", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.calendar.datetime", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.datetime", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto.datetime", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.extensions.datetime", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.base.datetime"
+            ], 
+            "ttk": [
+                "acme.josepy.b64.six.moves.tkinter_ttk"
+            ], 
+            "cryptography.hazmat.bindings": [
+                "acme.josepy.jwa.cryptography.hazmat.bindings"
+            ], 
+            "tkSimpleDialog": [
+                "acme.josepy.b64.six.moves.tkinter_tksimpledialog"
+            ], 
+            "gdbm": [
+                "acme.josepy.b64.six.moves.dbm_gnu"
+            ], 
+            "six.moves.urllib.robotparser": [
+                "acme.josepy.b64.six.moves.urllib.robotparser", 
+                "acme.josepy.b64.six.Module_six_moves_urllib.robotparser"
+            ], 
+            "struct": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.extensions.ipaddress.struct", 
+                "acme.josepy.b64.base64.struct", 
+                "acme.josepy.b64.six.moves.xmlrpc_client.gzip.struct", 
+                "acme.josepy.interfaces.json.decoder.struct"
+            ], 
+            "tempfile": [
+                "acme.josepy.b64.six.moves.BaseHTTPServer.mimetools.tempfile"
+            ], 
+            "OpenSSL.SSL": [
+                "acme.josepy.interfaces.util.OpenSSL.SSL"
+            ], 
+            "base64": [
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.base64", 
+                "acme.josepy.jws.base64", 
+                "acme.josepy.b64.base64", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.base64", 
+                "acme.josepy.b64.six.moves.xmlrpc_client.base64"
+            ], 
+            "cryptography.x509": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto.x509", 
+                "acme.josepy.jwa.cryptography.x509"
+            ], 
+            "pyexpat.errors": [
+                "acme.josepy.b64.six.moves.xmlrpc_client.expat.errors"
+            ], 
+            "imp": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.dsa.utils.inspect.imp"
+            ], 
+            "collections": [
+                "acme.josepy.jws.argparse._collections", 
+                "acme.josepy.b64.six.moves.collections_abc", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.collections", 
+                "acme.josepy.jwa.cryptography.hazmat.bindings.openssl.binding.collections", 
+                "acme.josepy.json_util.logging.collections"
+            ], 
+            "cryptography.hazmat.bindings.openssl": [
+                "acme.josepy.jwa.cryptography.hazmat.bindings.openssl"
+            ], 
+            "six.moves.urllib_parse": [
+                "acme.josepy.b64.six.moves.urllib.parse", 
+                "acme.josepy.b64.six.moves.urllib_parse", 
+                "acme.josepy.b64.six.Module_six_moves_urllib.parse"
+            ], 
+            "cryptography.hazmat._oid": [
+                "acme.josepy.jwa.cryptography.hazmat._oid"
+            ], 
+            "string": [
+                "acme.josepy.b64.six.moves.http_cookies.string", 
+                "acme.josepy.b64.six.moves.xmlrpc_client.string", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.dsa.utils.inspect.string", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.string", 
+                "acme.josepy.b64.base64.string"
+            ], 
+            "SocketServer": [
+                "acme.josepy.b64.six.moves.socketserver", 
+                "acme.josepy.b64.six.moves.xmlrpc_server.SocketServer", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer"
+            ], 
+            "cryptography.hazmat.primitives.hashes": [
+                "acme.josepy.jwa.cryptography.hazmat.primitives.hashes", 
+                "acme.josepy.jwa.cryptography.hazmat.primitives.hmac.hashes", 
+                "acme.josepy.jwa.cryptography.hazmat.primitives.asymmetric.padding.hashes", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.oid.hashes", 
+                "acme.josepy.jwa.jwk.hashes", 
+                "acme.josepy.jwa.hashes"
+            ], 
+            "textwrap": [
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.textwrap", 
+                "acme.josepy.jws.argparse._textwrap"
+            ], 
+            "ssl": [
+                "acme.josepy.b64.six.moves.http_client.ssl", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl"
+            ], 
+            "cryptography.hazmat.primitives.ciphers.algorithms": [
+                "acme.josepy.jwa.cryptography.hazmat.primitives.ciphers.algorithms"
+            ], 
+            "json.encoder": [
+                "acme.josepy.interfaces.json.encoder"
+            ], 
+            "ScrolledText": [
+                "acme.josepy.b64.six.moves.tkinter_scrolledtext"
+            ], 
+            "cryptography.hazmat.primitives.serialization.base": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.extensions.serialization.base"
+            ], 
+            "cookielib": [
+                "acme.josepy.b64.six.moves.http_cookiejar"
+            ], 
+            "ConfigParser": [
+                "acme.josepy.b64.six.moves.configparser"
+            ], 
+            "httplib": [
+                "acme.josepy.b64.six.moves.xmlrpc_client.httplib", 
+                "acme.josepy.b64.six.moves.http_client", 
+                "acme.josepy.b64.six.moves.http_cookiejar.httplib"
+            ], 
+            "cryptography.hazmat._der": [
+                "acme.josepy.jwa.cryptography.hazmat._der"
+            ], 
+            "josepy.json_util": [
+                "acme.josepy.jwa.jwk.json_util", 
+                "acme.josepy.jws.json_util", 
+                "acme.josepy.json_util"
+            ], 
+            "threading": [
+                "acme.josepy.b64.six.moves.queue._threading", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer.threading", 
+                "acme.josepy.b64.six.moves.http_cookiejar._threading", 
+                "acme.josepy.jwa.cryptography.hazmat.bindings.openssl.binding.threading", 
+                "acme.josepy.json_util.logging.threading"
+            ], 
+            "tkMessageBox": [
+                "acme.josepy.b64.six.moves.tkinter_messagebox"
+            ], 
+            "six.moves.urllib.response": [
+                "acme.josepy.b64.six.moves.urllib.response", 
+                "acme.josepy.b64.six.Module_six_moves_urllib.response"
+            ], 
+            "pyexpat.model": [
+                "acme.josepy.b64.six.moves.xmlrpc_client.expat.model"
+            ], 
+            "dis": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.dsa.utils.inspect.dis"
+            ], 
+            "fcntl": [
+                "acme.josepy.b64.six.moves.BaseHTTPServer.mimetools.tempfile._fcntl", 
+                "acme.josepy.b64.six.moves.xmlrpc_server.fcntl"
+            ], 
+            "Tkdnd": [
+                "acme.josepy.b64.six.moves.tkinter_dnd"
+            ], 
+            "SimpleHTTPServer": [
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer", 
+                "acme.josepy.b64.six.moves.SimpleHTTPServer"
+            ], 
+            "locale": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.calendar._locale"
+            ], 
+            "stat": [
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer.os.path.stat", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.stat", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer.os.path.genericpath.stat"
+            ], 
+            "cryptography.hazmat.backends": [
+                "acme.josepy.jwa.cryptography.hazmat.backends"
+            ], 
+            "xml.parsers.expat": [
+                "acme.josepy.b64.six.moves.xmlrpc_client.expat"
+            ], 
+            "operator": [
+                "acme.josepy.b64.six.moves.xmlrpc_client.operator", 
+                "acme.josepy.b64.six.operator", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.calendar._locale.operator"
+            ], 
+            "HTMLParser": [
+                "acme.josepy.b64.six.moves.html_parser"
+            ], 
+            "encodings": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.calendar._locale.encodings"
+            ], 
+            "BaseHTTPServer": [
+                "acme.josepy.b64.six.moves.BaseHTTPServer", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.BaseHTTPServer", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.BaseHTTPServer", 
+                "acme.josepy.b64.six.moves.xmlrpc_server.BaseHTTPServer"
+            ], 
+            "calendar": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto.calendar", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.calendar"
+            ], 
+            "josepy.interfaces": [
+                "acme.josepy.interfaces", 
+                "acme.josepy.jwa.interfaces", 
+                "acme.josepy.json_util.interfaces"
+            ], 
+            "abc": [
+                "acme.josepy.json_util.abc", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.extensions.abc", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.base.abc", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.certificate_transparency.abc", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.base.ec.abc", 
+                "acme.josepy.jwa.abc", 
+                "acme.josepy.jwa.jwk.abc", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.dsa.utils.abc", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.oid.hashes.abc", 
+                "acme.josepy.jwa.cryptography.hazmat.primitives.asymmetric.padding.abc", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.rsa.abc", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.base.ed448.abc", 
+                "acme.josepy.jwa.cryptography.hazmat.primitives.asymmetric.abc", 
+                "acme.josepy.interfaces.abc", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.general_name.abc", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.mimetools.tempfile._io.abc", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.dsa.abc", 
+                "acme.josepy.jwa.cryptography.hazmat.backends.interfaces.abc", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.base.ed25519.abc", 
+                "acme.josepy.jwa.cryptography.hazmat.primitives.ciphers.base.modes.abc", 
+                "acme.josepy.jwa.cryptography.hazmat.primitives.ciphers.base.abc"
+            ], 
+            "cryptography.hazmat": [
+                "acme.josepy.jwa.cryptography.hazmat"
+            ], 
+            "_tkinter": [
+                "acme.josepy.b64.six.moves.tkinter_simpledialog.tkinter", 
+                "acme.josepy.b64.six.moves.tkinter_tix._tkinter", 
+                "acme.josepy.b64.six.moves.tkinter_commondialog.tkinter", 
+                "acme.josepy.b64.six.moves.tkinter_filedialog.tkinter", 
+                "acme.josepy.b64.six.moves.tkinter_tksimpledialog.tkinter", 
+                "acme.josepy.b64.six.moves.tkinter_dialog.tkinter", 
+                "acme.josepy.b64.six.moves.tkinter.tkinter", 
+                "acme.josepy.b64.six.moves.tkinter._tkinter", 
+                "acme.josepy.b64.six.moves.tkinter_tix.tkinter"
+            ], 
+            "warnings": [
+                "acme.josepy.interfaces.util.OpenSSL._util.warnings", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.base.ec.warnings", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.warnings", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.dsa.utils.warnings", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer.socket.warnings", 
+                "acme.josepy.jwa.cryptography.warnings", 
+                "acme.josepy.warnings", 
+                "acme.josepy.json_util.logging.warnings", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer.threading.warnings", 
+                "acme.josepy.b64.six.moves.http_cookies.warnings", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer.os.path.warnings", 
+                "acme.josepy.b64.six.moves.http_client.warnings"
+            ], 
+            "cryptography.hazmat.primitives.ciphers.base": [
+                "acme.josepy.jwa.cryptography.hazmat.primitives.ciphers.base"
+            ], 
+            "urllib": [
+                "acme.josepy.b64.six.moves.CGIHTTPServer.urllib", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.urllib", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib", 
+                "acme.josepy.b64.six.moves.http_cookiejar.urllib"
+            ], 
+            "cryptography.x509.name": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.name"
+            ], 
+            "re": [
+                "acme.josepy.b64.six.moves.tkinter_filedialog.re", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.dsa.utils.inspect.re", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.re", 
+                "acme.josepy.b64.six.moves.tkinter_tix.re", 
+                "acme.josepy.b64.base64.re", 
+                "acme.josepy.b64.six.moves.tkinter_tksimpledialog.re", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.urlparse.re", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.fnmatch.re", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.re", 
+                "acme.josepy.b64.six.moves.http_client.re", 
+                "acme.josepy.interfaces.json.decoder.scanner.re", 
+                "acme.josepy.b64.six.moves.tkinter_dialog.re", 
+                "acme.josepy.b64.six.moves.tkinter.re", 
+                "acme.josepy.b64.six.moves.http_cookies.re", 
+                "acme.josepy.b64.six.moves.configparser.re", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.calendar._locale.re", 
+                "acme.josepy.interfaces.json.decoder.re", 
+                "acme.josepy.b64.six.moves.http_cookiejar.re", 
+                "acme.josepy.interfaces.json.encoder.re", 
+                "acme.josepy.b64.six.moves.tkinter_commondialog.re", 
+                "acme.josepy.b64.base64.string._re", 
+                "acme.josepy.b64.six.moves.html_parser.re", 
+                "acme.josepy.jws.argparse._re", 
+                "acme.josepy.b64.six.moves.xmlrpc_server.re", 
+                "acme.josepy.b64.six.moves.xmlrpc_client.re", 
+                "acme.josepy.b64.six.moves.tkinter_simpledialog.re"
+            ], 
+            "robotparser": [
+                "acme.josepy.b64.six.moves.urllib_robotparser"
+            ], 
+            "OpenSSL.crypto": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module"
+            ], 
+            "cgi": [
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi"
+            ], 
+            "Tkinter": [
+                "acme.josepy.b64.six.moves.tkinter_font.Tkinter", 
+                "acme.josepy.b64.six.moves.tkinter_ttk.Tkinter", 
+                "acme.josepy.b64.six.moves.tkinter", 
+                "acme.josepy.b64.six.moves.tkinter_dnd.Tkinter", 
+                "acme.josepy.b64.six.moves.tkinter_tix.Tkinter"
+            ], 
+            "tkFont": [
+                "acme.josepy.b64.six.moves.tkinter_font"
+            ], 
+            "UserDict": [
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.UserDict", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer.os.UserDict", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.copy.weakref.UserDict", 
+                "acme.josepy.b64.six.moves.configparser._UserDict"
+            ], 
+            "inspect": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.dsa.utils.inspect"
+            ], 
+            "six.moves.urllib": [
+                "acme.josepy.b64.six.moves.urllib"
+            ], 
+            "Queue": [
+                "acme.josepy.b64.six.moves.queue"
+            ], 
+            "json.scanner": [
+                "acme.josepy.interfaces.json.scanner", 
+                "acme.josepy.interfaces.json.decoder.scanner"
+            ], 
+            "OpenSSL._util": [
+                "acme.josepy.interfaces.util.OpenSSL._util"
+            ], 
+            "codecs": [
+                "acme.josepy.json_util.logging.codecs", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.calendar._locale.encodings.codecs"
+            ], 
+            "cryptography.x509.extensions": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.extensions"
+            ], 
+            "cryptography.hazmat.primitives.asymmetric.padding": [
+                "acme.josepy.jwa.cryptography.hazmat.primitives.asymmetric.padding", 
+                "acme.josepy.jwa.padding"
+            ], 
+            "cryptography.hazmat.primitives": [
+                "acme.josepy.jwa.cryptography.hazmat.primitives"
+            ], 
+            "cryptography.x509.general_name": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.general_name"
+            ], 
+            "cryptography.hazmat.primitives.asymmetric.ed25519": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.base.ed25519", 
+                "acme.josepy.jwa.cryptography.hazmat.primitives.asymmetric.ed25519"
+            ], 
+            "_locale": [
+                "acme.josepy.b64.base64.re._locale"
+            ], 
+            "logging": [
+                "acme.josepy.jwa.jwk.logging", 
+                "acme.josepy.jwa.logging", 
+                "acme.josepy.json_util.logging"
+            ], 
+            "socket": [
+                "acme.josepy.b64.six.moves.xmlrpc_client.socket", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.socket", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.socket", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer.socket", 
+                "acme.josepy.interfaces.util.OpenSSL.SSL.socket", 
+                "acme.josepy.b64.six.moves.http_client.socket"
+            ], 
+            "thread": [
+                "acme.josepy.b64.six.moves._thread", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.mimetools.tempfile._thread", 
+                "acme.josepy.json_util.logging.thread"
+            ], 
+            "traceback": [
+                "acme.josepy.b64.six.moves.xmlrpc_server.traceback", 
+                "acme.josepy.json_util.logging.traceback"
+            ], 
+            "josepy.util": [
+                "acme.josepy.jwa.jwk.util", 
+                "acme.josepy.json_util.util", 
+                "acme.josepy.jws.util", 
+                "acme.josepy.interfaces.util", 
+                "acme.josepy.util"
+            ], 
+            "weakref": [
+                "acme.josepy.json_util.logging.weakref", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.copy.weakref"
+            ], 
+            "cryptography.hazmat.bindings._openssl": [
+                "acme.josepy.jwa.cryptography.hazmat.bindings._openssl"
+            ], 
+            "itertools": [
+                "acme.josepy.b64.six.itertools", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.extensions.ipaddress.itertools"
+            ], 
+            "os": [
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.os", 
+                "acme.josepy.b64.six.moves.tkinter_tix.os", 
+                "acme.josepy.interfaces.util.OpenSSL.SSL.os", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.mimetools.tempfile._os", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.dsa.utils.inspect.os", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.os", 
+                "acme.josepy.b64.six.moves.http_client.os", 
+                "acme.josepy.b64.six.moves.tkinter_filedialog.os", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.os", 
+                "acme.josepy.b64.six.moves.xmlrpc_server.os", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.base.os", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.os", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.mimetools.os", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.os", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.os", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer.os", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.os", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer.socket.os", 
+                "acme.josepy.b64.six.moves.xmlrpc_client.gzip.os", 
+                "acme.josepy.json_util.logging.os", 
+                "acme.josepy.jws.argparse._os"
+            ], 
+            "json.decoder": [
+                "acme.josepy.interfaces.json.decoder"
+            ], 
+            "six.moves.urllib.request": [
+                "acme.josepy.b64.six.moves.urllib.request", 
+                "acme.josepy.b64.six.Module_six_moves_urllib.request"
+            ], 
+            "six.moves": [
+                "acme.josepy.b64.six.moves"
+            ], 
+            "cryptography.hazmat.bindings.openssl.binding": [
+                "acme.josepy.jwa.cryptography.hazmat.bindings.openssl.binding"
+            ], 
+            "cStringIO": [
+                "acme.josepy.b64.six.moves.xmlrpc_client.StringIO", 
+                "acme.josepy.json_util.logging.cStringIO"
+            ], 
+            "_sre": [
+                "acme.josepy.b64.base64.re.sre_compile._sre"
+            ], 
+            "OpenSSL.version": [
+                "acme.josepy.interfaces.util.OpenSSL.version"
+            ], 
+            "__builtin__": [
+                "acme.josepy.b64.six.moves.builtins", 
+                "acme.josepy.b64.six.moves.cPickle.__builtins__", 
+                "acme.josepy.b64.six.moves.reprlib.__builtin__", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.calendar._locale.encodings.__builtin__", 
+                "acme.josepy.b64.six.moves.xmlrpc_client.gzip.__builtin__"
+            ], 
+            "dummy_thread": [
+                "acme.josepy.b64.six.moves._dummy_thread"
+            ], 
+            "FileDialog": [
+                "acme.josepy.b64.six.moves.tkinter_filedialog"
+            ], 
+            "Tix": [
+                "acme.josepy.b64.six.moves.tkinter_tix"
+            ], 
+            "select": [
+                "acme.josepy.b64.six.moves.CGIHTTPServer.select", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer.select"
+            ], 
+            "josepy": [
+                "acme.josepy"
+            ], 
+            "posixpath": [
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer.os.path", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.posixpath", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.posixpath"
+            ], 
+            "errno": [
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer.os.errno", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.mimetools.tempfile._errno", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.errno", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.errno", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer.errno", 
+                "acme.josepy.b64.six.moves.xmlrpc_client.errno", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer.socket.errno"
+            ], 
+            "_socket": [
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer.socket._socket"
+            ], 
+            "binascii": [
+                "acme.josepy.json_util.binascii", 
+                "acme.josepy.jwa.jwk.binascii", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.dsa.utils.binascii", 
+                "acme.josepy.b64.base64.binascii"
+            ], 
+            "cryptography.utils": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto.utils", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.rsa.utils", 
+                "acme.josepy.jwa.cryptography.utils", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.base.utils", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.general_name.utils", 
+                "acme.josepy.jwa.cryptography.hazmat.primitives.ciphers.base.utils", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.name.utils", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.base.ec.utils", 
+                "acme.josepy.jwa.cryptography.hazmat.primitives.asymmetric.padding.utils", 
+                "acme.josepy.jwa.cryptography.hazmat._oid.utils", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.extensions.utils", 
+                "acme.josepy.jwa.cryptography.hazmat.primitives.hmac.utils", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.utils", 
+                "acme.josepy.jwa.cryptography.hazmat.primitives.ciphers.algorithms.utils", 
+                "acme.josepy.jwa.cryptography.hazmat.bindings.openssl.binding.utils", 
+                "acme.josepy.jwa.cryptography.hazmat.primitives.ciphers.base.modes.utils", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.dsa.utils", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.oid.hashes.utils"
+            ], 
+            "cryptography.hazmat.bindings.openssl._conditional": [
+                "acme.josepy.jwa.cryptography.hazmat.bindings.openssl._conditional"
+            ], 
+            "json": [
+                "acme.josepy.interfaces.json", 
+                "acme.josepy.jwa.jwk.json"
+            ], 
+            "Cookie": [
+                "acme.josepy.b64.six.moves.http_cookies"
+            ], 
+            "cryptography.exceptions": [
+                "acme.josepy.jwa.cryptography.exceptions"
+            ], 
+            "tokenize": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.dsa.utils.inspect.tokenize"
+            ], 
+            "six.moves.urllib.error": [
+                "acme.josepy.b64.six.Module_six_moves_urllib.error", 
+                "acme.josepy.b64.six.moves.urllib.error", 
+                "acme.josepy.b64.six.moves.urllib_error"
+            ], 
+            "cryptography.hazmat.backends.interfaces": [
+                "acme.josepy.jwa.cryptography.hazmat.backends.interfaces"
+            ], 
+            "cPickle": [
+                "acme.josepy.b64.six.moves.cPickle"
+            ], 
+            "SimpleXMLRPCServer": [
+                "acme.josepy.b64.six.moves.xmlrpc_server"
+            ], 
+            "cryptography.hazmat.primitives.asymmetric.ec": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.base.ec", 
+                "acme.josepy.jwa.jwk.ec", 
+                "acme.josepy.jwa.cryptography.hazmat.primitives.asymmetric.ec"
+            ], 
+            "Dialog": [
+                "acme.josepy.b64.six.moves.tkinter_dialog"
+            ], 
+            "cryptography.__about__": [
+                "acme.josepy.jwa.cryptography.__about__"
+            ], 
+            "copy": [
+                "acme.josepy.b64.six.moves.CGIHTTPServer.copy", 
+                "acme.josepy.b64.six.moves.http_cookiejar.copy", 
+                "acme.josepy.jws.argparse._copy"
+            ], 
+            "cryptography": [
+                "acme.josepy.jwa.cryptography", 
+                "acme.josepy.jwa.jwk.cryptography"
+            ], 
+            "hashlib": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.extensions.hashlib"
+            ], 
+            "atexit": [
+                "acme.josepy.json_util.logging.atexit"
+            ], 
+            "zlib": [
+                "acme.josepy.b64.six.moves.xmlrpc_client.gzip.zlib"
+            ], 
+            "markupbase": [
+                "acme.josepy.b64.six.moves.html_parser.markupbase"
+            ], 
+            "encodings.aliases": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.calendar._locale.encodings.aliases"
+            ], 
+            "fnmatch": [
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.fnmatch", 
+                "acme.josepy.b64.six.moves.tkinter_filedialog.fnmatch"
+            ], 
+            "sre_parse": [
+                "acme.josepy.b64.base64.re.sre_parse", 
+                "acme.josepy.b64.base64.re.sre_compile.sre_parse"
+            ], 
+            "cryptography.hazmat.primitives.asymmetric": [
+                "acme.josepy.jwa.cryptography.hazmat.primitives.asymmetric"
+            ], 
+            "cryptography.hazmat.primitives.ciphers": [
+                "acme.josepy.jwa.cryptography.hazmat.primitives.ciphers"
+            ], 
+            "mimetools": [
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.mimetools", 
+                "acme.josepy.b64.six.moves.http_client.mimetools", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.mimetools"
+            ], 
+            "copy_reg": [
+                "acme.josepy.b64.base64.re.copy_reg", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer.os._copy_reg", 
+                "acme.josepy.b64.six.moves.copyreg"
+            ], 
+            "sre_compile": [
+                "acme.josepy.b64.base64.re.sre_compile"
+            ], 
+            "CGIHTTPServer": [
+                "acme.josepy.b64.six.moves.CGIHTTPServer"
+            ], 
+            "_hashlib": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.extensions.hashlib._hashlib"
+            ], 
+            "encodings.utf_8": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.calendar._locale.encodings.utf_8"
+            ], 
+            "cryptography.hazmat.primitives.hmac": [
+                "acme.josepy.jwa.hmac", 
+                "acme.josepy.jwa.cryptography.hazmat.primitives.hmac"
+            ], 
+            "SimpleDialog": [
+                "acme.josepy.b64.six.moves.tkinter_simpledialog"
+            ], 
+            "io": [
+                "acme.josepy.b64.six.moves.BaseHTTPServer.mimetools.tempfile._io", 
+                "acme.josepy.b64.six.moves.xmlrpc_client.gzip.io"
+            ], 
+            "shutil": [
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil"
+            ], 
+            "josepy.errors": [
+                "acme.josepy.errors", 
+                "acme.josepy.jws.errors", 
+                "acme.josepy.json_util.errors", 
+                "acme.josepy.jwa.jwk.errors", 
+                "acme.josepy.jwa.errors", 
+                "acme.josepy.interfaces.errors"
+            ], 
+            "_io": [
+                "acme.josepy.b64.six.moves.BaseHTTPServer.mimetools.tempfile._io._io"
+            ], 
+            "tkCommonDialog": [
+                "acme.josepy.b64.six.moves.tkinter_commondialog"
+            ], 
+            "cryptography.hazmat.primitives.asymmetric.ed448": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.base.ed448", 
+                "acme.josepy.jwa.cryptography.hazmat.primitives.asymmetric.ed448"
+            ], 
+            "lib": [
+                "acme.josepy.interfaces.util.OpenSSL._util.Binding.lib", 
+                "acme.josepy.interfaces.util.OpenSSL._util.lib", 
+                "acme.josepy.interfaces.util.OpenSSL.SSL._lib", 
+                "acme.josepy.interfaces.util.OpenSSL._util.binding.lib", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._lib", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module._lib"
+            ], 
+            "cryptography.x509.base": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.base"
+            ], 
+            "six": [
+                "acme.josepy.jwa.cryptography.hazmat.primitives.asymmetric.six", 
+                "acme.josepy.interfaces.six", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.dsa.six", 
+                "acme.josepy.jwa.cryptography.hazmat._der.six", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.oid.hashes.six", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.base.ed25519.six", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.extensions.six", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.base.six", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.general_name.six", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.base.ec.six", 
+                "acme.josepy.jws.six", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.name.six", 
+                "acme.josepy.jwa.cryptography.hazmat.primitives.ciphers.base.six", 
+                "acme.josepy.jwa.jwk.six", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.rsa.six", 
+                "acme.josepy.jwa.cryptography.hazmat.primitives.ciphers.base.modes.six", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.certificate_transparency.six", 
+                "acme.josepy.jwa.cryptography.hazmat.backends.interfaces.six", 
+                "acme.josepy.jwa.cryptography.hazmat.primitives.asymmetric.padding.six", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.base.ed448.six", 
+                "acme.josepy.interfaces.util.six", 
+                "acme.josepy.json_util.six", 
+                "acme.josepy.b64.six"
+            ], 
+            "OpenSSL": [
+                "acme.josepy.jws.OpenSSL", 
+                "acme.josepy.json_util.OpenSSL", 
+                "acme.josepy.interfaces.util.OpenSSL"
+            ], 
+            "cryptography.hazmat.primitives.asymmetric.dsa": [
+                "acme.josepy.jwa.cryptography.hazmat.primitives.asymmetric.dsa", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto.dsa", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.dsa", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.base.dsa"
+            ], 
+            "cryptography.x509.oid": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.oid"
+            ], 
+            "josepy.b64": [
+                "acme.josepy.json_util.b64", 
+                "acme.josepy.b64", 
+                "acme.josepy.jws.b64"
+            ], 
+            "_abcoll": [
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer.os.UserDict._abcoll", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.collections._abcoll"
+            ], 
+            "cryptography.hazmat.primitives.ciphers.modes": [
+                "acme.josepy.jwa.cryptography.hazmat.primitives.ciphers.base.modes", 
+                "acme.josepy.jwa.cryptography.hazmat.primitives.ciphers.modes"
+            ], 
+            "ipaddress": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.general_name.ipaddress", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.extensions.ipaddress"
+            ], 
+            "genericpath": [
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer.os.path.genericpath"
+            ], 
+            "mimetypes": [
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes"
+            ], 
+            "_ssl": [
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer.socket._ssl", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl._ssl"
+            ], 
+            "rfc822": [
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.rfc822", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.mimetools.rfc822"
+            ], 
+            "encodings.ascii": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.calendar._locale.encodings.ascii"
+            ], 
+            "htmlentitydefs": [
+                "acme.josepy.b64.six.moves.html_entities"
+            ], 
+            "repr": [
+                "acme.josepy.b64.six.moves.reprlib"
+            ], 
+            "sys": [
+                "acme.josepy.b64.six.moves.xmlrpc_server.traceback.sys", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer.os.path.warnings.sys", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.sys", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.sys", 
+                "acme.sys", 
+                "acme.josepy.b64.base64.re.sre_compile.sre_parse.sys", 
+                "acme.josepy.b64.six.moves.xmlrpc_server.sys", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.sys", 
+                "acme.josepy.b64.six.moves.tkinter_dialog.sys", 
+                "acme.josepy.jwa.cryptography.sys", 
+                "acme.josepy.b64.base64.re.sys", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.dsa.utils.inspect.sys", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer.threading._sys", 
+                "acme.josepy.interfaces.json.decoder.sys", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer.os.sys", 
+                "acme.josepy.sys", 
+                "acme.josepy.b64.six.moves.tkinter.sys", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.mimetools.sys", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer.socket.sys", 
+                "acme.josepy.interfaces.util.OpenSSL._util.sys", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.sys", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer.os.UserDict._abcoll.sys", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.sys", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.sys", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.calendar.sys", 
+                "acme.josepy.b64.base64.re.sre_compile.sys", 
+                "acme.josepy.b64.six.moves.xmlrpc_client.gzip.sys", 
+                "acme.josepy.b64.six.moves.tkinter_commondialog.sys", 
+                "acme.josepy.b64.six.moves.tkinter_tksimpledialog.sys", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.collections._sys", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer.sys", 
+                "acme.josepy.jws.argparse._sys", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer.os.path.sys", 
+                "acme.josepy.jws.sys", 
+                "acme.josepy.b64.six.moves.tkinter_tix.sys", 
+                "acme.josepy.json_util.logging.sys", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.sys", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.sys", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.calendar._locale.sys", 
+                "acme.josepy.b64.six.sys", 
+                "acme.josepy.json_util.logging.atexit.sys", 
+                "acme.josepy.b64.six.moves.tkinter_filedialog.sys", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.dsa.utils.sys", 
+                "acme.josepy.b64.six.moves.tkinter_simpledialog.sys"
+            ], 
+            "josepy.jwk": [
+                "acme.josepy.jws.jwk", 
+                "acme.josepy.jwa.jwk", 
+                "acme.josepy.jwk"
+            ], 
+            "cryptography.hazmat.primitives.serialization.ssh": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.extensions.serialization.ssh"
+            ], 
+            "cryptography.x509.certificate_transparency": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.certificate_transparency"
+            ], 
+            "cryptography.hazmat.primitives.asymmetric.rsa": [
+                "acme.josepy.jwa.cryptography.hazmat.primitives.asymmetric.padding.rsa", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.base.rsa", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto.rsa", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.rsa", 
+                "acme.josepy.interfaces.util.rsa", 
+                "acme.josepy.jwa.jwk.rsa", 
+                "acme.josepy.jwa.cryptography.hazmat.primitives.asymmetric.rsa"
+            ], 
+            "tkColorChooser": [
+                "acme.josepy.b64.six.moves.tkinter_colorchooser"
+            ], 
+            "types": [
+                "acme.josepy.b64.six.types", 
+                "acme.josepy.b64.six.moves.xmlrpc_server.traceback.types", 
+                "acme.josepy.jwa.cryptography.hazmat.bindings.openssl.binding.types", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.mimetools.tempfile._io.abc.types", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer.os.path.warnings.types", 
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.dsa.utils.inspect.types"
+            ], 
+            "josepy.jws": [
+                "acme.josepy.jws"
+            ], 
+            "argparse": [
+                "acme.josepy.jws.argparse"
+            ], 
+            "cryptography.hazmat.primitives.constant_time": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.extensions.constant_time", 
+                "acme.josepy.jwa.cryptography.hazmat.primitives.constant_time"
+            ], 
+            "xmlrpclib": [
+                "acme.josepy.b64.six.moves.xmlrpc_server.xmlrpclib", 
+                "acme.josepy.b64.six.moves.xmlrpc_client"
+            ], 
+            "Tkconstants": [
+                "acme.josepy.b64.six.moves.tkinter_constants"
+            ], 
+            "urlparse": [
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.urlparse", 
+                "acme.josepy.b64.six.moves.http_cookiejar.urlparse", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.urlparse"
+            ], 
+            "linecache": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.dsa.utils.inspect.linecache", 
+                "acme.josepy.b64.six.moves.xmlrpc_server.traceback.linecache", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.SocketServer.os.path.warnings.linecache"
+            ], 
+            "josepy.jwa": [
+                "acme.josepy.jws.jwa", 
+                "acme.josepy.jwa"
+            ], 
+            "time": [
+                "acme.josepy.b64.six.moves.http_cookiejar.time", 
+                "acme.josepy.b64.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.time", 
+                "acme.josepy.b64.six.moves.xmlrpc_client.gzip.time", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.mimetools.rfc822.time", 
+                "acme.josepy.json_util.logging.time", 
+                "acme.josepy.b64.six.moves.xmlrpc_client.time", 
+                "acme.josepy.b64.six.moves.BaseHTTPServer.time"
+            ], 
+            "gzip": [
+                "acme.josepy.b64.six.moves.xmlrpc_client.gzip"
+            ], 
+            "cryptography.hazmat.primitives.serialization": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.extensions.serialization", 
+                "acme.josepy.jwa.jwk.serialization", 
+                "acme.josepy.jwa.cryptography.hazmat.primitives.serialization"
+            ], 
+            "hmac": [
+                "acme.josepy.interfaces.util.OpenSSL.crypto._module.x509.extensions.constant_time.hmac"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.30.1", 
+        "name": "acme", 
+        "python_version": "2.7.18"
+    }
+}

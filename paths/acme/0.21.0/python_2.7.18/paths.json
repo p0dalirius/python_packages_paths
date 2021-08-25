@@ -1,0 +1,54 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "genericpath": [
+                "acme.warnings.linecache.os.path.genericpath"
+            ], 
+            "stat": [
+                "acme.warnings.linecache.os.path.genericpath.stat", 
+                "acme.warnings.linecache.os.path.stat"
+            ], 
+            "copy_reg": [
+                "acme.warnings.linecache.os._copy_reg"
+            ], 
+            "posixpath": [
+                "acme.warnings.linecache.os.path"
+            ], 
+            "warnings": [
+                "acme.warnings"
+            ], 
+            "UserDict": [
+                "acme.warnings.linecache.os.UserDict"
+            ], 
+            "sys": [
+                "acme.warnings.linecache.os.UserDict._abcoll.sys", 
+                "acme.warnings.linecache.sys", 
+                "acme.warnings.linecache.os.path.sys", 
+                "acme.warnings.linecache.os.sys", 
+                "acme.sys", 
+                "acme.warnings.sys"
+            ], 
+            "linecache": [
+                "acme.warnings.linecache"
+            ], 
+            "_abcoll": [
+                "acme.warnings.linecache.os.UserDict._abcoll"
+            ], 
+            "errno": [
+                "acme.warnings.linecache.os.errno"
+            ], 
+            "os": [
+                "acme.warnings.linecache.os"
+            ], 
+            "types": [
+                "acme.warnings.types"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.21.0", 
+        "name": "acme", 
+        "python_version": "2.7.18"
+    }
+}
