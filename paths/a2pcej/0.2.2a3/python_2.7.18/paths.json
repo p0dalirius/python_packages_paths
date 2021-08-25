@@ -1,0 +1,106 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "heapq": [
+                "a2pcej.argparse._collections._heapq"
+            ], 
+            "copy_reg": [
+                "a2pcej.argparse._os._copy_reg", 
+                "a2pcej.argparse._re.copy_reg"
+            ], 
+            "sre_compile": [
+                "a2pcej.argparse._re.sre_compile"
+            ], 
+            "_sre": [
+                "a2pcej.argparse._re.sre_compile._sre"
+            ], 
+            "posixpath": [
+                "a2pcej.argparse._os.path"
+            ], 
+            "errno": [
+                "a2pcej.argparse._os.errno"
+            ], 
+            "re": [
+                "a2pcej.argparse._re", 
+                "a2pcej.argparse._textwrap.string._re", 
+                "a2pcej.argparse._textwrap.re"
+            ], 
+            "_abcoll": [
+                "a2pcej.argparse._copy.weakref.UserDict._abcoll", 
+                "a2pcej.argparse._collections._abcoll"
+            ], 
+            "collections": [
+                "a2pcej.argparse._collections"
+            ], 
+            "genericpath": [
+                "a2pcej.argparse._os.path.genericpath"
+            ], 
+            "stat": [
+                "a2pcej.argparse._os.path.genericpath.stat", 
+                "a2pcej.argparse._os.path.stat"
+            ], 
+            "string": [
+                "a2pcej.argparse._textwrap.string"
+            ], 
+            "warnings": [
+                "a2pcej.argparse._os.path.warnings"
+            ], 
+            "UserDict": [
+                "a2pcej.argparse._os.UserDict", 
+                "a2pcej.argparse._copy.weakref.UserDict"
+            ], 
+            "textwrap": [
+                "a2pcej.argparse._textwrap"
+            ], 
+            "sys": [
+                "a2pcej.argparse._os.path.sys", 
+                "a2pcej.argparse._os.path.warnings.linecache.sys", 
+                "a2pcej.argparse._re.sre_compile.sys", 
+                "a2pcej.argparse._re.sre_compile.sre_parse.sys", 
+                "a2pcej.argparse._collections._abcoll.sys", 
+                "a2pcej.argparse._os.sys", 
+                "a2pcej.argparse._sys", 
+                "a2pcej.argparse._collections._sys", 
+                "a2pcej.argparse._re.sys", 
+                "a2pcej.argparse._os.path.warnings.sys"
+            ], 
+            "a2pcej.a2pcej": [
+                "a2pcej.a2pcej"
+            ], 
+            "copy": [
+                "a2pcej.argparse._copy"
+            ], 
+            "types": [
+                "a2pcej.argparse._os.path.warnings.types"
+            ], 
+            "argparse": [
+                "a2pcej.argparse"
+            ], 
+            "_locale": [
+                "a2pcej.argparse._re._locale"
+            ], 
+            "a2pcej.phonetics": [
+                "a2pcej.phonetics"
+            ], 
+            "weakref": [
+                "a2pcej.argparse._copy.weakref"
+            ], 
+            "linecache": [
+                "a2pcej.argparse._os.path.warnings.linecache"
+            ], 
+            "sre_parse": [
+                "a2pcej.argparse._re.sre_parse", 
+                "a2pcej.argparse._re.sre_compile.sre_parse"
+            ], 
+            "os": [
+                "a2pcej.argparse._os"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.2.2a3", 
+        "name": "a2pcej", 
+        "python_version": "2.7.18"
+    }
+}
