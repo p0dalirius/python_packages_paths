@@ -1,0 +1,27 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "sys": [
+                "acetone.container.importlib.sys"
+            ], 
+            "acetone.exceptions": [
+                "acetone.exceptions"
+            ], 
+            "acetone.dependency": [
+                "acetone.dependency"
+            ], 
+            "importlib": [
+                "acetone.container.importlib"
+            ], 
+            "acetone.container": [
+                "acetone.container"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.1.0", 
+        "name": "acetone", 
+        "python_version": "2.7.18"
+    }
+}
