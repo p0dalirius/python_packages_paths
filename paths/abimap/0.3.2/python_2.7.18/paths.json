@@ -1,0 +1,15 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "abimap._version": [
+                "abimap._version"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.3.2", 
+        "name": "abimap", 
+        "python_version": "2.7.18"
+    }
+}
