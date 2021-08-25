@@ -1,0 +1,46 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "_locale": [
+                "pickle.re._locale"
+            ], 
+            "copy_reg": [
+                "pickle.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "pickle.re.sre_compile"
+            ], 
+            "_sre": [
+                "pickle.re.sre_compile._sre"
+            ], 
+            "binascii": [
+                "pickle._binascii"
+            ], 
+            "sys": [
+                "pickle.sys", 
+                "pickle.re.sys", 
+                "pickle.re.sre_compile.sys", 
+                "pickle.re.sre_compile.sre_parse.sys"
+            ], 
+            "re": [
+                "pickle.re"
+            ], 
+            "sre_parse": [
+                "pickle.re.sre_parse", 
+                "pickle.re.sre_compile.sre_parse"
+            ], 
+            "marshal": [
+                "pickle.marshal"
+            ], 
+            "struct": [
+                "pickle.struct"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "pickle", 
+        "python_version": "2.7.18"
+    }
+}
