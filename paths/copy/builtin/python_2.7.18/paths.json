@@ -1,0 +1,24 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "weakref": [
+                "copy.weakref"
+            ], 
+            "UserDict": [
+                "copy.weakref.UserDict"
+            ], 
+            "_abcoll": [
+                "copy.weakref.UserDict._abcoll"
+            ], 
+            "sys": [
+                "copy.weakref.UserDict._abcoll.sys"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "copy", 
+        "python_version": "2.7.18"
+    }
+}
