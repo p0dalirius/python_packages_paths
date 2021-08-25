@@ -1,0 +1,24 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "sys": [
+                "timeit.sys"
+            ], 
+            "itertools": [
+                "timeit.itertools"
+            ], 
+            "gc": [
+                "timeit.gc"
+            ], 
+            "time": [
+                "timeit.time"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "timeit", 
+        "python_version": "2.7.18"
+    }
+}
