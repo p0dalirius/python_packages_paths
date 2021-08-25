@@ -1,0 +1,113 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "copy_reg": [
+                "gettext.locale.re.copy_reg", 
+                "gettext.os._copy_reg"
+            ], 
+            "sre_compile": [
+                "gettext.locale.re.sre_compile"
+            ], 
+            "locale": [
+                "gettext.locale"
+            ], 
+            "_sre": [
+                "gettext.locale.re.sre_compile._sre"
+            ], 
+            "functools": [
+                "gettext.locale.functools"
+            ], 
+            "__builtin__": [
+                "gettext.locale.encodings.codecs.__builtin__", 
+                "gettext.locale.encodings.__builtin__"
+            ], 
+            "encodings": [
+                "gettext.locale.encodings"
+            ], 
+            "operator": [
+                "gettext.locale.operator"
+            ], 
+            "posixpath": [
+                "gettext.os.path"
+            ], 
+            "errno": [
+                "gettext.os.errno"
+            ], 
+            "re": [
+                "gettext.re", 
+                "gettext.locale.re"
+            ], 
+            "_abcoll": [
+                "gettext.copy.weakref.UserDict._abcoll"
+            ], 
+            "genericpath": [
+                "gettext.os.path.genericpath"
+            ], 
+            "stat": [
+                "gettext.os.path.stat", 
+                "gettext.os.path.genericpath.stat"
+            ], 
+            "warnings": [
+                "gettext.os.path.warnings"
+            ], 
+            "UserDict": [
+                "gettext.os.UserDict", 
+                "gettext.copy.weakref.UserDict"
+            ], 
+            "encodings.utf_8": [
+                "gettext.locale.encodings.utf_8"
+            ], 
+            "sys": [
+                "gettext.os.path.warnings.sys", 
+                "gettext.locale.re.sre_compile.sre_parse.sys", 
+                "gettext.os.sys", 
+                "gettext.locale.encodings.codecs.sys", 
+                "gettext.os.path.warnings.linecache.sys", 
+                "gettext.sys", 
+                "gettext.locale.re.sre_compile.sys", 
+                "gettext.os.path.sys", 
+                "gettext.copy.weakref.UserDict._abcoll.sys", 
+                "gettext.locale.re.sys", 
+                "gettext.locale.sys"
+            ], 
+            "codecs": [
+                "gettext.locale.encodings.codecs", 
+                "gettext.locale.encodings.utf_8.codecs"
+            ], 
+            "copy": [
+                "gettext.copy"
+            ], 
+            "types": [
+                "gettext.os.path.warnings.types"
+            ], 
+            "struct": [
+                "gettext.struct"
+            ], 
+            "_locale": [
+                "gettext.locale.re._locale"
+            ], 
+            "weakref": [
+                "gettext.copy.weakref"
+            ], 
+            "linecache": [
+                "gettext.os.path.warnings.linecache"
+            ], 
+            "encodings.aliases": [
+                "gettext.locale.encodings.aliases"
+            ], 
+            "sre_parse": [
+                "gettext.locale.re.sre_compile.sre_parse", 
+                "gettext.locale.re.sre_parse"
+            ], 
+            "os": [
+                "gettext.os"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "gettext", 
+        "python_version": "2.7.18"
+    }
+}
