@@ -1,0 +1,132 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "json.decoder": [
+                "rlcompleter.__main__.json.decoder"
+            ], 
+            "heapq": [
+                "rlcompleter.__main__.argparse._collections._heapq"
+            ], 
+            "copy_reg": [
+                "rlcompleter.__main__.argparse._os._copy_reg", 
+                "rlcompleter.__main__.argparse._re.copy_reg"
+            ], 
+            "sre_compile": [
+                "rlcompleter.__main__.argparse._re.sre_compile"
+            ], 
+            "_sre": [
+                "rlcompleter.__main__.argparse._re.sre_compile._sre"
+            ], 
+            "__builtin__": [
+                "rlcompleter.__builtin__", 
+                "rlcompleter.__main__.__builtins__"
+            ], 
+            "__main__": [
+                "rlcompleter.__main__"
+            ], 
+            "posixpath": [
+                "rlcompleter.__main__.argparse._os.path"
+            ], 
+            "errno": [
+                "rlcompleter.__main__.argparse._os.errno"
+            ], 
+            "re": [
+                "rlcompleter.__main__.json.encoder.re", 
+                "rlcompleter.__main__.argparse._textwrap.string._re", 
+                "rlcompleter.__main__.json.decoder.scanner.re", 
+                "rlcompleter.__main__.argparse._textwrap.re", 
+                "rlcompleter.__main__.json.decoder.re", 
+                "rlcompleter.__main__.argparse._re"
+            ], 
+            "json": [
+                "rlcompleter.__main__.json"
+            ], 
+            "_abcoll": [
+                "rlcompleter.__main__.argparse._collections._abcoll", 
+                "rlcompleter.__main__.argparse._copy.weakref.UserDict._abcoll"
+            ], 
+            "collections": [
+                "rlcompleter.__main__.argparse._collections"
+            ], 
+            "genericpath": [
+                "rlcompleter.__main__.argparse._os.path.genericpath"
+            ], 
+            "stat": [
+                "rlcompleter.__main__.argparse._os.path.genericpath.stat", 
+                "rlcompleter.__main__.argparse._os.path.stat"
+            ], 
+            "string": [
+                "rlcompleter.__main__.argparse._textwrap.string"
+            ], 
+            "warnings": [
+                "rlcompleter.__main__.argparse._os.path.warnings"
+            ], 
+            "UserDict": [
+                "rlcompleter.__main__.argparse._os.UserDict", 
+                "rlcompleter.__main__.argparse._copy.weakref.UserDict"
+            ], 
+            "textwrap": [
+                "rlcompleter.__main__.argparse._textwrap"
+            ], 
+            "sys": [
+                "rlcompleter.__main__.argparse._collections._sys", 
+                "rlcompleter.__main__.argparse._os.path.sys", 
+                "rlcompleter.__main__.argparse._os.path.warnings.sys", 
+                "rlcompleter.__main__.argparse._sys", 
+                "rlcompleter.__main__.argparse._os.path.warnings.linecache.sys", 
+                "rlcompleter.__main__.sys", 
+                "rlcompleter.__main__.argparse._os.sys", 
+                "rlcompleter.__main__.argparse._re.sys", 
+                "rlcompleter.__main__.json.decoder.sys", 
+                "rlcompleter.__main__.argparse._re.sre_compile.sre_parse.sys", 
+                "rlcompleter.__main__.argparse._re.sre_compile.sys", 
+                "rlcompleter.__main__.argparse._collections._abcoll.sys"
+            ], 
+            "json.scanner": [
+                "rlcompleter.__main__.json.scanner", 
+                "rlcompleter.__main__.json.decoder.scanner"
+            ], 
+            "json.encoder": [
+                "rlcompleter.__main__.json.encoder"
+            ], 
+            "readline": [
+                "rlcompleter.readline"
+            ], 
+            "copy": [
+                "rlcompleter.__main__.argparse._copy"
+            ], 
+            "types": [
+                "rlcompleter.__main__.argparse._os.path.warnings.types"
+            ], 
+            "struct": [
+                "rlcompleter.__main__.json.decoder.struct"
+            ], 
+            "argparse": [
+                "rlcompleter.__main__.argparse"
+            ], 
+            "_locale": [
+                "rlcompleter.__main__.argparse._re._locale"
+            ], 
+            "weakref": [
+                "rlcompleter.__main__.argparse._copy.weakref"
+            ], 
+            "linecache": [
+                "rlcompleter.__main__.argparse._os.path.warnings.linecache"
+            ], 
+            "sre_parse": [
+                "rlcompleter.__main__.argparse._re.sre_compile.sre_parse", 
+                "rlcompleter.__main__.argparse._re.sre_parse"
+            ], 
+            "os": [
+                "rlcompleter.__main__.argparse._os", 
+                "rlcompleter.__main__.os"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "rlcompleter", 
+        "python_version": "2.7.18"
+    }
+}
