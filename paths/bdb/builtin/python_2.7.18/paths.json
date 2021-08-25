@@ -1,0 +1,78 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "stat": [
+                "bdb.os.path.genericpath.stat", 
+                "bdb.os.path.stat"
+            ], 
+            "genericpath": [
+                "bdb.os.path.genericpath"
+            ], 
+            "_locale": [
+                "bdb.fnmatch.re._locale"
+            ], 
+            "linecache": [
+                "bdb.os.path.warnings.linecache"
+            ], 
+            "copy_reg": [
+                "bdb.fnmatch.re.copy_reg", 
+                "bdb.os._copy_reg"
+            ], 
+            "sre_compile": [
+                "bdb.fnmatch.re.sre_compile"
+            ], 
+            "warnings": [
+                "bdb.os.path.warnings"
+            ], 
+            "_sre": [
+                "bdb.fnmatch.re.sre_compile._sre"
+            ], 
+            "errno": [
+                "bdb.os.errno"
+            ], 
+            "sys": [
+                "bdb.fnmatch.re.sre_compile.sre_parse.sys", 
+                "bdb.os.path.sys", 
+                "bdb.sys", 
+                "bdb.os.sys", 
+                "bdb.fnmatch.re.sre_compile.sys", 
+                "bdb.os.path.warnings.linecache.sys", 
+                "bdb.os.UserDict._abcoll.sys", 
+                "bdb.os.path.warnings.sys", 
+                "bdb.fnmatch.re.sys"
+            ], 
+            "re": [
+                "bdb.fnmatch.re"
+            ], 
+            "_abcoll": [
+                "bdb.os.UserDict._abcoll"
+            ], 
+            "UserDict": [
+                "bdb.os.UserDict"
+            ], 
+            "fnmatch": [
+                "bdb.fnmatch"
+            ], 
+            "sre_parse": [
+                "bdb.fnmatch.re.sre_compile.sre_parse", 
+                "bdb.fnmatch.re.sre_parse"
+            ], 
+            "os": [
+                "bdb.os"
+            ], 
+            "types": [
+                "bdb.types", 
+                "bdb.os.path.warnings.types"
+            ], 
+            "posixpath": [
+                "bdb.os.path"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "bdb", 
+        "python_version": "2.7.18"
+    }
+}
