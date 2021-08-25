@@ -1,0 +1,171 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "base64": [
+                "imaplib.ssl.base64"
+            ], 
+            "copy_reg": [
+                "imaplib.re.copy_reg", 
+                "imaplib.socket.os._copy_reg"
+            ], 
+            "sre_compile": [
+                "imaplib.re.sre_compile"
+            ], 
+            "_hashlib": [
+                "imaplib.random._hashlib._hashlib"
+            ], 
+            "_random": [
+                "imaplib.random._random"
+            ], 
+            "random": [
+                "imaplib.random"
+            ], 
+            "subprocess": [
+                "imaplib.subprocess"
+            ], 
+            "gc": [
+                "imaplib.subprocess.gc"
+            ], 
+            "select": [
+                "imaplib.subprocess.select"
+            ], 
+            "posixpath": [
+                "imaplib.socket.os.path"
+            ], 
+            "threading": [
+                "imaplib.subprocess.threading"
+            ], 
+            "errno": [
+                "imaplib.socket.errno", 
+                "imaplib.subprocess.errno", 
+                "imaplib.socket.os.errno", 
+                "imaplib.errno", 
+                "imaplib.ssl.errno"
+            ], 
+            "_socket": [
+                "imaplib.socket._socket"
+            ], 
+            "binascii": [
+                "imaplib.binascii", 
+                "imaplib.subprocess.pickle._binascii", 
+                "imaplib.ssl.base64.binascii"
+            ], 
+            "re": [
+                "imaplib.ssl.textwrap.re", 
+                "imaplib.ssl.base64.re", 
+                "imaplib.ssl.base64.string._re", 
+                "imaplib.re", 
+                "imaplib.ssl.re", 
+                "imaplib.subprocess.pickle.re"
+            ], 
+            "_abcoll": [
+                "imaplib.socket.os.UserDict._abcoll"
+            ], 
+            "_sre": [
+                "imaplib.re.sre_compile._sre"
+            ], 
+            "fcntl": [
+                "imaplib.subprocess.fcntl"
+            ], 
+            "genericpath": [
+                "imaplib.socket.os.path.genericpath"
+            ], 
+            "stat": [
+                "imaplib.socket.os.path.genericpath.stat", 
+                "imaplib.socket.os.path.stat"
+            ], 
+            "_ssl": [
+                "imaplib.ssl._ssl", 
+                "imaplib.socket._ssl"
+            ], 
+            "string": [
+                "imaplib.ssl.textwrap.string", 
+                "imaplib.ssl.base64.string"
+            ], 
+            "warnings": [
+                "imaplib.subprocess.threading.warnings", 
+                "imaplib.socket.os.path.warnings", 
+                "imaplib.socket.warnings", 
+                "imaplib.ssl.warnings"
+            ], 
+            "UserDict": [
+                "imaplib.socket.os.UserDict"
+            ], 
+            "_locale": [
+                "imaplib.re._locale"
+            ], 
+            "textwrap": [
+                "imaplib.ssl.textwrap"
+            ], 
+            "sys": [
+                "imaplib.re.sys", 
+                "imaplib.ssl.sys", 
+                "imaplib.socket.os.path.warnings.sys", 
+                "imaplib.socket.os.UserDict._abcoll.sys", 
+                "imaplib.socket.os.path.sys", 
+                "imaplib.subprocess.threading._sys", 
+                "imaplib.socket.sys", 
+                "imaplib.socket.os.path.warnings.linecache.sys", 
+                "imaplib.sys", 
+                "imaplib.subprocess.traceback.sys", 
+                "imaplib.socket.os.sys", 
+                "imaplib.subprocess.sys", 
+                "imaplib.re.sre_compile.sys", 
+                "imaplib.subprocess.pickle.sys", 
+                "imaplib.re.sre_compile.sre_parse.sys"
+            ], 
+            "ssl": [
+                "imaplib.ssl"
+            ], 
+            "types": [
+                "imaplib.subprocess.traceback.types", 
+                "imaplib.subprocess.types", 
+                "imaplib.socket.os.path.warnings.types"
+            ], 
+            "struct": [
+                "imaplib.ssl.base64.struct", 
+                "imaplib.subprocess.pickle.struct"
+            ], 
+            "hashlib": [
+                "imaplib.random._hashlib"
+            ], 
+            "socket": [
+                "imaplib.socket"
+            ], 
+            "pickle": [
+                "imaplib.subprocess.pickle"
+            ], 
+            "signal": [
+                "imaplib.subprocess.signal"
+            ], 
+            "traceback": [
+                "imaplib.subprocess.traceback"
+            ], 
+            "linecache": [
+                "imaplib.socket.os.path.warnings.linecache", 
+                "imaplib.subprocess.traceback.linecache"
+            ], 
+            "time": [
+                "imaplib.time"
+            ], 
+            "sre_parse": [
+                "imaplib.re.sre_compile.sre_parse", 
+                "imaplib.re.sre_parse"
+            ], 
+            "os": [
+                "imaplib.socket.os", 
+                "imaplib.ssl.os", 
+                "imaplib.subprocess.os"
+            ], 
+            "marshal": [
+                "imaplib.subprocess.pickle.marshal"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "imaplib", 
+        "python_version": "2.7.18"
+    }
+}
