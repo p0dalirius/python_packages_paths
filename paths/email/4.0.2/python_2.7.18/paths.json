@@ -1,0 +1,280 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "_socket": [
+                "email.email.feedparser.message.utils.socket._socket"
+            ], 
+            "copy_reg": [
+                "email.email._parseaddr.calendar._locale.re.copy_reg", 
+                "email.email.feedparser.message.utils.os._copy_reg"
+            ], 
+            "sre_compile": [
+                "email.email._parseaddr.calendar._locale.re.sre_compile"
+            ], 
+            "locale": [
+                "email.email._parseaddr.calendar._locale"
+            ], 
+            "_sre": [
+                "email.email._parseaddr.calendar._locale.re.sre_compile._sre"
+            ], 
+            "functools": [
+                "email.email._parseaddr.calendar._locale.functools"
+            ], 
+            "email.charset": [
+                "email.email.charset"
+            ], 
+            "__builtin__": [
+                "email.email._parseaddr.calendar._locale.encodings.__builtin__", 
+                "email.email._parseaddr.calendar._locale.encodings.ascii.codecs.__builtin__"
+            ], 
+            "datetime": [
+                "email.email._parseaddr.calendar.datetime"
+            ], 
+            "_ssl": [
+                "email.email.feedparser.message.utils.urllib.ssl._ssl", 
+                "email.email.feedparser.message.utils.socket._ssl"
+            ], 
+            "encodings": [
+                "email.email._parseaddr.calendar._locale.encodings"
+            ], 
+            "operator": [
+                "email.email._parseaddr.calendar._locale.operator"
+            ], 
+            "email.iterators": [
+                "email.email.iterators"
+            ], 
+            "calendar": [
+                "email.email._parseaddr.calendar"
+            ], 
+            "email.mime.image": [
+                "email.email.mime.image"
+            ], 
+            "email.mime": [
+                "email.email.mime", 
+                "email.mime"
+            ], 
+            "hashlib": [
+                "email.email.feedparser.message.utils.random._hashlib"
+            ], 
+            "email.message": [
+                "email.email.mime.base.message", 
+                "email.email.feedparser.message", 
+                "email.email.message"
+            ], 
+            "email.mime.nonmultipart": [
+                "email.email.mime.nonmultipart"
+            ], 
+            "struct": [
+                "email.email.encoders.base64.struct"
+            ], 
+            "errno": [
+                "email.email.feedparser.message.utils.urllib.ssl.errno", 
+                "email.email.feedparser.message.utils.os.errno", 
+                "email.email.feedparser.message.utils.socket.errno"
+            ], 
+            "base64": [
+                "email.email.feedparser.message.utils.base64", 
+                "email.email.feedparser.message.utils.urllib.ssl.base64", 
+                "email.email.feedparser.message.utils.urllib.base64", 
+                "email.email.encoders.base64"
+            ], 
+            "binascii": [
+                "email.email.header.binascii", 
+                "email.email.feedparser.message.binascii", 
+                "email.email.encoders.base64.binascii", 
+                "email.email.feedparser.message.uu.binascii"
+            ], 
+            "urllib": [
+                "email.email.feedparser.message.utils.urllib"
+            ], 
+            "re": [
+                "email.email.feedparser.message.utils.urllib.ssl.re", 
+                "email.email.encoders.base64.re", 
+                "email.email.encoders.base64.string._re", 
+                "email.email.quoprimime.re", 
+                "email.email.feedparser.message.re", 
+                "email.email.feedparser.message.utils.re", 
+                "email.email._parseaddr.calendar._locale.re", 
+                "email.email.feedparser.message.utils.urllib.ssl.textwrap.re", 
+                "email.email.header.re", 
+                "email.email.feedparser.re", 
+                "email.email.generator.re", 
+                "email.email.feedparser.message.utils.urllib.re"
+            ], 
+            "email._parseaddr": [
+                "email.email._parseaddr"
+            ], 
+            "_random": [
+                "email.email.feedparser.message.utils.random._random"
+            ], 
+            "email.generator": [
+                "email.email.generator"
+            ], 
+            "email.errors": [
+                "email.email.feedparser.message.errors", 
+                "email.email.charset.errors", 
+                "email.email.mime.nonmultipart.errors", 
+                "email.email.feedparser.errors", 
+                "email.email.errors"
+            ], 
+            "email": [
+                "email"
+            ], 
+            "textwrap": [
+                "email.email.feedparser.message.utils.urllib.ssl.textwrap"
+            ], 
+            "genericpath": [
+                "email.email.feedparser.message.utils.os.path.genericpath"
+            ], 
+            "stat": [
+                "email.email.feedparser.message.utils.os.path.genericpath.stat", 
+                "email.email.feedparser.message.utils.os.path.stat"
+            ], 
+            "random": [
+                "email.email.feedparser.message.utils.random", 
+                "email.email.generator.random"
+            ], 
+            "string": [
+                "email.email.feedparser.message.utils.urllib.string", 
+                "email.email.feedparser.message.utils.urllib.ssl.textwrap.string", 
+                "email.email.encoders.base64.string"
+            ], 
+            "warnings": [
+                "email.email.feedparser.message.utils.os.path.warnings", 
+                "email.email.feedparser.message.utils.warnings", 
+                "email.email.generator.warnings", 
+                "email.email.feedparser.message.warnings", 
+                "email.email.feedparser.message.utils.socket.warnings", 
+                "email.email.feedparser.message.utils.urllib.ssl.warnings", 
+                "email.email.parser.warnings"
+            ], 
+            "UserDict": [
+                "email.email.feedparser.message.utils.os.UserDict"
+            ], 
+            "encodings.ascii": [
+                "email.email._parseaddr.calendar._locale.encodings.ascii"
+            ], 
+            "encodings.utf_8": [
+                "email.email._parseaddr.calendar._locale.encodings.utf_8"
+            ], 
+            "email.utils": [
+                "email.email.feedparser.message.utils", 
+                "email.email.utils"
+            ], 
+            "email.feedparser": [
+                "email.email.feedparser"
+            ], 
+            "sys": [
+                "email.email.feedparser.message.utils.os.path.warnings.sys", 
+                "email.email.feedparser.message.utils.os.path.sys", 
+                "email.email.feedparser.message.utils.urllib.ssl.sys", 
+                "email.email.feedparser.message.uu.sys", 
+                "email.email.feedparser.message.utils.os.UserDict._abcoll.sys", 
+                "email.email.sys", 
+                "email.email._parseaddr.calendar._locale.re.sys", 
+                "email.email.iterators.sys", 
+                "email.email.feedparser.message.utils.os.path.warnings.linecache.sys", 
+                "email.email.feedparser.message.utils.socket.sys", 
+                "email.sys", 
+                "email.email._parseaddr.calendar._locale.encodings.ascii.codecs.sys", 
+                "email.email._parseaddr.calendar._locale.re.sre_compile.sys", 
+                "email.email.feedparser.message.utils.os.sys", 
+                "email.email._parseaddr.calendar.sys", 
+                "email.email.generator.sys", 
+                "email.email.feedparser.message.utils.urllib.sys", 
+                "email.email._parseaddr.calendar._locale.sys", 
+                "email.email._parseaddr.calendar._locale.re.sre_compile.sre_parse.sys"
+            ], 
+            "ssl": [
+                "email.email.feedparser.message.utils.urllib.ssl"
+            ], 
+            "_hashlib": [
+                "email.email.feedparser.message.utils.random._hashlib._hashlib"
+            ], 
+            "email.mime.text": [
+                "email.email.mime.text"
+            ], 
+            "codecs": [
+                "email.email._parseaddr.calendar._locale.encodings.ascii.codecs", 
+                "email.email._parseaddr.calendar._locale.encodings.utf_8.codecs", 
+                "email.email.charset.codecs", 
+                "email.email._parseaddr.calendar._locale.encodings.codecs"
+            ], 
+            "email.parser": [
+                "email.email.parser"
+            ], 
+            "email.mime.audio": [
+                "email.email.mime.audio"
+            ], 
+            "types": [
+                "email.email.feedparser.message.utils.os.path.warnings.types"
+            ], 
+            "posixpath": [
+                "email.email.feedparser.message.utils.os.path"
+            ], 
+            "_locale": [
+                "email.email._parseaddr.calendar._locale.re._locale"
+            ], 
+            "email.header": [
+                "email.email.header"
+            ], 
+            "socket": [
+                "email.email.feedparser.message.utils.socket", 
+                "email.email.feedparser.message.utils.urllib.socket"
+            ], 
+            "email.base64mime": [
+                "email.email.base64mime"
+            ], 
+            "uu": [
+                "email.email.feedparser.message.uu"
+            ], 
+            "email.mime.multipart": [
+                "email.email.mime.multipart"
+            ], 
+            "email.mime.message": [
+                "email.email.mime.message"
+            ], 
+            "email.quoprimime": [
+                "email.email.quoprimime"
+            ], 
+            "linecache": [
+                "email.email.feedparser.message.utils.os.path.warnings.linecache"
+            ], 
+            "email.encoders": [
+                "email.email.encoders"
+            ], 
+            "email.mime.base": [
+                "email.email.mime.base"
+            ], 
+            "encodings.aliases": [
+                "email.email._parseaddr.calendar._locale.encodings.aliases"
+            ], 
+            "time": [
+                "email.email.feedparser.message.utils.time", 
+                "email.email.generator.time", 
+                "email.email.feedparser.message.utils.urllib.time", 
+                "email.email._parseaddr.time"
+            ], 
+            "sre_parse": [
+                "email.email._parseaddr.calendar._locale.re.sre_parse", 
+                "email.email._parseaddr.calendar._locale.re.sre_compile.sre_parse"
+            ], 
+            "os": [
+                "email.email.feedparser.message.utils.socket.os", 
+                "email.email.feedparser.message.utils.urllib.os", 
+                "email.email.feedparser.message.utils.os", 
+                "email.email.feedparser.message.utils.urllib.ssl.os", 
+                "email.email.feedparser.message.uu.os"
+            ], 
+            "_abcoll": [
+                "email.email.feedparser.message.utils.os.UserDict._abcoll"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "4.0.2", 
+        "name": "email", 
+        "python_version": "2.7.18"
+    }
+}
