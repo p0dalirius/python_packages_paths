@@ -1,0 +1,76 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "sys": [
+                "gzip.os.path.warnings.sys", 
+                "gzip.os.UserDict._abcoll.sys", 
+                "gzip.os.path.warnings.linecache.sys", 
+                "gzip.sys", 
+                "gzip.os.path.sys", 
+                "gzip.os.sys"
+            ], 
+            "stat": [
+                "gzip.os.path.genericpath.stat", 
+                "gzip.os.path.stat"
+            ], 
+            "abc": [
+                "gzip.io.abc"
+            ], 
+            "copy_reg": [
+                "gzip.os._copy_reg"
+            ], 
+            "posixpath": [
+                "gzip.os.path"
+            ], 
+            "genericpath": [
+                "gzip.os.path.genericpath"
+            ], 
+            "UserDict": [
+                "gzip.os.UserDict"
+            ], 
+            "warnings": [
+                "gzip.os.path.warnings"
+            ], 
+            "__builtin__": [
+                "gzip.__builtin__"
+            ], 
+            "_io": [
+                "gzip.io._io"
+            ], 
+            "linecache": [
+                "gzip.os.path.warnings.linecache"
+            ], 
+            "_abcoll": [
+                "gzip.os.UserDict._abcoll"
+            ], 
+            "time": [
+                "gzip.time"
+            ], 
+            "io": [
+                "gzip.io"
+            ], 
+            "errno": [
+                "gzip.os.errno"
+            ], 
+            "zlib": [
+                "gzip.zlib"
+            ], 
+            "os": [
+                "gzip.os"
+            ], 
+            "types": [
+                "gzip.io.abc.types", 
+                "gzip.os.path.warnings.types"
+            ], 
+            "struct": [
+                "gzip.struct"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "gzip", 
+        "python_version": "2.7.18"
+    }
+}
