@@ -1,0 +1,21 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "sys": [
+                "abduct.stream.sys"
+            ], 
+            "abduct.compat": [
+                "abduct.compat"
+            ], 
+            "abduct.stream": [
+                "abduct.stream"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "2.0.1", 
+        "name": "abduct", 
+        "python_version": "2.7.18"
+    }
+}

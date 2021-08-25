@@ -1,0 +1,18 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "sys": [
+                "abduct.sys"
+            ], 
+            "abduct.compat": [
+                "abduct.compat"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "1.0.0", 
+        "name": "abduct", 
+        "python_version": "2.7.18"
+    }
+}
