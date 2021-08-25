@@ -1,0 +1,141 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "copy_reg": [
+                "pydoc.inspect.linecache.os._copy_reg", 
+                "pydoc.inspect.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "pydoc.inspect.re.sre_compile"
+            ], 
+            "locale": [
+                "pydoc.locale"
+            ], 
+            "_sre": [
+                "pydoc.inspect.re.sre_compile._sre"
+            ], 
+            "functools": [
+                "pydoc.locale.functools"
+            ], 
+            "__builtin__": [
+                "pydoc.locale.encodings.codecs.__builtin__", 
+                "pydoc.locale.encodings.__builtin__", 
+                "pydoc.__builtin__"
+            ], 
+            "encodings": [
+                "pydoc.locale.encodings"
+            ], 
+            "operator": [
+                "pydoc.locale.operator"
+            ], 
+            "posixpath": [
+                "pydoc.inspect.linecache.os.path"
+            ], 
+            "re": [
+                "pydoc.inspect.tokenize.re", 
+                "pydoc.locale.re", 
+                "pydoc.inspect.re", 
+                "pydoc.re", 
+                "pydoc.inspect.string._re"
+            ], 
+            "errno": [
+                "pydoc.inspect.linecache.os.errno"
+            ], 
+            "imp": [
+                "pydoc.imp", 
+                "pydoc.pkgutil.imp", 
+                "pydoc.inspect.imp"
+            ], 
+            "_abcoll": [
+                "pydoc.inspect.linecache.os.UserDict._abcoll"
+            ], 
+            "tokenize": [
+                "pydoc.inspect.tokenize"
+            ], 
+            "genericpath": [
+                "pydoc.inspect.linecache.os.path.genericpath"
+            ], 
+            "stat": [
+                "pydoc.inspect.linecache.os.path.genericpath.stat", 
+                "pydoc.inspect.linecache.os.path.stat"
+            ], 
+            "zipimport": [
+                "pydoc.pkgutil.zipimport"
+            ], 
+            "string": [
+                "pydoc.inspect.string", 
+                "pydoc.inspect.tokenize.string"
+            ], 
+            "warnings": [
+                "pydoc.warnings", 
+                "pydoc.inspect.linecache.os.path.warnings"
+            ], 
+            "UserDict": [
+                "pydoc.inspect.linecache.os.UserDict"
+            ], 
+            "inspect": [
+                "pydoc.inspect"
+            ], 
+            "encodings.utf_8": [
+                "pydoc.locale.encodings.utf_8"
+            ], 
+            "sys": [
+                "pydoc.pkgutil.sys", 
+                "pydoc.sys", 
+                "pydoc.inspect.linecache.os.UserDict._abcoll.sys", 
+                "pydoc.inspect.dis.sys", 
+                "pydoc.locale.encodings.codecs.sys", 
+                "pydoc.inspect.linecache.os.path.sys", 
+                "pydoc.inspect.re.sre_compile.sre_parse.sys", 
+                "pydoc.inspect.linecache.os.path.warnings.sys", 
+                "pydoc.inspect.sys", 
+                "pydoc.inspect.linecache.os.sys", 
+                "pydoc.inspect.linecache.sys", 
+                "pydoc.inspect.re.sre_compile.sys", 
+                "pydoc.locale.sys", 
+                "pydoc.inspect.re.sys"
+            ], 
+            "codecs": [
+                "pydoc.locale.encodings.utf_8.codecs", 
+                "pydoc.locale.encodings.codecs"
+            ], 
+            "types": [
+                "pydoc.inspect.linecache.os.path.warnings.types", 
+                "pydoc.inspect.types", 
+                "pydoc.inspect.dis.types", 
+                "pydoc.types"
+            ], 
+            "pkgutil": [
+                "pydoc.pkgutil"
+            ], 
+            "_locale": [
+                "pydoc.inspect.re._locale"
+            ], 
+            "linecache": [
+                "pydoc.inspect.linecache"
+            ], 
+            "encodings.aliases": [
+                "pydoc.locale.encodings.aliases"
+            ], 
+            "sre_parse": [
+                "pydoc.inspect.re.sre_compile.sre_parse", 
+                "pydoc.inspect.re.sre_parse"
+            ], 
+            "os": [
+                "pydoc.inspect.os", 
+                "pydoc.pkgutil.os", 
+                "pydoc.inspect.linecache.os", 
+                "pydoc.os"
+            ], 
+            "dis": [
+                "pydoc.inspect.dis"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "pydoc", 
+        "python_version": "2.7.18"
+    }
+}
