@@ -1,0 +1,79 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "stat": [
+                "plistlib.warnings.linecache.os.path.genericpath.stat", 
+                "plistlib.warnings.linecache.os.path.stat"
+            ], 
+            "genericpath": [
+                "plistlib.warnings.linecache.os.path.genericpath"
+            ], 
+            "_locale": [
+                "plistlib.re._locale"
+            ], 
+            "linecache": [
+                "plistlib.warnings.linecache"
+            ], 
+            "copy_reg": [
+                "plistlib.re.copy_reg", 
+                "plistlib.warnings.linecache.os._copy_reg"
+            ], 
+            "sre_compile": [
+                "plistlib.re.sre_compile"
+            ], 
+            "warnings": [
+                "plistlib.warnings"
+            ], 
+            "_sre": [
+                "plistlib.re.sre_compile._sre"
+            ], 
+            "binascii": [
+                "plistlib.binascii"
+            ], 
+            "errno": [
+                "plistlib.warnings.linecache.os.errno"
+            ], 
+            "datetime": [
+                "plistlib.datetime"
+            ], 
+            "sys": [
+                "plistlib.re.sys", 
+                "plistlib.re.sre_compile.sys", 
+                "plistlib.warnings.sys", 
+                "plistlib.warnings.linecache.os.UserDict._abcoll.sys", 
+                "plistlib.warnings.linecache.sys", 
+                "plistlib.re.sre_compile.sre_parse.sys", 
+                "plistlib.warnings.linecache.os.path.sys", 
+                "plistlib.warnings.linecache.os.sys"
+            ], 
+            "re": [
+                "plistlib.re"
+            ], 
+            "_abcoll": [
+                "plistlib.warnings.linecache.os.UserDict._abcoll"
+            ], 
+            "UserDict": [
+                "plistlib.warnings.linecache.os.UserDict"
+            ], 
+            "sre_parse": [
+                "plistlib.re.sre_compile.sre_parse", 
+                "plistlib.re.sre_parse"
+            ], 
+            "os": [
+                "plistlib.warnings.linecache.os"
+            ], 
+            "types": [
+                "plistlib.warnings.types"
+            ], 
+            "posixpath": [
+                "plistlib.warnings.linecache.os.path"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "plistlib", 
+        "python_version": "2.7.18"
+    }
+}
