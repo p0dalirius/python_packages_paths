@@ -1,0 +1,18 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "sys": [
+                "codecs.sys"
+            ], 
+            "__builtin__": [
+                "codecs.__builtin__"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "codecs", 
+        "python_version": "2.7.18"
+    }
+}
