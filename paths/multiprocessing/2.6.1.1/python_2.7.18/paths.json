@@ -1,0 +1,86 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "genericpath": [
+                "multiprocessing.os.path.genericpath"
+            ], 
+            "stat": [
+                "multiprocessing.os.path.genericpath.stat", 
+                "multiprocessing.os.path.stat"
+            ], 
+            "copy_reg": [
+                "multiprocessing.os._copy_reg"
+            ], 
+            "posixpath": [
+                "multiprocessing.os.path"
+            ], 
+            "warnings": [
+                "multiprocessing.util.threading.warnings", 
+                "multiprocessing.os.path.warnings"
+            ], 
+            "atexit": [
+                "multiprocessing.util.atexit"
+            ], 
+            "UserDict": [
+                "multiprocessing.util.weakref.UserDict", 
+                "multiprocessing.os.UserDict"
+            ], 
+            "signal": [
+                "multiprocessing.process.signal"
+            ], 
+            "_multiprocessing": [
+                "multiprocessing._multiprocessing"
+            ], 
+            "weakref": [
+                "multiprocessing.util.weakref"
+            ], 
+            "threading": [
+                "multiprocessing.util.threading"
+            ], 
+            "sys": [
+                "multiprocessing.os.sys", 
+                "multiprocessing.util.atexit.sys", 
+                "multiprocessing.os.UserDict._abcoll.sys", 
+                "multiprocessing.util.threading._sys", 
+                "multiprocessing.process.sys", 
+                "multiprocessing.os.path.sys", 
+                "multiprocessing.sys", 
+                "multiprocessing.os.path.warnings.linecache.sys", 
+                "multiprocessing.os.path.warnings.sys"
+            ], 
+            "linecache": [
+                "multiprocessing.os.path.warnings.linecache"
+            ], 
+            "itertools": [
+                "multiprocessing.util.itertools", 
+                "multiprocessing.process.itertools"
+            ], 
+            "_abcoll": [
+                "multiprocessing.os.UserDict._abcoll"
+            ], 
+            "errno": [
+                "multiprocessing.os.errno"
+            ], 
+            "multiprocessing.util": [
+                "multiprocessing.util"
+            ], 
+            "multiprocessing.process": [
+                "multiprocessing.process"
+            ], 
+            "os": [
+                "multiprocessing.process.os", 
+                "multiprocessing.os", 
+                "multiprocessing.util.os"
+            ], 
+            "types": [
+                "multiprocessing.os.path.warnings.types"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "2.6.1.1", 
+        "name": "multiprocessing", 
+        "python_version": "2.7.18"
+    }
+}
