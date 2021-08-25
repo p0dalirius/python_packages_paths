@@ -1,0 +1,54 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "genericpath": [
+                "linecache.os.path.genericpath"
+            ], 
+            "stat": [
+                "linecache.os.path.genericpath.stat", 
+                "linecache.os.path.stat"
+            ], 
+            "copy_reg": [
+                "linecache.os._copy_reg"
+            ], 
+            "posixpath": [
+                "linecache.os.path"
+            ], 
+            "warnings": [
+                "linecache.os.path.warnings"
+            ], 
+            "UserDict": [
+                "linecache.os.UserDict"
+            ], 
+            "sys": [
+                "linecache.os.path.warnings.sys", 
+                "linecache.os.UserDict._abcoll.sys", 
+                "linecache.sys", 
+                "linecache.os.sys", 
+                "linecache.os.path.sys", 
+                "linecache.os.path.warnings.linecache.sys"
+            ], 
+            "linecache": [
+                "linecache"
+            ], 
+            "_abcoll": [
+                "linecache.os.UserDict._abcoll"
+            ], 
+            "errno": [
+                "linecache.os.errno"
+            ], 
+            "os": [
+                "linecache.os"
+            ], 
+            "types": [
+                "linecache.os.path.warnings.types"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "linecache", 
+        "python_version": "2.7.18"
+    }
+}
