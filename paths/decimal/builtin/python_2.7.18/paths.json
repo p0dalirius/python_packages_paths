@@ -1,0 +1,70 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "_locale": [
+                "decimal._locale.re._locale"
+            ], 
+            "copy_reg": [
+                "decimal._locale.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "decimal._locale.re.sre_compile"
+            ], 
+            "locale": [
+                "decimal._locale"
+            ], 
+            "_sre": [
+                "decimal._locale.re.sre_compile._sre"
+            ], 
+            "functools": [
+                "decimal._locale.functools"
+            ], 
+            "encodings": [
+                "decimal._locale.encodings"
+            ], 
+            "encodings.utf_8": [
+                "decimal._locale.encodings.utf_8"
+            ], 
+            "__builtin__": [
+                "decimal._locale.encodings.codecs.__builtin__", 
+                "decimal._locale.encodings.__builtin__"
+            ], 
+            "sys": [
+                "decimal._locale.re.sre_compile.sre_parse.sys", 
+                "decimal._locale.re.sre_compile.sys", 
+                "decimal._locale.sys", 
+                "decimal._locale.encodings.codecs.sys", 
+                "decimal._locale.re.sys"
+            ], 
+            "re": [
+                "decimal._locale.re"
+            ], 
+            "encodings.aliases": [
+                "decimal._locale.encodings.aliases"
+            ], 
+            "codecs": [
+                "decimal._locale.encodings.codecs", 
+                "decimal._locale.encodings.utf_8.codecs"
+            ], 
+            "operator": [
+                "decimal._locale.operator"
+            ], 
+            "sre_parse": [
+                "decimal._locale.re.sre_compile.sre_parse", 
+                "decimal._locale.re.sre_parse"
+            ], 
+            "math": [
+                "decimal._math"
+            ], 
+            "numbers": [
+                "decimal._numbers"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "decimal", 
+        "python_version": "2.7.18"
+    }
+}
