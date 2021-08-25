@@ -1,0 +1,764 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "heapq": [
+                "aceso.decay.np.testing._private.utils.unittest.case.difflib.heapq", 
+                "aceso.decay.np._mat.defmatrix.N.arrayprint.multiarray.overrides.collections._heapq"
+            ], 
+            "numpy.core.info": [
+                "aceso.decay.np.core.info"
+            ], 
+            "functools": [
+                "aceso.decay.np.lib.twodim_base.functools", 
+                "aceso.decay.np.lib.index_tricks.functools", 
+                "aceso.decay.np.lib.arraysetops.functools", 
+                "aceso.decay.np.lib.npyio.functools", 
+                "aceso.decay.np._mat.defmatrix.N.arrayprint.multiarray.overrides.functools", 
+                "aceso.decay.np.lib.type_check.functools", 
+                "aceso.decay.np.char.functools", 
+                "aceso.decay.np._mat.defmatrix.N.functools", 
+                "aceso.decay.np.lib.shape_base.functools", 
+                "aceso.decay.np.lib.ufunclike.functools", 
+                "aceso.decay.np.core.function_base.functools", 
+                "aceso.decay.np._mat.defmatrix.N.fromnumeric.functools", 
+                "aceso.decay.np.lib.nanfunctions.functools", 
+                "aceso.decay.np.lib.histograms.functools", 
+                "aceso.decay.np.fft.fftpack.functools", 
+                "aceso.decay.np.testing._private.utils.unittest.case.functools", 
+                "aceso.decay.np._mat.defmatrix.N.arrayprint.multiarray.functools", 
+                "aceso.decay.np.lib.polynomial.functools", 
+                "aceso.decay.np._mat.defmatrix.N.arrayprint.functools", 
+                "aceso.decay.np.lib.financial.functools", 
+                "aceso.decay.np.linalg.linalg.functools", 
+                "aceso.decay.np.core.shape_base.functools", 
+                "aceso.gravity.functools", 
+                "aceso.decay.np.lib.function_base.functools"
+            ], 
+            "numpy._pytesttester": [
+                "aceso.decay.np._pytesttester"
+            ], 
+            "numpy.lib._iotools": [
+                "aceso.decay.np.lib._iotools"
+            ], 
+            "numpy.core.einsumfunc": [
+                "aceso.decay.np.core.einsumfunc"
+            ], 
+            "gc": [
+                "aceso.decay.np.testing._private.utils.gc"
+            ], 
+            "ctypes._endian": [
+                "aceso.decay.np.core._dtype_ctypes.ctypes._endian"
+            ], 
+            "numpy.core.numerictypes": [
+                "aceso.decay.np._mat.defmatrix.N.fromnumeric._methods.nt", 
+                "aceso.decay.np.core._add_newdocs._numerictypes", 
+                "aceso.decay.np._mat.defmatrix.N.fromnumeric.nt", 
+                "aceso.decay.np.core.numerictypes", 
+                "aceso.decay.np.ma.core.ntypes", 
+                "aceso.decay.np.core.rec.nt", 
+                "aceso.decay.np.core.getlimits.ntypes", 
+                "aceso.decay.np._mat.defmatrix.N.arrayprint._nt", 
+                "aceso.decay.np._mat.defmatrix.N.numerictypes", 
+                "aceso.decay.np.emath.nt"
+            ], 
+            "numpy.polynomial.legendre": [
+                "aceso.decay.np.polynomial.legendre"
+            ], 
+            "numpy.random.mtrand": [
+                "aceso.decay.np.random.mtrand"
+            ], 
+            "numpy.testing._private.nosetester": [
+                "aceso.decay.np.testing._private.nosetester"
+            ], 
+            "numpy.matrixlib.defmatrix": [
+                "aceso.decay.np._mat.defmatrix"
+            ], 
+            "pprint": [
+                "aceso.decay.np.testing._private.utils.unittest.case.pprint", 
+                "aceso.decay.np.testing._private.utils.pprint"
+            ], 
+            "numpy.core._dtype_ctypes": [
+                "aceso.decay.np.core._dtype_ctypes"
+            ], 
+            "platform": [
+                "aceso.decay.np.testing._private.utils.platform", 
+                "aceso.decay.np.core._internal.platform"
+            ], 
+            "numpy.testing": [
+                "aceso.decay.np.testing"
+            ], 
+            "collections": [
+                "aceso.decay.np.lib.function_base.collections_abc", 
+                "aceso.decay.np.lib._datasource.shutil.collections", 
+                "aceso.decay.np.testing._private.utils.unittest.case.collections", 
+                "aceso.decay.np._mat.defmatrix.N.collections_abc", 
+                "aceso.decay.np.testing._private.decorators.collections_abc", 
+                "aceso.decay.np._mat.defmatrix.N.arrayprint.multiarray.overrides.collections", 
+                "aceso.decay.np.fft.helper.collections"
+            ], 
+            "numpy.core._multiarray_umath": [
+                "aceso.decay.np.core._multiarray_umath", 
+                "aceso.decay.np._mat.defmatrix.N.arrayprint.multiarray._multiarray_umath", 
+                "aceso.decay.np._mat.defmatrix.N.fromnumeric._methods.um._multiarray_umath"
+            ], 
+            "numpy.core._type_aliases": [
+                "aceso.decay.np.core._type_aliases"
+            ], 
+            "numpy.lib._version": [
+                "aceso.decay.np.lib._version"
+            ], 
+            "string": [
+                "aceso.gravity.inspect.string", 
+                "aceso.decay.np.core._internal.platform.string", 
+                "aceso.decay.np.ma.core.textwrap.string", 
+                "aceso.gravity.inspect.tokenize.string"
+            ], 
+            "numpy.linalg.info": [
+                "aceso.decay.np.linalg.info"
+            ], 
+            "numpy.polynomial._polybase": [
+                "aceso.decay.np.polynomial._polybase"
+            ], 
+            "numpy.lib.arraysetops": [
+                "aceso.decay.np.lib.arraysetops"
+            ], 
+            "numpy.core._multiarray_tests": [
+                "aceso.decay.np.core._multiarray_tests"
+            ], 
+            "unittest.util": [
+                "aceso.decay.np.testing._private.utils.unittest.util", 
+                "aceso.decay.np.testing._private.utils.unittest.case.result.util", 
+                "aceso.decay.np.testing._private.utils.unittest.loader.suite.util"
+            ], 
+            "numpy.version": [
+                "aceso.decay.np.version"
+            ], 
+            "numpy.core.machar": [
+                "aceso.decay.np.core.machar"
+            ], 
+            "numpy.lib.type_check": [
+                "aceso.decay.np.lib.type_check"
+            ], 
+            "signal": [
+                "aceso.decay.np.testing._private.utils.unittest.signals.signal"
+            ], 
+            "numpy.lib._datasource": [
+                "aceso.decay.np.lib._datasource"
+            ], 
+            "threading": [
+                "aceso.decay.np.fft.helper.threading"
+            ], 
+            "numpy.fft.fftpack_lite": [
+                "aceso.decay.np.fft.fftpack.fftpack", 
+                "aceso.decay.np.fft.fftpack_lite"
+            ], 
+            "numpy.core.multiarray": [
+                "aceso.decay.np._mat.defmatrix.N.multiarray", 
+                "aceso.decay.np.core.multiarray", 
+                "aceso.decay.np._mat.defmatrix.N.fromnumeric._methods.mu", 
+                "aceso.decay.np._mat.defmatrix.N.fromnumeric.mu", 
+                "aceso.decay.np._mat.defmatrix.N.arrayprint.multiarray"
+            ], 
+            "numpy.linalg._umath_linalg": [
+                "aceso.decay.np.linalg._umath_linalg", 
+                "aceso.decay.np.linalg.linalg._umath_linalg"
+            ], 
+            "dis": [
+                "aceso.gravity.inspect.dis"
+            ], 
+            "numpy.ma.core": [
+                "aceso.decay.np.ma.core", 
+                "aceso.decay.np.ma.extras.ma"
+            ], 
+            "numpy.core._add_newdocs": [
+                "aceso.decay.np.core._add_newdocs"
+            ], 
+            "numpy.core.getlimits": [
+                "aceso.decay.np.core.getlimits"
+            ], 
+            "aceso.decay": [
+                "aceso.gravity.decay", 
+                "aceso.decay"
+            ], 
+            "abc": [
+                "aceso.decay.np.compat.py3k.abc", 
+                "aceso.decay.np.lib._datasource.io.abc"
+            ], 
+            "numpy.matrixlib": [
+                "aceso.decay.np._mat", 
+                "aceso.decay.np.lib.index_tricks.matrixlib", 
+                "aceso.decay.np.matrixlib"
+            ], 
+            "numpy.ma.extras": [
+                "aceso.decay.np.ma.extras"
+            ], 
+            "numpy._globals": [
+                "aceso.decay.np._globals"
+            ], 
+            "numpy.lib.npyio": [
+                "aceso.decay.np.lib.npyio"
+            ], 
+            "re": [
+                "aceso.decay.np.core._internal.platform.re", 
+                "aceso.decay.np.ma.core.textwrap.re", 
+                "aceso.decay.np.lib._version.re", 
+                "aceso.gravity.inspect.re", 
+                "aceso.decay.np.lib._datasource.shutil.fnmatch.re", 
+                "aceso.gravity.inspect.tokenize.re", 
+                "aceso.decay.np.lib.polynomial.re", 
+                "aceso.decay.np.lib.function_base.re", 
+                "aceso.decay.np.lib.utils.re", 
+                "aceso.decay.np.testing._private.utils.unittest.loader.re", 
+                "aceso.decay.np.testing._private.utils.unittest.case.re", 
+                "aceso.decay.np.ma.core.re", 
+                "aceso.decay.np.core._internal.re", 
+                "aceso.decay.np.lib.npyio.re", 
+                "aceso.decay.np.core._internal.platform.string._re", 
+                "aceso.decay.np.testing._private.utils.re"
+            ], 
+            "numpy.lib.mixins": [
+                "aceso.decay.np.lib.mixins"
+            ], 
+            "math": [
+                "aceso.decay.math", 
+                "aceso.decay.np.math", 
+                "aceso.decay.np.lib.index_tricks.math", 
+                "aceso.decay.np.lib.math"
+            ], 
+            "numpy.fft.helper": [
+                "aceso.decay.np.fft.helper"
+            ], 
+            "unittest.case": [
+                "aceso.decay.np.testing._private.utils.unittest.case", 
+                "aceso.decay.np.testing._private.utils.unittest.loader.suite.case", 
+                "aceso.decay.np.testing._private.utils.unittest.loader.case"
+            ], 
+            "ast": [
+                "aceso.decay.np._mat.defmatrix.ast"
+            ], 
+            "UserDict": [
+                "aceso.decay.np.lib.npyio.weakref.UserDict", 
+                "aceso.decay.np.__config__.os.UserDict"
+            ], 
+            "unittest.suite": [
+                "aceso.decay.np.testing._private.utils.unittest.suite", 
+                "aceso.decay.np.testing._private.utils.unittest.loader.suite"
+            ], 
+            "inspect": [
+                "aceso.gravity.inspect"
+            ], 
+            "_ctypes": [
+                "aceso.decay.np.core._dtype_ctypes._ctypes"
+            ], 
+            "numpy.linalg": [
+                "aceso.decay.np.polynomial.laguerre.la", 
+                "aceso.decay.np.polynomial.chebyshev.la", 
+                "aceso.decay.np.polynomial.legendre.la", 
+                "aceso.decay.np.linalg", 
+                "aceso.decay.np.polynomial.hermite.la", 
+                "aceso.decay.np.polynomial.hermite_e.la", 
+                "aceso.decay.np.polynomial.polynomial.la"
+            ], 
+            "numpy.lib.ufunclike": [
+                "aceso.decay.np.lib.ufunclike"
+            ], 
+            "ctypes": [
+                "aceso.decay.np.core._dtype_ctypes.ctypes", 
+                "aceso.decay.np.core._internal.ctypes", 
+                "aceso.decay.np.ctypeslib.ctypes"
+            ], 
+            "imp": [
+                "aceso.gravity.inspect.imp"
+            ], 
+            "unittest.runner": [
+                "aceso.decay.np.testing._private.utils.unittest.runner"
+            ], 
+            "unittest.signals": [
+                "aceso.decay.np.testing._private.utils.unittest.signals"
+            ], 
+            "numpy.testing._private": [
+                "aceso.decay.np.testing._private"
+            ], 
+            "unittest.loader": [
+                "aceso.decay.np.testing._private.utils.unittest.loader"
+            ], 
+            "_locale": [
+                "aceso.decay.np.core._internal.platform.re._locale"
+            ], 
+            "numpy.core.overrides": [
+                "aceso.decay.np.lib.polynomial.overrides", 
+                "aceso.decay.np.fft.fftpack.overrides", 
+                "aceso.decay.np.linalg.linalg.overrides", 
+                "aceso.decay.np.lib.histograms.overrides", 
+                "aceso.decay.np._mat.defmatrix.N.fromnumeric.overrides", 
+                "aceso.decay.np._mat.defmatrix.N.overrides", 
+                "aceso.decay.np.lib.type_check.overrides", 
+                "aceso.decay.np.core.overrides", 
+                "aceso.decay.np.lib.financial.overrides", 
+                "aceso.decay.np._mat.defmatrix.N.arrayprint.multiarray.overrides", 
+                "aceso.decay.np.lib.shape_base.overrides", 
+                "aceso.decay.np.core.function_base.overrides", 
+                "aceso.decay.np.core.shape_base.overrides", 
+                "aceso.decay.np.lib.index_tricks.overrides", 
+                "aceso.decay.np.lib.arraysetops.overrides", 
+                "aceso.decay.np.lib.function_base.overrides", 
+                "aceso.decay.np.lib.npyio.overrides", 
+                "aceso.decay.np.char.overrides", 
+                "aceso.decay.np.lib.twodim_base.overrides", 
+                "aceso.decay.np.lib.nanfunctions.overrides"
+            ], 
+            "traceback": [
+                "aceso.decay.np.testing._private.utils.unittest.case.result.traceback", 
+                "aceso.decay.np.testing._private.utils.unittest.loader.traceback"
+            ], 
+            "weakref": [
+                "aceso.decay.np.testing._private.utils.unittest.signals.weakref", 
+                "aceso.decay.np.lib.npyio.weakref"
+            ], 
+            "numpy.core._internal": [
+                "aceso.decay.np.core._internal"
+            ], 
+            "numpy.fft.fftpack": [
+                "aceso.decay.np.fft.fftpack"
+            ], 
+            "numpy.linalg.lapack_lite": [
+                "aceso.decay.np.linalg.lapack_lite", 
+                "aceso.decay.np.linalg.linalg.lapack_lite"
+            ], 
+            "numpy.ma": [
+                "aceso.decay.np.ma"
+            ], 
+            "os": [
+                "aceso.gravity.inspect.os", 
+                "aceso.decay.np.lib._datasource.shutil.os", 
+                "aceso.decay.np.testing._private.utils.unittest.case.result.os", 
+                "aceso.decay.np.core._dtype_ctypes.ctypes._os", 
+                "aceso.decay.np.lib.npyio.os", 
+                "aceso.decay.np._pytesttester.os", 
+                "aceso.decay.np.core.rec.os", 
+                "aceso.decay.np.lib._datasource.os", 
+                "aceso.decay.np.testing._private.nosetester.os", 
+                "aceso.decay.np.__config__.os", 
+                "aceso.decay.np.core._internal.platform.os", 
+                "aceso.decay.np.ctypeslib.os", 
+                "aceso.decay.np._mat.defmatrix.N.arrayprint.multiarray.overrides.os", 
+                "aceso.decay.np.testing._private.utils.unittest.loader.os", 
+                "aceso.decay.np.testing._private.utils.os", 
+                "aceso.decay.np.lib.utils.os"
+            ], 
+            "numpy.core.shape_base": [
+                "aceso.decay.np.core.shape_base"
+            ], 
+            "_sre": [
+                "aceso.decay.np.core._internal.platform.re.sre_compile._sre"
+            ], 
+            "unittest": [
+                "aceso.decay.np.testing._private.utils.unittest"
+            ], 
+            "numpy.random": [
+                "aceso.decay.np.random"
+            ], 
+            "__builtin__": [
+                "aceso.decay.np.random.mtrand.__builtins__", 
+                "aceso.decay.np.lib.function_base.builtins", 
+                "aceso.decay.np._mat.defmatrix.N.builtins", 
+                "aceso.decay.np.ma.core.builtins", 
+                "aceso.decay.np._mat.defmatrix.N.pickle.__builtins__"
+            ], 
+            "numpy.lib.twodim_base": [
+                "aceso.decay.np.lib.twodim_base"
+            ], 
+            "numpy.polynomial": [
+                "aceso.decay.np.polynomial"
+            ], 
+            "operator": [
+                "aceso.decay.np.testing._private.utils.operator", 
+                "aceso.decay.np.lib.histograms.operator", 
+                "aceso.decay.np.core.function_base.operator", 
+                "aceso.decay.np.core.shape_base.operator", 
+                "aceso.decay.np._mat.defmatrix.N.operator", 
+                "aceso.decay.np.random.mtrand.operator", 
+                "aceso.decay.np.random.operator", 
+                "aceso.decay.np.linalg.linalg.operator", 
+                "aceso.decay.np.ma.core.operator"
+            ], 
+            "numpy.testing._private.utils": [
+                "aceso.decay.np.testing._private.utils"
+            ], 
+            "posixpath": [
+                "aceso.decay.np.__config__.os.path"
+            ], 
+            "numpy.lib.financial": [
+                "aceso.decay.np.lib.financial"
+            ], 
+            "numpy.polynomial.laguerre": [
+                "aceso.decay.np.polynomial.laguerre"
+            ], 
+            "errno": [
+                "aceso.decay.np.lib._datasource.shutil.errno", 
+                "aceso.decay.np.__config__.os.errno"
+            ], 
+            "aceso.gravity": [
+                "aceso.gravity"
+            ], 
+            "numpy.core.arrayprint": [
+                "aceso.decay.np.core.arrayprint", 
+                "aceso.decay.np._mat.defmatrix.N.arrayprint"
+            ], 
+            "numpy.core._methods": [
+                "aceso.decay.np.core._methods", 
+                "aceso.decay.np._mat.defmatrix.N.fromnumeric._methods"
+            ], 
+            "numpy.core.function_base": [
+                "aceso.decay.np.core.function_base"
+            ], 
+            "tokenize": [
+                "aceso.gravity.inspect.tokenize"
+            ], 
+            "numpy.lib.stride_tricks": [
+                "aceso.decay.np.lib.stride_tricks"
+            ], 
+            "numpy": [
+                "aceso.decay.np", 
+                "aceso.gravity.np"
+            ], 
+            "numpy.lib.histograms": [
+                "aceso.decay.np.lib.histograms"
+            ], 
+            "numpy.polynomial.chebyshev": [
+                "aceso.decay.np.polynomial.chebyshev"
+            ], 
+            "cPickle": [
+                "aceso.decay.np.lib.npyio.pickle", 
+                "aceso.decay.np.lib.format.pickle", 
+                "aceso.decay.np._mat.defmatrix.N.pickle", 
+                "aceso.decay.np.ma.core.pickle"
+            ], 
+            "numpy.polynomial.hermite_e": [
+                "aceso.decay.np.polynomial.hermite_e"
+            ], 
+            "itertools": [
+                "aceso.decay.np.core.einsumfunc.itertools", 
+                "aceso.decay.np._mat.defmatrix.N.itertools", 
+                "aceso.decay.np.lib.npyio.itertools", 
+                "aceso.decay.np.ma.extras.itertools"
+            ], 
+            "numpy.__config__": [
+                "aceso.decay.np.__config__"
+            ], 
+            "numpy.core._string_helpers": [
+                "aceso.decay.np.core._string_helpers"
+            ], 
+            "numpy.core.umath": [
+                "aceso.decay.np.core.getlimits.umath", 
+                "aceso.decay.np._mat.defmatrix.N.fromnumeric.um", 
+                "aceso.decay.np.lib.mixins.um", 
+                "aceso.decay.np.ma.extras.umath", 
+                "aceso.decay.np.ma.core.umath", 
+                "aceso.decay.np.core.umath", 
+                "aceso.decay.np._mat.defmatrix.N.fromnumeric._methods.um", 
+                "aceso.decay.np._mat.defmatrix.N.umath"
+            ], 
+            "numpy.core.fromnumeric": [
+                "aceso.decay.np._mat.defmatrix.N.fromnumeric", 
+                "aceso.decay.np.core.fromnumeric"
+            ], 
+            "numpy.ctypeslib": [
+                "aceso.decay.np.ctypeslib"
+            ], 
+            "numpy.lib.scimath": [
+                "aceso.decay.np.lib.scimath", 
+                "aceso.decay.np.emath", 
+                "aceso.decay.np.lib.emath"
+            ], 
+            "numpy.fft": [
+                "aceso.decay.np.fft"
+            ], 
+            "numpy.lib": [
+                "aceso.decay.np.lib"
+            ], 
+            "numpy.lib.nanfunctions": [
+                "aceso.decay.np.lib.nanfunctions"
+            ], 
+            "numpy.lib.function_base": [
+                "aceso.decay.np.lib.nanfunctions.function_base", 
+                "aceso.decay.np.lib.function_base"
+            ], 
+            "fnmatch": [
+                "aceso.decay.np.lib._datasource.shutil.fnmatch"
+            ], 
+            "sre_parse": [
+                "aceso.decay.np.core._internal.platform.re.sre_compile.sre_parse", 
+                "aceso.decay.np.core._internal.platform.re.sre_parse"
+            ], 
+            "copy_reg": [
+                "aceso.decay.np.core._internal.platform.re.copy_reg", 
+                "aceso.decay.np.__config__.os._copy_reg"
+            ], 
+            "sre_compile": [
+                "aceso.decay.np.core._internal.platform.re.sre_compile"
+            ], 
+            "numpy.compat.py3k": [
+                "aceso.decay.np.compat.py3k"
+            ], 
+            "numpy.lib.shape_base": [
+                "aceso.decay.np.lib.shape_base"
+            ], 
+            "numpy.lib.polynomial": [
+                "aceso.decay.np.lib.polynomial"
+            ], 
+            "numpy.compat": [
+                "aceso.decay.np.compat"
+            ], 
+            "numpy.polynomial.hermite": [
+                "aceso.decay.np.polynomial.hermite"
+            ], 
+            "contextlib": [
+                "aceso.decay.np._mat.defmatrix.N.arrayprint.contextlib", 
+                "aceso.decay.np.testing._private.utils.contextlib"
+            ], 
+            "numbers": [
+                "aceso.decay.np.polynomial._polybase.numbers", 
+                "aceso.decay.np._mat.defmatrix.N.arrayprint._nt.numbers", 
+                "aceso.decay.np._mat.defmatrix.N.numbers", 
+                "aceso.decay.np._mat.defmatrix.N.arrayprint.numbers"
+            ], 
+            "io": [
+                "aceso.decay.np.lib._datasource.io", 
+                "aceso.decay.np.lib.format.io"
+            ], 
+            "numpy.fft.info": [
+                "aceso.decay.np.fft.info"
+            ], 
+            "numpy.core.records": [
+                "aceso.decay.np.rec", 
+                "aceso.decay.np.core.rec", 
+                "aceso.decay.np.core.records"
+            ], 
+            "shutil": [
+                "aceso.decay.np.testing._private.utils.shutil", 
+                "aceso.decay.np.lib._datasource.shutil"
+            ], 
+            "numpy.polynomial.polynomial": [
+                "aceso.decay.np.polynomial.polynomial"
+            ], 
+            "numpy.core._dtype": [
+                "aceso.decay.np.core._dtype"
+            ], 
+            "unittest.result": [
+                "aceso.decay.np.testing._private.utils.unittest.result", 
+                "aceso.decay.np.testing._private.utils.unittest.case.result", 
+                "aceso.decay.np.testing._private.utils.unittest.runner.result"
+            ], 
+            "numpy.core.numeric": [
+                "aceso.decay.np.lib.type_check._nx", 
+                "aceso.decay.np._mat.defmatrix.N", 
+                "aceso.decay.np.core.rec.sb", 
+                "aceso.decay.np.core.getlimits.numeric", 
+                "aceso.decay.np.lib.function_base._nx", 
+                "aceso.decay.np.core.shape_base._nx", 
+                "aceso.decay.np.lib.index_tricks._nx", 
+                "aceso.decay.np.lib.ufunclike.nx", 
+                "aceso.decay.np.emath.nx", 
+                "aceso.decay.np.core.function_base._nx", 
+                "aceso.decay.np.lib._iotools.nx", 
+                "aceso.decay.np.lib.shape_base._nx", 
+                "aceso.decay.np.core.numeric", 
+                "aceso.decay.np.lib.polynomial.NX"
+            ], 
+            "numpy.core.defchararray": [
+                "aceso.decay.np.char", 
+                "aceso.decay.np.core.char", 
+                "aceso.decay.np.core.defchararray"
+            ], 
+            "_abcoll": [
+                "aceso.decay.np._mat.defmatrix.N.arrayprint.multiarray.overrides.collections._abcoll", 
+                "aceso.decay.np.__config__.os.UserDict._abcoll"
+            ], 
+            "numpy.core": [
+                "aceso.decay.np.core"
+            ], 
+            "genericpath": [
+                "aceso.decay.np.__config__.os.path.genericpath"
+            ], 
+            "stat": [
+                "aceso.decay.np.__config__.os.path.genericpath.stat", 
+                "aceso.decay.np.__config__.os.path.stat", 
+                "aceso.decay.np.lib._datasource.shutil.stat"
+            ], 
+            "numpy.lib.index_tricks": [
+                "aceso.decay.np.lib.index_tricks"
+            ], 
+            "warnings": [
+                "aceso.decay.np.ma.core.warnings", 
+                "aceso.decay.np.polynomial.chebyshev.warnings", 
+                "aceso.decay.np.lib.polynomial.warnings", 
+                "aceso.decay.np.polynomial.legendre.warnings", 
+                "aceso.decay.np.lib._datasource.warnings", 
+                "aceso.decay.np._mat.defmatrix.N.arrayprint._nt.warnings", 
+                "aceso.decay.np.core.rec.warnings", 
+                "aceso.decay.np.core.getlimits.warnings", 
+                "aceso.decay.np.ma.extras.warnings", 
+                "aceso.decay.np.testing._private.nosetester.warnings", 
+                "aceso.decay.np.lib.shape_base.warnings", 
+                "aceso.decay.np.lib.function_base.warnings", 
+                "aceso.decay.np.linalg.linalg.warnings", 
+                "aceso.decay.np.polynomial.polynomial.warnings", 
+                "aceso.decay.np._mat.defmatrix.warnings", 
+                "aceso.decay.np.random.warnings", 
+                "aceso.decay.np.lib.histograms.warnings", 
+                "aceso.decay.np._mat.defmatrix.N.fromnumeric._methods.warnings", 
+                "aceso.decay.np.testing._private.utils.pprint.warnings", 
+                "aceso.decay.np.lib.format.warnings", 
+                "aceso.decay.np.core._type_aliases.warnings", 
+                "aceso.decay.np.polynomial.laguerre.warnings", 
+                "aceso.decay.np.__config__.os.path.warnings", 
+                "aceso.decay.np.testing._private.utils.warnings", 
+                "aceso.decay.np.warnings", 
+                "aceso.decay.np.random.mtrand.warnings", 
+                "aceso.decay.np.polynomial.hermite_e.warnings", 
+                "aceso.decay.np.core.shape_base.warnings", 
+                "aceso.decay.np.lib.utils.warnings", 
+                "aceso.decay.np._mat.defmatrix.N.arrayprint.warnings", 
+                "aceso.decay.np.polynomial.hermite.warnings", 
+                "aceso.decay.np.lib.npyio.warnings", 
+                "aceso.decay.np._mat.defmatrix.N.warnings", 
+                "aceso.decay.np.testing._private.utils.unittest.case.warnings", 
+                "aceso.decay.np._mat.defmatrix.N.arrayprint.multiarray.warnings", 
+                "aceso.gravity.warnings", 
+                "aceso.decay.np.fft.helper.threading.warnings", 
+                "aceso.decay.np.lib.ufunclike.warnings", 
+                "aceso.decay.np.lib.nanfunctions.warnings", 
+                "aceso.decay.np.lib.type_check.warnings", 
+                "aceso.decay.np._mat.defmatrix.N.fromnumeric.warnings", 
+                "aceso.decay.np.core.function_base.warnings"
+            ], 
+            "numpy.lib.utils": [
+                "aceso.decay.np.lib.utils"
+            ], 
+            "numpy.polynomial.polyutils": [
+                "aceso.decay.np.polynomial.laguerre.pu", 
+                "aceso.decay.np.polynomial.chebyshev.pu", 
+                "aceso.decay.np.polynomial.polyutils", 
+                "aceso.decay.np.polynomial._polybase.pu", 
+                "aceso.decay.np.polynomial.hermite.pu", 
+                "aceso.decay.np.polynomial.hermite_e.pu", 
+                "aceso.decay.np.polynomial.polynomial.pu", 
+                "aceso.decay.np.polynomial.legendre.pu"
+            ], 
+            "textwrap": [
+                "aceso.decay.np.ma.core.textwrap"
+            ], 
+            "sys": [
+                "aceso.decay.np._pytesttester.sys", 
+                "aceso.decay.np.core._internal.platform.sys", 
+                "aceso.decay.np._mat.defmatrix.N.arrayprint.contextlib.sys", 
+                "aceso.decay.np.lib.mixins.sys", 
+                "aceso.decay.np.lib._datasource.shutil.sys", 
+                "aceso.gravity.inspect.sys", 
+                "aceso.decay.np.core._internal.platform.re.sys", 
+                "aceso.decay.np.__config__.os.path.sys", 
+                "aceso.decay.np.testing._private.utils.unittest.loader.sys", 
+                "aceso.decay.np.lib.npyio.sys", 
+                "aceso.decay.np.core._dtype.sys", 
+                "aceso.decay.np.lib.format.sys", 
+                "aceso.decay.np.core._type_aliases.sys", 
+                "aceso.decay.np._mat.defmatrix.N.sys", 
+                "aceso.decay.np.testing._private.utils.pprint._sys", 
+                "aceso.decay.np.lib.index_tricks.sys", 
+                "aceso.decay.np.fft.helper.threading._sys", 
+                "aceso.decay.np.core._add_newdocs.sys", 
+                "aceso.decay.np.lib._iotools.sys", 
+                "aceso.decay.np.__config__.os.sys", 
+                "aceso.decay.np.testing._private.utils.unittest.case.result.sys", 
+                "aceso.decay.np.core._internal.platform.re.sre_compile.sys", 
+                "aceso.decay.np.core.rec.sys", 
+                "aceso.decay.np.__config__.sys", 
+                "aceso.decay.np.testing._private.nosetester.sys", 
+                "aceso.decay.np.lib.function_base.sys", 
+                "aceso.decay.np.__config__.os.path.warnings.linecache.sys", 
+                "aceso.decay.np._mat.defmatrix.N.arrayprint.multiarray.overrides.collections._sys", 
+                "aceso.decay.np.testing._private.utils.unittest.runner.sys", 
+                "aceso.decay.np.char.sys", 
+                "aceso.decay.np.lib.utils.sys", 
+                "aceso.decay.np.__config__.os.UserDict._abcoll.sys", 
+                "aceso.gravity.inspect.dis.sys", 
+                "aceso.decay.np.__config__.os.path.warnings.sys", 
+                "aceso.decay.np._mat.defmatrix.N.arrayprint._nt.sys", 
+                "aceso.decay.np.core._dtype_ctypes.ctypes._sys", 
+                "aceso.decay.np.sys", 
+                "aceso.decay.np.lib._datasource.sys", 
+                "aceso.decay.np._mat.defmatrix.sys", 
+                "aceso.gravity.sys", 
+                "aceso.decay.np.ma.core.sys", 
+                "aceso.decay.np._mat.defmatrix.N.arrayprint.sys", 
+                "aceso.decay.np.core._dtype_ctypes.ctypes._endian.sys", 
+                "aceso.decay.np.core._internal.sys", 
+                "aceso.decay.np.core._internal.platform.re.sre_compile.sre_parse.sys", 
+                "aceso.decay.np.compat.py3k.sys", 
+                "aceso.decay.np.testing._private.utils.unittest.case.result.traceback.sys", 
+                "aceso.decay.np.testing._private.utils.unittest.case.sys", 
+                "aceso.decay.np.testing._private.utils.unittest.loader.suite.sys", 
+                "aceso.decay.np._mat.defmatrix.N.arrayprint.multiarray.sys", 
+                "aceso.decay.np.testing._private.utils.sys"
+            ], 
+            "numpy.compat._inspect": [
+                "aceso.decay.np.compat._inspect"
+            ], 
+            "numpy.lib.format": [
+                "aceso.decay.np.lib.format", 
+                "aceso.decay.np.lib.npyio.format"
+            ], 
+            "numpy.lib.arrayterator": [
+                "aceso.decay.np.lib.arrayterator"
+            ], 
+            "numpy._distributor_init": [
+                "aceso.decay.np._distributor_init"
+            ], 
+            "types": [
+                "aceso.decay.np.testing._private.utils.unittest.case.types", 
+                "aceso.decay.np.testing._private.utils.unittest.loader.types", 
+                "aceso.decay.np.__config__.os.path.warnings.types", 
+                "aceso.decay.np._mat.defmatrix.N.fromnumeric.types", 
+                "aceso.decay.np.core.shape_base.types", 
+                "aceso.gravity.inspect.dis.types", 
+                "aceso.decay.np.testing._private.utils.unittest.case.result.traceback.types", 
+                "aceso.decay.np.compat._inspect.types", 
+                "aceso.decay.np.lib.utils.types", 
+                "aceso.decay.np.compat.py3k.abc.types", 
+                "aceso.decay.np._mat.defmatrix.N.arrayprint._nt._types", 
+                "aceso.gravity.inspect.types"
+            ], 
+            "numpy.testing._private.decorators": [
+                "aceso.decay.np.testing.dec", 
+                "aceso.decay.np.testing._private.decorators"
+            ], 
+            "numpy.lib.arraypad": [
+                "aceso.decay.np.lib.arraypad"
+            ], 
+            "difflib": [
+                "aceso.decay.np.testing._private.utils.unittest.case.difflib"
+            ], 
+            "_io": [
+                "aceso.decay.np.lib._datasource.io._io"
+            ], 
+            "linecache": [
+                "aceso.gravity.inspect.linecache", 
+                "aceso.decay.np.__config__.os.path.warnings.linecache", 
+                "aceso.decay.np.testing._private.utils.unittest.case.result.traceback.linecache"
+            ], 
+            "time": [
+                "aceso.decay.np.testing._private.utils.unittest.runner.time"
+            ], 
+            "numpy.linalg.linalg": [
+                "aceso.decay.np.linalg.linalg"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.0.2", 
+        "name": "aceso", 
+        "python_version": "2.7.18"
+    }
+}
