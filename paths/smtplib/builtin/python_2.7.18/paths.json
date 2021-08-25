@@ -1,0 +1,248 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "_socket": [
+                "smtplib.email.mime.base.message.utils.socket._socket"
+            ], 
+            "copy_reg": [
+                "smtplib.email.mime.base.message.utils.os._copy_reg", 
+                "smtplib.base64.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "smtplib.base64.re.sre_compile"
+            ], 
+            "locale": [
+                "smtplib.email._parseaddr.calendar._locale"
+            ], 
+            "_sre": [
+                "smtplib.base64.re.sre_compile._sre"
+            ], 
+            "functools": [
+                "smtplib.email._parseaddr.calendar._locale.functools"
+            ], 
+            "random": [
+                "smtplib.email.mime.base.message.utils.random"
+            ], 
+            "__builtin__": [
+                "smtplib.email._parseaddr.calendar._locale.encodings.__builtin__", 
+                "smtplib.email._parseaddr.calendar._locale.encodings.ascii.codecs.__builtin__"
+            ], 
+            "datetime": [
+                "smtplib.email._parseaddr.calendar.datetime"
+            ], 
+            "email.mime.message": [
+                "smtplib.email.mime.message"
+            ], 
+            "encodings": [
+                "smtplib.email._parseaddr.calendar._locale.encodings"
+            ], 
+            "operator": [
+                "smtplib.email._parseaddr.calendar._locale.operator"
+            ], 
+            "calendar": [
+                "smtplib.email._parseaddr.calendar"
+            ], 
+            "email.mime.image": [
+                "smtplib.email.mime.image"
+            ], 
+            "email.mime": [
+                "smtplib.email.mime"
+            ], 
+            "hashlib": [
+                "smtplib.email.mime.base.message.utils.random._hashlib"
+            ], 
+            "email.message": [
+                "smtplib.email.mime.base.message"
+            ], 
+            "email.mime.nonmultipart": [
+                "smtplib.email.mime.nonmultipart"
+            ], 
+            "struct": [
+                "smtplib.base64.struct"
+            ], 
+            "errno": [
+                "smtplib.email.mime.base.message.utils.urllib.ssl.errno", 
+                "smtplib.email.mime.base.message.utils.os.errno", 
+                "smtplib.email.mime.base.message.utils.socket.errno"
+            ], 
+            "base64": [
+                "smtplib.email.mime.base.message.utils.urllib.base64", 
+                "smtplib.email.mime.base.message.utils.urllib.ssl.base64", 
+                "smtplib.base64", 
+                "smtplib.email.mime.base.message.utils.base64", 
+                "smtplib.email.encoders.base64"
+            ], 
+            "binascii": [
+                "smtplib.base64.binascii", 
+                "smtplib.email.mime.base.message.binascii", 
+                "smtplib.email.mime.base.message.uu.binascii"
+            ], 
+            "urllib": [
+                "smtplib.email.mime.base.message.utils.urllib"
+            ], 
+            "re": [
+                "smtplib.email._parseaddr.calendar._locale.re", 
+                "smtplib.re", 
+                "smtplib.base64.string._re", 
+                "smtplib.email.mime.base.message.re", 
+                "smtplib.email.mime.base.message.utils.urllib.ssl.textwrap.re", 
+                "smtplib.email.mime.base.message.utils.urllib.ssl.re", 
+                "smtplib.email.mime.base.message.utils.urllib.re", 
+                "smtplib.base64.re", 
+                "smtplib.email.mime.base.message.utils.re"
+            ], 
+            "email._parseaddr": [
+                "smtplib.email._parseaddr"
+            ], 
+            "_random": [
+                "smtplib.email.mime.base.message.utils.random._random"
+            ], 
+            "email.mime.audio": [
+                "smtplib.email.mime.audio"
+            ], 
+            "email.errors": [
+                "smtplib.email.mime.base.message.errors", 
+                "smtplib.email.mime.nonmultipart.errors"
+            ], 
+            "email": [
+                "smtplib.email"
+            ], 
+            "genericpath": [
+                "smtplib.email.mime.base.message.utils.os.path.genericpath"
+            ], 
+            "stat": [
+                "smtplib.email.mime.base.message.utils.os.path.genericpath.stat", 
+                "smtplib.email.mime.base.message.utils.os.path.stat"
+            ], 
+            "_ssl": [
+                "smtplib.email.mime.base.message.utils.urllib.ssl._ssl", 
+                "smtplib.email.mime.base.message.utils.socket._ssl"
+            ], 
+            "string": [
+                "smtplib.base64.string", 
+                "smtplib.email.mime.base.message.utils.urllib.ssl.textwrap.string", 
+                "smtplib.email.mime.base.message.utils.urllib.string"
+            ], 
+            "warnings": [
+                "smtplib.email.mime.base.message.warnings", 
+                "smtplib.email.mime.base.message.utils.warnings", 
+                "smtplib.hmac._warnings", 
+                "smtplib.email.mime.base.message.utils.os.path.warnings", 
+                "smtplib.email.mime.base.message.utils.socket.warnings", 
+                "smtplib.email.mime.base.message.utils.urllib.ssl.warnings"
+            ], 
+            "UserDict": [
+                "smtplib.email.mime.base.message.utils.os.UserDict"
+            ], 
+            "encodings.ascii": [
+                "smtplib.email._parseaddr.calendar._locale.encodings.ascii"
+            ], 
+            "encodings.utf_8": [
+                "smtplib.email._parseaddr.calendar._locale.encodings.utf_8"
+            ], 
+            "email.utils": [
+                "smtplib.email.utils", 
+                "smtplib.email.mime.base.message.utils"
+            ], 
+            "textwrap": [
+                "smtplib.email.mime.base.message.utils.urllib.ssl.textwrap"
+            ], 
+            "sys": [
+                "smtplib.email.mime.base.message.utils.urllib.ssl.sys", 
+                "smtplib.email._parseaddr.calendar._locale.encodings.ascii.codecs.sys", 
+                "smtplib.email.mime.base.message.utils.os.path.sys", 
+                "smtplib.email.mime.base.message.uu.sys", 
+                "smtplib.email.mime.base.message.utils.os.path.warnings.sys", 
+                "smtplib.email.mime.base.message.utils.socket.sys", 
+                "smtplib.email._parseaddr.calendar._locale.sys", 
+                "smtplib.base64.re.sys", 
+                "smtplib.email.sys", 
+                "smtplib.base64.re.sre_compile.sre_parse.sys", 
+                "smtplib.email.mime.base.message.utils.os.sys", 
+                "smtplib.base64.re.sre_compile.sys", 
+                "smtplib.email.mime.base.message.utils.urllib.sys", 
+                "smtplib.email.mime.base.message.utils.os.UserDict._abcoll.sys", 
+                "smtplib.email.mime.base.message.utils.os.path.warnings.linecache.sys", 
+                "smtplib.email._parseaddr.calendar.sys"
+            ], 
+            "ssl": [
+                "smtplib.email.mime.base.message.utils.urllib.ssl", 
+                "smtplib.ssl"
+            ], 
+            "_hashlib": [
+                "smtplib.email.mime.base.message.utils.random._hashlib._hashlib"
+            ], 
+            "email.mime.text": [
+                "smtplib.email.mime.text"
+            ], 
+            "codecs": [
+                "smtplib.email._parseaddr.calendar._locale.encodings.utf_8.codecs", 
+                "smtplib.email._parseaddr.calendar._locale.encodings.ascii.codecs", 
+                "smtplib.email._parseaddr.calendar._locale.encodings.codecs"
+            ], 
+            "types": [
+                "smtplib.email.mime.base.message.utils.os.path.warnings.types"
+            ], 
+            "posixpath": [
+                "smtplib.email.mime.base.message.utils.os.path"
+            ], 
+            "_locale": [
+                "smtplib.base64.re._locale"
+            ], 
+            "socket": [
+                "smtplib.socket", 
+                "smtplib.email.mime.base.message.utils.socket", 
+                "smtplib.email.mime.base.message.utils.urllib.socket"
+            ], 
+            "email.base64mime": [
+                "smtplib.email.base64mime"
+            ], 
+            "uu": [
+                "smtplib.email.mime.base.message.uu"
+            ], 
+            "email.mime.multipart": [
+                "smtplib.email.mime.multipart"
+            ], 
+            "hmac": [
+                "smtplib.hmac"
+            ], 
+            "linecache": [
+                "smtplib.email.mime.base.message.utils.os.path.warnings.linecache"
+            ], 
+            "email.encoders": [
+                "smtplib.email.encoders"
+            ], 
+            "email.mime.base": [
+                "smtplib.email.mime.base"
+            ], 
+            "encodings.aliases": [
+                "smtplib.email._parseaddr.calendar._locale.encodings.aliases"
+            ], 
+            "time": [
+                "smtplib.email.mime.base.message.utils.urllib.time", 
+                "smtplib.email.mime.base.message.utils.time", 
+                "smtplib.email._parseaddr.time"
+            ], 
+            "sre_parse": [
+                "smtplib.base64.re.sre_compile.sre_parse", 
+                "smtplib.base64.re.sre_parse"
+            ], 
+            "os": [
+                "smtplib.email.mime.base.message.utils.os", 
+                "smtplib.email.mime.base.message.utils.urllib.os", 
+                "smtplib.email.mime.base.message.uu.os", 
+                "smtplib.email.mime.base.message.utils.socket.os", 
+                "smtplib.email.mime.base.message.utils.urllib.ssl.os"
+            ], 
+            "_abcoll": [
+                "smtplib.email.mime.base.message.utils.os.UserDict._abcoll"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "smtplib", 
+        "python_version": "2.7.18"
+    }
+}
