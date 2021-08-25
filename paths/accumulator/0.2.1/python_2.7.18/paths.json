@@ -1,0 +1,30 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "sys": [
+                "accumulator.accumulator.copy.weakref.UserDict._abcoll.sys"
+            ], 
+            "UserDict": [
+                "accumulator.accumulator.copy.weakref.UserDict"
+            ], 
+            "accumulator.accumulator": [
+                "accumulator.accumulator"
+            ], 
+            "weakref": [
+                "accumulator.accumulator.copy.weakref"
+            ], 
+            "_abcoll": [
+                "accumulator.accumulator.copy.weakref.UserDict._abcoll"
+            ], 
+            "copy": [
+                "accumulator.accumulator.copy"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.2.1", 
+        "name": "accumulator", 
+        "python_version": "2.7.18"
+    }
+}
