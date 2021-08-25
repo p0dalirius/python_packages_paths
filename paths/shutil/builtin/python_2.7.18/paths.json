@@ -1,0 +1,87 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "stat": [
+                "shutil.stat", 
+                "shutil.os.path.stat", 
+                "shutil.os.path.genericpath.stat"
+            ], 
+            "genericpath": [
+                "shutil.os.path.genericpath"
+            ], 
+            "heapq": [
+                "shutil.collections._heapq"
+            ], 
+            "linecache": [
+                "shutil.os.path.warnings.linecache"
+            ], 
+            "copy_reg": [
+                "shutil.os._copy_reg", 
+                "shutil.fnmatch.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "shutil.fnmatch.re.sre_compile"
+            ], 
+            "warnings": [
+                "shutil.os.path.warnings"
+            ], 
+            "errno": [
+                "shutil.os.errno", 
+                "shutil.errno"
+            ], 
+            "UserDict": [
+                "shutil.os.UserDict"
+            ], 
+            "_locale": [
+                "shutil.fnmatch.re._locale"
+            ], 
+            "sys": [
+                "shutil.os.path.warnings.sys", 
+                "shutil.os.path.sys", 
+                "shutil.fnmatch.re.sys", 
+                "shutil.os.path.warnings.linecache.sys", 
+                "shutil.sys", 
+                "shutil.os.sys", 
+                "shutil.collections._abcoll.sys", 
+                "shutil.collections._sys", 
+                "shutil.fnmatch.re.sre_compile.sre_parse.sys", 
+                "shutil.fnmatch.re.sre_compile.sys"
+            ], 
+            "re": [
+                "shutil.fnmatch.re"
+            ], 
+            "_abcoll": [
+                "shutil.os.UserDict._abcoll", 
+                "shutil.collections._abcoll"
+            ], 
+            "collections": [
+                "shutil.collections"
+            ], 
+            "_sre": [
+                "shutil.fnmatch.re.sre_compile._sre"
+            ], 
+            "fnmatch": [
+                "shutil.fnmatch"
+            ], 
+            "sre_parse": [
+                "shutil.fnmatch.re.sre_compile.sre_parse", 
+                "shutil.fnmatch.re.sre_parse"
+            ], 
+            "os": [
+                "shutil.os"
+            ], 
+            "types": [
+                "shutil.os.path.warnings.types"
+            ], 
+            "posixpath": [
+                "shutil.os.path"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "shutil", 
+        "python_version": "2.7.18"
+    }
+}
