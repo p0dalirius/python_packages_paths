@@ -1,0 +1,146 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "cStringIO": [
+                "acs_examine_student_assignment.logging.cStringIO"
+            ], 
+            "heapq": [
+                "acs_examine_student_assignment.argparse._collections._heapq"
+            ], 
+            "copy_reg": [
+                "acs_examine_student_assignment.argparse._re.copy_reg", 
+                "acs_examine_student_assignment.argparse._os._copy_reg"
+            ], 
+            "sre_compile": [
+                "acs_examine_student_assignment.argparse._re.sre_compile"
+            ], 
+            "_sre": [
+                "acs_examine_student_assignment.argparse._re.sre_compile._sre"
+            ], 
+            "__builtin__": [
+                "acs_examine_student_assignment.logging.codecs.__builtin__"
+            ], 
+            "atexit": [
+                "acs_examine_student_assignment.logging.atexit"
+            ], 
+            "posixpath": [
+                "acs_examine_student_assignment.argparse._os.path"
+            ], 
+            "threading": [
+                "acs_examine_student_assignment.logging.threading"
+            ], 
+            "errno": [
+                "acs_examine_student_assignment.argparse._os.errno"
+            ], 
+            "re": [
+                "acs_examine_student_assignment.fnmatch.re", 
+                "acs_examine_student_assignment.argparse._re", 
+                "acs_examine_student_assignment.argparse._textwrap.string._re", 
+                "acs_examine_student_assignment.argparse._textwrap.re", 
+                "acs_examine_student_assignment.re"
+            ], 
+            "_abcoll": [
+                "acs_examine_student_assignment.argparse._copy.weakref.UserDict._abcoll", 
+                "acs_examine_student_assignment.argparse._collections._abcoll"
+            ], 
+            "collections": [
+                "acs_examine_student_assignment.argparse._collections", 
+                "acs_examine_student_assignment.logging.collections"
+            ], 
+            "genericpath": [
+                "acs_examine_student_assignment.argparse._os.path.genericpath"
+            ], 
+            "stat": [
+                "acs_examine_student_assignment.argparse._os.path.stat", 
+                "acs_examine_student_assignment.argparse._os.path.genericpath.stat"
+            ], 
+            "string": [
+                "acs_examine_student_assignment.argparse._textwrap.string"
+            ], 
+            "warnings": [
+                "acs_examine_student_assignment.logging.warnings", 
+                "acs_examine_student_assignment.argparse._os.path.warnings", 
+                "acs_examine_student_assignment.logging.threading.warnings"
+            ], 
+            "UserDict": [
+                "acs_examine_student_assignment.argparse._copy.weakref.UserDict", 
+                "acs_examine_student_assignment.argparse._os.UserDict"
+            ], 
+            "textwrap": [
+                "acs_examine_student_assignment.argparse._textwrap"
+            ], 
+            "sys": [
+                "acs_examine_student_assignment.argparse._collections._sys", 
+                "acs_examine_student_assignment.sys", 
+                "acs_examine_student_assignment.argparse._os.path.warnings.sys", 
+                "acs_examine_student_assignment.logging.atexit.sys", 
+                "acs_examine_student_assignment.logging.threading._sys", 
+                "acs_examine_student_assignment.argparse._sys", 
+                "acs_examine_student_assignment.argparse._re.sre_compile.sys", 
+                "acs_examine_student_assignment.logging.codecs.sys", 
+                "acs_examine_student_assignment.argparse._os.path.warnings.linecache.sys", 
+                "acs_examine_student_assignment.logging.sys", 
+                "acs_examine_student_assignment.argparse._re.sys", 
+                "acs_examine_student_assignment.logging.traceback.sys", 
+                "acs_examine_student_assignment.argparse._collections._abcoll.sys", 
+                "acs_examine_student_assignment.argparse._re.sre_compile.sre_parse.sys", 
+                "acs_examine_student_assignment.argparse._os.sys", 
+                "acs_examine_student_assignment.argparse._os.path.sys"
+            ], 
+            "codecs": [
+                "acs_examine_student_assignment.logging.codecs"
+            ], 
+            "copy": [
+                "acs_examine_student_assignment.argparse._copy"
+            ], 
+            "types": [
+                "acs_examine_student_assignment.logging.traceback.types", 
+                "acs_examine_student_assignment.argparse._os.path.warnings.types"
+            ], 
+            "argparse": [
+                "acs_examine_student_assignment.argparse"
+            ], 
+            "_locale": [
+                "acs_examine_student_assignment.argparse._re._locale"
+            ], 
+            "logging": [
+                "acs_examine_student_assignment.logging"
+            ], 
+            "thread": [
+                "acs_examine_student_assignment.logging.thread"
+            ], 
+            "traceback": [
+                "acs_examine_student_assignment.logging.traceback"
+            ], 
+            "weakref": [
+                "acs_examine_student_assignment.argparse._copy.weakref", 
+                "acs_examine_student_assignment.logging.weakref"
+            ], 
+            "linecache": [
+                "acs_examine_student_assignment.logging.traceback.linecache", 
+                "acs_examine_student_assignment.argparse._os.path.warnings.linecache"
+            ], 
+            "time": [
+                "acs_examine_student_assignment.logging.time"
+            ], 
+            "fnmatch": [
+                "acs_examine_student_assignment.fnmatch"
+            ], 
+            "sre_parse": [
+                "acs_examine_student_assignment.argparse._re.sre_compile.sre_parse", 
+                "acs_examine_student_assignment.argparse._re.sre_parse"
+            ], 
+            "os": [
+                "acs_examine_student_assignment.argparse._os", 
+                "acs_examine_student_assignment.logging.os", 
+                "acs_examine_student_assignment.os"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "1.0.0", 
+        "name": "acs_examine_student_assignment", 
+        "python_version": "2.7.18"
+    }
+}
