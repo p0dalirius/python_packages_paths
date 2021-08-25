@@ -1,0 +1,22 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "sys": [
+                "collections._abcoll.sys", 
+                "collections._sys"
+            ], 
+            "heapq": [
+                "collections._heapq"
+            ], 
+            "_abcoll": [
+                "collections._abcoll"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "collections", 
+        "python_version": "2.7.18"
+    }
+}
