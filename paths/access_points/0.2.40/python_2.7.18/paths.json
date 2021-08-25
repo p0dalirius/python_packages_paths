@@ -1,0 +1,145 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "json.decoder": [
+                "access_points.json.decoder"
+            ], 
+            "copy_reg": [
+                "access_points.json.decoder.re.copy_reg", 
+                "access_points.platform.os._copy_reg"
+            ], 
+            "sre_compile": [
+                "access_points.json.decoder.re.sre_compile"
+            ], 
+            "_sre": [
+                "access_points.json.decoder.re.sre_compile._sre"
+            ], 
+            "subprocess": [
+                "access_points.subprocess"
+            ], 
+            "gc": [
+                "access_points.subprocess.gc"
+            ], 
+            "select": [
+                "access_points.subprocess.select"
+            ], 
+            "posixpath": [
+                "access_points.platform.os.path"
+            ], 
+            "re": [
+                "access_points.re", 
+                "access_points.platform.string._re", 
+                "access_points.subprocess.pickle.re", 
+                "access_points.json.decoder.scanner.re", 
+                "access_points.json.encoder.re", 
+                "access_points.json.decoder.re", 
+                "access_points.platform.re"
+            ], 
+            "errno": [
+                "access_points.platform.os.errno", 
+                "access_points.subprocess.errno"
+            ], 
+            "binascii": [
+                "access_points.subprocess.pickle._binascii"
+            ], 
+            "platform": [
+                "access_points.platform"
+            ], 
+            "json": [
+                "access_points.json"
+            ], 
+            "_abcoll": [
+                "access_points.platform.os.UserDict._abcoll"
+            ], 
+            "threading": [
+                "access_points.subprocess.threading"
+            ], 
+            "fcntl": [
+                "access_points.subprocess.fcntl"
+            ], 
+            "genericpath": [
+                "access_points.platform.os.path.genericpath"
+            ], 
+            "stat": [
+                "access_points.platform.os.path.genericpath.stat", 
+                "access_points.platform.os.path.stat"
+            ], 
+            "string": [
+                "access_points.platform.string"
+            ], 
+            "warnings": [
+                "access_points.platform.os.path.warnings", 
+                "access_points.subprocess.threading.warnings"
+            ], 
+            "UserDict": [
+                "access_points.platform.os.UserDict"
+            ], 
+            "sys": [
+                "access_points.platform.os.path.warnings.sys", 
+                "access_points.platform.os.UserDict._abcoll.sys", 
+                "access_points.subprocess.traceback.sys", 
+                "access_points.platform.os.path.sys", 
+                "access_points.sys", 
+                "access_points.json.decoder.re.sre_compile.sre_parse.sys", 
+                "access_points.json.decoder.re.sre_compile.sys", 
+                "access_points.platform.os.sys", 
+                "access_points.json.decoder.re.sys", 
+                "access_points.platform.os.path.warnings.linecache.sys", 
+                "access_points.subprocess.threading._sys", 
+                "access_points.json.decoder.sys", 
+                "access_points.subprocess.pickle.sys", 
+                "access_points.platform.sys", 
+                "access_points.subprocess.sys"
+            ], 
+            "json.scanner": [
+                "access_points.json.scanner", 
+                "access_points.json.decoder.scanner"
+            ], 
+            "json.encoder": [
+                "access_points.json.encoder"
+            ], 
+            "types": [
+                "access_points.subprocess.types", 
+                "access_points.subprocess.traceback.types", 
+                "access_points.platform.os.path.warnings.types"
+            ], 
+            "struct": [
+                "access_points.subprocess.pickle.struct", 
+                "access_points.json.decoder.struct"
+            ], 
+            "_locale": [
+                "access_points.json.decoder.re._locale"
+            ], 
+            "pickle": [
+                "access_points.subprocess.pickle"
+            ], 
+            "signal": [
+                "access_points.subprocess.signal"
+            ], 
+            "traceback": [
+                "access_points.subprocess.traceback"
+            ], 
+            "linecache": [
+                "access_points.subprocess.traceback.linecache", 
+                "access_points.platform.os.path.warnings.linecache"
+            ], 
+            "sre_parse": [
+                "access_points.json.decoder.re.sre_parse", 
+                "access_points.json.decoder.re.sre_compile.sre_parse"
+            ], 
+            "os": [
+                "access_points.platform.os", 
+                "access_points.subprocess.os"
+            ], 
+            "marshal": [
+                "access_points.subprocess.pickle.marshal"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.2.40", 
+        "name": "access_points", 
+        "python_version": "2.7.18"
+    }
+}
