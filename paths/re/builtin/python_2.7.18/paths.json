@@ -1,0 +1,33 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "_locale": [
+                "re._locale"
+            ], 
+            "copy_reg": [
+                "re.copy_reg"
+            ], 
+            "sre_compile": [
+                "re.sre_compile"
+            ], 
+            "_sre": [
+                "re.sre_compile._sre"
+            ], 
+            "sys": [
+                "re.sre_compile.sre_parse.sys", 
+                "re.sys", 
+                "re.sre_compile.sys"
+            ], 
+            "sre_parse": [
+                "re.sre_compile.sre_parse", 
+                "re.sre_parse"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "re", 
+        "python_version": "2.7.18"
+    }
+}
