@@ -1,0 +1,70 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "genericpath": [
+                "telnetlib.socket.os.path.genericpath"
+            ], 
+            "stat": [
+                "telnetlib.socket.os.path.stat", 
+                "telnetlib.socket.os.path.genericpath.stat"
+            ], 
+            "_ssl": [
+                "telnetlib.socket._ssl"
+            ], 
+            "copy_reg": [
+                "telnetlib.socket.os._copy_reg"
+            ], 
+            "socket": [
+                "telnetlib.socket"
+            ], 
+            "warnings": [
+                "telnetlib.socket.warnings", 
+                "telnetlib.socket.os.path.warnings"
+            ], 
+            "errno": [
+                "telnetlib.errno", 
+                "telnetlib.socket.os.errno", 
+                "telnetlib.socket.errno"
+            ], 
+            "_socket": [
+                "telnetlib.socket._socket"
+            ], 
+            "sys": [
+                "telnetlib.socket.os.sys", 
+                "telnetlib.socket.os.path.warnings.sys", 
+                "telnetlib.socket.sys", 
+                "telnetlib.sys", 
+                "telnetlib.socket.os.path.warnings.linecache.sys", 
+                "telnetlib.socket.os.UserDict._abcoll.sys", 
+                "telnetlib.socket.os.path.sys"
+            ], 
+            "linecache": [
+                "telnetlib.socket.os.path.warnings.linecache"
+            ], 
+            "_abcoll": [
+                "telnetlib.socket.os.UserDict._abcoll"
+            ], 
+            "types": [
+                "telnetlib.socket.os.path.warnings.types"
+            ], 
+            "UserDict": [
+                "telnetlib.socket.os.UserDict"
+            ], 
+            "os": [
+                "telnetlib.socket.os"
+            ], 
+            "select": [
+                "telnetlib.select"
+            ], 
+            "posixpath": [
+                "telnetlib.socket.os.path"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "telnetlib", 
+        "python_version": "2.7.18"
+    }
+}
