@@ -1,0 +1,105 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "heapq": [
+                "aboutdir.mains.argparse._collections._heapq"
+            ], 
+            "copy_reg": [
+                "aboutdir.mains.argparse._os._copy_reg", 
+                "aboutdir.mains.argparse._re.copy_reg"
+            ], 
+            "sre_compile": [
+                "aboutdir.mains.argparse._re.sre_compile"
+            ], 
+            "_sre": [
+                "aboutdir.mains.argparse._re.sre_compile._sre"
+            ], 
+            "aboutdir.mains": [
+                "aboutdir.mains"
+            ], 
+            "posixpath": [
+                "aboutdir.mains.argparse._os.path"
+            ], 
+            "errno": [
+                "aboutdir.mains.argparse._os.errno"
+            ], 
+            "re": [
+                "aboutdir.mains.argparse._textwrap.re", 
+                "aboutdir.mains.argparse._re", 
+                "aboutdir.mains.argparse._textwrap.string._re"
+            ], 
+            "_abcoll": [
+                "aboutdir.mains.argparse._copy.weakref.UserDict._abcoll", 
+                "aboutdir.mains.argparse._collections._abcoll"
+            ], 
+            "collections": [
+                "aboutdir.mains.argparse._collections"
+            ], 
+            "genericpath": [
+                "aboutdir.mains.argparse._os.path.genericpath"
+            ], 
+            "stat": [
+                "aboutdir.mains.argparse._os.path.stat", 
+                "aboutdir.mains.argparse._os.path.genericpath.stat"
+            ], 
+            "string": [
+                "aboutdir.mains.argparse._textwrap.string"
+            ], 
+            "warnings": [
+                "aboutdir.mains.argparse._os.path.warnings"
+            ], 
+            "UserDict": [
+                "aboutdir.mains.argparse._copy.weakref.UserDict", 
+                "aboutdir.mains.argparse._os.UserDict"
+            ], 
+            "textwrap": [
+                "aboutdir.mains.argparse._textwrap"
+            ], 
+            "sys": [
+                "aboutdir.mains.sys", 
+                "aboutdir.mains.argparse._os.path.warnings.linecache.sys", 
+                "aboutdir.mains.argparse._sys", 
+                "aboutdir.mains.argparse._os.path.sys", 
+                "aboutdir.mains.argparse._os.sys", 
+                "aboutdir.mains.argparse._re.sre_compile.sys", 
+                "aboutdir.mains.argparse._collections._abcoll.sys", 
+                "aboutdir.mains.argparse._re.sre_compile.sre_parse.sys", 
+                "aboutdir.mains.argparse._os.path.warnings.sys", 
+                "aboutdir.mains.argparse._re.sys", 
+                "aboutdir.mains.argparse._collections._sys"
+            ], 
+            "copy": [
+                "aboutdir.mains.argparse._copy"
+            ], 
+            "types": [
+                "aboutdir.mains.argparse._os.path.warnings.types"
+            ], 
+            "argparse": [
+                "aboutdir.mains.argparse"
+            ], 
+            "_locale": [
+                "aboutdir.mains.argparse._re._locale"
+            ], 
+            "weakref": [
+                "aboutdir.mains.argparse._copy.weakref"
+            ], 
+            "linecache": [
+                "aboutdir.mains.argparse._os.path.warnings.linecache"
+            ], 
+            "sre_parse": [
+                "aboutdir.mains.argparse._re.sre_parse", 
+                "aboutdir.mains.argparse._re.sre_compile.sre_parse"
+            ], 
+            "os": [
+                "aboutdir.mains.os", 
+                "aboutdir.mains.argparse._os"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "1.0", 
+        "name": "aboutdir", 
+        "python_version": "2.7.18"
+    }
+}
