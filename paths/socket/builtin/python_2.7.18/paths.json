@@ -1,0 +1,62 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "genericpath": [
+                "socket.os.path.genericpath"
+            ], 
+            "stat": [
+                "socket.os.path.stat", 
+                "socket.os.path.genericpath.stat"
+            ], 
+            "_ssl": [
+                "socket._ssl"
+            ], 
+            "copy_reg": [
+                "socket.os._copy_reg"
+            ], 
+            "posixpath": [
+                "socket.os.path"
+            ], 
+            "warnings": [
+                "socket.warnings", 
+                "socket.os.path.warnings"
+            ], 
+            "errno": [
+                "socket.os.errno", 
+                "socket.errno"
+            ], 
+            "_socket": [
+                "socket._socket"
+            ], 
+            "sys": [
+                "socket.os.path.warnings.linecache.sys", 
+                "socket.os.sys", 
+                "socket.os.path.warnings.sys", 
+                "socket.os.path.sys", 
+                "socket.sys", 
+                "socket.os.UserDict._abcoll.sys"
+            ], 
+            "linecache": [
+                "socket.os.path.warnings.linecache"
+            ], 
+            "_abcoll": [
+                "socket.os.UserDict._abcoll"
+            ], 
+            "UserDict": [
+                "socket.os.UserDict"
+            ], 
+            "os": [
+                "socket.os"
+            ], 
+            "types": [
+                "socket.os.path.warnings.types"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "socket", 
+        "python_version": "2.7.18"
+    }
+}
