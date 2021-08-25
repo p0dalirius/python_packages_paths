@@ -1,0 +1,124 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "heapq": [
+                "ensurepip.shutil.collections._heapq"
+            ], 
+            "copy_reg": [
+                "ensurepip.shutil.fnmatch.re.copy_reg", 
+                "ensurepip.os._copy_reg"
+            ], 
+            "sre_compile": [
+                "ensurepip.shutil.fnmatch.re.sre_compile"
+            ], 
+            "_sre": [
+                "ensurepip.shutil.fnmatch.re.sre_compile._sre"
+            ], 
+            "io": [
+                "ensurepip.tempfile._io"
+            ], 
+            "shutil": [
+                "ensurepip.shutil"
+            ], 
+            "abc": [
+                "ensurepip.tempfile._io.abc"
+            ], 
+            "posixpath": [
+                "ensurepip.os.path"
+            ], 
+            "re": [
+                "ensurepip.shutil.fnmatch.re"
+            ], 
+            "tempfile": [
+                "ensurepip.tempfile"
+            ], 
+            "errno": [
+                "ensurepip.shutil.errno", 
+                "ensurepip.tempfile._errno", 
+                "ensurepip.os.errno"
+            ], 
+            "imp": [
+                "ensurepip.pkgutil.imp"
+            ], 
+            "_abcoll": [
+                "ensurepip.os.UserDict._abcoll", 
+                "ensurepip.shutil.collections._abcoll"
+            ], 
+            "collections": [
+                "ensurepip.shutil.collections"
+            ], 
+            "fcntl": [
+                "ensurepip.tempfile._fcntl"
+            ], 
+            "genericpath": [
+                "ensurepip.os.path.genericpath"
+            ], 
+            "stat": [
+                "ensurepip.os.path.stat", 
+                "ensurepip.os.path.genericpath.stat", 
+                "ensurepip.shutil.stat"
+            ], 
+            "zipimport": [
+                "ensurepip.pkgutil.zipimport"
+            ], 
+            "warnings": [
+                "ensurepip.os.path.warnings"
+            ], 
+            "UserDict": [
+                "ensurepip.os.UserDict"
+            ], 
+            "sys": [
+                "ensurepip.os.UserDict._abcoll.sys", 
+                "ensurepip.shutil.fnmatch.re.sre_compile.sre_parse.sys", 
+                "ensurepip.shutil.collections._sys", 
+                "ensurepip.sys", 
+                "ensurepip.os.path.warnings.linecache.sys", 
+                "ensurepip.pkgutil.sys", 
+                "ensurepip.os.sys", 
+                "ensurepip.shutil.fnmatch.re.sys", 
+                "ensurepip.shutil.sys", 
+                "ensurepip.os.path.sys", 
+                "ensurepip.os.path.warnings.sys", 
+                "ensurepip.shutil.fnmatch.re.sre_compile.sys"
+            ], 
+            "types": [
+                "ensurepip.os.path.warnings.types", 
+                "ensurepip.tempfile._io.abc.types"
+            ], 
+            "pkgutil": [
+                "ensurepip.pkgutil"
+            ], 
+            "_locale": [
+                "ensurepip.shutil.fnmatch.re._locale"
+            ], 
+            "thread": [
+                "ensurepip.tempfile._thread"
+            ], 
+            "_io": [
+                "ensurepip.tempfile._io._io"
+            ], 
+            "linecache": [
+                "ensurepip.os.path.warnings.linecache"
+            ], 
+            "fnmatch": [
+                "ensurepip.shutil.fnmatch"
+            ], 
+            "sre_parse": [
+                "ensurepip.shutil.fnmatch.re.sre_compile.sre_parse", 
+                "ensurepip.shutil.fnmatch.re.sre_parse"
+            ], 
+            "os": [
+                "ensurepip.shutil.os", 
+                "ensurepip.tempfile._os", 
+                "ensurepip.pkgutil.os", 
+                "ensurepip.os"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "ensurepip", 
+        "python_version": "2.7.18"
+    }
+}
