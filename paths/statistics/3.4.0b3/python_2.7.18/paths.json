@@ -1,0 +1,28 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "sys": [
+                "statistics.collections._abcoll.sys", 
+                "statistics.collections._sys"
+            ], 
+            "heapq": [
+                "statistics.collections._heapq"
+            ], 
+            "_abcoll": [
+                "statistics.collections._abcoll"
+            ], 
+            "collections": [
+                "statistics.collections"
+            ], 
+            "math": [
+                "statistics.math"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "3.4.0b3", 
+        "name": "statistics", 
+        "python_version": "2.7.18"
+    }
+}
