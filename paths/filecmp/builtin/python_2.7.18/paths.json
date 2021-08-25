@@ -1,0 +1,54 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "genericpath": [
+                "filecmp.os.path.genericpath"
+            ], 
+            "stat": [
+                "filecmp.os.path.genericpath.stat", 
+                "filecmp.stat", 
+                "filecmp.os.path.stat"
+            ], 
+            "copy_reg": [
+                "filecmp.os._copy_reg"
+            ], 
+            "posixpath": [
+                "filecmp.os.path"
+            ], 
+            "warnings": [
+                "filecmp.os.path.warnings"
+            ], 
+            "UserDict": [
+                "filecmp.os.UserDict"
+            ], 
+            "sys": [
+                "filecmp.os.UserDict._abcoll.sys", 
+                "filecmp.os.path.sys", 
+                "filecmp.os.sys", 
+                "filecmp.os.path.warnings.sys", 
+                "filecmp.os.path.warnings.linecache.sys"
+            ], 
+            "linecache": [
+                "filecmp.os.path.warnings.linecache"
+            ], 
+            "_abcoll": [
+                "filecmp.os.UserDict._abcoll"
+            ], 
+            "errno": [
+                "filecmp.os.errno"
+            ], 
+            "os": [
+                "filecmp.os"
+            ], 
+            "types": [
+                "filecmp.os.path.warnings.types"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "filecmp", 
+        "python_version": "2.7.18"
+    }
+}
