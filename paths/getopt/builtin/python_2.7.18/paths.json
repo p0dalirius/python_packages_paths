@@ -1,0 +1,53 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "genericpath": [
+                "getopt.os.path.genericpath"
+            ], 
+            "stat": [
+                "getopt.os.path.stat", 
+                "getopt.os.path.genericpath.stat"
+            ], 
+            "copy_reg": [
+                "getopt.os._copy_reg"
+            ], 
+            "posixpath": [
+                "getopt.os.path"
+            ], 
+            "warnings": [
+                "getopt.os.path.warnings"
+            ], 
+            "UserDict": [
+                "getopt.os.UserDict"
+            ], 
+            "sys": [
+                "getopt.os.path.warnings.linecache.sys", 
+                "getopt.os.path.warnings.sys", 
+                "getopt.os.UserDict._abcoll.sys", 
+                "getopt.os.sys", 
+                "getopt.os.path.sys"
+            ], 
+            "linecache": [
+                "getopt.os.path.warnings.linecache"
+            ], 
+            "_abcoll": [
+                "getopt.os.UserDict._abcoll"
+            ], 
+            "errno": [
+                "getopt.os.errno"
+            ], 
+            "os": [
+                "getopt.os"
+            ], 
+            "types": [
+                "getopt.os.path.warnings.types"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "getopt", 
+        "python_version": "2.7.18"
+    }
+}
