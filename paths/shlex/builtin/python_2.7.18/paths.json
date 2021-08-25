@@ -1,0 +1,54 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "genericpath": [
+                "shlex.os.path.genericpath"
+            ], 
+            "stat": [
+                "shlex.os.path.stat", 
+                "shlex.os.path.genericpath.stat"
+            ], 
+            "copy_reg": [
+                "shlex.os._copy_reg"
+            ], 
+            "posixpath": [
+                "shlex.os.path"
+            ], 
+            "warnings": [
+                "shlex.os.path.warnings"
+            ], 
+            "UserDict": [
+                "shlex.os.UserDict"
+            ], 
+            "sys": [
+                "shlex.os.sys", 
+                "shlex.os.path.sys", 
+                "shlex.os.UserDict._abcoll.sys", 
+                "shlex.os.path.warnings.linecache.sys", 
+                "shlex.sys", 
+                "shlex.os.path.warnings.sys"
+            ], 
+            "linecache": [
+                "shlex.os.path.warnings.linecache"
+            ], 
+            "_abcoll": [
+                "shlex.os.UserDict._abcoll"
+            ], 
+            "errno": [
+                "shlex.os.errno"
+            ], 
+            "os": [
+                "shlex.os"
+            ], 
+            "types": [
+                "shlex.os.path.warnings.types"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "shlex", 
+        "python_version": "2.7.18"
+    }
+}
