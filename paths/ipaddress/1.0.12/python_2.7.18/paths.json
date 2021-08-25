@@ -1,0 +1,18 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "itertools": [
+                "ipaddress.itertools"
+            ], 
+            "struct": [
+                "ipaddress.struct"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "1.0.12", 
+        "name": "ipaddress", 
+        "python_version": "2.7.18"
+    }
+}

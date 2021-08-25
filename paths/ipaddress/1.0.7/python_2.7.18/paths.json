@@ -1,0 +1,15 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "struct": [
+                "ipaddress.struct"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "1.0.7", 
+        "name": "ipaddress", 
+        "python_version": "2.7.18"
+    }
+}
