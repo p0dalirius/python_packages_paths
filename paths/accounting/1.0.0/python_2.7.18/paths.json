@@ -1,0 +1,42 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "accounting.accounting": [
+                "accounting.accounting"
+            ], 
+            "_locale": [
+                "accounting.accounting.re._locale"
+            ], 
+            "copy_reg": [
+                "accounting.accounting.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "accounting.accounting.re.sre_compile"
+            ], 
+            "_sre": [
+                "accounting.accounting.re.sre_compile._sre"
+            ], 
+            "accounting.utils": [
+                "accounting.utils"
+            ], 
+            "sys": [
+                "accounting.accounting.re.sre_compile.sys", 
+                "accounting.accounting.re.sys", 
+                "accounting.accounting.re.sre_compile.sre_parse.sys"
+            ], 
+            "re": [
+                "accounting.accounting.re"
+            ], 
+            "sre_parse": [
+                "accounting.accounting.re.sre_compile.sre_parse", 
+                "accounting.accounting.re.sre_parse"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "1.0.0", 
+        "name": "accounting", 
+        "python_version": "2.7.18"
+    }
+}
