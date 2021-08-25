@@ -1,0 +1,65 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "sys": [
+                "aactivator.os.path.warnings.sys", 
+                "aactivator.sys", 
+                "aactivator.os.sys", 
+                "aactivator.os.UserDict._abcoll.sys", 
+                "aactivator.os.path.sys", 
+                "aactivator.os.path.warnings.linecache.sys"
+            ], 
+            "stat": [
+                "aactivator.os.path.genericpath.stat", 
+                "aactivator.os.path.stat", 
+                "aactivator.stat"
+            ], 
+            "abc": [
+                "aactivator.io.abc"
+            ], 
+            "copy_reg": [
+                "aactivator.os._copy_reg"
+            ], 
+            "posixpath": [
+                "aactivator.os.path"
+            ], 
+            "genericpath": [
+                "aactivator.os.path.genericpath"
+            ], 
+            "UserDict": [
+                "aactivator.os.UserDict"
+            ], 
+            "warnings": [
+                "aactivator.os.path.warnings"
+            ], 
+            "_io": [
+                "aactivator.io._io"
+            ], 
+            "linecache": [
+                "aactivator.os.path.warnings.linecache"
+            ], 
+            "_abcoll": [
+                "aactivator.os.UserDict._abcoll"
+            ], 
+            "io": [
+                "aactivator.io"
+            ], 
+            "errno": [
+                "aactivator.os.errno"
+            ], 
+            "os": [
+                "aactivator.os"
+            ], 
+            "types": [
+                "aactivator.io.abc.types", 
+                "aactivator.os.path.warnings.types"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "1.0.1", 
+        "name": "aactivator", 
+        "python_version": "2.7.18"
+    }
+}
