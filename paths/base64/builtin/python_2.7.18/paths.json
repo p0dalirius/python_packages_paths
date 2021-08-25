@@ -1,0 +1,46 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "_locale": [
+                "base64.re._locale"
+            ], 
+            "copy_reg": [
+                "base64.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "base64.re.sre_compile"
+            ], 
+            "_sre": [
+                "base64.re.sre_compile._sre"
+            ], 
+            "binascii": [
+                "base64.binascii"
+            ], 
+            "struct": [
+                "base64.struct"
+            ], 
+            "sys": [
+                "base64.re.sre_compile.sys", 
+                "base64.re.sys", 
+                "base64.re.sre_compile.sre_parse.sys"
+            ], 
+            "re": [
+                "base64.string._re", 
+                "base64.re"
+            ], 
+            "sre_parse": [
+                "base64.re.sre_parse", 
+                "base64.re.sre_compile.sre_parse"
+            ], 
+            "string": [
+                "base64.string"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "base64", 
+        "python_version": "2.7.18"
+    }
+}
