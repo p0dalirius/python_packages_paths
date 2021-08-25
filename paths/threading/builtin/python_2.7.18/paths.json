@@ -1,0 +1,54 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "genericpath": [
+                "threading.warnings.linecache.os.path.genericpath"
+            ], 
+            "stat": [
+                "threading.warnings.linecache.os.path.genericpath.stat", 
+                "threading.warnings.linecache.os.path.stat"
+            ], 
+            "copy_reg": [
+                "threading.warnings.linecache.os._copy_reg"
+            ], 
+            "posixpath": [
+                "threading.warnings.linecache.os.path"
+            ], 
+            "warnings": [
+                "threading.warnings"
+            ], 
+            "UserDict": [
+                "threading.warnings.linecache.os.UserDict"
+            ], 
+            "sys": [
+                "threading.warnings.linecache.sys", 
+                "threading.warnings.linecache.os.sys", 
+                "threading.warnings.linecache.os.path.sys", 
+                "threading._sys", 
+                "threading.warnings.sys", 
+                "threading.warnings.linecache.os.UserDict._abcoll.sys"
+            ], 
+            "linecache": [
+                "threading.warnings.linecache"
+            ], 
+            "_abcoll": [
+                "threading.warnings.linecache.os.UserDict._abcoll"
+            ], 
+            "errno": [
+                "threading.warnings.linecache.os.errno"
+            ], 
+            "os": [
+                "threading.warnings.linecache.os"
+            ], 
+            "types": [
+                "threading.warnings.types"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "threading", 
+        "python_version": "2.7.18"
+    }
+}
