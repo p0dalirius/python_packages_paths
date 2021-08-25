@@ -1,0 +1,114 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "base64": [
+                "ftplib.ssl.base64"
+            ], 
+            "copy_reg": [
+                "ftplib.ssl.base64.re.copy_reg", 
+                "ftplib.os._copy_reg"
+            ], 
+            "sre_compile": [
+                "ftplib.ssl.base64.re.sre_compile"
+            ], 
+            "_sre": [
+                "ftplib.ssl.base64.re.sre_compile._sre"
+            ], 
+            "posixpath": [
+                "ftplib.os.path"
+            ], 
+            "errno": [
+                "ftplib.ssl.errno", 
+                "ftplib.os.errno", 
+                "ftplib.socket.errno"
+            ], 
+            "_socket": [
+                "ftplib.socket._socket"
+            ], 
+            "binascii": [
+                "ftplib.ssl.base64.binascii"
+            ], 
+            "re": [
+                "ftplib.ssl.base64.string._re", 
+                "ftplib.ssl.base64.re", 
+                "ftplib.ssl.re", 
+                "ftplib.ssl.textwrap.re"
+            ], 
+            "_abcoll": [
+                "ftplib.os.UserDict._abcoll"
+            ], 
+            "genericpath": [
+                "ftplib.os.path.genericpath"
+            ], 
+            "stat": [
+                "ftplib.os.path.stat", 
+                "ftplib.os.path.genericpath.stat"
+            ], 
+            "_ssl": [
+                "ftplib.socket._ssl", 
+                "ftplib.ssl._ssl"
+            ], 
+            "string": [
+                "ftplib.ssl.textwrap.string", 
+                "ftplib.ssl.base64.string"
+            ], 
+            "warnings": [
+                "ftplib.os.path.warnings", 
+                "ftplib.socket.warnings", 
+                "ftplib.ssl.warnings"
+            ], 
+            "UserDict": [
+                "ftplib.os.UserDict"
+            ], 
+            "textwrap": [
+                "ftplib.ssl.textwrap"
+            ], 
+            "sys": [
+                "ftplib.os.path.warnings.sys", 
+                "ftplib.socket.sys", 
+                "ftplib.ssl.base64.re.sre_compile.sys", 
+                "ftplib.os.sys", 
+                "ftplib.ssl.sys", 
+                "ftplib.ssl.base64.re.sys", 
+                "ftplib.os.path.sys", 
+                "ftplib.ssl.base64.re.sre_compile.sre_parse.sys", 
+                "ftplib.sys", 
+                "ftplib.os.path.warnings.linecache.sys", 
+                "ftplib.os.UserDict._abcoll.sys"
+            ], 
+            "ssl": [
+                "ftplib.ssl"
+            ], 
+            "types": [
+                "ftplib.os.path.warnings.types"
+            ], 
+            "struct": [
+                "ftplib.ssl.base64.struct"
+            ], 
+            "_locale": [
+                "ftplib.ssl.base64.re._locale"
+            ], 
+            "socket": [
+                "ftplib.socket"
+            ], 
+            "linecache": [
+                "ftplib.os.path.warnings.linecache"
+            ], 
+            "sre_parse": [
+                "ftplib.ssl.base64.re.sre_parse", 
+                "ftplib.ssl.base64.re.sre_compile.sre_parse"
+            ], 
+            "os": [
+                "ftplib.os", 
+                "ftplib.ssl.os", 
+                "ftplib.socket.os"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "ftplib", 
+        "python_version": "2.7.18"
+    }
+}
