@@ -1,0 +1,65 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "genericpath": [
+                "contextvars.threading.warnings.linecache.os.path.genericpath"
+            ], 
+            "heapq": [
+                "contextvars.collections._heapq"
+            ], 
+            "linecache": [
+                "contextvars.threading.warnings.linecache"
+            ], 
+            "copy_reg": [
+                "contextvars.threading.warnings.linecache.os._copy_reg"
+            ], 
+            "posixpath": [
+                "contextvars.threading.warnings.linecache.os.path"
+            ], 
+            "warnings": [
+                "contextvars.threading.warnings"
+            ], 
+            "UserDict": [
+                "contextvars.threading.warnings.linecache.os.UserDict"
+            ], 
+            "stat": [
+                "contextvars.threading.warnings.linecache.os.path.stat", 
+                "contextvars.threading.warnings.linecache.os.path.genericpath.stat"
+            ], 
+            "sys": [
+                "contextvars.collections._abcoll.sys", 
+                "contextvars.threading._sys", 
+                "contextvars.collections._sys", 
+                "contextvars.threading.warnings.linecache.os.path.sys", 
+                "contextvars.threading.warnings.sys", 
+                "contextvars.threading.warnings.linecache.os.sys", 
+                "contextvars.threading.warnings.linecache.sys"
+            ], 
+            "threading": [
+                "contextvars.threading"
+            ], 
+            "_abcoll": [
+                "contextvars.threading.warnings.linecache.os.UserDict._abcoll", 
+                "contextvars.collections._abcoll"
+            ], 
+            "collections": [
+                "contextvars.collections"
+            ], 
+            "errno": [
+                "contextvars.threading.warnings.linecache.os.errno"
+            ], 
+            "os": [
+                "contextvars.threading.warnings.linecache.os"
+            ], 
+            "types": [
+                "contextvars.threading.warnings.types"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "1.0", 
+        "name": "contextvars", 
+        "python_version": "2.7.18"
+    }
+}
