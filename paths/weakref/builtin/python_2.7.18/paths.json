@@ -1,0 +1,21 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "sys": [
+                "weakref.UserDict._abcoll.sys"
+            ], 
+            "UserDict": [
+                "weakref.UserDict"
+            ], 
+            "_abcoll": [
+                "weakref.UserDict._abcoll"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "weakref", 
+        "python_version": "2.7.18"
+    }
+}
