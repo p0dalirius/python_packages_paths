@@ -1,0 +1,61 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "_locale": [
+                "locale.re._locale"
+            ], 
+            "copy_reg": [
+                "locale.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "locale.re.sre_compile"
+            ], 
+            "_sre": [
+                "locale.re.sre_compile._sre"
+            ], 
+            "functools": [
+                "locale.functools"
+            ], 
+            "encodings": [
+                "locale.encodings"
+            ], 
+            "encodings.utf_8": [
+                "locale.encodings.utf_8"
+            ], 
+            "__builtin__": [
+                "locale.encodings.__builtin__", 
+                "locale.encodings.codecs.__builtin__"
+            ], 
+            "sys": [
+                "locale.sys", 
+                "locale.re.sre_compile.sys", 
+                "locale.re.sys", 
+                "locale.re.sre_compile.sre_parse.sys", 
+                "locale.encodings.codecs.sys"
+            ], 
+            "re": [
+                "locale.re"
+            ], 
+            "encodings.aliases": [
+                "locale.encodings.aliases"
+            ], 
+            "codecs": [
+                "locale.encodings.utf_8.codecs", 
+                "locale.encodings.codecs"
+            ], 
+            "operator": [
+                "locale.operator"
+            ], 
+            "sre_parse": [
+                "locale.re.sre_compile.sre_parse", 
+                "locale.re.sre_parse"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "locale", 
+        "python_version": "2.7.18"
+    }
+}
