@@ -1,0 +1,141 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "cStringIO": [
+                "activegit.activegit.logging.cStringIO"
+            ], 
+            "heapq": [
+                "activegit.activegit.logging.collections._heapq"
+            ], 
+            "copy_reg": [
+                "activegit.activegit.logging.os._copy_reg", 
+                "activegit.activegit.pickle.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "activegit.activegit.pickle.re.sre_compile"
+            ], 
+            "_sre": [
+                "activegit.activegit.pickle.re.sre_compile._sre"
+            ], 
+            "__builtin__": [
+                "activegit.activegit.logging.codecs.__builtin__"
+            ], 
+            "atexit": [
+                "activegit.activegit.logging.atexit"
+            ], 
+            "posixpath": [
+                "activegit.activegit.logging.os.path"
+            ], 
+            "threading": [
+                "activegit.activegit.logging.threading"
+            ], 
+            "errno": [
+                "activegit.activegit.logging.os.errno"
+            ], 
+            "binascii": [
+                "activegit.activegit.pickle._binascii"
+            ], 
+            "re": [
+                "activegit.activegit.pickle.re"
+            ], 
+            "_abcoll": [
+                "activegit.activegit.logging.os.UserDict._abcoll", 
+                "activegit.activegit.logging.collections._abcoll"
+            ], 
+            "collections": [
+                "activegit.activegit.logging.collections"
+            ], 
+            "genericpath": [
+                "activegit.activegit.logging.os.path.genericpath"
+            ], 
+            "stat": [
+                "activegit.activegit.logging.os.path.stat", 
+                "activegit.activegit.logging.os.path.genericpath.stat"
+            ], 
+            "warnings": [
+                "activegit.activegit.logging.threading.warnings", 
+                "activegit.activegit.logging.warnings", 
+                "activegit.activegit.logging.os.path.warnings"
+            ], 
+            "UserDict": [
+                "activegit.activegit.logging.weakref.UserDict", 
+                "activegit.activegit.logging.os.UserDict"
+            ], 
+            "sys": [
+                "activegit.activegit.pickle.sys", 
+                "activegit.activegit.pickle.re.sys", 
+                "activegit.activegit.pickle.re.sre_compile.sys", 
+                "activegit.activegit.logging.traceback.sys", 
+                "activegit.activegit.logging.os.sys", 
+                "activegit.activegit.logging.os.path.warnings.sys", 
+                "activegit.activegit.logging.collections._abcoll.sys", 
+                "activegit.activegit.logging.atexit.sys", 
+                "activegit.activegit.logging.os.path.warnings.linecache.sys", 
+                "activegit.activegit.logging.sys", 
+                "activegit.activegit.logging.collections._sys", 
+                "activegit.activegit.logging.codecs.sys", 
+                "activegit.activegit.pickle.re.sre_compile.sre_parse.sys", 
+                "activegit.activegit.logging.os.path.sys", 
+                "activegit.activegit.logging.threading._sys"
+            ], 
+            "codecs": [
+                "activegit.activegit.logging.codecs"
+            ], 
+            "types": [
+                "activegit.activegit.logging.traceback.types", 
+                "activegit.activegit.logging.os.path.warnings.types"
+            ], 
+            "struct": [
+                "activegit.activegit.pickle.struct"
+            ], 
+            "_locale": [
+                "activegit.activegit.pickle.re._locale"
+            ], 
+            "logging": [
+                "activegit.activegit.logging", 
+                "activegit.logging"
+            ], 
+            "thread": [
+                "activegit.activegit.logging.thread"
+            ], 
+            "pickle": [
+                "activegit.activegit.pickle", 
+                "activegit.pickle"
+            ], 
+            "traceback": [
+                "activegit.activegit.logging.traceback"
+            ], 
+            "weakref": [
+                "activegit.activegit.logging.weakref"
+            ], 
+            "linecache": [
+                "activegit.activegit.logging.os.path.warnings.linecache", 
+                "activegit.activegit.logging.traceback.linecache"
+            ], 
+            "activegit.activegit": [
+                "activegit.activegit"
+            ], 
+            "time": [
+                "activegit.activegit.logging.time"
+            ], 
+            "sre_parse": [
+                "activegit.activegit.pickle.re.sre_compile.sre_parse", 
+                "activegit.activegit.pickle.re.sre_parse"
+            ], 
+            "os": [
+                "activegit.activegit.os", 
+                "activegit.activegit.logging.os", 
+                "activegit.os"
+            ], 
+            "marshal": [
+                "activegit.activegit.pickle.marshal"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.36", 
+        "name": "activegit", 
+        "python_version": "2.7.18"
+    }
+}
