@@ -1,0 +1,57 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "genericpath": [
+                "uu.os.path.genericpath"
+            ], 
+            "stat": [
+                "uu.os.path.genericpath.stat", 
+                "uu.os.path.stat"
+            ], 
+            "copy_reg": [
+                "uu.os._copy_reg"
+            ], 
+            "posixpath": [
+                "uu.os.path"
+            ], 
+            "warnings": [
+                "uu.os.path.warnings"
+            ], 
+            "UserDict": [
+                "uu.os.UserDict"
+            ], 
+            "binascii": [
+                "uu.binascii"
+            ], 
+            "sys": [
+                "uu.sys", 
+                "uu.os.UserDict._abcoll.sys", 
+                "uu.os.path.sys", 
+                "uu.os.path.warnings.linecache.sys", 
+                "uu.os.path.warnings.sys", 
+                "uu.os.sys"
+            ], 
+            "linecache": [
+                "uu.os.path.warnings.linecache"
+            ], 
+            "_abcoll": [
+                "uu.os.UserDict._abcoll"
+            ], 
+            "errno": [
+                "uu.os.errno"
+            ], 
+            "os": [
+                "uu.os"
+            ], 
+            "types": [
+                "uu.os.path.warnings.types"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "uu", 
+        "python_version": "2.7.18"
+    }
+}
