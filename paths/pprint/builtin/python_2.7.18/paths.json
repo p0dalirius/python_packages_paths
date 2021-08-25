@@ -1,0 +1,54 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "genericpath": [
+                "pprint.warnings.linecache.os.path.genericpath"
+            ], 
+            "stat": [
+                "pprint.warnings.linecache.os.path.stat", 
+                "pprint.warnings.linecache.os.path.genericpath.stat"
+            ], 
+            "copy_reg": [
+                "pprint.warnings.linecache.os._copy_reg"
+            ], 
+            "posixpath": [
+                "pprint.warnings.linecache.os.path"
+            ], 
+            "warnings": [
+                "pprint.warnings"
+            ], 
+            "UserDict": [
+                "pprint.warnings.linecache.os.UserDict"
+            ], 
+            "sys": [
+                "pprint.warnings.linecache.os.UserDict._abcoll.sys", 
+                "pprint.warnings.sys", 
+                "pprint.warnings.linecache.sys", 
+                "pprint._sys", 
+                "pprint.warnings.linecache.os.sys", 
+                "pprint.warnings.linecache.os.path.sys"
+            ], 
+            "linecache": [
+                "pprint.warnings.linecache"
+            ], 
+            "_abcoll": [
+                "pprint.warnings.linecache.os.UserDict._abcoll"
+            ], 
+            "errno": [
+                "pprint.warnings.linecache.os.errno"
+            ], 
+            "os": [
+                "pprint.warnings.linecache.os"
+            ], 
+            "types": [
+                "pprint.warnings.types"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "", 
+        "name": "pprint", 
+        "python_version": "2.7.18"
+    }
+}
