@@ -1,0 +1,149 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "copy_reg": [
+                "a2svm.a2svm.os._copy_reg", 
+                "a2svm.a2svm.ConfigParser.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "a2svm.a2svm.ConfigParser.re.sre_compile"
+            ], 
+            "_hashlib": [
+                "a2svm.a2svm.random._hashlib._hashlib"
+            ], 
+            "_sre": [
+                "a2svm.a2svm.ConfigParser.re.sre_compile._sre"
+            ], 
+            "random": [
+                "a2svm.a2svm.random"
+            ], 
+            "datetime": [
+                "a2svm.a2svm.datetime"
+            ], 
+            "gc": [
+                "a2svm.a2svm.subprocess.gc"
+            ], 
+            "select": [
+                "a2svm.a2svm.subprocess.select"
+            ], 
+            "posixpath": [
+                "a2svm.a2svm.os.path"
+            ], 
+            "threading": [
+                "a2svm.a2svm.subprocess.threading"
+            ], 
+            "errno": [
+                "a2svm.a2svm.os.errno", 
+                "a2svm.a2svm.subprocess.errno"
+            ], 
+            "binascii": [
+                "a2svm.a2svm.subprocess.pickle._binascii"
+            ], 
+            "struct": [
+                "a2svm.a2svm.subprocess.pickle.struct"
+            ], 
+            "re": [
+                "a2svm.a2svm.re", 
+                "a2svm.a2svm.string._re", 
+                "a2svm.a2svm.subprocess.pickle.re", 
+                "a2svm.a2svm.ConfigParser.re"
+            ], 
+            "_abcoll": [
+                "a2svm.a2svm.ConfigParser._UserDict._abcoll"
+            ], 
+            "a2svm.a2svm": [
+                "a2svm.a2svm"
+            ], 
+            "_random": [
+                "a2svm.a2svm.random._random"
+            ], 
+            "fcntl": [
+                "a2svm.a2svm.subprocess.fcntl"
+            ], 
+            "genericpath": [
+                "a2svm.a2svm.os.path.genericpath"
+            ], 
+            "stat": [
+                "a2svm.a2svm.os.path.stat", 
+                "a2svm.a2svm.os.path.genericpath.stat"
+            ], 
+            "string": [
+                "a2svm.a2svm.string"
+            ], 
+            "warnings": [
+                "a2svm.a2svm.os.path.warnings", 
+                "a2svm.a2svm.subprocess.threading.warnings"
+            ], 
+            "UserDict": [
+                "a2svm.a2svm.ConfigParser._UserDict", 
+                "a2svm.a2svm.os.UserDict"
+            ], 
+            "hashlib": [
+                "a2svm.a2svm.random._hashlib"
+            ], 
+            "sys": [
+                "a2svm.a2svm.sys", 
+                "a2svm.a2svm.subprocess.threading._sys", 
+                "a2svm.a2svm.ConfigParser._UserDict._abcoll.sys", 
+                "a2svm.a2svm.subprocess.sys", 
+                "a2svm.a2svm.os.path.sys", 
+                "a2svm.a2svm.ConfigParser.re.sre_compile.sre_parse.sys", 
+                "a2svm.a2svm.subprocess.traceback.sys", 
+                "a2svm.a2svm.subprocess.pickle.sys", 
+                "a2svm.a2svm.os.sys", 
+                "a2svm.a2svm.ConfigParser.re.sre_compile.sys", 
+                "a2svm.a2svm.os.path.warnings.linecache.sys", 
+                "a2svm.a2svm.ConfigParser.re.sys", 
+                "a2svm.a2svm.os.path.warnings.sys"
+            ], 
+            "subprocess": [
+                "a2svm.a2svm.subprocess"
+            ], 
+            "types": [
+                "a2svm.a2svm.subprocess.types", 
+                "a2svm.a2svm.os.path.warnings.types", 
+                "a2svm.a2svm.subprocess.traceback.types"
+            ], 
+            "ConfigParser": [
+                "a2svm.a2svm.ConfigParser"
+            ], 
+            "_locale": [
+                "a2svm.a2svm.ConfigParser.re._locale"
+            ], 
+            "pickle": [
+                "a2svm.a2svm.subprocess.pickle"
+            ], 
+            "signal": [
+                "a2svm.a2svm.subprocess.signal"
+            ], 
+            "traceback": [
+                "a2svm.a2svm.subprocess.traceback"
+            ], 
+            "linecache": [
+                "a2svm.a2svm.subprocess.traceback.linecache", 
+                "a2svm.a2svm.os.path.warnings.linecache"
+            ], 
+            "a2svm.ressources": [
+                "a2svm.a2svm.ressources", 
+                "a2svm.ressources"
+            ], 
+            "sre_parse": [
+                "a2svm.a2svm.ConfigParser.re.sre_parse", 
+                "a2svm.a2svm.ConfigParser.re.sre_compile.sre_parse"
+            ], 
+            "os": [
+                "a2svm.a2svm.subprocess.os", 
+                "a2svm.a2svm.os"
+            ], 
+            "marshal": [
+                "a2svm.a2svm.subprocess.pickle.marshal"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.0.8", 
+        "name": "a2svm", 
+        "python_version": "2.7.18"
+    }
+}
