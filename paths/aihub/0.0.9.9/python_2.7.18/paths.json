@@ -1,0 +1,141 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "_socket": [
+                "aihub.__algo__.urllib.socket._socket"
+            ], 
+            "copy_reg": [
+                "aihub.__algo__.urllib.base64.re.copy_reg", 
+                "aihub.__algo__.urllib.os._copy_reg"
+            ], 
+            "sre_compile": [
+                "aihub.__algo__.urllib.base64.re.sre_compile"
+            ], 
+            "_sre": [
+                "aihub.__algo__.urllib.base64.re.sre_compile._sre"
+            ], 
+            "struct": [
+                "aihub.__algo__.urllib.base64.struct"
+            ], 
+            "errno": [
+                "aihub.__algo__.urllib.socket.errno", 
+                "aihub.__algo__.urllib.os.errno", 
+                "aihub.__algo__.urllib.ssl.errno"
+            ], 
+            "base64": [
+                "aihub.__algo__.urllib.ssl.base64", 
+                "aihub.__algo__.urllib.base64"
+            ], 
+            "binascii": [
+                "aihub.__algo__.urllib.base64.binascii"
+            ], 
+            "urllib": [
+                "aihub.__algo__.urllib"
+            ], 
+            "re": [
+                "aihub.__algo__.urllib.base64.string._re", 
+                "aihub.__algo__.urllib.ssl.textwrap.re", 
+                "aihub.__algo__.urllib.base64.re", 
+                "aihub.__algo__.urllib.re", 
+                "aihub.__algo__.urllib.ssl.re"
+            ], 
+            "_abcoll": [
+                "aihub.__algo__.urllib.os.UserDict._abcoll"
+            ], 
+            "aihub.__helper__": [
+                "aihub.__helper__"
+            ], 
+            "aihub.__file__": [
+                "aihub.__file__"
+            ], 
+            "aihub.__aihub__": [
+                "aihub.__aihub__"
+            ], 
+            "genericpath": [
+                "aihub.__algo__.urllib.os.path.genericpath"
+            ], 
+            "stat": [
+                "aihub.__algo__.urllib.os.path.stat", 
+                "aihub.__algo__.urllib.os.path.genericpath.stat"
+            ], 
+            "_ssl": [
+                "aihub.__algo__.urllib.ssl._ssl", 
+                "aihub.__algo__.urllib.socket._ssl"
+            ], 
+            "string": [
+                "aihub.__algo__.urllib.ssl.textwrap.string", 
+                "aihub.__algo__.urllib.string", 
+                "aihub.__algo__.urllib.base64.string"
+            ], 
+            "warnings": [
+                "aihub.__algo__.urllib.ssl.warnings", 
+                "aihub.__algo__.urllib.os.path.warnings", 
+                "aihub.__algo__.urllib.socket.warnings"
+            ], 
+            "UserDict": [
+                "aihub.__algo__.urllib.os.UserDict"
+            ], 
+            "aihub.__algo__": [
+                "aihub.__algo__"
+            ], 
+            "textwrap": [
+                "aihub.__algo__.urllib.ssl.textwrap"
+            ], 
+            "sys": [
+                "aihub.__algo__.urllib.os.sys", 
+                "aihub.__algo__.urllib.sys", 
+                "aihub.__algo__.urllib.base64.re.sre_compile.sys", 
+                "aihub.__algo__.urllib.socket.sys", 
+                "aihub.__algo__.urllib.os.path.sys", 
+                "aihub.__algo__.urllib.os.UserDict._abcoll.sys", 
+                "aihub.__algo__.urllib.os.path.warnings.linecache.sys", 
+                "aihub.__algo__.urllib.ssl.sys", 
+                "aihub.__algo__.urllib.base64.re.sys", 
+                "aihub.__algo__.urllib.base64.re.sre_compile.sre_parse.sys", 
+                "aihub.__algo__.urllib.os.path.warnings.sys"
+            ], 
+            "ssl": [
+                "aihub.__algo__.urllib.ssl"
+            ], 
+            "aihub.__client__": [
+                "aihub.__client__"
+            ], 
+            "types": [
+                "aihub.__algo__.urllib.os.path.warnings.types"
+            ], 
+            "posixpath": [
+                "aihub.__algo__.urllib.os.path"
+            ], 
+            "_locale": [
+                "aihub.__algo__.urllib.base64.re._locale"
+            ], 
+            "socket": [
+                "aihub.__algo__.urllib.socket"
+            ], 
+            "linecache": [
+                "aihub.__algo__.urllib.os.path.warnings.linecache"
+            ], 
+            "time": [
+                "aihub.__algo__.urllib.time"
+            ], 
+            "sre_parse": [
+                "aihub.__algo__.urllib.base64.re.sre_parse", 
+                "aihub.__algo__.urllib.base64.re.sre_compile.sre_parse"
+            ], 
+            "aihub.__collection__": [
+                "aihub.__collection__"
+            ], 
+            "os": [
+                "aihub.__algo__.urllib.os", 
+                "aihub.__algo__.urllib.socket.os", 
+                "aihub.__algo__.urllib.ssl.os"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.0.9.9", 
+        "name": "aihub", 
+        "python_version": "2.7.18"
+    }
+}
