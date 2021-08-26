@@ -1,0 +1,18 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "ailab.logging": [
+                "ailab.logging"
+            ], 
+            "datetime": [
+                "ailab.logging.datetime"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.0.5", 
+        "name": "ailab", 
+        "python_version": "2.7.18"
+    }
+}
