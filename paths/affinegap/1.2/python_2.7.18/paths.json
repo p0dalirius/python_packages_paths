@@ -1,0 +1,734 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "heapq": [
+                "affinegap.affinegap.np.testing._private.utils.unittest.case.difflib.heapq", 
+                "affinegap.affinegap.np._mat.defmatrix.N.arrayprint.multiarray.overrides.collections._heapq"
+            ], 
+            "numpy.core.info": [
+                "affinegap.affinegap.np.core.info"
+            ], 
+            "functools": [
+                "affinegap.affinegap.np.testing._private.utils.unittest.case.functools", 
+                "affinegap.affinegap.np._mat.defmatrix.N.arrayprint.multiarray.overrides.functools", 
+                "affinegap.affinegap.np.lib.npyio.functools", 
+                "affinegap.affinegap.np.linalg.linalg.functools", 
+                "affinegap.affinegap.np.lib.index_tricks.functools", 
+                "affinegap.affinegap.np._mat.defmatrix.N.fromnumeric.functools", 
+                "affinegap.affinegap.np.lib.financial.functools", 
+                "affinegap.affinegap.np._mat.defmatrix.N.arrayprint.multiarray.functools", 
+                "affinegap.affinegap.np.fft.fftpack.functools", 
+                "affinegap.affinegap.np.lib.polynomial.functools", 
+                "affinegap.affinegap.np.lib.twodim_base.functools", 
+                "affinegap.affinegap.np.lib.shape_base.functools", 
+                "affinegap.affinegap.np.lib.function_base.functools", 
+                "affinegap.affinegap.np._mat.defmatrix.N.arrayprint.functools", 
+                "affinegap.affinegap.np.lib.nanfunctions.functools", 
+                "affinegap.affinegap.np.lib.type_check.functools", 
+                "affinegap.affinegap.np.lib.ufunclike.functools", 
+                "affinegap.affinegap.np.core.function_base.functools", 
+                "affinegap.affinegap.np.lib.histograms.functools", 
+                "affinegap.affinegap.np.char.functools", 
+                "affinegap.affinegap.np._mat.defmatrix.N.functools", 
+                "affinegap.affinegap.np.lib.arraysetops.functools", 
+                "affinegap.affinegap.np.core.shape_base.functools"
+            ], 
+            "numpy._pytesttester": [
+                "affinegap.affinegap.np._pytesttester"
+            ], 
+            "numpy.lib._iotools": [
+                "affinegap.affinegap.np.lib._iotools"
+            ], 
+            "numpy.core.einsumfunc": [
+                "affinegap.affinegap.np.core.einsumfunc"
+            ], 
+            "gc": [
+                "affinegap.affinegap.np.testing._private.utils.gc"
+            ], 
+            "ctypes._endian": [
+                "affinegap.affinegap.np.core._dtype_ctypes.ctypes._endian"
+            ], 
+            "numpy.core.numerictypes": [
+                "affinegap.affinegap.np.core._add_newdocs._numerictypes", 
+                "affinegap.affinegap.np.core.rec.nt", 
+                "affinegap.affinegap.np.ma.core.ntypes", 
+                "affinegap.affinegap.np._mat.defmatrix.N.fromnumeric._methods.nt", 
+                "affinegap.affinegap.np._mat.defmatrix.N.fromnumeric.nt", 
+                "affinegap.affinegap.np.emath.nt", 
+                "affinegap.affinegap.np.core.getlimits.ntypes", 
+                "affinegap.affinegap.np.core.numerictypes", 
+                "affinegap.affinegap.np._mat.defmatrix.N.numerictypes", 
+                "affinegap.affinegap.np._mat.defmatrix.N.arrayprint._nt"
+            ], 
+            "numpy.polynomial.legendre": [
+                "affinegap.affinegap.np.polynomial.legendre"
+            ], 
+            "numpy.random.mtrand": [
+                "affinegap.affinegap.np.random.mtrand"
+            ], 
+            "numpy.testing._private.nosetester": [
+                "affinegap.affinegap.np.testing._private.nosetester"
+            ], 
+            "numpy.matrixlib.defmatrix": [
+                "affinegap.affinegap.np._mat.defmatrix"
+            ], 
+            "pprint": [
+                "affinegap.affinegap.np.testing._private.utils.unittest.case.pprint", 
+                "affinegap.affinegap.np.testing._private.utils.pprint"
+            ], 
+            "numpy.core._dtype_ctypes": [
+                "affinegap.affinegap.np.core._dtype_ctypes"
+            ], 
+            "platform": [
+                "affinegap.affinegap.np.core._internal.platform", 
+                "affinegap.affinegap.np.testing._private.utils.platform"
+            ], 
+            "numpy.testing": [
+                "affinegap.affinegap.np.testing"
+            ], 
+            "collections": [
+                "affinegap.affinegap.np._mat.defmatrix.N.arrayprint.multiarray.overrides.collections", 
+                "affinegap.affinegap.np.testing._private.utils.unittest.case.collections", 
+                "affinegap.affinegap.np._mat.defmatrix.N.collections_abc", 
+                "affinegap.affinegap.np.fft.helper.collections", 
+                "affinegap.affinegap.np.lib.function_base.collections_abc", 
+                "affinegap.affinegap.np.testing._private.decorators.collections_abc", 
+                "affinegap.affinegap.np.lib._datasource.shutil.collections"
+            ], 
+            "numpy.core._multiarray_umath": [
+                "affinegap.affinegap.np._mat.defmatrix.N.arrayprint.multiarray._multiarray_umath", 
+                "affinegap.affinegap.np.core._multiarray_umath", 
+                "affinegap.affinegap.np._mat.defmatrix.N.fromnumeric._methods.um._multiarray_umath"
+            ], 
+            "numpy.core._type_aliases": [
+                "affinegap.affinegap.np.core._type_aliases"
+            ], 
+            "numpy.lib._version": [
+                "affinegap.affinegap.np.lib._version"
+            ], 
+            "string": [
+                "affinegap.affinegap.np.core._internal.platform.string", 
+                "affinegap.affinegap.np.ma.core.textwrap.string"
+            ], 
+            "numpy.linalg.info": [
+                "affinegap.affinegap.np.linalg.info"
+            ], 
+            "numpy.polynomial._polybase": [
+                "affinegap.affinegap.np.polynomial._polybase"
+            ], 
+            "numpy.lib.arraysetops": [
+                "affinegap.affinegap.np.lib.arraysetops"
+            ], 
+            "numpy.core._multiarray_tests": [
+                "affinegap.affinegap.np.core._multiarray_tests"
+            ], 
+            "unittest.util": [
+                "affinegap.affinegap.np.testing._private.utils.unittest.loader.suite.util", 
+                "affinegap.affinegap.np.testing._private.utils.unittest.util", 
+                "affinegap.affinegap.np.testing._private.utils.unittest.case.result.util"
+            ], 
+            "numpy.version": [
+                "affinegap.affinegap.np.version"
+            ], 
+            "numpy.core.machar": [
+                "affinegap.affinegap.np.core.machar"
+            ], 
+            "numpy.lib.type_check": [
+                "affinegap.affinegap.np.lib.type_check"
+            ], 
+            "signal": [
+                "affinegap.affinegap.np.testing._private.utils.unittest.signals.signal"
+            ], 
+            "numpy.lib._datasource": [
+                "affinegap.affinegap.np.lib._datasource"
+            ], 
+            "threading": [
+                "affinegap.affinegap.np.fft.helper.threading"
+            ], 
+            "numpy.fft.fftpack_lite": [
+                "affinegap.affinegap.np.fft.fftpack.fftpack", 
+                "affinegap.affinegap.np.fft.fftpack_lite"
+            ], 
+            "numpy.core.multiarray": [
+                "affinegap.affinegap.np._mat.defmatrix.N.arrayprint.multiarray", 
+                "affinegap.affinegap.np.core.multiarray", 
+                "affinegap.affinegap.np._mat.defmatrix.N.fromnumeric.mu", 
+                "affinegap.affinegap.np._mat.defmatrix.N.fromnumeric._methods.mu", 
+                "affinegap.affinegap.np._mat.defmatrix.N.multiarray"
+            ], 
+            "numpy.linalg._umath_linalg": [
+                "affinegap.affinegap.np.linalg._umath_linalg", 
+                "affinegap.affinegap.np.linalg.linalg._umath_linalg"
+            ], 
+            "numpy.ma.core": [
+                "affinegap.affinegap.np.ma.extras.ma", 
+                "affinegap.affinegap.np.ma.core"
+            ], 
+            "numpy.core._add_newdocs": [
+                "affinegap.affinegap.np.core._add_newdocs"
+            ], 
+            "numpy.core.getlimits": [
+                "affinegap.affinegap.np.core.getlimits"
+            ], 
+            "abc": [
+                "affinegap.affinegap.np.lib._datasource.io.abc", 
+                "affinegap.affinegap.np.compat.py3k.abc"
+            ], 
+            "numpy.matrixlib": [
+                "affinegap.affinegap.np._mat", 
+                "affinegap.affinegap.np.matrixlib", 
+                "affinegap.affinegap.np.lib.index_tricks.matrixlib"
+            ], 
+            "affinegap.affinegap": [
+                "affinegap.affinegap"
+            ], 
+            "numpy.ma.extras": [
+                "affinegap.affinegap.np.ma.extras"
+            ], 
+            "numpy._globals": [
+                "affinegap.affinegap.np._globals"
+            ], 
+            "numpy.lib.npyio": [
+                "affinegap.affinegap.np.lib.npyio"
+            ], 
+            "re": [
+                "affinegap.affinegap.np.testing._private.utils.re", 
+                "affinegap.affinegap.np.lib._datasource.shutil.fnmatch.re", 
+                "affinegap.affinegap.np.lib.utils.re", 
+                "affinegap.affinegap.np.lib.polynomial.re", 
+                "affinegap.affinegap.np.lib.npyio.re", 
+                "affinegap.affinegap.np.core._internal.platform.string._re", 
+                "affinegap.affinegap.np.core._internal.platform.re", 
+                "affinegap.affinegap.np.ma.core.re", 
+                "affinegap.affinegap.np.core._internal.re", 
+                "affinegap.affinegap.np.testing._private.utils.unittest.loader.re", 
+                "affinegap.affinegap.np.lib.function_base.re", 
+                "affinegap.affinegap.np.lib._version.re", 
+                "affinegap.affinegap.np.testing._private.utils.unittest.case.re", 
+                "affinegap.affinegap.np.ma.core.textwrap.re"
+            ], 
+            "numpy.lib.mixins": [
+                "affinegap.affinegap.np.lib.mixins"
+            ], 
+            "math": [
+                "affinegap.affinegap.np.lib.index_tricks.math", 
+                "affinegap.affinegap.np.lib.math", 
+                "affinegap.affinegap.np.math"
+            ], 
+            "numpy.fft.helper": [
+                "affinegap.affinegap.np.fft.helper"
+            ], 
+            "unittest.case": [
+                "affinegap.affinegap.np.testing._private.utils.unittest.loader.suite.case", 
+                "affinegap.affinegap.np.testing._private.utils.unittest.case", 
+                "affinegap.affinegap.np.testing._private.utils.unittest.loader.case"
+            ], 
+            "ast": [
+                "affinegap.affinegap.np._mat.defmatrix.ast"
+            ], 
+            "UserDict": [
+                "affinegap.affinegap.np.lib.npyio.weakref.UserDict", 
+                "affinegap.affinegap.np.__config__.os.UserDict"
+            ], 
+            "unittest.suite": [
+                "affinegap.affinegap.np.testing._private.utils.unittest.loader.suite", 
+                "affinegap.affinegap.np.testing._private.utils.unittest.suite"
+            ], 
+            "_ctypes": [
+                "affinegap.affinegap.np.core._dtype_ctypes._ctypes"
+            ], 
+            "numpy.linalg": [
+                "affinegap.affinegap.np.polynomial.hermite.la", 
+                "affinegap.affinegap.np.polynomial.legendre.la", 
+                "affinegap.affinegap.np.polynomial.chebyshev.la", 
+                "affinegap.affinegap.np.polynomial.laguerre.la", 
+                "affinegap.affinegap.np.linalg", 
+                "affinegap.affinegap.np.polynomial.polynomial.la", 
+                "affinegap.affinegap.np.polynomial.hermite_e.la"
+            ], 
+            "numpy.lib.ufunclike": [
+                "affinegap.affinegap.np.lib.ufunclike"
+            ], 
+            "ctypes": [
+                "affinegap.affinegap.np.core._dtype_ctypes.ctypes", 
+                "affinegap.affinegap.np.core._internal.ctypes", 
+                "affinegap.affinegap.np.ctypeslib.ctypes"
+            ], 
+            "unittest.runner": [
+                "affinegap.affinegap.np.testing._private.utils.unittest.runner"
+            ], 
+            "unittest.signals": [
+                "affinegap.affinegap.np.testing._private.utils.unittest.signals"
+            ], 
+            "numpy.testing._private": [
+                "affinegap.affinegap.np.testing._private"
+            ], 
+            "unittest.loader": [
+                "affinegap.affinegap.np.testing._private.utils.unittest.loader"
+            ], 
+            "_locale": [
+                "affinegap.affinegap.np.core._internal.platform.re._locale"
+            ], 
+            "numpy.core.overrides": [
+                "affinegap.affinegap.np.lib.polynomial.overrides", 
+                "affinegap.affinegap.np.linalg.linalg.overrides", 
+                "affinegap.affinegap.np.lib.arraysetops.overrides", 
+                "affinegap.affinegap.np.fft.fftpack.overrides", 
+                "affinegap.affinegap.np.lib.financial.overrides", 
+                "affinegap.affinegap.np.lib.twodim_base.overrides", 
+                "affinegap.affinegap.np.core.overrides", 
+                "affinegap.affinegap.np.lib.type_check.overrides", 
+                "affinegap.affinegap.np.lib.npyio.overrides", 
+                "affinegap.affinegap.np.lib.function_base.overrides", 
+                "affinegap.affinegap.np.core.function_base.overrides", 
+                "affinegap.affinegap.np.lib.nanfunctions.overrides", 
+                "affinegap.affinegap.np._mat.defmatrix.N.arrayprint.multiarray.overrides", 
+                "affinegap.affinegap.np.lib.shape_base.overrides", 
+                "affinegap.affinegap.np.core.shape_base.overrides", 
+                "affinegap.affinegap.np._mat.defmatrix.N.fromnumeric.overrides", 
+                "affinegap.affinegap.np.lib.histograms.overrides", 
+                "affinegap.affinegap.np._mat.defmatrix.N.overrides", 
+                "affinegap.affinegap.np.char.overrides", 
+                "affinegap.affinegap.np.lib.index_tricks.overrides"
+            ], 
+            "traceback": [
+                "affinegap.affinegap.np.testing._private.utils.unittest.loader.traceback", 
+                "affinegap.affinegap.np.testing._private.utils.unittest.case.result.traceback"
+            ], 
+            "weakref": [
+                "affinegap.affinegap.np.testing._private.utils.unittest.signals.weakref", 
+                "affinegap.affinegap.np.lib.npyio.weakref"
+            ], 
+            "numpy.core._internal": [
+                "affinegap.affinegap.np.core._internal"
+            ], 
+            "numpy.fft.fftpack": [
+                "affinegap.affinegap.np.fft.fftpack"
+            ], 
+            "numpy.linalg.lapack_lite": [
+                "affinegap.affinegap.np.linalg.linalg.lapack_lite", 
+                "affinegap.affinegap.np.linalg.lapack_lite"
+            ], 
+            "numpy.ma": [
+                "affinegap.affinegap.np.ma"
+            ], 
+            "numpy.lib.arraypad": [
+                "affinegap.affinegap.np.lib.arraypad"
+            ], 
+            "numpy.core.shape_base": [
+                "affinegap.affinegap.np.core.shape_base"
+            ], 
+            "_sre": [
+                "affinegap.affinegap.np.core._internal.platform.re.sre_compile._sre"
+            ], 
+            "unittest": [
+                "affinegap.affinegap.np.testing._private.utils.unittest"
+            ], 
+            "numpy.random": [
+                "affinegap.affinegap.np.random"
+            ], 
+            "__builtin__": [
+                "affinegap.affinegap.__builtins__", 
+                "affinegap.affinegap.np.ma.core.builtins", 
+                "affinegap.affinegap.np.random.mtrand.__builtins__", 
+                "affinegap.affinegap.np._mat.defmatrix.N.builtins", 
+                "affinegap.affinegap.np.lib.function_base.builtins", 
+                "affinegap.affinegap.np._mat.defmatrix.N.pickle.__builtins__"
+            ], 
+            "numpy.lib.twodim_base": [
+                "affinegap.affinegap.np.lib.twodim_base"
+            ], 
+            "numpy.polynomial": [
+                "affinegap.affinegap.np.polynomial"
+            ], 
+            "operator": [
+                "affinegap.affinegap.np.random.operator", 
+                "affinegap.affinegap.np._mat.defmatrix.N.operator", 
+                "affinegap.affinegap.np.core.function_base.operator", 
+                "affinegap.affinegap.np.testing._private.utils.operator", 
+                "affinegap.affinegap.np.random.mtrand.operator", 
+                "affinegap.affinegap.np.linalg.linalg.operator", 
+                "affinegap.affinegap.np.core.shape_base.operator", 
+                "affinegap.affinegap.np.lib.histograms.operator", 
+                "affinegap.affinegap.np.ma.core.operator"
+            ], 
+            "numpy.testing._private.utils": [
+                "affinegap.affinegap.np.testing._private.utils"
+            ], 
+            "posixpath": [
+                "affinegap.affinegap.np.__config__.os.path"
+            ], 
+            "numpy.lib.financial": [
+                "affinegap.affinegap.np.lib.financial"
+            ], 
+            "numpy.polynomial.laguerre": [
+                "affinegap.affinegap.np.polynomial.laguerre"
+            ], 
+            "errno": [
+                "affinegap.affinegap.np.__config__.os.errno", 
+                "affinegap.affinegap.np.lib._datasource.shutil.errno"
+            ], 
+            "numpy.core.arrayprint": [
+                "affinegap.affinegap.np._mat.defmatrix.N.arrayprint", 
+                "affinegap.affinegap.np.core.arrayprint"
+            ], 
+            "numpy.core._methods": [
+                "affinegap.affinegap.np._mat.defmatrix.N.fromnumeric._methods", 
+                "affinegap.affinegap.np.core._methods"
+            ], 
+            "numpy.core.function_base": [
+                "affinegap.affinegap.np.core.function_base"
+            ], 
+            "numpy.lib.stride_tricks": [
+                "affinegap.affinegap.np.lib.stride_tricks"
+            ], 
+            "numpy": [
+                "affinegap.affinegap.np"
+            ], 
+            "numpy.lib.histograms": [
+                "affinegap.affinegap.np.lib.histograms"
+            ], 
+            "numpy.polynomial.chebyshev": [
+                "affinegap.affinegap.np.polynomial.chebyshev"
+            ], 
+            "cPickle": [
+                "affinegap.affinegap.np.lib.format.pickle", 
+                "affinegap.affinegap.np._mat.defmatrix.N.pickle", 
+                "affinegap.affinegap.np.ma.core.pickle", 
+                "affinegap.affinegap.np.lib.npyio.pickle"
+            ], 
+            "numpy.polynomial.hermite_e": [
+                "affinegap.affinegap.np.polynomial.hermite_e"
+            ], 
+            "itertools": [
+                "affinegap.affinegap.np.core.einsumfunc.itertools", 
+                "affinegap.affinegap.np.ma.extras.itertools", 
+                "affinegap.affinegap.np.lib.npyio.itertools", 
+                "affinegap.affinegap.np._mat.defmatrix.N.itertools"
+            ], 
+            "numpy.__config__": [
+                "affinegap.affinegap.np.__config__"
+            ], 
+            "numpy.core._string_helpers": [
+                "affinegap.affinegap.np.core._string_helpers"
+            ], 
+            "numpy.core.umath": [
+                "affinegap.affinegap.np.ma.core.umath", 
+                "affinegap.affinegap.np.core.umath", 
+                "affinegap.affinegap.np._mat.defmatrix.N.fromnumeric.um", 
+                "affinegap.affinegap.np.lib.mixins.um", 
+                "affinegap.affinegap.np.ma.extras.umath", 
+                "affinegap.affinegap.np.core.getlimits.umath", 
+                "affinegap.affinegap.np._mat.defmatrix.N.umath", 
+                "affinegap.affinegap.np._mat.defmatrix.N.fromnumeric._methods.um"
+            ], 
+            "numpy.core.fromnumeric": [
+                "affinegap.affinegap.np.core.fromnumeric", 
+                "affinegap.affinegap.np._mat.defmatrix.N.fromnumeric"
+            ], 
+            "numpy.ctypeslib": [
+                "affinegap.affinegap.np.ctypeslib"
+            ], 
+            "numpy.lib.scimath": [
+                "affinegap.affinegap.np.lib.scimath", 
+                "affinegap.affinegap.np.emath", 
+                "affinegap.affinegap.np.lib.emath"
+            ], 
+            "numpy.fft": [
+                "affinegap.affinegap.np.fft"
+            ], 
+            "numpy.lib": [
+                "affinegap.affinegap.np.lib"
+            ], 
+            "numpy.lib.nanfunctions": [
+                "affinegap.affinegap.np.lib.nanfunctions"
+            ], 
+            "numpy.lib.function_base": [
+                "affinegap.affinegap.np.lib.nanfunctions.function_base", 
+                "affinegap.affinegap.np.lib.function_base"
+            ], 
+            "fnmatch": [
+                "affinegap.affinegap.np.lib._datasource.shutil.fnmatch"
+            ], 
+            "sre_parse": [
+                "affinegap.affinegap.np.core._internal.platform.re.sre_compile.sre_parse", 
+                "affinegap.affinegap.np.core._internal.platform.re.sre_parse"
+            ], 
+            "copy_reg": [
+                "affinegap.affinegap.np.__config__.os._copy_reg", 
+                "affinegap.affinegap.np.core._internal.platform.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "affinegap.affinegap.np.core._internal.platform.re.sre_compile"
+            ], 
+            "numpy.compat.py3k": [
+                "affinegap.affinegap.np.compat.py3k"
+            ], 
+            "numpy.lib.shape_base": [
+                "affinegap.affinegap.np.lib.shape_base"
+            ], 
+            "numpy.lib.polynomial": [
+                "affinegap.affinegap.np.lib.polynomial"
+            ], 
+            "numpy.compat": [
+                "affinegap.affinegap.np.compat"
+            ], 
+            "numpy.polynomial.hermite": [
+                "affinegap.affinegap.np.polynomial.hermite"
+            ], 
+            "contextlib": [
+                "affinegap.affinegap.np._mat.defmatrix.N.arrayprint.contextlib", 
+                "affinegap.affinegap.np.testing._private.utils.contextlib"
+            ], 
+            "numbers": [
+                "affinegap.affinegap.np._mat.defmatrix.N.numbers", 
+                "affinegap.affinegap.np.polynomial._polybase.numbers", 
+                "affinegap.affinegap.np._mat.defmatrix.N.arrayprint._nt.numbers", 
+                "affinegap.affinegap.np._mat.defmatrix.N.arrayprint.numbers"
+            ], 
+            "io": [
+                "affinegap.affinegap.np.lib.format.io", 
+                "affinegap.affinegap.np.lib._datasource.io"
+            ], 
+            "numpy.fft.info": [
+                "affinegap.affinegap.np.fft.info"
+            ], 
+            "numpy.core.records": [
+                "affinegap.affinegap.np.core.rec", 
+                "affinegap.affinegap.np.rec", 
+                "affinegap.affinegap.np.core.records"
+            ], 
+            "shutil": [
+                "affinegap.affinegap.np.testing._private.utils.shutil", 
+                "affinegap.affinegap.np.lib._datasource.shutil"
+            ], 
+            "numpy.polynomial.polynomial": [
+                "affinegap.affinegap.np.polynomial.polynomial"
+            ], 
+            "numpy.core._dtype": [
+                "affinegap.affinegap.np.core._dtype"
+            ], 
+            "unittest.result": [
+                "affinegap.affinegap.np.testing._private.utils.unittest.case.result", 
+                "affinegap.affinegap.np.testing._private.utils.unittest.runner.result", 
+                "affinegap.affinegap.np.testing._private.utils.unittest.result"
+            ], 
+            "numpy.core.numeric": [
+                "affinegap.affinegap.np.core.rec.sb", 
+                "affinegap.affinegap.np.emath.nx", 
+                "affinegap.affinegap.np.core.numeric", 
+                "affinegap.affinegap.np._mat.defmatrix.N", 
+                "affinegap.affinegap.np.core.shape_base._nx", 
+                "affinegap.affinegap.np.lib.shape_base._nx", 
+                "affinegap.affinegap.np.lib.ufunclike.nx", 
+                "affinegap.affinegap.np.core.getlimits.numeric", 
+                "affinegap.affinegap.np.lib.function_base._nx", 
+                "affinegap.affinegap.np.lib._iotools.nx", 
+                "affinegap.affinegap.np.lib.polynomial.NX", 
+                "affinegap.affinegap.np.lib.type_check._nx", 
+                "affinegap.affinegap.np.core.function_base._nx", 
+                "affinegap.affinegap.np.lib.index_tricks._nx"
+            ], 
+            "numpy.core.defchararray": [
+                "affinegap.affinegap.np.core.defchararray", 
+                "affinegap.affinegap.np.char", 
+                "affinegap.affinegap.np.core.char"
+            ], 
+            "_abcoll": [
+                "affinegap.affinegap.np.__config__.os.UserDict._abcoll", 
+                "affinegap.affinegap.np._mat.defmatrix.N.arrayprint.multiarray.overrides.collections._abcoll"
+            ], 
+            "numpy.core": [
+                "affinegap.affinegap.np.core"
+            ], 
+            "genericpath": [
+                "affinegap.affinegap.np.__config__.os.path.genericpath"
+            ], 
+            "stat": [
+                "affinegap.affinegap.np.lib._datasource.shutil.stat", 
+                "affinegap.affinegap.np.__config__.os.path.genericpath.stat", 
+                "affinegap.affinegap.np.__config__.os.path.stat"
+            ], 
+            "numpy.lib.index_tricks": [
+                "affinegap.affinegap.np.lib.index_tricks"
+            ], 
+            "warnings": [
+                "affinegap.affinegap.np.lib.npyio.warnings", 
+                "affinegap.affinegap.np.polynomial.polynomial.warnings", 
+                "affinegap.affinegap.np.lib._datasource.warnings", 
+                "affinegap.affinegap.np._mat.defmatrix.warnings", 
+                "affinegap.affinegap.np.lib.function_base.warnings", 
+                "affinegap.affinegap.np.lib.polynomial.warnings", 
+                "affinegap.affinegap.np.ma.core.warnings", 
+                "affinegap.affinegap.np._mat.defmatrix.N.arrayprint.warnings", 
+                "affinegap.affinegap.np.lib.nanfunctions.warnings", 
+                "affinegap.affinegap.np._mat.defmatrix.N.fromnumeric._methods.warnings", 
+                "affinegap.affinegap.np._mat.defmatrix.N.arrayprint.multiarray.warnings", 
+                "affinegap.affinegap.np.__config__.os.path.warnings", 
+                "affinegap.affinegap.np.lib.ufunclike.warnings", 
+                "affinegap.affinegap.np.warnings", 
+                "affinegap.affinegap.np.lib.type_check.warnings", 
+                "affinegap.affinegap.np.core.function_base.warnings", 
+                "affinegap.affinegap.np.lib.shape_base.warnings", 
+                "affinegap.affinegap.np.lib.utils.warnings", 
+                "affinegap.affinegap.np._mat.defmatrix.N.fromnumeric.warnings", 
+                "affinegap.affinegap.np.lib.histograms.warnings", 
+                "affinegap.affinegap.np._mat.defmatrix.N.warnings", 
+                "affinegap.affinegap.np.random.warnings", 
+                "affinegap.affinegap.np.linalg.linalg.warnings", 
+                "affinegap.affinegap.np.ma.extras.warnings", 
+                "affinegap.affinegap.np.testing._private.utils.unittest.case.warnings", 
+                "affinegap.affinegap.np.polynomial.laguerre.warnings", 
+                "affinegap.affinegap.np.core.shape_base.warnings", 
+                "affinegap.affinegap.np.core._type_aliases.warnings", 
+                "affinegap.affinegap.np.testing._private.utils.warnings", 
+                "affinegap.affinegap.np.testing._private.nosetester.warnings", 
+                "affinegap.affinegap.np.fft.helper.threading.warnings", 
+                "affinegap.affinegap.np.polynomial.hermite.warnings", 
+                "affinegap.affinegap.np.polynomial.hermite_e.warnings", 
+                "affinegap.affinegap.np.core.getlimits.warnings", 
+                "affinegap.affinegap.np.lib.format.warnings", 
+                "affinegap.affinegap.np._mat.defmatrix.N.arrayprint._nt.warnings", 
+                "affinegap.affinegap.np.core.rec.warnings", 
+                "affinegap.affinegap.np.random.mtrand.warnings", 
+                "affinegap.affinegap.np.polynomial.legendre.warnings", 
+                "affinegap.affinegap.np.testing._private.utils.pprint.warnings", 
+                "affinegap.affinegap.np.polynomial.chebyshev.warnings"
+            ], 
+            "numpy.lib.utils": [
+                "affinegap.affinegap.np.lib.utils"
+            ], 
+            "numpy.polynomial.polyutils": [
+                "affinegap.affinegap.np.polynomial.legendre.pu", 
+                "affinegap.affinegap.np.polynomial.laguerre.pu", 
+                "affinegap.affinegap.np.polynomial.hermite.pu", 
+                "affinegap.affinegap.np.polynomial.chebyshev.pu", 
+                "affinegap.affinegap.np.polynomial.polyutils", 
+                "affinegap.affinegap.np.polynomial._polybase.pu", 
+                "affinegap.affinegap.np.polynomial.polynomial.pu", 
+                "affinegap.affinegap.np.polynomial.hermite_e.pu"
+            ], 
+            "textwrap": [
+                "affinegap.affinegap.np.ma.core.textwrap"
+            ], 
+            "sys": [
+                "affinegap.affinegap.np.ma.core.sys", 
+                "affinegap.affinegap.np.__config__.os.sys", 
+                "affinegap.affinegap.np.__config__.os.path.warnings.linecache.sys", 
+                "affinegap.affinegap.np.core._internal.platform.re.sre_compile.sys", 
+                "affinegap.affinegap.np.__config__.os.path.warnings.sys", 
+                "affinegap.affinegap.np.core._dtype_ctypes.ctypes._sys", 
+                "affinegap.affinegap.np.core._type_aliases.sys", 
+                "affinegap.affinegap.np.core._internal.platform.re.sre_compile.sre_parse.sys", 
+                "affinegap.affinegap.np.lib.index_tricks.sys", 
+                "affinegap.affinegap.np.lib._iotools.sys", 
+                "affinegap.affinegap.np._mat.defmatrix.N.arrayprint.multiarray.overrides.collections._sys", 
+                "affinegap.affinegap.np.__config__.os.path.sys", 
+                "affinegap.affinegap.np.testing._private.utils.unittest.runner.sys", 
+                "affinegap.affinegap.np.core._internal.platform.sys", 
+                "affinegap.affinegap.np.core._dtype_ctypes.ctypes._endian.sys", 
+                "affinegap.affinegap.np.lib.format.sys", 
+                "affinegap.affinegap.np._pytesttester.sys", 
+                "affinegap.affinegap.np.core._internal.platform.re.sys", 
+                "affinegap.affinegap.np._mat.defmatrix.N.arrayprint._nt.sys", 
+                "affinegap.affinegap.np.fft.helper.threading._sys", 
+                "affinegap.affinegap.np.lib.utils.sys", 
+                "affinegap.affinegap.np.lib._datasource.shutil.sys", 
+                "affinegap.affinegap.np.core.rec.sys", 
+                "affinegap.affinegap.np.lib._datasource.sys", 
+                "affinegap.affinegap.np.testing._private.utils.unittest.case.result.sys", 
+                "affinegap.affinegap.np._mat.defmatrix.N.arrayprint.contextlib.sys", 
+                "affinegap.affinegap.np.testing._private.nosetester.sys", 
+                "affinegap.affinegap.np.sys", 
+                "affinegap.affinegap.np._mat.defmatrix.N.arrayprint.sys", 
+                "affinegap.affinegap.np.compat.py3k.sys", 
+                "affinegap.affinegap.np.char.sys", 
+                "affinegap.affinegap.np.__config__.os.UserDict._abcoll.sys", 
+                "affinegap.affinegap.np.lib.function_base.sys", 
+                "affinegap.affinegap.np.lib.npyio.sys", 
+                "affinegap.affinegap.np._mat.defmatrix.sys", 
+                "affinegap.affinegap.np.testing._private.utils.unittest.loader.sys", 
+                "affinegap.affinegap.np.core._add_newdocs.sys", 
+                "affinegap.affinegap.np.lib.mixins.sys", 
+                "affinegap.affinegap.np._mat.defmatrix.N.sys", 
+                "affinegap.affinegap.np.testing._private.utils.unittest.case.sys", 
+                "affinegap.affinegap.np.core._dtype.sys", 
+                "affinegap.affinegap.np.__config__.sys", 
+                "affinegap.affinegap.np.testing._private.utils.sys", 
+                "affinegap.affinegap.np.core._internal.sys", 
+                "affinegap.affinegap.np.testing._private.utils.unittest.loader.suite.sys", 
+                "affinegap.affinegap.np._mat.defmatrix.N.arrayprint.multiarray.sys", 
+                "affinegap.affinegap.np.testing._private.utils.pprint._sys", 
+                "affinegap.affinegap.np.testing._private.utils.unittest.case.result.traceback.sys"
+            ], 
+            "numpy.compat._inspect": [
+                "affinegap.affinegap.np.compat._inspect"
+            ], 
+            "numpy.lib.format": [
+                "affinegap.affinegap.np.lib.npyio.format", 
+                "affinegap.affinegap.np.lib.format"
+            ], 
+            "numpy.lib.arrayterator": [
+                "affinegap.affinegap.np.lib.arrayterator"
+            ], 
+            "numpy._distributor_init": [
+                "affinegap.affinegap.np._distributor_init"
+            ], 
+            "types": [
+                "affinegap.affinegap.np.compat.py3k.abc.types", 
+                "affinegap.affinegap.np._mat.defmatrix.N.arrayprint._nt._types", 
+                "affinegap.affinegap.np.__config__.os.path.warnings.types", 
+                "affinegap.affinegap.np._mat.defmatrix.N.fromnumeric.types", 
+                "affinegap.affinegap.np.testing._private.utils.unittest.case.types", 
+                "affinegap.affinegap.np.lib.utils.types", 
+                "affinegap.affinegap.np.testing._private.utils.unittest.case.result.traceback.types", 
+                "affinegap.affinegap.np.compat._inspect.types", 
+                "affinegap.affinegap.np.core.shape_base.types", 
+                "affinegap.affinegap.np.testing._private.utils.unittest.loader.types"
+            ], 
+            "numpy.testing._private.decorators": [
+                "affinegap.affinegap.np.testing._private.decorators", 
+                "affinegap.affinegap.np.testing.dec"
+            ], 
+            "os": [
+                "affinegap.affinegap.np.core.rec.os", 
+                "affinegap.affinegap.np.lib.utils.os", 
+                "affinegap.affinegap.np.lib._datasource.os", 
+                "affinegap.affinegap.np.core._internal.platform.os", 
+                "affinegap.affinegap.np.testing._private.utils.os", 
+                "affinegap.affinegap.np.ctypeslib.os", 
+                "affinegap.affinegap.np.testing._private.utils.unittest.loader.os", 
+                "affinegap.affinegap.np._pytesttester.os", 
+                "affinegap.affinegap.np.testing._private.utils.unittest.case.result.os", 
+                "affinegap.affinegap.np.__config__.os", 
+                "affinegap.affinegap.np.lib._datasource.shutil.os", 
+                "affinegap.affinegap.np.testing._private.nosetester.os", 
+                "affinegap.affinegap.np.lib.npyio.os", 
+                "affinegap.affinegap.np.core._dtype_ctypes.ctypes._os", 
+                "affinegap.affinegap.np._mat.defmatrix.N.arrayprint.multiarray.overrides.os"
+            ], 
+            "difflib": [
+                "affinegap.affinegap.np.testing._private.utils.unittest.case.difflib"
+            ], 
+            "_io": [
+                "affinegap.affinegap.np.lib._datasource.io._io"
+            ], 
+            "linecache": [
+                "affinegap.affinegap.np.__config__.os.path.warnings.linecache", 
+                "affinegap.affinegap.np.testing._private.utils.unittest.case.result.traceback.linecache"
+            ], 
+            "time": [
+                "affinegap.affinegap.np.testing._private.utils.unittest.runner.time"
+            ], 
+            "numpy.linalg.linalg": [
+                "affinegap.affinegap.np.linalg.linalg"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "1.2", 
+        "name": "affinegap", 
+        "python_version": "2.7.18"
+    }
+}

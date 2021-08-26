@@ -1,0 +1,18 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "affinegap.affinegap": [
+                "affinegap.affinegap"
+            ], 
+            "__builtin__": [
+                "affinegap.affinegap.__builtins__"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "1.8", 
+        "name": "affinegap", 
+        "python_version": "2.7.18"
+    }
+}
