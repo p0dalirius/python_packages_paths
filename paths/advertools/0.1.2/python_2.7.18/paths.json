@@ -1,0 +1,129 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "_socket": [
+                "advertools.url_builders.urllib.socket._socket"
+            ], 
+            "copy_reg": [
+                "advertools.url_builders.urllib.base64.re.copy_reg", 
+                "advertools.url_builders.urllib.os._copy_reg"
+            ], 
+            "sre_compile": [
+                "advertools.url_builders.urllib.base64.re.sre_compile"
+            ], 
+            "_sre": [
+                "advertools.url_builders.urllib.base64.re.sre_compile._sre"
+            ], 
+            "advertools.url_builders": [
+                "advertools.url_builders"
+            ], 
+            "struct": [
+                "advertools.url_builders.urllib.base64.struct"
+            ], 
+            "errno": [
+                "advertools.url_builders.urllib.ssl.errno", 
+                "advertools.url_builders.urllib.os.errno", 
+                "advertools.url_builders.urllib.socket.errno"
+            ], 
+            "base64": [
+                "advertools.url_builders.urllib.ssl.base64", 
+                "advertools.url_builders.urllib.base64"
+            ], 
+            "binascii": [
+                "advertools.url_builders.urllib.base64.binascii"
+            ], 
+            "urllib": [
+                "advertools.url_builders.urllib"
+            ], 
+            "re": [
+                "advertools.url_builders.urllib.ssl.textwrap.re", 
+                "advertools.url_builders.urllib.base64.string._re", 
+                "advertools.url_builders.urllib.re", 
+                "advertools.url_builders.urllib.base64.re", 
+                "advertools.url_builders.urllib.ssl.re"
+            ], 
+            "_abcoll": [
+                "advertools.url_builders.urllib.os.UserDict._abcoll"
+            ], 
+            "genericpath": [
+                "advertools.url_builders.urllib.os.path.genericpath"
+            ], 
+            "stat": [
+                "advertools.url_builders.urllib.os.path.genericpath.stat", 
+                "advertools.url_builders.urllib.os.path.stat"
+            ], 
+            "_ssl": [
+                "advertools.url_builders.urllib.socket._ssl", 
+                "advertools.url_builders.urllib.ssl._ssl"
+            ], 
+            "string": [
+                "advertools.url_builders.urllib.string", 
+                "advertools.url_builders.urllib.base64.string", 
+                "advertools.url_builders.urllib.ssl.textwrap.string"
+            ], 
+            "warnings": [
+                "advertools.url_builders.urllib.os.path.warnings", 
+                "advertools.url_builders.urllib.socket.warnings", 
+                "advertools.url_builders.urllib.ssl.warnings"
+            ], 
+            "UserDict": [
+                "advertools.url_builders.urllib.os.UserDict"
+            ], 
+            "textwrap": [
+                "advertools.url_builders.urllib.ssl.textwrap"
+            ], 
+            "sys": [
+                "advertools.url_builders.urllib.base64.re.sre_compile.sre_parse.sys", 
+                "advertools.url_builders.urllib.base64.re.sre_compile.sys", 
+                "advertools.url_builders.urllib.os.path.sys", 
+                "advertools.url_builders.urllib.socket.sys", 
+                "advertools.url_builders.urllib.os.path.warnings.sys", 
+                "advertools.url_builders.urllib.os.UserDict._abcoll.sys", 
+                "advertools.url_builders.urllib.ssl.sys", 
+                "advertools.url_builders.urllib.base64.re.sys", 
+                "advertools.url_builders.urllib.os.path.warnings.linecache.sys", 
+                "advertools.url_builders.urllib.sys", 
+                "advertools.url_builders.urllib.os.sys"
+            ], 
+            "ssl": [
+                "advertools.url_builders.urllib.ssl"
+            ], 
+            "types": [
+                "advertools.url_builders.urllib.os.path.warnings.types"
+            ], 
+            "posixpath": [
+                "advertools.url_builders.urllib.os.path"
+            ], 
+            "_locale": [
+                "advertools.url_builders.urllib.base64.re._locale"
+            ], 
+            "advertools.version": [
+                "advertools.version"
+            ], 
+            "socket": [
+                "advertools.url_builders.urllib.socket"
+            ], 
+            "linecache": [
+                "advertools.url_builders.urllib.os.path.warnings.linecache"
+            ], 
+            "time": [
+                "advertools.url_builders.urllib.time"
+            ], 
+            "sre_parse": [
+                "advertools.url_builders.urllib.base64.re.sre_compile.sre_parse", 
+                "advertools.url_builders.urllib.base64.re.sre_parse"
+            ], 
+            "os": [
+                "advertools.url_builders.urllib.os", 
+                "advertools.url_builders.urllib.ssl.os", 
+                "advertools.url_builders.urllib.socket.os"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.1.2", 
+        "name": "advertools", 
+        "python_version": "2.7.18"
+    }
+}
