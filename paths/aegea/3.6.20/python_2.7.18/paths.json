@@ -1,0 +1,446 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "heapq": [
+                "aegea.util.concurrent.futures.process.queue.heapq", 
+                "aegea.argparse._collections._heapq"
+            ], 
+            "functools": [
+                "aegea.packages.backports.functools_lru_cache.functools"
+            ], 
+            "datetime": [
+                "aegea.datetime", 
+                "aegea.util.compat.datetime"
+            ], 
+            "gc": [
+                "aegea.util.compat.subprocess.gc", 
+                "aegea.util.printing.subprocess.gc"
+            ], 
+            "botocore.vendored.requests.packages.urllib3": [
+                "aegea.util.printing.botocore.exceptions.requests.packages.urllib3", 
+                "aegea.util.printing.botocore.exceptions.urllib3"
+            ], 
+            "aegea.util": [
+                "aegea.util"
+            ], 
+            "struct": [
+                "aegea.packages.backports.shutil_get_terminal_size.struct", 
+                "aegea.json.decoder.struct", 
+                "aegea.util.gzip.struct", 
+                "aegea.util.compat.subprocess.pickle.struct"
+            ], 
+            "platform": [
+                "aegea.platform"
+            ], 
+            "collections": [
+                "aegea.argparse._collections", 
+                "aegea.logging.collections", 
+                "aegea.tweak.collections", 
+                "aegea.util.concurrent.futures._base.collections", 
+                "aegea.shutil.collections"
+            ], 
+            "botocore.exceptions": [
+                "aegea.util.printing.botocore.exceptions"
+            ], 
+            "tweak": [
+                "aegea.tweak"
+            ], 
+            "string": [
+                "aegea.argparse._textwrap.string", 
+                "aegea.platform.string"
+            ], 
+            "textwrap": [
+                "aegea.argparse._textwrap"
+            ], 
+            "json.encoder": [
+                "aegea.json.encoder"
+            ], 
+            "subprocess": [
+                "aegea.util.printing.subprocess"
+            ], 
+            "signal": [
+                "aegea.util.concurrent.futures.process.multiprocessing.process.signal", 
+                "aegea.util.compat.subprocess.signal", 
+                "aegea.util.printing.subprocess.signal"
+            ], 
+            "threading": [
+                "aegea.util.concurrent.futures.process.multiprocessing.util.threading", 
+                "aegea.util.concurrent.futures.process.queue._threading", 
+                "aegea.util.concurrent.futures._base.threading", 
+                "aegea.util.printing.subprocess.threading", 
+                "aegea.util.compat.subprocess.threading", 
+                "aegea.util.concurrent.futures.thread.threading", 
+                "aegea.logging.threading", 
+                "aegea.util.concurrent.futures.process.threading"
+            ], 
+            "aegea.util.exceptions": [
+                "aegea.util.exceptions"
+            ], 
+            "multiprocessing": [
+                "aegea.util.concurrent.futures.process.multiprocessing"
+            ], 
+            "cStringIO": [
+                "aegea.logging.cStringIO"
+            ], 
+            "genericpath": [
+                "aegea.argparse._os.path.genericpath"
+            ], 
+            "multiprocessing.process": [
+                "aegea.util.concurrent.futures.process.multiprocessing.process"
+            ], 
+            "atexit": [
+                "aegea.util.concurrent.futures.process.atexit", 
+                "aegea.tweak.atexit", 
+                "aegea.util.concurrent.futures.process.multiprocessing.util.atexit", 
+                "aegea.util.concurrent.futures.thread.atexit", 
+                "aegea.logging.atexit"
+            ], 
+            "aegea.util.printing": [
+                "aegea.util.printing"
+            ], 
+            "aegea.packages.backports.tempfile": [
+                "aegea.packages.backports.tempfile"
+            ], 
+            "abc": [
+                "aegea.util.gzip.io.abc"
+            ], 
+            "_multiprocessing": [
+                "aegea.util.concurrent.futures.process.multiprocessing._multiprocessing"
+            ], 
+            "re": [
+                "aegea.util.printing.botocore.re", 
+                "aegea.tweak.glob.re", 
+                "aegea.util.re", 
+                "aegea.shutil.fnmatch.re", 
+                "aegea.argparse._textwrap.re", 
+                "aegea.json.decoder.scanner.re", 
+                "aegea.argparse._textwrap.string._re", 
+                "aegea.util.printing.re", 
+                "aegea.json.decoder.re", 
+                "aegea.platform.re", 
+                "aegea.json.encoder.re", 
+                "aegea.argparse._re", 
+                "aegea.util.compat.subprocess.pickle.re"
+            ], 
+            "_posixsubprocess32": [
+                "aegea.util.compat.subprocess._posixsubprocess"
+            ], 
+            "aegea.packages.backports": [
+                "aegea.packages.backports"
+            ], 
+            "fcntl": [
+                "aegea.util.compat.subprocess.fcntl", 
+                "aegea.util.printing.subprocess.fcntl", 
+                "aegea.packages.backports.shutil_get_terminal_size.fcntl"
+            ], 
+            "UserDict": [
+                "aegea.argparse._os.UserDict", 
+                "aegea.argparse._copy.weakref.UserDict"
+            ], 
+            "Queue": [
+                "aegea.util.concurrent.futures.thread.queue", 
+                "aegea.util.concurrent.futures.process.queue"
+            ], 
+            "fnmatch": [
+                "aegea.tweak.glob.fnmatch", 
+                "aegea.shutil.fnmatch"
+            ], 
+            "json.scanner": [
+                "aegea.json.decoder.scanner", 
+                "aegea.json.scanner"
+            ], 
+            "codecs": [
+                "aegea.logging.codecs"
+            ], 
+            "aegea.util.compat": [
+                "aegea.util.compat"
+            ], 
+            "_locale": [
+                "aegea.argparse._re._locale"
+            ], 
+            "logging": [
+                "aegea.util.printing.botocore.logging", 
+                "aegea.util.concurrent.futures._base.logging", 
+                "aegea.logging", 
+                "aegea.util.logging", 
+                "aegea.tweak.logging"
+            ], 
+            "socket": [
+                "aegea.util.socket"
+            ], 
+            "thread": [
+                "aegea.logging.thread"
+            ], 
+            "botocore.vendored.requests.packages.urllib3.exceptions": [
+                "aegea.util.printing.botocore.exceptions.requests.packages.urllib3.exceptions"
+            ], 
+            "traceback": [
+                "aegea.logging.traceback", 
+                "aegea.traceback", 
+                "aegea.util.compat.subprocess.traceback", 
+                "aegea.util.printing.subprocess.traceback"
+            ], 
+            "weakref": [
+                "aegea.argparse._copy.weakref", 
+                "aegea.util.concurrent.futures.process.weakref", 
+                "aegea.util.concurrent.futures.process.multiprocessing.util.weakref", 
+                "aegea.util.concurrent.futures.thread.weakref", 
+                "aegea.logging.weakref"
+            ], 
+            "itertools": [
+                "aegea.util.concurrent.futures._base.itertools", 
+                "aegea.util.concurrent.futures.process.multiprocessing.util.itertools", 
+                "aegea.util.concurrent.futures.thread.itertools", 
+                "aegea.util.concurrent.futures.process.multiprocessing.process.itertools", 
+                "aegea.packages.backports.weakref.itertools"
+            ], 
+            "multiprocessing.util": [
+                "aegea.util.concurrent.futures.process.multiprocessing.util"
+            ], 
+            "os": [
+                "aegea.tweak.os", 
+                "aegea.util.socket.os", 
+                "aegea.os", 
+                "aegea.argparse._os", 
+                "aegea.util.printing.subprocess.os", 
+                "aegea.tweak.glob.os", 
+                "aegea.util.compat.os", 
+                "aegea.util.printing.botocore.os", 
+                "aegea.util.concurrent.futures.process.multiprocessing.os", 
+                "aegea.util.compat.subprocess.os", 
+                "aegea.util.os", 
+                "aegea.util.concurrent.futures.process.multiprocessing.process.os", 
+                "aegea.shutil.os", 
+                "aegea.packages.backports.shutil_get_terminal_size.os", 
+                "aegea.logging.os", 
+                "aegea.util.gzip.os", 
+                "aegea.util.concurrent.futures.process.multiprocessing.util.os", 
+                "aegea.util.printing.os", 
+                "aegea.platform.os"
+            ], 
+            "marshal": [
+                "aegea.util.compat.subprocess.pickle.marshal"
+            ], 
+            "botocore.vendored.requests.packages": [
+                "aegea.util.printing.botocore.exceptions.requests.packages"
+            ], 
+            "_sre": [
+                "aegea.argparse._re.sre_compile._sre"
+            ], 
+            "__builtin__": [
+                "aegea.util.gzip.__builtin__", 
+                "aegea.logging.codecs.__builtin__"
+            ], 
+            "botocore": [
+                "aegea.util.printing.botocore"
+            ], 
+            "select": [
+                "aegea.util.printing.subprocess.select", 
+                "aegea.util.compat.subprocess.select"
+            ], 
+            "posixpath": [
+                "aegea.argparse._os.path"
+            ], 
+            "errno": [
+                "aegea.util.printing.errno", 
+                "aegea.util.compat.errno", 
+                "aegea.shutil.errno", 
+                "aegea.util.printing.subprocess.errno", 
+                "aegea.util.socket.errno", 
+                "aegea.tweak.errno", 
+                "aegea.util.compat.subprocess.errno", 
+                "aegea.errno", 
+                "aegea.argparse._os.errno"
+            ], 
+            "_socket": [
+                "aegea.util.socket._socket"
+            ], 
+            "binascii": [
+                "aegea.util.compat.subprocess.pickle._binascii"
+            ], 
+            "json": [
+                "aegea.util.printing.json", 
+                "aegea.json", 
+                "aegea.tweak.json"
+            ], 
+            "botocore.vendored": [
+                "aegea.util.printing.botocore.vendored"
+            ], 
+            "subprocess32": [
+                "aegea.util.compat.subprocess"
+            ], 
+            "termios": [
+                "aegea.packages.backports.shutil_get_terminal_size.termios"
+            ], 
+            "aegea.packages": [
+                "aegea.packages"
+            ], 
+            "copy": [
+                "aegea.argparse._copy"
+            ], 
+            "zlib": [
+                "aegea.util.gzip.zlib"
+            ], 
+            "exceptions": [
+                "aegea.util.compat.subprocess.exceptions"
+            ], 
+            "sre_parse": [
+                "aegea.argparse._re.sre_compile.sre_parse", 
+                "aegea.argparse._re.sre_parse"
+            ], 
+            "pickle": [
+                "aegea.util.compat.subprocess.pickle", 
+                "aegea.util.printing.subprocess.pickle"
+            ], 
+            "json.decoder": [
+                "aegea.json.decoder"
+            ], 
+            "copy_reg": [
+                "aegea.argparse._os._copy_reg", 
+                "aegea.argparse._re.copy_reg"
+            ], 
+            "sre_compile": [
+                "aegea.argparse._re.sre_compile"
+            ], 
+            "io": [
+                "aegea.util.gzip.io", 
+                "aegea.util.io"
+            ], 
+            "concurrent.futures.thread": [
+                "aegea.util.concurrent.futures.thread"
+            ], 
+            "shutil": [
+                "aegea.util.printing.shutil", 
+                "aegea.shutil"
+            ], 
+            "aegea.version": [
+                "aegea.version"
+            ], 
+            "concurrent.futures": [
+                "aegea.util.concurrent.futures"
+            ], 
+            "aegea.packages.backports.shutil_get_terminal_size": [
+                "aegea.packages.backports.shutil_get_terminal_size"
+            ], 
+            "concurrent.futures.process": [
+                "aegea.util.concurrent.futures.process"
+            ], 
+            "concurrent.futures._base": [
+                "aegea.util.concurrent.futures._base", 
+                "aegea.util.concurrent.futures.thread._base", 
+                "aegea.util.concurrent.futures.process._base"
+            ], 
+            "_abcoll": [
+                "aegea.argparse._copy.weakref.UserDict._abcoll", 
+                "aegea.argparse._collections._abcoll"
+            ], 
+            "botocore.vendored.requests.exceptions": [
+                "aegea.util.printing.botocore.exceptions.requests.exceptions"
+            ], 
+            "aegea.packages.backports.functools_lru_cache": [
+                "aegea.packages.backports.functools_lru_cache"
+            ], 
+            "aegea.packages.backports.weakref": [
+                "aegea.packages.backports.weakref"
+            ], 
+            "stat": [
+                "aegea.argparse._os.path.genericpath.stat", 
+                "aegea.argparse._os.path.stat", 
+                "aegea.shutil.stat"
+            ], 
+            "_ssl": [
+                "aegea.util.socket._ssl"
+            ], 
+            "warnings": [
+                "aegea.argparse._os.path.warnings", 
+                "aegea.logging.warnings", 
+                "aegea.warnings", 
+                "aegea.util.socket.warnings", 
+                "aegea.logging.threading.warnings", 
+                "aegea.packages.backports.tempfile._warnings"
+            ], 
+            "glob": [
+                "aegea.tweak.glob"
+            ], 
+            "sys": [
+                "aegea.argparse._os.path.warnings.linecache.sys", 
+                "aegea.packages.backports.shutil_get_terminal_size.sys", 
+                "aegea.util.concurrent.futures.process.multiprocessing.sys", 
+                "aegea.argparse._os.path.warnings.sys", 
+                "aegea.argparse._sys", 
+                "aegea.logging.sys", 
+                "aegea.packages.backports.weakref.sys", 
+                "aegea.util.concurrent.futures.process.sys", 
+                "aegea.util.compat.subprocess.pickle.sys", 
+                "aegea.logging.threading._sys", 
+                "aegea.util.gzip.sys", 
+                "aegea.argparse._collections._abcoll.sys", 
+                "aegea.util.concurrent.futures.process.multiprocessing.process.sys", 
+                "aegea.argparse._re.sre_compile.sre_parse.sys", 
+                "aegea.util.socket.sys", 
+                "aegea.tweak.sys", 
+                "aegea.packages.backports.tempfile.sys", 
+                "aegea.argparse._collections._sys", 
+                "aegea.util.printing.subprocess.sys", 
+                "aegea.json.decoder.sys", 
+                "aegea.argparse._os.path.sys", 
+                "aegea.argparse._re.sys", 
+                "aegea.logging.traceback.sys", 
+                "aegea.tweak.glob.sys", 
+                "aegea.logging.atexit.sys", 
+                "aegea.util.sys", 
+                "aegea.platform.sys", 
+                "aegea.argparse._re.sre_compile.sys", 
+                "aegea.util.compat.subprocess.sys", 
+                "aegea.util.printing.sys", 
+                "aegea.logging.codecs.sys", 
+                "aegea.util.compat.sys", 
+                "aegea.shutil.sys", 
+                "aegea.util.concurrent.futures.thread.sys", 
+                "aegea.argparse._os.sys", 
+                "aegea.sys"
+            ], 
+            "concurrent": [
+                "aegea.util.concurrent"
+            ], 
+            "types": [
+                "aegea.util.gzip.io.abc.types", 
+                "aegea.argparse._os.path.warnings.types", 
+                "aegea.util.compat.subprocess.types", 
+                "aegea.util.concurrent.futures._base.types", 
+                "aegea.util.printing.subprocess.types", 
+                "aegea.logging.traceback.types"
+            ], 
+            "argparse": [
+                "aegea.argparse"
+            ], 
+            "_io": [
+                "aegea.util.gzip.io._io"
+            ], 
+            "linecache": [
+                "aegea.argparse._os.path.warnings.linecache", 
+                "aegea.logging.traceback.linecache"
+            ], 
+            "botocore.vendored.requests": [
+                "aegea.util.printing.botocore.vendored.requests", 
+                "aegea.util.printing.botocore.exceptions.requests"
+            ], 
+            "time": [
+                "aegea.util.compat.subprocess.time", 
+                "aegea.util.concurrent.futures._base.time", 
+                "aegea.util.time", 
+                "aegea.logging.time", 
+                "aegea.util.gzip.time"
+            ], 
+            "gzip": [
+                "aegea.util.gzip"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "3.6.20", 
+        "name": "aegea", 
+        "python_version": "2.7.18"
+    }
+}

@@ -1,0 +1,1750 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "concurrent.futures.thread": [
+                "aegea.util.concurrent.futures.thread"
+            ], 
+            "heapq": [
+                "aegea.boto3.compat.six.moves.queue.heapq", 
+                "aegea.argparse._collections._heapq"
+            ], 
+            "botocore.docs": [
+                "aegea.boto3.exceptions.botocore.docs"
+            ], 
+            "dbm": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.dbm_ndbm"
+            ], 
+            "_multiprocessing": [
+                "aegea.util.concurrent.futures.process.multiprocessing._multiprocessing"
+            ], 
+            "boto3.resources.collection": [
+                "aegea.boto3.resources.collection"
+            ], 
+            "tkFileDialog": [
+                "aegea.boto3.compat.six.moves.tkinter_tkfiledialog", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.tkinter_tkfiledialog"
+            ], 
+            "functools": [
+                "aegea.boto3.exceptions.botocore.handlers.retryhandler.functools", 
+                "aegea.boto3.exceptions.botocore.auth.calendar._locale.functools", 
+                "aegea.boto3.exceptions.botocore.client.functools", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.poolmanager.functools", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser._parser.six.functools", 
+                "aegea.packages.backports.functools_lru_cache.functools", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.functools", 
+                "aegea.boto3.exceptions.botocore.awsrequest.functools", 
+                "aegea.boto3.compat.six.functools", 
+                "aegea.boto3.exceptions.botocore.auth.functools", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.functools"
+            ], 
+            "random": [
+                "aegea.boto3.docs.utils.jmespath.parser.random", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.message.utils.random", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.random", 
+                "aegea.boto3.exceptions.botocore.handlers.retryhandler.random", 
+                "aegea.boto3.exceptions.botocore.client.adaptive.standard.random", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.Utils.random"
+            ], 
+            "urllib3.packages": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.packages"
+            ], 
+            "email.mime.text": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.mime.text"
+            ], 
+            "datetime": [
+                "aegea.boto3.exceptions.botocore.auth.calendar.datetime", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser._parser.relativedelta.datetime", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.datetime", 
+                "aegea.boto3.exceptions.botocore.serialize.datetime", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.connection.datetime", 
+                "aegea.boto3.compat.six.moves.xmlrpc_client.datetime", 
+                "aegea.datetime", 
+                "aegea.boto3.exceptions.botocore.compat.datetime", 
+                "aegea.util.compat.datetime", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser._parser.tz.datetime", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser._parser.datetime", 
+                "aegea.boto3.exceptions.botocore.auth.datetime", 
+                "aegea.boto3.exceptions.botocore.credentials.datetime", 
+                "aegea.boto3.exceptions.botocore.signers.datetime"
+            ], 
+            "ttk": [
+                "aegea.boto3.compat.six.moves.tkinter_ttk", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.tkinter_ttk"
+            ], 
+            "botocore.vendored.six.moves": [
+                "aegea.boto3.compat.six.moves"
+            ], 
+            "botocore.utils": [
+                "aegea.boto3.exceptions.botocore.configprovider.utils", 
+                "aegea.boto3.exceptions.botocore.session.utils", 
+                "aegea.boto3.exceptions.botocore.handlers.utils", 
+                "aegea.boto3.exceptions.botocore.utils"
+            ], 
+            "botocore.docs.paginator": [
+                "aegea.boto3.exceptions.botocore.docs.paginator"
+            ], 
+            "botocore.vendored.six.moves.urllib.robotparser": [
+                "aegea.boto3.compat.six.Module_six_moves_urllib.robotparser", 
+                "aegea.boto3.compat.six.moves.urllib.robotparser"
+            ], 
+            "ctypes._endian": [
+                "aegea.boto3.exceptions.botocore.handlers.uuid.ctypes._endian"
+            ], 
+            "email.iterators": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.iterators"
+            ], 
+            "gdbm": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.dbm_gnu", 
+                "aegea.boto3.compat.six.moves.dbm_gnu"
+            ], 
+            "botocore.credentials": [
+                "aegea.boto3.exceptions.botocore.credentials"
+            ], 
+            "email.mime": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.mime"
+            ], 
+            "botocore.paginate": [
+                "aegea.boto3.exceptions.botocore.session.paginate", 
+                "aegea.boto3.exceptions.botocore.paginate"
+            ], 
+            "six.moves": [
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser._parser.six.moves"
+            ], 
+            "jmespath.functions": [
+                "aegea.boto3.docs.utils.jmespath.functions", 
+                "aegea.boto3.docs.utils.jmespath.parser.visitor.functions"
+            ], 
+            "struct": [
+                "aegea.boto3.exceptions.botocore.credentials.subprocess.pickle.struct", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser._parser.tz.struct", 
+                "aegea.boto3.compat.six.moves.xmlrpc_client.gzip.struct", 
+                "aegea.boto3.docs.utils.jmespath.functions.json.decoder.struct", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.base64.struct", 
+                "aegea.packages.backports.shutil_get_terminal_size.struct", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.packages.ssl_match_hostname._implementation.ipaddress.struct"
+            ], 
+            "urllib3": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3"
+            ], 
+            "urllib3.util.response": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.response"
+            ], 
+            "tempfile": [
+                "aegea.boto3.exceptions.botocore.handlers.uuid.ctypes.util.tempfile", 
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.mimetools.tempfile"
+            ], 
+            "urllib3.connection": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.connection"
+            ], 
+            "base64": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.message.utils.base64", 
+                "aegea.boto3.exceptions.botocore.serialize.base64", 
+                "aegea.boto3.exceptions.botocore.paginate.base64", 
+                "aegea.boto3.exceptions.botocore.handlers.base64", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.Utils.base64", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.base64", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.encoders.base64", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.base64", 
+                "aegea.boto3.exceptions.botocore.auth.base64", 
+                "aegea.boto3.compat.six.moves.xmlrpc_client.base64", 
+                "aegea.boto3.exceptions.botocore.endpoint.parsers.base64", 
+                "aegea.boto3.exceptions.botocore.signers.base64", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.base64"
+            ], 
+            "urllib3.packages.ssl_match_hostname": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.packages.ssl_match_hostname"
+            ], 
+            "pyexpat.errors": [
+                "aegea.boto3.compat.six.moves.xmlrpc_client.expat.errors"
+            ], 
+            "imp": [
+                "aegea.boto3.docs.utils.inspect.imp"
+            ], 
+            "collections": [
+                "aegea.argparse._collections", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.poolmanager.collections", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.collections", 
+                "aegea.tweak.collections", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.collections_abc", 
+                "aegea.util.concurrent.futures._base.collections", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.queue.collections", 
+                "aegea.boto3.exceptions.botocore.args.logging.collections", 
+                "aegea.boto3.compat.collections_abc"
+            ], 
+            "botocore.errorfactory": [
+                "aegea.boto3.exceptions.botocore.errorfactory"
+            ], 
+            "botocore.exceptions": [
+                "aegea.boto3.exceptions.botocore.exceptions"
+            ], 
+            "botocore.args": [
+                "aegea.boto3.exceptions.botocore.args"
+            ], 
+            "urllib3.packages.six.moves.urllib": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.urllib"
+            ], 
+            "aegea.packages.backports.tempfile": [
+                "aegea.packages.backports.tempfile"
+            ], 
+            "botocore.docs.docstring": [
+                "aegea.boto3.exceptions.botocore.docs.docstring"
+            ], 
+            "botocore.compat": [
+                "aegea.boto3.exceptions.botocore.compat"
+            ], 
+            "xml.etree.cElementTree": [
+                "aegea.boto3.exceptions.botocore.compat.ETree", 
+                "aegea.boto3.exceptions.botocore.handlers.ETree", 
+                "aegea.boto3.exceptions.botocore.endpoint.parsers.ETree"
+            ], 
+            "dateutil.tz._common": [
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser._parser.tz._common"
+            ], 
+            "urllib3.packages.six.moves.urllib_parse": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.urllib_parse", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.Module_six_moves_urllib.parse", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.urllib.parse"
+            ], 
+            "boto3.resources.model": [
+                "aegea.boto3.resources.model"
+            ], 
+            "string": [
+                "aegea.boto3.docs.utils.inspect.string", 
+                "aegea.boto3.docs.utils.inspect.tokenize.string", 
+                "aegea.boto3.compat.six.moves.xmlrpc_client.string", 
+                "aegea.boto3.exceptions.botocore.session.platform.string", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser._parser.string", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.base64.string", 
+                "aegea.argparse._textwrap.string", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.string", 
+                "aegea.boto3.docs.utils.jmespath.lexer.string", 
+                "aegea.boto3.compat.six.moves.http_cookies.string"
+            ], 
+            "SocketServer": [
+                "aegea.boto3.compat.six.moves.xmlrpc_server.SocketServer", 
+                "aegea.boto3.compat.six.moves.socketserver", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.socketserver", 
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.SocketServer"
+            ], 
+            "dateutil.parser._parser": [
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser._parser"
+            ], 
+            "botocore.docs.sharedexample": [
+                "aegea.boto3.exceptions.botocore.docs.sharedexample"
+            ], 
+            "textwrap": [
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.textwrap", 
+                "aegea.argparse._textwrap"
+            ], 
+            "boto3.utils": [
+                "aegea.boto3.utils"
+            ], 
+            "urllib3.contrib": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.contrib"
+            ], 
+            "ssl": [
+                "aegea.boto3.compat.six.moves.http_client.ssl", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.ssltransport.ssl", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.connection.ssl", 
+                "aegea.boto3.exceptions.botocore.httpsession.ssl", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.ssl_.ssl"
+            ], 
+            "email.quoprimime": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.quoprimime"
+            ], 
+            "botocore.model": [
+                "aegea.boto3.exceptions.botocore.model"
+            ], 
+            "botocore.parsers": [
+                "aegea.boto3.exceptions.botocore.parsers", 
+                "aegea.boto3.exceptions.botocore.endpoint.parsers", 
+                "aegea.boto3.exceptions.botocore.response.parsers"
+            ], 
+            "json.encoder": [
+                "aegea.boto3.docs.utils.jmespath.functions.json.encoder"
+            ], 
+            "ScrolledText": [
+                "aegea.boto3.compat.six.moves.tkinter_scrolledtext", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.tkinter_scrolledtext"
+            ], 
+            "urllib3.packages.six": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.response.six", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.poolmanager.six", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.filepost.six", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.retry.six", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.connectionpool.six", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.connection.six", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.queue.six", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.connection.connection.six", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.ssltransport.six", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.six", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.url.six", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.ssl_.six", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.packages.six"
+            ], 
+            "urllib3.exceptions": [
+                "aegea.boto3.exceptions.botocore.compat.exceptions", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.exceptions"
+            ], 
+            "tweak": [
+                "aegea.tweak"
+            ], 
+            "cookielib": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.http_cookiejar", 
+                "aegea.boto3.compat.six.moves.http_cookiejar"
+            ], 
+            "ConfigParser": [
+                "aegea.boto3.compat.six.moves.configparser", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.configparser"
+            ], 
+            "botocore.signers": [
+                "aegea.boto3.exceptions.botocore.signers"
+            ], 
+            "httplib": [
+                "aegea.boto3.compat.six.moves.http_cookiejar.httplib", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.response.httplib", 
+                "aegea.boto3.compat.six.moves.http_client", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.http_client", 
+                "aegea.boto3.compat.six.moves.xmlrpc_client.httplib"
+            ], 
+            "email.errors": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.mime.nonmultipart.errors", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.charset.errors", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.errors", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.message.errors"
+            ], 
+            "dateutil._version": [
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil._version"
+            ], 
+            "urllib3.util.request": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.request"
+            ], 
+            "bisect": [
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser._parser.tz.bisect"
+            ], 
+            "urllib3.util.retry": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.retry"
+            ], 
+            "signal": [
+                "aegea.util.concurrent.futures.process.multiprocessing.process.signal", 
+                "aegea.boto3.exceptions.botocore.credentials.subprocess.signal", 
+                "aegea.util.compat.subprocess.signal"
+            ], 
+            "botocore.monitoring": [
+                "aegea.boto3.exceptions.botocore.session.monitoring", 
+                "aegea.boto3.exceptions.botocore.monitoring"
+            ], 
+            "aegea.packages.backports": [
+                "aegea.packages.backports"
+            ], 
+            "threading": [
+                "aegea.boto3.exceptions.botocore.args.logging.threading", 
+                "aegea.util.concurrent.futures.process.multiprocessing.util.threading", 
+                "aegea.boto3.compat.six.moves.queue._threading", 
+                "aegea.util.concurrent.futures._base.threading", 
+                "aegea.boto3.exceptions.botocore.credentials.threading", 
+                "aegea.boto3.exceptions.botocore.endpoint.threading", 
+                "aegea.util.compat.subprocess.threading", 
+                "aegea.boto3.exceptions.botocore.client.adaptive.standard.quota.threading", 
+                "aegea.boto3.compat.six.moves.http_cookiejar._threading", 
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.SocketServer.threading", 
+                "aegea.util.concurrent.futures.thread.threading", 
+                "aegea.boto3.exceptions.botocore.client.adaptive.bucket.threading", 
+                "aegea.boto3.exceptions.botocore.credentials.subprocess.threading", 
+                "aegea.util.concurrent.futures.process.threading", 
+                "aegea.boto3.exceptions.botocore.client.adaptive.threading"
+            ], 
+            "urllib3.util.queue": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.queue"
+            ], 
+            "tkMessageBox": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.tkinter_messagebox", 
+                "aegea.boto3.compat.six.moves.tkinter_messagebox"
+            ], 
+            "dateutil.tz._factories": [
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser._parser.tz._factories"
+            ], 
+            "pyexpat.model": [
+                "aegea.boto3.compat.six.moves.xmlrpc_client.expat.model"
+            ], 
+            "gc": [
+                "aegea.util.compat.subprocess.gc", 
+                "aegea.boto3.exceptions.botocore.credentials.subprocess.gc"
+            ], 
+            "decimal": [
+                "aegea.boto3.exceptions.botocore.serialize.validate.decimal"
+            ], 
+            "dis": [
+                "aegea.boto3.docs.utils.inspect.dis"
+            ], 
+            "dateutil._common": [
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil._common"
+            ], 
+            "fcntl": [
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.mimetools.tempfile._fcntl", 
+                "aegea.boto3.compat.six.moves.xmlrpc_server.fcntl", 
+                "aegea.packages.backports.shutil_get_terminal_size.fcntl", 
+                "aegea.util.compat.subprocess.fcntl", 
+                "aegea.boto3.exceptions.botocore.credentials.subprocess.fcntl"
+            ], 
+            "botocore.config": [
+                "aegea.boto3.exceptions.botocore.config"
+            ], 
+            "urllib3._version": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._version"
+            ], 
+            "Tkdnd": [
+                "aegea.boto3.compat.six.moves.tkinter_dnd", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.tkinter_dnd"
+            ], 
+            "SimpleHTTPServer": [
+                "aegea.boto3.compat.six.moves.SimpleHTTPServer", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.SimpleHTTPServer", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer"
+            ], 
+            "locale": [
+                "aegea.boto3.exceptions.botocore.serialize.validate.decimal._locale", 
+                "aegea.boto3.exceptions.botocore.auth.calendar._locale"
+            ], 
+            "botocore.vendored.six": [
+                "aegea.boto3.exceptions.botocore.configloader.six", 
+                "aegea.boto3.exceptions.botocore.vendored.six", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.six", 
+                "aegea.boto3.exceptions.botocore.awsrequest.six", 
+                "aegea.boto3.compat.six", 
+                "aegea.boto3.exceptions.botocore.signers.six", 
+                "aegea.boto3.exceptions.botocore.auth.six", 
+                "aegea.boto3.exceptions.botocore.endpoint.parsers.six", 
+                "aegea.boto3.exceptions.botocore.docs.sharedexample.six", 
+                "aegea.boto3.docs.utils.six", 
+                "aegea.boto3.exceptions.botocore.serialize.validate.six", 
+                "aegea.boto3.exceptions.botocore.endpoint.six", 
+                "aegea.boto3.exceptions.botocore.serialize.six", 
+                "aegea.boto3.exceptions.botocore.compat.six", 
+                "aegea.boto3.exceptions.botocore.handlers.six", 
+                "aegea.boto3.exceptions.botocore.docs.bcdoc.docstringparser.six", 
+                "aegea.boto3.exceptions.botocore.httpsession.six", 
+                "aegea.boto3.exceptions.botocore.paginate.six", 
+                "aegea.boto3.exceptions.botocore.hooks.six"
+            ], 
+            "urllib3.packages.ssl_match_hostname._implementation": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.packages.ssl_match_hostname._implementation"
+            ], 
+            "tkSimpleDialog": [
+                "aegea.boto3.compat.six.moves.tkinter_tksimpledialog", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.tkinter_tksimpledialog"
+            ], 
+            "botocore.loaders": [
+                "aegea.boto3.exceptions.botocore.loaders"
+            ], 
+            "stat": [
+                "aegea.argparse._os.path.genericpath.stat", 
+                "aegea.argparse._os.path.stat", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.stat"
+            ], 
+            "xml.parsers.expat": [
+                "aegea.boto3.compat.six.moves.xmlrpc_client.expat"
+            ], 
+            "operator": [
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser._parser.relativedelta.operator", 
+                "aegea.boto3.compat.six.operator", 
+                "aegea.boto3.docs.utils.jmespath.parser.visitor.operator", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.operator", 
+                "aegea.boto3.exceptions.botocore.auth.calendar._locale.operator", 
+                "aegea.boto3.compat.six.moves.xmlrpc_client.operator", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser._parser.six.operator"
+            ], 
+            "botocore.handlers": [
+                "aegea.boto3.exceptions.botocore.session.handlers", 
+                "aegea.boto3.exceptions.botocore.handlers"
+            ], 
+            "HTMLParser": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.html_parser", 
+                "aegea.boto3.compat.six.moves.html_parser"
+            ], 
+            "boto3.docs.action": [
+                "aegea.boto3.docs.action"
+            ], 
+            "boto3.docs.base": [
+                "aegea.boto3.docs.base"
+            ], 
+            "encodings": [
+                "aegea.boto3.exceptions.botocore.auth.calendar._locale.encodings"
+            ], 
+            "BaseHTTPServer": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.BaseHTTPServer", 
+                "aegea.boto3.compat.six.moves.xmlrpc_server.BaseHTTPServer", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.BaseHTTPServer", 
+                "aegea.boto3.compat.six.moves.BaseHTTPServer", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.BaseHTTPServer"
+            ], 
+            "xml.etree.ElementTree": [
+                "aegea.boto3.exceptions.botocore.serialize.ElementTree"
+            ], 
+            "calendar": [
+                "aegea.boto3.exceptions.botocore.serialize.calendar", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email._parseaddr.calendar", 
+                "aegea.boto3.exceptions.botocore.auth.calendar", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser._parser.relativedelta.calendar"
+            ], 
+            "jmespath": [
+                "aegea.boto3.resources.response.jmespath", 
+                "aegea.boto3.resources.params.jmespath", 
+                "aegea.boto3.docs.utils.jmespath", 
+                "aegea.boto3.exceptions.botocore.client.waiter.jmespath", 
+                "aegea.boto3.exceptions.botocore.paginate.jmespath"
+            ], 
+            "botocore.configprovider": [
+                "aegea.boto3.exceptions.botocore.configprovider"
+            ], 
+            "dateutil": [
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil"
+            ], 
+            "abc": [
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.mimetools.tempfile._io.abc"
+            ], 
+            "botocore.docs.utils": [
+                "aegea.boto3.exceptions.botocore.docs.utils"
+            ], 
+            "_tkinter": [
+                "aegea.boto3.compat.six.moves.tkinter._tkinter", 
+                "aegea.boto3.compat.six.moves.tkinter_commondialog.tkinter", 
+                "aegea.boto3.compat.six.moves.tkinter_tix._tkinter", 
+                "aegea.boto3.compat.six.moves.tkinter_dialog.tkinter", 
+                "aegea.boto3.compat.six.moves.tkinter_tksimpledialog.tkinter", 
+                "aegea.boto3.compat.six.moves.tkinter_filedialog.tkinter", 
+                "aegea.boto3.compat.six.moves.tkinter.tkinter", 
+                "aegea.boto3.compat.six.moves.tkinter_tix.tkinter", 
+                "aegea.boto3.compat.six.moves.tkinter_simpledialog.tkinter"
+            ], 
+            "jmespath.compat": [
+                "aegea.boto3.docs.utils.jmespath.compat"
+            ], 
+            "atexit": [
+                "aegea.util.concurrent.futures.process.atexit", 
+                "aegea.boto3.exceptions.botocore.args.logging.atexit", 
+                "aegea.tweak.atexit", 
+                "aegea.util.concurrent.futures.process.multiprocessing.util.atexit", 
+                "aegea.util.concurrent.futures.thread.atexit"
+            ], 
+            "botocore.session": [
+                "aegea.boto3.exceptions.botocore.session"
+            ], 
+            "warnings": [
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.SocketServer.threading.warnings", 
+                "aegea.warnings", 
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.SocketServer.socket.warnings", 
+                "aegea.boto3.compat.warnings", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.ssl_.warnings", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.warnings", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.connection.warnings", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.warnings", 
+                "aegea.boto3.exceptions.botocore.compat.warnings", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.message.warnings", 
+                "aegea.boto3.docs.utils.jmespath.warnings", 
+                "aegea.argparse._os.path.warnings", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.message.utils.warnings", 
+                "aegea.boto3.docs.utils.jmespath.lexer.warnings", 
+                "aegea.boto3.exceptions.botocore.args.logging.warnings", 
+                "aegea.packages.backports.tempfile._warnings", 
+                "aegea.boto3.exceptions.botocore.credentials.getpass.warnings", 
+                "aegea.boto3.exceptions.botocore.session.warnings", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.connectionpool.warnings", 
+                "aegea.boto3.exceptions.botocore.handlers.warnings", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.retry.warnings", 
+                "aegea.boto3.compat.six.moves.http_client.warnings", 
+                "aegea.boto3.exceptions.botocore.serialize.ElementTree.warnings", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser._parser.warnings", 
+                "aegea.boto3.exceptions.botocore.auth.hmac._warnings", 
+                "aegea.boto3.compat.six.moves.http_cookies.warnings", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.warnings", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.Utils.warnings"
+            ], 
+            "concurrent.futures._base": [
+                "aegea.util.concurrent.futures._base", 
+                "aegea.util.concurrent.futures.thread._base", 
+                "aegea.util.concurrent.futures.process._base"
+            ], 
+            "botocore.retries.special": [
+                "aegea.boto3.exceptions.botocore.client.adaptive.standard.special", 
+                "aegea.boto3.exceptions.botocore.retries.special"
+            ], 
+            "urllib": [
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.urllib", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.message.utils.urllib", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.urllib", 
+                "aegea.boto3.compat.six.moves.http_cookiejar.urllib", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.Utils.urllib"
+            ], 
+            "aegea.util": [
+                "aegea.util"
+            ], 
+            "re": [
+                "aegea.boto3.compat.six.moves.tkinter_filedialog.re", 
+                "aegea.boto3.compat.six.moves.http_cookies.re", 
+                "aegea.boto3.exceptions.botocore.session.re", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.Utils.re", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.urlparse.re", 
+                "aegea.boto3.exceptions.botocore.compat.ETree.ElementPath.re", 
+                "aegea.boto3.compat.six.moves.configparser.re", 
+                "aegea.boto3.exceptions.botocore.credentials.subprocess.pickle.re", 
+                "aegea.boto3.exceptions.botocore.auth.calendar._locale.re", 
+                "aegea.boto3.compat.six.moves.tkinter_commondialog.re", 
+                "aegea.boto3.exceptions.botocore.serialize.ElementTree.re", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.message.re", 
+                "aegea.boto3.compat.six.moves.xmlrpc_server.re", 
+                "aegea.tweak.glob.re", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.url.re", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.fnmatch.re", 
+                "aegea.argparse._textwrap.re", 
+                "aegea.boto3.exceptions.botocore.docs.sharedexample.re", 
+                "aegea.boto3.docs.utils.inspect.tokenize.re", 
+                "aegea.util.re", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.re", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.connection.re", 
+                "aegea.boto3.exceptions.botocore.session.platform.re", 
+                "aegea.boto3.compat.six.moves.tkinter_simpledialog.re", 
+                "aegea.boto3.compat.six.moves.tkinter_tix.re", 
+                "aegea.boto3.compat.six.moves.http_client.re", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.base64.re", 
+                "aegea.boto3.compat.six.moves.http_cookiejar.re", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.retry.re", 
+                "aegea.boto3.compat.six.moves.xmlrpc_client.re", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.re", 
+                "aegea.boto3.exceptions.botocore.regions.re", 
+                "aegea.boto3.exceptions.botocore.handlers.uuid.ctypes.util.re", 
+                "aegea.boto3.exceptions.botocore.serialize.re", 
+                "aegea.util.printing.re", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.quoprimime.re", 
+                "aegea.boto3.compat.six.moves.tkinter_tksimpledialog.re", 
+                "aegea.boto3.docs.utils.jmespath.functions.json.decoder.re", 
+                "aegea.argparse._re", 
+                "aegea.boto3.docs.utils.jmespath.functions.json.encoder.re", 
+                "aegea.boto3.docs.utils.inspect.re", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser._parser.re", 
+                "aegea.boto3.exceptions.botocore.handlers.re", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.message.utils.re", 
+                "aegea.boto3.compat.six.moves.tkinter_dialog.re", 
+                "aegea.boto3.exceptions.botocore.endpoint.parsers.re", 
+                "aegea.boto3.compat.six.moves.html_parser.re", 
+                "aegea.boto3.exceptions.botocore.re", 
+                "aegea.boto3.docs.utils.jmespath.functions.json.decoder.scanner.re", 
+                "aegea.argparse._textwrap.string._re", 
+                "aegea.boto3.exceptions.botocore.docs.utils.re", 
+                "aegea.boto3.exceptions.botocore.monitoring.re", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.re", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.re", 
+                "aegea.boto3.compat.six.moves.tkinter.re", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.packages.ssl_match_hostname._implementation.re", 
+                "aegea.boto3.resources.params.re"
+            ], 
+            "email.encoders": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.encoders"
+            ], 
+            "_posixsubprocess32": [
+                "aegea.util.compat.subprocess._posixsubprocess"
+            ], 
+            "robotparser": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.urllib_robotparser", 
+                "aegea.boto3.compat.six.moves.urllib_robotparser"
+            ], 
+            "boto3.session": [
+                "aegea.boto3.session"
+            ], 
+            "botocore.docs.bcdoc.restdoc": [
+                "aegea.boto3.exceptions.botocore.docs.bcdoc.restdoc"
+            ], 
+            "jmespath.exceptions": [
+                "aegea.boto3.docs.utils.jmespath.exceptions", 
+                "aegea.boto3.docs.utils.jmespath.functions.exceptions", 
+                "aegea.boto3.docs.utils.jmespath.parser.exceptions"
+            ], 
+            "glob": [
+                "aegea.tweak.glob"
+            ], 
+            "boto3.compat": [
+                "aegea.boto3.compat"
+            ], 
+            "urllib3.util.connection": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.connection", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.connection.connection"
+            ], 
+            "email": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.retry.email", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email"
+            ], 
+            "math": [
+                "aegea.boto3.docs.utils.jmespath.functions.math", 
+                "aegea.boto3.exceptions.botocore.client.adaptive.math", 
+                "aegea.boto3.exceptions.botocore.serialize.validate.decimal._math"
+            ], 
+            "botocore.client": [
+                "aegea.boto3.exceptions.botocore.client"
+            ], 
+            "cgi": [
+                "aegea.boto3.exceptions.botocore.configprovider.utils.cgi", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi"
+            ], 
+            "botocore.waiter": [
+                "aegea.boto3.exceptions.botocore.waiter", 
+                "aegea.boto3.exceptions.botocore.client.waiter", 
+                "aegea.boto3.exceptions.botocore.session.waiter"
+            ], 
+            "Tkinter": [
+                "aegea.boto3.compat.six.moves.tkinter_font.Tkinter", 
+                "aegea.boto3.compat.six.moves.tkinter", 
+                "aegea.boto3.compat.six.moves.tkinter_ttk.Tkinter", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.tkinter", 
+                "aegea.boto3.compat.six.moves.tkinter_dnd.Tkinter", 
+                "aegea.boto3.compat.six.moves.tkinter_tix.Tkinter"
+            ], 
+            "botocore.vendored.six.moves.urllib.request": [
+                "aegea.boto3.compat.six.Module_six_moves_urllib.request", 
+                "aegea.boto3.compat.six.moves.urllib.request"
+            ], 
+            "tkFont": [
+                "aegea.boto3.compat.six.moves.tkinter_font", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.tkinter_font"
+            ], 
+            "dateutil.tz.tz": [
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser._parser.tz.tz"
+            ], 
+            "UserDict": [
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.UserDict", 
+                "aegea.argparse._os.UserDict", 
+                "aegea.boto3.compat.six.moves.configparser._UserDict", 
+                "aegea.argparse._copy.weakref.UserDict"
+            ], 
+            "inspect": [
+                "aegea.boto3.exceptions.botocore.docs.method.inspect", 
+                "aegea.boto3.docs.utils.inspect", 
+                "aegea.boto3.exceptions.botocore.docs.client.inspect", 
+                "aegea.boto3.docs.utils.jmespath.compat.inspect", 
+                "aegea.boto3.exceptions.botocore.compat.inspect"
+            ], 
+            "boto3.docs.docstring": [
+                "aegea.boto3.resources.collection.docstring", 
+                "aegea.boto3.resources.factory.docstring", 
+                "aegea.boto3.docs.docstring"
+            ], 
+            "Queue": [
+                "aegea.boto3.compat.six.moves.queue", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.queue.queue", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.queue", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.queue._unused_module_Queue", 
+                "aegea.util.concurrent.futures.process.queue", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.connectionpool.queue", 
+                "aegea.util.concurrent.futures.thread.queue"
+            ], 
+            "exceptions": [
+                "aegea.util.compat.subprocess.exceptions"
+            ], 
+            "json.scanner": [
+                "aegea.boto3.docs.utils.jmespath.functions.json.decoder.scanner", 
+                "aegea.boto3.docs.utils.jmespath.functions.json.scanner"
+            ], 
+            "boto3.resources": [
+                "aegea.boto3.resources"
+            ], 
+            "ctypes": [
+                "aegea.boto3.exceptions.botocore.handlers.uuid.ctypes"
+            ], 
+            "botocore.retries.bucket": [
+                "aegea.boto3.exceptions.botocore.retries.bucket", 
+                "aegea.boto3.exceptions.botocore.client.adaptive.bucket"
+            ], 
+            "botocore.docs.waiter": [
+                "aegea.boto3.exceptions.botocore.docs.waiter"
+            ], 
+            "codecs": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.charset.codecs", 
+                "aegea.boto3.exceptions.botocore.auth.calendar._locale.encodings.utf_8.codecs", 
+                "aegea.boto3.exceptions.botocore.args.logging.codecs", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.filepost.codecs", 
+                "aegea.boto3.exceptions.botocore.auth.calendar._locale.encodings.codecs"
+            ], 
+            "botocore.auth": [
+                "aegea.boto3.exceptions.botocore.auth"
+            ], 
+            "boto3.exceptions": [
+                "aegea.boto3.exceptions"
+            ], 
+            "botocore.docs.bcdoc.docstringparser": [
+                "aegea.boto3.exceptions.botocore.docs.bcdoc.docstringparser"
+            ], 
+            "uuid": [
+                "aegea.boto3.exceptions.botocore.handlers.uuid"
+            ], 
+            "urllib3.util.timeout": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.timeout"
+            ], 
+            "urllib3.packages.six.moves": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves"
+            ], 
+            "_locale": [
+                "aegea.argparse._re._locale"
+            ], 
+            "logging": [
+                "aegea.util.logging", 
+                "aegea.boto3.exceptions.botocore.history.logging", 
+                "aegea.boto3.exceptions.botocore.logging", 
+                "aegea.boto3.exceptions.botocore.client.adaptive.logging", 
+                "aegea.boto3.exceptions.botocore.regions.logging", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.logging", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.response.logging", 
+                "aegea.boto3.exceptions.botocore.client.waiter.logging", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.logging", 
+                "aegea.boto3.exceptions.botocore.docs.bcdoc.style.logging", 
+                "aegea.boto3.logging", 
+                "aegea.boto3.exceptions.botocore.compat.logging", 
+                "aegea.boto3.exceptions.botocore.response.logging", 
+                "aegea.boto3.exceptions.botocore.handlers.retryhandler.logging", 
+                "aegea.boto3.exceptions.botocore.discovery.logging", 
+                "aegea.tweak.logging", 
+                "aegea.boto3.exceptions.botocore.endpoint.parsers.logging", 
+                "aegea.boto3.exceptions.botocore.configprovider.logging", 
+                "aegea.logging", 
+                "aegea.boto3.exceptions.botocore.client.adaptive.standard.special.logging", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.connectionpool.logging", 
+                "aegea.boto3.exceptions.botocore.loaders.logging", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.connection.logging", 
+                "aegea.boto3.exceptions.botocore.endpoint.logging", 
+                "aegea.boto3.resources.base.logging", 
+                "aegea.boto3.resources.collection.logging", 
+                "aegea.boto3.exceptions.botocore.hooks.logging", 
+                "aegea.boto3.resources.factory.logging", 
+                "aegea.boto3.exceptions.botocore.args.logging", 
+                "aegea.util.concurrent.futures._base.logging", 
+                "aegea.boto3.resources.model.logging", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.poolmanager.logging", 
+                "aegea.boto3.exceptions.botocore.paginate.logging", 
+                "aegea.boto3.exceptions.botocore.client.adaptive.standard.logging", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.retry.logging", 
+                "aegea.boto3.exceptions.botocore.docs.bcdoc.restdoc.logging", 
+                "aegea.boto3.exceptions.botocore.awsrequest.logging", 
+                "aegea.boto3.exceptions.botocore.session.logging", 
+                "aegea.boto3.exceptions.botocore.monitoring.logging", 
+                "aegea.boto3.exceptions.botocore.client.logging", 
+                "aegea.boto3.resources.action.logging", 
+                "aegea.boto3.exceptions.botocore.httpsession.logging", 
+                "aegea.boto3.exceptions.botocore.auth.logging", 
+                "aegea.boto3.exceptions.botocore.credentials.logging", 
+                "aegea.boto3.exceptions.botocore.handlers.logging"
+            ], 
+            "socket": [
+                "aegea.boto3.exceptions.botocore.httpsession.socket", 
+                "aegea.boto3.exceptions.botocore.args.socket", 
+                "aegea.boto3.exceptions.botocore.awsrequest.socket", 
+                "aegea.util.socket", 
+                "aegea.boto3.compat.socket", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.socket", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.ssltransport.socket", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.connection.connection.socket", 
+                "aegea.boto3.compat.six.moves.http_client.socket", 
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.socket", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.Utils.socket", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.connection.socket", 
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.SocketServer.socket", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.connectionpool.socket", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.message.utils.socket", 
+                "aegea.boto3.compat.six.moves.xmlrpc_client.socket", 
+                "aegea.boto3.exceptions.botocore.session.socket", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.socket"
+            ], 
+            "thread": [
+                "aegea.boto3.exceptions.botocore.args.logging.thread", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves._thread", 
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.mimetools.tempfile._thread", 
+                "aegea.boto3.compat.six.moves._thread"
+            ], 
+            "boto3.docs.resource": [
+                "aegea.boto3.docs.resource"
+            ], 
+            "traceback": [
+                "aegea.boto3.exceptions.botocore.credentials.subprocess.traceback", 
+                "aegea.boto3.exceptions.botocore.args.logging.traceback", 
+                "aegea.boto3.compat.six.moves.xmlrpc_server.traceback", 
+                "aegea.traceback", 
+                "aegea.util.compat.subprocess.traceback"
+            ], 
+            "botocore.vendored.six.moves.urllib.error": [
+                "aegea.boto3.compat.six.moves.urllib_error", 
+                "aegea.boto3.compat.six.Module_six_moves_urllib.error", 
+                "aegea.boto3.compat.six.moves.urllib.error"
+            ], 
+            "multiprocessing": [
+                "aegea.util.concurrent.futures.process.multiprocessing"
+            ], 
+            "weakref": [
+                "aegea.argparse._copy.weakref", 
+                "aegea.util.concurrent.futures.process.weakref", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.weakref", 
+                "aegea.boto3.exceptions.botocore.discovery.weakref", 
+                "aegea.boto3.exceptions.botocore.signers.weakref", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser._parser.tz.weakref", 
+                "aegea.util.concurrent.futures.process.multiprocessing.util.weakref", 
+                "aegea.util.concurrent.futures.thread.weakref", 
+                "aegea.boto3.exceptions.botocore.args.logging.weakref"
+            ], 
+            "botocore.docs.service": [
+                "aegea.boto3.exceptions.botocore.docs.service"
+            ], 
+            "itertools": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.packages.ssl_match_hostname._implementation.ipaddress.itertools", 
+                "aegea.util.concurrent.futures.process.multiprocessing.util.itertools", 
+                "aegea.util.concurrent.futures.process.multiprocessing.process.itertools", 
+                "aegea.util.concurrent.futures.thread.itertools", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.itertools", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser._parser.six.itertools", 
+                "aegea.boto3.compat.six.itertools", 
+                "aegea.util.concurrent.futures._base.itertools", 
+                "aegea.packages.backports.weakref.itertools"
+            ], 
+            "botocore.docs.bcdoc": [
+                "aegea.boto3.exceptions.botocore.docs.bcdoc"
+            ], 
+            "botocore.vendored.requests.packages.urllib3.exceptions": [
+                "aegea.boto3.exceptions.botocore.exceptions.requests.packages.urllib3.exceptions"
+            ], 
+            "multiprocessing.util": [
+                "aegea.util.concurrent.futures.process.multiprocessing.util"
+            ], 
+            "os": [
+                "aegea.boto3.compat.six.moves.tkinter_filedialog.os", 
+                "aegea.boto3.exceptions.botocore.session.os", 
+                "aegea.boto3.session.os", 
+                "aegea.boto3.exceptions.botocore.httpsession.os", 
+                "aegea.boto3.compat.os", 
+                "aegea.boto3.exceptions.botocore.configprovider.os", 
+                "aegea.packages.backports.shutil_get_terminal_size.os", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser._parser.tz.os", 
+                "aegea.argparse._os", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.connection.os", 
+                "aegea.boto3.docs.service.os", 
+                "aegea.boto3.docs.os", 
+                "aegea.boto3.exceptions.botocore.handlers.uuid.os", 
+                "aegea.boto3.docs.utils.inspect.os", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.os", 
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.mimetools.tempfile._os", 
+                "aegea.boto3.exceptions.botocore.endpoint.os", 
+                "aegea.boto3.exceptions.botocore.compat.shlex.os", 
+                "aegea.boto3.compat.six.moves.xmlrpc_client.gzip.os", 
+                "aegea.boto3.exceptions.botocore.args.logging.os", 
+                "aegea.tweak.glob.os", 
+                "aegea.util.compat.os", 
+                "aegea.util.concurrent.futures.process.multiprocessing.os", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.ssl_.os", 
+                "aegea.boto3.exceptions.botocore.session.platform.os", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.os", 
+                "aegea.boto3.exceptions.botocore.configloader.os", 
+                "aegea.boto3.exceptions.botocore.compat.os", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.os", 
+                "aegea.util.printing.os", 
+                "aegea.boto3.exceptions.botocore.handlers.uuid.ctypes.util.os", 
+                "aegea.tweak.os", 
+                "aegea.boto3.exceptions.botocore.credentials.getpass.os", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.Utils.os", 
+                "aegea.os", 
+                "aegea.boto3.exceptions.botocore.docs.os", 
+                "aegea.boto3.compat.six.moves.http_client.os", 
+                "aegea.util.compat.subprocess.os", 
+                "aegea.boto3.exceptions.botocore.credentials.subprocess.os", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.filepost.os", 
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.SocketServer.os", 
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.mimetools.os", 
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.SocketServer.socket.os", 
+                "aegea.boto3.exceptions.botocore.loaders.os", 
+                "aegea.boto3.exceptions.botocore.handlers.uuid.ctypes._os", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.message.utils.os", 
+                "aegea.boto3.compat.six.moves.xmlrpc_server.os", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.os", 
+                "aegea.util.concurrent.futures.process.multiprocessing.util.os", 
+                "aegea.util.concurrent.futures.process.multiprocessing.process.os", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.os", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.os", 
+                "aegea.util.os", 
+                "aegea.boto3.exceptions.botocore.credentials.os", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.connection.connection._appengine_environ.os", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.os", 
+                "aegea.boto3.compat.six.moves.tkinter_tix.os", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.os", 
+                "aegea.boto3.exceptions.botocore.os", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.message.uu.os"
+            ], 
+            "marshal": [
+                "aegea.boto3.exceptions.botocore.credentials.subprocess.pickle.marshal"
+            ], 
+            "botocore.docs.method": [
+                "aegea.boto3.exceptions.botocore.docs.method"
+            ], 
+            "dateutil.relativedelta": [
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.relativedelta", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser._parser.relativedelta"
+            ], 
+            "json.decoder": [
+                "aegea.boto3.docs.utils.jmespath.functions.json.decoder"
+            ], 
+            "botocore.vendored.requests.packages": [
+                "aegea.boto3.exceptions.botocore.exceptions.requests.packages"
+            ], 
+            "botocore.retries.standard": [
+                "aegea.boto3.exceptions.botocore.client.adaptive.standard", 
+                "aegea.boto3.exceptions.botocore.client.standard", 
+                "aegea.boto3.exceptions.botocore.retries.standard"
+            ], 
+            "cStringIO": [
+                "aegea.boto3.compat.six.moves.xmlrpc_client.StringIO", 
+                "aegea.boto3.exceptions.botocore.args.logging.cStringIO"
+            ], 
+            "_sre": [
+                "aegea.argparse._re.sre_compile._sre"
+            ], 
+            "botocore.translate": [
+                "aegea.boto3.exceptions.botocore.translate", 
+                "aegea.boto3.exceptions.botocore.session.translate", 
+                "aegea.boto3.exceptions.botocore.handlers.translate"
+            ], 
+            "aegea.packages.backports.weakref": [
+                "aegea.packages.backports.weakref"
+            ], 
+            "botocore.retryhandler": [
+                "aegea.boto3.exceptions.botocore.retryhandler", 
+                "aegea.boto3.exceptions.botocore.session.retryhandler", 
+                "aegea.boto3.exceptions.botocore.handlers.retryhandler"
+            ], 
+            "urllib3.poolmanager": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.poolmanager"
+            ], 
+            "__builtin__": [
+                "aegea.boto3.compat.six.moves.cPickle.__builtins__", 
+                "aegea.boto3.compat.six.moves.builtins", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.builtins", 
+                "aegea.boto3.compat.six.moves.xmlrpc_client.gzip.__builtin__", 
+                "aegea.boto3.exceptions.botocore.args.logging.codecs.__builtin__", 
+                "aegea.boto3.compat.six.moves.reprlib.__builtin__", 
+                "aegea.boto3.exceptions.botocore.auth.calendar._locale.encodings.__builtin__"
+            ], 
+            "botocore.docs.bcdoc.style": [
+                "aegea.boto3.exceptions.botocore.docs.bcdoc.style"
+            ], 
+            "boto3": [
+                "aegea.boto3"
+            ], 
+            "dummy_thread": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves._dummy_thread", 
+                "aegea.boto3.compat.six.moves._dummy_thread"
+            ], 
+            "platform": [
+                "aegea.boto3.exceptions.botocore.session.platform", 
+                "aegea.platform"
+            ], 
+            "urllib3.contrib._appengine_environ": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.contrib._appengine_environ", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.connection.connection._appengine_environ"
+            ], 
+            "email.charset": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.charset"
+            ], 
+            "FileDialog": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.tkinter_filedialog", 
+                "aegea.boto3.compat.six.moves.tkinter_filedialog"
+            ], 
+            "Tix": [
+                "aegea.boto3.compat.six.moves.tkinter_tix", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.tkinter_tix"
+            ], 
+            "botocore": [
+                "aegea.util.printing.botocore", 
+                "aegea.boto3.exceptions.botocore", 
+                "aegea.boto3.session.botocore", 
+                "aegea.botocore"
+            ], 
+            "boto3.resources.params": [
+                "aegea.boto3.resources.params"
+            ], 
+            "select": [
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.select", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.wait.select", 
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.SocketServer.select", 
+                "aegea.boto3.exceptions.botocore.credentials.subprocess.select", 
+                "aegea.util.compat.subprocess.select"
+            ], 
+            "botocore.docs.client": [
+                "aegea.boto3.exceptions.botocore.docs.client"
+            ], 
+            "aegea.util.exceptions": [
+                "aegea.util.exceptions"
+            ], 
+            "boto3.resources.base": [
+                "aegea.boto3.resources.base"
+            ], 
+            "urllib3.util.ssl_": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.ssl_"
+            ], 
+            "posixpath": [
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.posixpath", 
+                "aegea.argparse._os.path", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.posixpath"
+            ], 
+            "ctypes.util": [
+                "aegea.boto3.exceptions.botocore.handlers.uuid.ctypes.util"
+            ], 
+            "botocore.eventstream": [
+                "aegea.boto3.exceptions.botocore.eventstream"
+            ], 
+            "errno": [
+                "aegea.util.printing.errno", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.errno", 
+                "aegea.boto3.exceptions.botocore.handlers.uuid.ctypes.util.errno", 
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.SocketServer.errno", 
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.SocketServer.socket.errno", 
+                "aegea.boto3.exceptions.botocore.credentials.subprocess.errno", 
+                "aegea.errno", 
+                "aegea.util.compat.errno", 
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.mimetools.tempfile._errno", 
+                "aegea.tweak.errno", 
+                "aegea.util.compat.subprocess.errno", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.wait.errno", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.errno", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.connectionpool.errno", 
+                "aegea.boto3.compat.six.moves.xmlrpc_client.errno", 
+                "aegea.boto3.compat.errno", 
+                "aegea.argparse._os.errno"
+            ], 
+            "botocore.awsrequest": [
+                "aegea.boto3.exceptions.botocore.awsrequest"
+            ], 
+            "_socket": [
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.SocketServer.socket._socket"
+            ], 
+            "binascii": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.message.binascii", 
+                "aegea.boto3.exceptions.botocore.credentials.subprocess.pickle._binascii", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.filepost.binascii", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.message.uu.binascii", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.binascii", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.base64.binascii"
+            ], 
+            "urllib3.response": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.response"
+            ], 
+            "boto3.docs.service": [
+                "aegea.boto3.docs.service"
+            ], 
+            "urllib3.request": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.request"
+            ], 
+            "json": [
+                "aegea.boto3.exceptions.botocore.signers.json", 
+                "aegea.boto3.exceptions.botocore.endpoint.parsers.json", 
+                "aegea.json", 
+                "aegea.util.printing.json", 
+                "aegea.boto3.exceptions.botocore.response.json", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.json", 
+                "aegea.boto3.exceptions.botocore.paginate.json", 
+                "aegea.boto3.exceptions.botocore.auth.json", 
+                "aegea.boto3.exceptions.botocore.serialize.validate.json", 
+                "aegea.boto3.exceptions.botocore.monitoring.json", 
+                "aegea.boto3.exceptions.botocore.loaders.json", 
+                "aegea.boto3.exceptions.botocore.compat.json", 
+                "aegea.boto3.exceptions.botocore.handlers.json", 
+                "aegea.tweak.json", 
+                "aegea.boto3.exceptions.botocore.credentials.json", 
+                "aegea.boto3.exceptions.botocore.serialize.json", 
+                "aegea.boto3.docs.utils.jmespath.functions.json"
+            ], 
+            "email._parseaddr": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email._parseaddr"
+            ], 
+            "Cookie": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.http_cookies", 
+                "aegea.boto3.compat.six.moves.http_cookies"
+            ], 
+            "botocore.vendored.six.moves.urllib_parse": [
+                "aegea.boto3.compat.six.Module_six_moves_urllib.parse", 
+                "aegea.boto3.compat.six.moves.urllib.parse", 
+                "aegea.boto3.compat.six.moves.urllib_parse"
+            ], 
+            "tokenize": [
+                "aegea.boto3.docs.utils.inspect.tokenize"
+            ], 
+            "urllib3._collections": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections"
+            ], 
+            "botocore.response": [
+                "aegea.boto3.exceptions.botocore.response"
+            ], 
+            "urllib3.filepost": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.filepost"
+            ], 
+            "botocore.docs.shape": [
+                "aegea.boto3.exceptions.botocore.docs.shape"
+            ], 
+            "aegea.util.compat": [
+                "aegea.util.compat"
+            ], 
+            "cPickle": [
+                "aegea.boto3.compat.six.moves.cPickle", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.cPickle"
+            ], 
+            "email.mime.nonmultipart": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.mime.nonmultipart"
+            ], 
+            "jmespath.visitor": [
+                "aegea.boto3.docs.utils.jmespath.visitor", 
+                "aegea.boto3.docs.utils.jmespath.parser.visitor"
+            ], 
+            "urllib3.packages.six.moves.urllib.robotparser": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.Module_six_moves_urllib.robotparser", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.urllib.robotparser"
+            ], 
+            "botocore.vendored": [
+                "aegea.boto3.exceptions.botocore.vendored"
+            ], 
+            "email.mime.image": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.mime.image"
+            ], 
+            "botocore.validate": [
+                "aegea.boto3.exceptions.botocore.serialize.validate", 
+                "aegea.boto3.exceptions.botocore.validate"
+            ], 
+            "subprocess32": [
+                "aegea.util.compat.subprocess"
+            ], 
+            "urllib3.util": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util"
+            ], 
+            "SimpleXMLRPCServer": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.xmlrpc_server", 
+                "aegea.boto3.compat.six.moves.xmlrpc_server"
+            ], 
+            "email.utils": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.utils", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.message.utils"
+            ], 
+            "urllib3.util.ssltransport": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.ssltransport"
+            ], 
+            "urllib3.util.proxy": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.proxy"
+            ], 
+            "botocore.retries.adaptive": [
+                "aegea.boto3.exceptions.botocore.retries.adaptive", 
+                "aegea.boto3.exceptions.botocore.client.adaptive"
+            ], 
+            "Dialog": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.tkinter_dialog", 
+                "aegea.boto3.compat.six.moves.tkinter_dialog"
+            ], 
+            "urllib3.util.wait": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.wait"
+            ], 
+            "botocore.docs.params": [
+                "aegea.boto3.exceptions.botocore.docs.params"
+            ], 
+            "boto3.docs.waiter": [
+                "aegea.boto3.docs.waiter"
+            ], 
+            "aegea.packages": [
+                "aegea.packages"
+            ], 
+            "copy": [
+                "aegea.argparse._copy", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.copy", 
+                "aegea.boto3.exceptions.botocore.hooks.copy", 
+                "aegea.boto3.exceptions.botocore.session.copy", 
+                "aegea.boto3.exceptions.botocore.handlers.copy", 
+                "aegea.boto3.exceptions.botocore.configloader.copy", 
+                "aegea.boto3.exceptions.botocore.config.copy", 
+                "aegea.boto3.exceptions.botocore.compat.copy", 
+                "aegea.boto3.compat.six.moves.http_cookiejar.copy", 
+                "aegea.boto3.resources.collection.copy", 
+                "aegea.boto3.exceptions.botocore.handlers.translate.copy", 
+                "aegea.boto3.exceptions.botocore.args.copy", 
+                "aegea.boto3.session.copy"
+            ], 
+            "urllib3.packages.six.moves.urllib.response": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.urllib.response", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.Module_six_moves_urllib.response"
+            ], 
+            "multiprocessing.process": [
+                "aegea.util.concurrent.futures.process.multiprocessing.process"
+            ], 
+            "hashlib": [
+                "aegea.boto3.docs.utils.jmespath.parser.random._hashlib", 
+                "aegea.boto3.exceptions.botocore.compat.hashlib", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.hashlib"
+            ], 
+            "boto3.docs.utils": [
+                "aegea.boto3.docs.utils"
+            ], 
+            "uu": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.message.uu"
+            ], 
+            "zlib": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.response.zlib", 
+                "aegea.boto3.compat.six.moves.xmlrpc_client.gzip.zlib"
+            ], 
+            "botocore.vendored.requests.packages.urllib3": [
+                "aegea.boto3.exceptions.botocore.exceptions.urllib3", 
+                "aegea.boto3.exceptions.botocore.exceptions.requests.packages.urllib3"
+            ], 
+            "urllib3.util.url": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.url"
+            ], 
+            "markupbase": [
+                "aegea.boto3.compat.six.moves.html_parser.markupbase"
+            ], 
+            "dateutil.tz": [
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.tz", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser._parser.tz"
+            ], 
+            "email.mime.base": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.mime.base"
+            ], 
+            "encodings.aliases": [
+                "aegea.boto3.exceptions.botocore.auth.calendar._locale.encodings.aliases"
+            ], 
+            "fnmatch": [
+                "aegea.tweak.glob.fnmatch", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.fnmatch", 
+                "aegea.boto3.compat.six.moves.tkinter_filedialog.fnmatch"
+            ], 
+            "sre_parse": [
+                "aegea.argparse._re.sre_compile.sre_parse", 
+                "aegea.argparse._re.sre_parse"
+            ], 
+            "botocore.vendored.six.moves.urllib.response": [
+                "aegea.boto3.compat.six.moves.urllib.response", 
+                "aegea.boto3.compat.six.Module_six_moves_urllib.response"
+            ], 
+            "pickle": [
+                "aegea.util.compat.subprocess.pickle", 
+                "aegea.boto3.exceptions.botocore.credentials.subprocess.pickle"
+            ], 
+            "boto3.docs.subresource": [
+                "aegea.boto3.docs.subresource"
+            ], 
+            "numbers": [
+                "aegea.boto3.exceptions.botocore.serialize.validate.decimal._numbers", 
+                "aegea.boto3.exceptions.botocore.docs.sharedexample.numbers"
+            ], 
+            "mimetools": [
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.mimetools", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.mimetools", 
+                "aegea.boto3.compat.six.moves.http_client.mimetools"
+            ], 
+            "aegea.packages.backports.shutil_get_terminal_size": [
+                "aegea.packages.backports.shutil_get_terminal_size"
+            ], 
+            "botocore.retries.quota": [
+                "aegea.boto3.exceptions.botocore.client.adaptive.standard.quota", 
+                "aegea.boto3.exceptions.botocore.retries.quota"
+            ], 
+            "copy_reg": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.copyreg", 
+                "aegea.boto3.compat.six.moves.copyreg", 
+                "aegea.argparse._os._copy_reg", 
+                "aegea.argparse._re.copy_reg"
+            ], 
+            "sre_compile": [
+                "aegea.argparse._re.sre_compile"
+            ], 
+            "CGIHTTPServer": [
+                "aegea.boto3.compat.six.moves.CGIHTTPServer", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.CGIHTTPServer"
+            ], 
+            "_hashlib": [
+                "aegea.boto3.docs.utils.jmespath.parser.random._hashlib._hashlib"
+            ], 
+            "_random": [
+                "aegea.boto3.docs.utils.jmespath.parser.random._random"
+            ], 
+            "aegea.util.printing": [
+                "aegea.util.printing"
+            ], 
+            "subprocess": [
+                "aegea.boto3.exceptions.botocore.handlers.uuid.ctypes.util.subprocess", 
+                "aegea.util.printing.subprocess", 
+                "aegea.boto3.exceptions.botocore.credentials.subprocess"
+            ], 
+            "encodings.utf_8": [
+                "aegea.boto3.exceptions.botocore.auth.calendar._locale.encodings.utf_8"
+            ], 
+            "getpass": [
+                "aegea.boto3.exceptions.botocore.credentials.getpass"
+            ], 
+            "botocore.endpoint": [
+                "aegea.boto3.exceptions.botocore.endpoint"
+            ], 
+            "SimpleDialog": [
+                "aegea.boto3.compat.six.moves.tkinter_simpledialog", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.tkinter_simpledialog"
+            ], 
+            "email.mime.message": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.mime.message"
+            ], 
+            "boto3.docs": [
+                "aegea.boto3.docs"
+            ], 
+            "io": [
+                "aegea.boto3.compat.six.moves.xmlrpc_client.gzip.io", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.ssltransport.io", 
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.mimetools.tempfile._io", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.response.io", 
+                "aegea.boto3.exceptions.botocore.awsrequest.io", 
+                "aegea.util.io"
+            ], 
+            "boto3.docs.attr": [
+                "aegea.boto3.docs.attr"
+            ], 
+            "shutil": [
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil", 
+                "aegea.util.printing.shutil", 
+                "aegea.shutil"
+            ], 
+            "aegea.version": [
+                "aegea.version"
+            ], 
+            "email.message": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.message", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.mime.message.message"
+            ], 
+            "concurrent.futures": [
+                "aegea.util.concurrent.futures"
+            ], 
+            "jmespath.ast": [
+                "aegea.boto3.docs.utils.jmespath.parser.ast", 
+                "aegea.boto3.docs.utils.jmespath.ast"
+            ], 
+            "urlparse": [
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.urlparse", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.urlparse", 
+                "aegea.boto3.compat.six.moves.http_cookiejar.urlparse"
+            ], 
+            "tkCommonDialog": [
+                "aegea.boto3.compat.six.moves.tkinter_commondialog", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.tkinter_commondialog"
+            ], 
+            "boto3.docs.client": [
+                "aegea.boto3.docs.client"
+            ], 
+            "xml.etree.ElementPath": [
+                "aegea.boto3.exceptions.botocore.serialize.ElementTree.ElementPath", 
+                "aegea.boto3.exceptions.botocore.compat.ETree.ElementPath"
+            ], 
+            "botocore.retries.base": [
+                "aegea.boto3.exceptions.botocore.retries.base"
+            ], 
+            "dateutil.parser": [
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser"
+            ], 
+            "botocore.httpsession": [
+                "aegea.boto3.exceptions.botocore.httpsession"
+            ], 
+            "concurrent.futures.process": [
+                "aegea.util.concurrent.futures.process"
+            ], 
+            "six": [
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser._parser.tz.six", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser._parser.six"
+            ], 
+            "boto3.docs.collection": [
+                "aegea.boto3.docs.collection"
+            ], 
+            "_abcoll": [
+                "aegea.argparse._copy.weakref.UserDict._abcoll", 
+                "aegea.argparse._collections._abcoll"
+            ], 
+            "boto3.resources.factory": [
+                "aegea.boto3.resources.factory"
+            ], 
+            "botocore.hooks": [
+                "aegea.boto3.exceptions.botocore.hooks"
+            ], 
+            "email.mime.audio": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.mime.audio"
+            ], 
+            "botocore.vendored.requests.exceptions": [
+                "aegea.boto3.exceptions.botocore.exceptions.requests.exceptions"
+            ], 
+            "aegea.packages.backports.functools_lru_cache": [
+                "aegea.packages.backports.functools_lru_cache"
+            ], 
+            "shlex": [
+                "aegea.boto3.exceptions.botocore.compat.shlex", 
+                "aegea.boto3.exceptions.botocore.configloader.shlex"
+            ], 
+            "genericpath": [
+                "aegea.argparse._os.path.genericpath"
+            ], 
+            "mimetypes": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.mimetypes", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes"
+            ], 
+            "_ssl": [
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.SocketServer.socket._ssl", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl._ssl"
+            ], 
+            "email.mime.multipart": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.mime.multipart"
+            ], 
+            "rfc822": [
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.mimetools.rfc822", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.rfc822"
+            ], 
+            "jmespath.parser": [
+                "aegea.boto3.docs.utils.jmespath.parser"
+            ], 
+            "botocore.docs.example": [
+                "aegea.boto3.exceptions.botocore.docs.example"
+            ], 
+            "htmlentitydefs": [
+                "aegea.boto3.compat.six.moves.html_entities", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.html_entities"
+            ], 
+            "urllib3.fields": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields"
+            ], 
+            "jmespath.lexer": [
+                "aegea.boto3.docs.utils.jmespath.parser.lexer", 
+                "aegea.boto3.docs.utils.jmespath.lexer"
+            ], 
+            "repr": [
+                "aegea.boto3.compat.six.moves.reprlib", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.reprlib"
+            ], 
+            "sys": [
+                "aegea.argparse._os.path.warnings.linecache.sys", 
+                "aegea.boto3.compat.six.moves.tkinter_tksimpledialog.sys", 
+                "aegea.boto3.docs.utils.jmespath.compat.sys", 
+                "aegea.boto3.compat.six.moves.tkinter_dialog.sys", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.ssl_.sys", 
+                "aegea.boto3.compat.six.moves.tkinter_filedialog.sys", 
+                "aegea.boto3.docs.utils.inspect.sys", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.packages.ssl_match_hostname.sys", 
+                "aegea.boto3.exceptions.botocore.handlers.uuid.ctypes.util.sys", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.wait.sys", 
+                "aegea.packages.backports.shutil_get_terminal_size.sys", 
+                "aegea.boto3.compat.sys", 
+                "aegea.boto3.exceptions.botocore.response.sys", 
+                "aegea.boto3.compat.six.sys", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.iterators.sys", 
+                "aegea.util.concurrent.futures.process.multiprocessing.sys", 
+                "aegea.argparse._os.path.warnings.sys", 
+                "aegea.argparse._sys", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.sys", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.sys", 
+                "aegea.boto3.exceptions.botocore.serialize.ElementTree.sys", 
+                "aegea.boto3.compat.six.moves.xmlrpc_server.sys", 
+                "aegea.argparse._re.sys", 
+                "aegea.boto3.exceptions.botocore.auth.calendar.sys", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.packages.ssl_match_hostname._implementation.sys", 
+                "aegea.argparse._os.path.sys", 
+                "aegea.boto3.compat.six.moves.xmlrpc_server.traceback.sys", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.sys", 
+                "aegea.util.concurrent.futures.process.sys", 
+                "aegea.boto3.compat.six.moves.tkinter_simpledialog.sys", 
+                "aegea.boto3.exceptions.botocore.compat.shlex.sys", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.sys", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.sys", 
+                "aegea.boto3.utils.sys", 
+                "aegea.boto3.exceptions.botocore.auth.calendar._locale.sys", 
+                "aegea.util.compat.sys", 
+                "aegea.boto3.compat.six.moves.tkinter_tix.sys", 
+                "aegea.boto3.compat.six.moves.tkinter.sys", 
+                "aegea.boto3.exceptions.botocore.session.platform.sys", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.sys", 
+                "aegea.boto3.exceptions.botocore.handlers.uuid.ctypes._sys", 
+                "aegea.boto3.exceptions.botocore.handlers.uuid.sys", 
+                "aegea.boto3.compat.six.moves.xmlrpc_client.gzip.sys", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser._parser.tz.sys", 
+                "aegea.argparse._collections._abcoll.sys", 
+                "aegea.packages.backports.weakref.sys", 
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.sys", 
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.SocketServer.sys", 
+                "aegea.boto3.exceptions.botocore.compat.sys", 
+                "aegea.util.concurrent.futures.process.multiprocessing.process.sys", 
+                "aegea.boto3.exceptions.botocore.credentials.getpass.sys", 
+                "aegea.argparse._re.sre_compile.sre_parse.sys", 
+                "aegea.boto3.exceptions.botocore.args.logging.codecs.sys", 
+                "aegea.boto3.docs.utils.jmespath.functions.json.decoder.sys", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.connectionpool.sys", 
+                "aegea.argparse._re.sre_compile.sys", 
+                "aegea.boto3.compat.six.moves.tkinter_commondialog.sys", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.sys", 
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.SocketServer.threading._sys", 
+                "aegea.argparse._collections._sys", 
+                "aegea.boto3.exceptions.botocore.credentials.subprocess.sys", 
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.SocketServer.socket.sys", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.sys", 
+                "aegea.boto3.exceptions.botocore.httpsession.sys", 
+                "aegea.boto3.exceptions.botocore.args.logging.sys", 
+                "aegea.boto3.exceptions.botocore.configloader.sys", 
+                "aegea.tweak.glob.sys", 
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.mimetools.sys", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.sys", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.message.uu.sys", 
+                "aegea.boto3.exceptions.botocore.handlers.uuid.ctypes._endian.sys", 
+                "aegea.util.concurrent.futures.thread.sys", 
+                "aegea.util.sys", 
+                "aegea.boto3.docs.utils.jmespath.sys", 
+                "aegea.tweak.sys", 
+                "aegea.boto3.exceptions.botocore.credentials.subprocess.pickle.sys", 
+                "aegea.util.compat.subprocess.sys", 
+                "aegea.util.printing.sys", 
+                "aegea.packages.backports.tempfile.sys", 
+                "aegea.boto3.docs.utils.inspect.dis.sys", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser._parser.six.sys", 
+                "aegea.boto3.exceptions.botocore.awsrequest.sys", 
+                "aegea.boto3.exceptions.botocore.args.logging.atexit.sys", 
+                "aegea.argparse._os.sys", 
+                "aegea.sys"
+            ], 
+            "concurrent": [
+                "aegea.util.concurrent"
+            ], 
+            "termios": [
+                "aegea.boto3.exceptions.botocore.credentials.getpass.termios", 
+                "aegea.packages.backports.shutil_get_terminal_size.termios"
+            ], 
+            "boto3.docs.method": [
+                "aegea.boto3.docs.method"
+            ], 
+            "botocore.configloader": [
+                "aegea.boto3.exceptions.botocore.configloader"
+            ], 
+            "boto3.resources.action": [
+                "aegea.boto3.resources.action"
+            ], 
+            "botocore.discovery": [
+                "aegea.boto3.exceptions.botocore.discovery"
+            ], 
+            "ipaddress": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.packages.ssl_match_hostname._implementation.ipaddress"
+            ], 
+            "tkColorChooser": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.tkinter_colorchooser", 
+                "aegea.boto3.compat.six.moves.tkinter_colorchooser"
+            ], 
+            "types": [
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.mimetools.tempfile._io.abc.types", 
+                "aegea.boto3.docs.utils.inspect.dis.types", 
+                "aegea.boto3.docs.utils.inspect.types", 
+                "aegea.argparse._os.path.warnings.types", 
+                "aegea.util.compat.subprocess.types", 
+                "aegea.boto3.compat.six.moves.xmlrpc_server.traceback.types", 
+                "aegea.util.concurrent.futures._base.types", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser._parser.six.types", 
+                "aegea.boto3.exceptions.botocore.credentials.subprocess.types", 
+                "aegea.boto3.compat.six.types", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.types"
+            ], 
+            "boto3.resources.response": [
+                "aegea.boto3.resources.response"
+            ], 
+            "argparse": [
+                "aegea.argparse"
+            ], 
+            "botocore.history": [
+                "aegea.boto3.exceptions.botocore.history"
+            ], 
+            "botocore.vendored.six.moves.urllib": [
+                "aegea.boto3.compat.six.moves.urllib"
+            ], 
+            "botocore.retries.throttling": [
+                "aegea.boto3.exceptions.botocore.client.adaptive.throttling", 
+                "aegea.boto3.exceptions.botocore.retries.throttling"
+            ], 
+            "email.base64mime": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.base64mime"
+            ], 
+            "urllib3.packages.six.moves.urllib.request": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.Module_six_moves_urllib.request", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.urllib.request"
+            ], 
+            "botocore.serialize": [
+                "aegea.boto3.exceptions.botocore.serialize"
+            ], 
+            "urllib3.packages.six.moves.urllib.error": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.urllib.error", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.urllib_error", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.Module_six_moves_urllib.error"
+            ], 
+            "xmlrpclib": [
+                "aegea.boto3.compat.six.moves.xmlrpc_client", 
+                "aegea.boto3.compat.six.moves.xmlrpc_server.xmlrpclib", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.xmlrpc_client"
+            ], 
+            "Tkconstants": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3._collections.six.moves.tkinter_constants", 
+                "aegea.boto3.compat.six.moves.tkinter_constants"
+            ], 
+            "_io": [
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.mimetools.tempfile._io._io"
+            ], 
+            "linecache": [
+                "aegea.boto3.compat.six.moves.xmlrpc_server.traceback.linecache", 
+                "aegea.argparse._os.path.warnings.linecache", 
+                "aegea.boto3.docs.utils.inspect.linecache"
+            ], 
+            "botocore.vendored.requests": [
+                "aegea.boto3.exceptions.botocore.vendored.requests", 
+                "aegea.boto3.exceptions.botocore.exceptions.requests"
+            ], 
+            "botocore.regions": [
+                "aegea.boto3.exceptions.botocore.regions"
+            ], 
+            "time": [
+                "aegea.boto3.compat.six.moves.http_cookiejar.time", 
+                "aegea.boto3.exceptions.botocore.client.adaptive.bucket.time", 
+                "aegea.boto3.compat.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.time", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email._parseaddr.time", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.timeout.time", 
+                "aegea.boto3.exceptions.botocore.monitoring.time", 
+                "aegea.boto3.exceptions.botocore.auth.time", 
+                "aegea.boto3.exceptions.botocore.client.waiter.time", 
+                "aegea.util.compat.subprocess.time", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser._parser.time", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.dateutil.parser._parser.tz.time", 
+                "aegea.boto3.exceptions.botocore.endpoint.time", 
+                "aegea.boto3.exceptions.botocore.configprovider.utils.time", 
+                "aegea.boto3.compat.six.moves.xmlrpc_client.time", 
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.time", 
+                "aegea.boto3.exceptions.botocore.args.logging.time", 
+                "aegea.boto3.compat.six.moves.xmlrpc_client.gzip.time", 
+                "aegea.util.time", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.retry.time", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.message.utils.time", 
+                "aegea.boto3.compat.six.moves.BaseHTTPServer.mimetools.rfc822.time", 
+                "aegea.boto3.exceptions.botocore.discovery.time", 
+                "aegea.boto3.exceptions.botocore.credentials.time", 
+                "aegea.util.concurrent.futures._base.time", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.fields.email.Utils.time"
+            ], 
+            "gzip": [
+                "aegea.boto3.compat.six.moves.xmlrpc_client.gzip", 
+                "aegea.util.gzip"
+            ], 
+            "urllib3.connectionpool": [
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.connectionpool"
+            ], 
+            "hmac": [
+                "aegea.boto3.exceptions.botocore.auth.hmac", 
+                "aegea.boto3.exceptions.botocore.awsrequest.urllib3.util.ssl_.hmac"
+            ], 
+            "botocore.retries": [
+                "aegea.boto3.exceptions.botocore.retries"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "3.6.52", 
+        "name": "aegea", 
+        "python_version": "2.7.18"
+    }
+}
