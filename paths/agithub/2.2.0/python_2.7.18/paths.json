@@ -1,0 +1,59 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "json.decoder": [
+                "agithub.base.json.decoder"
+            ], 
+            "_locale": [
+                "agithub.base.json.decoder.re._locale"
+            ], 
+            "copy_reg": [
+                "agithub.base.json.decoder.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "agithub.base.json.decoder.re.sre_compile"
+            ], 
+            "agithub.base": [
+                "agithub.base"
+            ], 
+            "json.scanner": [
+                "agithub.base.json.decoder.scanner", 
+                "agithub.base.json.scanner"
+            ], 
+            "sys": [
+                "agithub.base.sys", 
+                "agithub.base.json.decoder.re.sre_compile.sre_parse.sys", 
+                "agithub.base.json.decoder.sys", 
+                "agithub.base.json.decoder.re.sys", 
+                "agithub.base.json.decoder.re.sre_compile.sys"
+            ], 
+            "re": [
+                "agithub.base.json.decoder.re", 
+                "agithub.base.json.encoder.re", 
+                "agithub.base.json.decoder.scanner.re"
+            ], 
+            "json": [
+                "agithub.base.json"
+            ], 
+            "_sre": [
+                "agithub.base.json.decoder.re.sre_compile._sre"
+            ], 
+            "json.encoder": [
+                "agithub.base.json.encoder"
+            ], 
+            "sre_parse": [
+                "agithub.base.json.decoder.re.sre_compile.sre_parse", 
+                "agithub.base.json.decoder.re.sre_parse"
+            ], 
+            "struct": [
+                "agithub.base.json.decoder.struct"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "2.2.0", 
+        "name": "agithub", 
+        "python_version": "2.7.18"
+    }
+}
