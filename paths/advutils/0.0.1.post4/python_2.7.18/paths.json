@@ -1,0 +1,104 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "copy_reg": [
+                "advutils.inspect.linecache.os._copy_reg", 
+                "advutils.inspect.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "advutils.inspect.re.sre_compile"
+            ], 
+            "_sre": [
+                "advutils.inspect.re.sre_compile._sre"
+            ], 
+            "posixpath": [
+                "advutils.inspect.linecache.os.path"
+            ], 
+            "re": [
+                "advutils.inspect.string._re", 
+                "advutils.inspect.tokenize.re", 
+                "advutils.inspect.re"
+            ], 
+            "errno": [
+                "advutils.inspect.linecache.os.errno"
+            ], 
+            "imp": [
+                "advutils.inspect.imp"
+            ], 
+            "_abcoll": [
+                "advutils.copy.weakref.UserDict._abcoll"
+            ], 
+            "tokenize": [
+                "advutils.inspect.tokenize"
+            ], 
+            "genericpath": [
+                "advutils.inspect.linecache.os.path.genericpath"
+            ], 
+            "stat": [
+                "advutils.inspect.linecache.os.path.stat", 
+                "advutils.inspect.linecache.os.path.genericpath.stat"
+            ], 
+            "string": [
+                "advutils.inspect.tokenize.string", 
+                "advutils.inspect.string"
+            ], 
+            "warnings": [
+                "advutils.inspect.linecache.os.path.warnings"
+            ], 
+            "UserDict": [
+                "advutils.inspect.linecache.os.UserDict", 
+                "advutils.copy.weakref.UserDict"
+            ], 
+            "inspect": [
+                "advutils.inspect"
+            ], 
+            "sys": [
+                "advutils.inspect.linecache.os.sys", 
+                "advutils.inspect.dis.sys", 
+                "advutils.copy.weakref.UserDict._abcoll.sys", 
+                "advutils.inspect.re.sre_compile.sys", 
+                "advutils.inspect.re.sre_compile.sre_parse.sys", 
+                "advutils.inspect.re.sys", 
+                "advutils.inspect.linecache.os.path.warnings.sys", 
+                "advutils.inspect.linecache.sys", 
+                "advutils.sys", 
+                "advutils.inspect.linecache.os.path.sys", 
+                "advutils.inspect.sys"
+            ], 
+            "copy": [
+                "advutils.copy"
+            ], 
+            "types": [
+                "advutils.inspect.dis.types", 
+                "advutils.inspect.linecache.os.path.warnings.types", 
+                "advutils.inspect.types"
+            ], 
+            "_locale": [
+                "advutils.inspect.re._locale"
+            ], 
+            "weakref": [
+                "advutils.copy.weakref"
+            ], 
+            "linecache": [
+                "advutils.inspect.linecache"
+            ], 
+            "sre_parse": [
+                "advutils.inspect.re.sre_compile.sre_parse", 
+                "advutils.inspect.re.sre_parse"
+            ], 
+            "os": [
+                "advutils.inspect.os", 
+                "advutils.inspect.linecache.os"
+            ], 
+            "dis": [
+                "advutils.inspect.dis"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.0.1.post4", 
+        "name": "advutils", 
+        "python_version": "2.7.18"
+    }
+}
