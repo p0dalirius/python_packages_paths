@@ -1,0 +1,212 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "cStringIO": [
+                "ahqapiclient.http_client.logging.cStringIO"
+            ], 
+            "heapq": [
+                "ahqapiclient.http_client.logging.collections._heapq"
+            ], 
+            "copy_reg": [
+                "ahqapiclient.http_client.ssl.base64.re.copy_reg", 
+                "ahqapiclient.http_client.hmac._warnings.linecache.os._copy_reg"
+            ], 
+            "sre_compile": [
+                "ahqapiclient.http_client.ssl.base64.re.sre_compile"
+            ], 
+            "ahqapiclient.resources.log": [
+                "ahqapiclient.resources.log"
+            ], 
+            "_sre": [
+                "ahqapiclient.http_client.ssl.base64.re.sre_compile._sre"
+            ], 
+            "ahqapiclient.resources": [
+                "ahqapiclient.resources"
+            ], 
+            "__builtin__": [
+                "ahqapiclient.http_client.logging.codecs.__builtin__"
+            ], 
+            "ahqapiclient.resources.escalation": [
+                "ahqapiclient.resources.escalation"
+            ], 
+            "atexit": [
+                "ahqapiclient.http_client.logging.atexit"
+            ], 
+            "ahqapiclient.resources.aggregation": [
+                "ahqapiclient.resources.aggregation"
+            ], 
+            "ahqapiclient.resources.system": [
+                "ahqapiclient.resources.system"
+            ], 
+            "ahqapiclient.resources.backendsettings": [
+                "ahqapiclient.resources.backendsettings"
+            ], 
+            "ahqapiclient.resources.case": [
+                "ahqapiclient.resources.case"
+            ], 
+            "ahqapiclient.resources.setting": [
+                "ahqapiclient.resources.setting"
+            ], 
+            "ahqapiclient.resources.client": [
+                "ahqapiclient.resources.client"
+            ], 
+            "ahqapiclient.resources.inbound_filter": [
+                "ahqapiclient.resources.inbound_filter"
+            ], 
+            "posixpath": [
+                "ahqapiclient.http_client.hmac._warnings.linecache.os.path"
+            ], 
+            "threading": [
+                "ahqapiclient.http_client.logging.threading"
+            ], 
+            "errno": [
+                "ahqapiclient.http_client.hmac._warnings.linecache.os.errno", 
+                "ahqapiclient.http_client.ssl.errno"
+            ], 
+            "base64": [
+                "ahqapiclient.http_client.ssl.base64"
+            ], 
+            "binascii": [
+                "ahqapiclient.http_client.ssl.base64.binascii"
+            ], 
+            "re": [
+                "ahqapiclient.resources.inbound_filter.re", 
+                "ahqapiclient.http_client.ssl.textwrap.re", 
+                "ahqapiclient.http_client.ssl.base64.re", 
+                "ahqapiclient.http_client.ssl.base64.string._re", 
+                "ahqapiclient.http_client.ssl.re"
+            ], 
+            "_abcoll": [
+                "ahqapiclient.http_client.logging.collections._abcoll", 
+                "ahqapiclient.http_client.hmac._warnings.linecache.os.UserDict._abcoll"
+            ], 
+            "collections": [
+                "ahqapiclient.http_client.logging.collections"
+            ], 
+            "ahqapiclient.resources.me": [
+                "ahqapiclient.resources.me"
+            ], 
+            "ahqapiclient.resources.endpoint": [
+                "ahqapiclient.resources.endpoint"
+            ], 
+            "genericpath": [
+                "ahqapiclient.http_client.hmac._warnings.linecache.os.path.genericpath"
+            ], 
+            "stat": [
+                "ahqapiclient.http_client.hmac._warnings.linecache.os.path.genericpath.stat", 
+                "ahqapiclient.http_client.hmac._warnings.linecache.os.path.stat"
+            ], 
+            "_ssl": [
+                "ahqapiclient.http_client.ssl._ssl"
+            ], 
+            "string": [
+                "ahqapiclient.http_client.ssl.textwrap.string", 
+                "ahqapiclient.http_client.ssl.base64.string"
+            ], 
+            "warnings": [
+                "ahqapiclient.http_client.logging.threading.warnings", 
+                "ahqapiclient.http_client.logging.warnings", 
+                "ahqapiclient.http_client.hmac._warnings", 
+                "ahqapiclient.http_client.ssl.warnings"
+            ], 
+            "UserDict": [
+                "ahqapiclient.http_client.hmac._warnings.linecache.os.UserDict", 
+                "ahqapiclient.http_client.logging.weakref.UserDict"
+            ], 
+            "textwrap": [
+                "ahqapiclient.http_client.ssl.textwrap"
+            ], 
+            "ahqapiclient.resources.noop": [
+                "ahqapiclient.resources.noop"
+            ], 
+            "sys": [
+                "ahqapiclient.http_client.logging.traceback.sys", 
+                "ahqapiclient.http_client.hmac._warnings.linecache.sys", 
+                "ahqapiclient.http_client.logging.sys", 
+                "ahqapiclient.http_client.logging.collections._sys", 
+                "ahqapiclient.http_client.logging.atexit.sys", 
+                "ahqapiclient.http_client.ssl.sys", 
+                "ahqapiclient.http_client.hmac._warnings.linecache.os.UserDict._abcoll.sys", 
+                "ahqapiclient.http_client.ssl.base64.re.sre_compile.sre_parse.sys", 
+                "ahqapiclient.http_client.logging.codecs.sys", 
+                "ahqapiclient.http_client.logging.threading._sys", 
+                "ahqapiclient.http_client.hmac._warnings.sys", 
+                "ahqapiclient.http_client.hmac._warnings.linecache.os.sys", 
+                "ahqapiclient.http_client.ssl.base64.re.sre_compile.sys", 
+                "ahqapiclient.http_client.hmac._warnings.linecache.os.path.sys", 
+                "ahqapiclient.http_client.ssl.base64.re.sys"
+            ], 
+            "ssl": [
+                "ahqapiclient.http_client.ssl"
+            ], 
+            "codecs": [
+                "ahqapiclient.http_client.logging.codecs"
+            ], 
+            "ahqapiclient.resources.network": [
+                "ahqapiclient.resources.network"
+            ], 
+            "types": [
+                "ahqapiclient.http_client.logging.traceback.types", 
+                "ahqapiclient.http_client.hmac._warnings.types"
+            ], 
+            "struct": [
+                "ahqapiclient.http_client.ssl.base64.struct"
+            ], 
+            "ahqapiclient.resources.user": [
+                "ahqapiclient.resources.user"
+            ], 
+            "ahqapiclient.resources.mailbox": [
+                "ahqapiclient.resources.mailbox"
+            ], 
+            "_locale": [
+                "ahqapiclient.http_client.ssl.base64.re._locale"
+            ], 
+            "logging": [
+                "ahqapiclient.http_client.logging"
+            ], 
+            "ahqapiclient.resources.incident": [
+                "ahqapiclient.resources.incident"
+            ], 
+            "thread": [
+                "ahqapiclient.http_client.logging.thread"
+            ], 
+            "ahqapiclient.resources.action": [
+                "ahqapiclient.resources.action"
+            ], 
+            "ahqapiclient.http_client": [
+                "ahqapiclient.http_client"
+            ], 
+            "traceback": [
+                "ahqapiclient.http_client.logging.traceback"
+            ], 
+            "weakref": [
+                "ahqapiclient.http_client.logging.weakref"
+            ], 
+            "linecache": [
+                "ahqapiclient.http_client.hmac._warnings.linecache", 
+                "ahqapiclient.http_client.logging.traceback.linecache"
+            ], 
+            "time": [
+                "ahqapiclient.http_client.logging.time"
+            ], 
+            "sre_parse": [
+                "ahqapiclient.http_client.ssl.base64.re.sre_parse", 
+                "ahqapiclient.http_client.ssl.base64.re.sre_compile.sre_parse"
+            ], 
+            "os": [
+                "ahqapiclient.http_client.hmac._warnings.linecache.os", 
+                "ahqapiclient.http_client.ssl.os", 
+                "ahqapiclient.http_client.logging.os"
+            ], 
+            "hmac": [
+                "ahqapiclient.http_client.hmac"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.6.1", 
+        "name": "ahqapiclient", 
+        "python_version": "2.7.18"
+    }
+}
