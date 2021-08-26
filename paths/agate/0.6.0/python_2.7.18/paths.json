@@ -1,0 +1,546 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "heapq": [
+                "agate.base.six.moves.queue.heapq", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.collections._heapq"
+            ], 
+            "agate.tableset": [
+                "agate.tableset"
+            ], 
+            "tkFileDialog": [
+                "agate.base.six.moves.tkinter_tkfiledialog"
+            ], 
+            "agate.columns.boolean": [
+                "agate.columns.boolean", 
+                "agate.computations.boolean", 
+                "agate.boolean"
+            ], 
+            "datetime": [
+                "agate.column_types.datetime", 
+                "agate.aggregations.datetime", 
+                "agate.computations.datetime", 
+                "agate.datetime", 
+                "agate.base.six.moves.xmlrpc_client.datetime"
+            ], 
+            "ttk": [
+                "agate.base.six.moves.tkinter_ttk"
+            ], 
+            "agate.exceptions": [
+                "agate.exceptions"
+            ], 
+            "tkSimpleDialog": [
+                "agate.base.six.moves.tkinter_tksimpledialog"
+            ], 
+            "gdbm": [
+                "agate.base.six.moves.dbm_gnu"
+            ], 
+            "six.moves.urllib.robotparser": [
+                "agate.base.six.Module_six_moves_urllib.robotparser", 
+                "agate.base.six.moves.urllib.robotparser"
+            ], 
+            "agate.columns.time_delta": [
+                "agate.computations.time_delta", 
+                "agate.time_delta", 
+                "agate.columns.time_delta"
+            ], 
+            "struct": [
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.base64.struct", 
+                "agate.base.six.moves.xmlrpc_client.gzip.struct"
+            ], 
+            "tempfile": [
+                "agate.base.six.moves.BaseHTTPServer.mimetools.tempfile"
+            ], 
+            "six.moves.urllib.request": [
+                "agate.base.six.moves.urllib.request", 
+                "agate.base.six.Module_six_moves_urllib.request"
+            ], 
+            "pyexpat.errors": [
+                "agate.base.six.moves.xmlrpc_client.expat.errors"
+            ], 
+            "collections": [
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.collections"
+            ], 
+            "six.moves.urllib_parse": [
+                "agate.base.six.moves.urllib.parse", 
+                "agate.base.six.moves.urllib_parse", 
+                "agate.base.six.Module_six_moves_urllib.parse"
+            ], 
+            "string": [
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.textwrap.string", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.string", 
+                "agate.base.six.moves.http_cookies.string", 
+                "agate.base.six.moves.xmlrpc_client.string", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.base64.string"
+            ], 
+            "SocketServer": [
+                "agate.base.six.moves.BaseHTTPServer.SocketServer", 
+                "agate.base.six.moves.socketserver"
+            ], 
+            "textwrap": [
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.textwrap"
+            ], 
+            "ssl": [
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl", 
+                "agate.base.six.moves.http_client.ssl"
+            ], 
+            "ScrolledText": [
+                "agate.base.six.moves.tkinter_scrolledtext"
+            ], 
+            "cookielib": [
+                "agate.base.six.moves.http_cookiejar"
+            ], 
+            "ConfigParser": [
+                "agate.base.six.moves.configparser"
+            ], 
+            "httplib": [
+                "agate.base.six.moves.xmlrpc_client.httplib", 
+                "agate.base.six.moves.http_client", 
+                "agate.base.six.moves.http_cookiejar.httplib"
+            ], 
+            "threading": [
+                "agate.base.six.moves.http_cookiejar._threading", 
+                "agate.base.six.moves.queue._threading", 
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.threading"
+            ], 
+            "tkMessageBox": [
+                "agate.base.six.moves.tkinter_messagebox"
+            ], 
+            "six.moves.urllib.response": [
+                "agate.base.six.Module_six_moves_urllib.response", 
+                "agate.base.six.moves.urllib.response"
+            ], 
+            "pyexpat.model": [
+                "agate.base.six.moves.xmlrpc_client.expat.model"
+            ], 
+            "fcntl": [
+                "agate.base.six.moves.BaseHTTPServer.mimetools.tempfile._fcntl"
+            ], 
+            "Tkdnd": [
+                "agate.base.six.moves.tkinter_dnd"
+            ], 
+            "SimpleHTTPServer": [
+                "agate.base.six.moves.SimpleHTTPServer", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer"
+            ], 
+            "stat": [
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.os.path.genericpath.stat", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.stat", 
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.os.path.stat"
+            ], 
+            "xml.parsers.expat": [
+                "agate.base.six.moves.xmlrpc_client.expat"
+            ], 
+            "operator": [
+                "agate.base.six.moves.xmlrpc_client.operator", 
+                "agate.base.six.operator"
+            ], 
+            "HTMLParser": [
+                "agate.base.six.moves.html_parser"
+            ], 
+            "BaseHTTPServer": [
+                "agate.base.six.moves.BaseHTTPServer", 
+                "agate.base.six.moves.CGIHTTPServer.BaseHTTPServer", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.BaseHTTPServer"
+            ], 
+            "abc": [
+                "agate.base.six.moves.BaseHTTPServer.mimetools.tempfile._io.abc"
+            ], 
+            "_tkinter": [
+                "agate.base.six.moves.tkinter.tkinter", 
+                "agate.base.six.moves.tkinter._tkinter", 
+                "agate.base.six.moves.tkinter_tix.tkinter", 
+                "agate.base.six.moves.tkinter_tix._tkinter", 
+                "agate.base.six.moves.tkinter_simpledialog.tkinter", 
+                "agate.base.six.moves.tkinter_commondialog.tkinter", 
+                "agate.base.six.moves.tkinter_filedialog.tkinter", 
+                "agate.base.six.moves.tkinter_tksimpledialog.tkinter", 
+                "agate.base.six.moves.tkinter_dialog.tkinter"
+            ], 
+            "warnings": [
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.threading.warnings", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.warnings", 
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.socket.warnings", 
+                "agate.base.six.moves.http_cookies.warnings", 
+                "agate.base.six.moves.http_client.warnings", 
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.os.path.warnings"
+            ], 
+            "urllib": [
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib", 
+                "agate.base.six.moves.CGIHTTPServer.urllib", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.urllib", 
+                "agate.base.six.moves.http_cookiejar.urllib"
+            ], 
+            "re": [
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.fnmatch.re", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.urlparse.re", 
+                "agate.base.six.moves.http_cookies.re", 
+                "agate.table.csv.re", 
+                "agate.base.six.moves.configparser.re", 
+                "agate.base.six.moves.xmlrpc_client.re", 
+                "agate.base.six.moves.tkinter_dialog.re", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.re", 
+                "agate.base.six.moves.tkinter_filedialog.re", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.base64.re", 
+                "agate.column_types.pytimeparse.timeparse.re", 
+                "agate.base.six.moves.http_client.re", 
+                "agate.base.six.moves.tkinter.re", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.re", 
+                "agate.base.six.moves.tkinter_tix.re", 
+                "agate.base.six.moves.tkinter_commondialog.re", 
+                "agate.base.six.moves.html_parser.re", 
+                "agate.base.six.moves.http_cookiejar.re", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.base64.string._re", 
+                "agate.base.six.moves.tkinter_simpledialog.re", 
+                "agate.base.six.moves.tkinter_tksimpledialog.re", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.textwrap.re"
+            ], 
+            "robotparser": [
+                "agate.base.six.moves.urllib_robotparser"
+            ], 
+            "agate.columns.number": [
+                "agate.columns.number", 
+                "agate.computations.number", 
+                "agate.number"
+            ], 
+            "math": [
+                "agate.columns.math", 
+                "agate.columns.number.math", 
+                "agate.math", 
+                "agate.computations.math"
+            ], 
+            "cgi": [
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi"
+            ], 
+            "Tkinter": [
+                "agate.base.six.moves.tkinter_tix.Tkinter", 
+                "agate.base.six.moves.tkinter", 
+                "agate.base.six.moves.tkinter_dnd.Tkinter", 
+                "agate.base.six.moves.tkinter_font.Tkinter", 
+                "agate.base.six.moves.tkinter_ttk.Tkinter"
+            ], 
+            "tkFont": [
+                "agate.base.six.moves.tkinter_font"
+            ], 
+            "UserDict": [
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.UserDict", 
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.os.UserDict", 
+                "agate.base.six.moves.CGIHTTPServer.copy.weakref.UserDict", 
+                "agate.base.six.moves.configparser._UserDict"
+            ], 
+            "Queue": [
+                "agate.base.six.moves.queue"
+            ], 
+            "_locale": [
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.urlparse.re._locale"
+            ], 
+            "socket": [
+                "agate.base.six.moves.BaseHTTPServer.socket", 
+                "agate.base.six.moves.xmlrpc_client.socket", 
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.socket", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.socket", 
+                "agate.base.six.moves.http_client.socket"
+            ], 
+            "thread": [
+                "agate.base.six.moves._thread", 
+                "agate.base.six.moves.BaseHTTPServer.mimetools.tempfile._thread"
+            ], 
+            "weakref": [
+                "agate.base.six.moves.CGIHTTPServer.copy.weakref"
+            ], 
+            "os": [
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.socket.os", 
+                "agate.base.six.moves.tkinter_filedialog.os", 
+                "agate.base.six.moves.CGIHTTPServer.os", 
+                "agate.base.six.moves.BaseHTTPServer.mimetools.os", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.os", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.os", 
+                "agate.base.six.moves.http_client.os", 
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.os", 
+                "agate.base.six.moves.xmlrpc_client.gzip.os", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.os", 
+                "agate.base.six.moves.BaseHTTPServer.mimetools.tempfile._os", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.os", 
+                "agate.tableset.os", 
+                "agate.base.six.moves.tkinter_tix.os", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.os", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.os"
+            ], 
+            "base64": [
+                "agate.base.six.moves.xmlrpc_client.base64", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.base64", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.base64"
+            ], 
+            "six.moves": [
+                "agate.base.six.moves"
+            ], 
+            "cStringIO": [
+                "agate.base.six.moves.xmlrpc_client.StringIO"
+            ], 
+            "_sre": [
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.urlparse.re.sre_compile._sre"
+            ], 
+            "__builtin__": [
+                "agate.base.six.moves.xmlrpc_client.gzip.__builtin__", 
+                "agate.base.six.moves.reprlib.__builtin__", 
+                "agate.base.six.moves.builtins", 
+                "agate.base.six.moves.cPickle.__builtins__"
+            ], 
+            "agate.table": [
+                "agate.table"
+            ], 
+            "FileDialog": [
+                "agate.base.six.moves.tkinter_filedialog"
+            ], 
+            "Tix": [
+                "agate.base.six.moves.tkinter_tix"
+            ], 
+            "agate.columns": [
+                "agate.columns"
+            ], 
+            "select": [
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.select", 
+                "agate.base.six.moves.CGIHTTPServer.select"
+            ], 
+            "six.moves.urllib": [
+                "agate.base.six.moves.urllib"
+            ], 
+            "posixpath": [
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.posixpath", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.posixpath", 
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.os.path", 
+                "agate.column_types.pytimeparse.path"
+            ], 
+            "errno": [
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.errno", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.errno", 
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.errno", 
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.os.errno", 
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.socket.errno", 
+                "agate.base.six.moves.xmlrpc_client.errno", 
+                "agate.base.six.moves.BaseHTTPServer.mimetools.tempfile._errno"
+            ], 
+            "_socket": [
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.socket._socket"
+            ], 
+            "binascii": [
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.base64.binascii"
+            ], 
+            "agate.columns.date": [
+                "agate.computations.date", 
+                "agate.date", 
+                "agate.columns.date"
+            ], 
+            "Cookie": [
+                "agate.base.six.moves.http_cookies"
+            ], 
+            "six.moves.urllib.error": [
+                "agate.base.six.Module_six_moves_urllib.error", 
+                "agate.base.six.moves.urllib_error", 
+                "agate.base.six.moves.urllib.error"
+            ], 
+            "cPickle": [
+                "agate.base.six.moves.cPickle"
+            ], 
+            "agate.rows": [
+                "agate.rows"
+            ], 
+            "agate.utils": [
+                "agate.utils"
+            ], 
+            "Dialog": [
+                "agate.base.six.moves.tkinter_dialog"
+            ], 
+            "copy": [
+                "agate.base.six.moves.http_cookiejar.copy", 
+                "agate.base.six.moves.CGIHTTPServer.copy"
+            ], 
+            "agate.aggregations": [
+                "agate.aggregations"
+            ], 
+            "agate.columns.date_time": [
+                "agate.columns.date_time", 
+                "agate.computations.date_time", 
+                "agate.date_time"
+            ], 
+            "agate.columns.text": [
+                "agate.computations.text", 
+                "agate.columns.text", 
+                "agate.text"
+            ], 
+            "pytimeparse": [
+                "agate.column_types.pytimeparse", 
+                "agate.pytimeparse", 
+                "agate.computations.pytimeparse"
+            ], 
+            "zlib": [
+                "agate.base.six.moves.xmlrpc_client.gzip.zlib"
+            ], 
+            "markupbase": [
+                "agate.base.six.moves.html_parser.markupbase"
+            ], 
+            "fnmatch": [
+                "agate.base.six.moves.tkinter_filedialog.fnmatch", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.fnmatch"
+            ], 
+            "sre_parse": [
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.urlparse.re.sre_compile.sre_parse", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.urlparse.re.sre_parse"
+            ], 
+            "mimetools": [
+                "agate.base.six.moves.http_client.mimetools", 
+                "agate.base.six.moves.BaseHTTPServer.mimetools", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.mimetools"
+            ], 
+            "copy_reg": [
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.urlparse.re.copy_reg", 
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.os._copy_reg", 
+                "agate.base.six.moves.copyreg"
+            ], 
+            "sre_compile": [
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.urlparse.re.sre_compile"
+            ], 
+            "CGIHTTPServer": [
+                "agate.base.six.moves.CGIHTTPServer"
+            ], 
+            "agate.column_types": [
+                "agate.column_types"
+            ], 
+            "SimpleDialog": [
+                "agate.base.six.moves.tkinter_simpledialog"
+            ], 
+            "io": [
+                "agate.base.six.moves.xmlrpc_client.gzip.io", 
+                "agate.base.six.moves.BaseHTTPServer.mimetools.tempfile._io"
+            ], 
+            "pytimeparse.timeparse": [
+                "agate.column_types.pytimeparse.timeparse"
+            ], 
+            "shutil": [
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil"
+            ], 
+            "_io": [
+                "agate.base.six.moves.BaseHTTPServer.mimetools.tempfile._io._io"
+            ], 
+            "tkCommonDialog": [
+                "agate.base.six.moves.tkinter_commondialog"
+            ], 
+            "six": [
+                "agate.table.six", 
+                "agate.computations.six", 
+                "agate.rows.six", 
+                "agate.six", 
+                "agate.column_types.six", 
+                "agate.columns.number.six", 
+                "agate.columns.six", 
+                "agate.base.six"
+            ], 
+            "agate.computations": [
+                "agate.computations"
+            ], 
+            "_abcoll": [
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.os.UserDict._abcoll", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.collections._abcoll"
+            ], 
+            "agate.columns.base": [
+                "agate.computations.base", 
+                "agate.base", 
+                "agate.columns.base"
+            ], 
+            "csv": [
+                "agate.table.csv"
+            ], 
+            "genericpath": [
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.os.path.genericpath"
+            ], 
+            "mimetypes": [
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes"
+            ], 
+            "_ssl": [
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.socket._ssl", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl._ssl"
+            ], 
+            "rfc822": [
+                "agate.base.six.moves.BaseHTTPServer.mimetools.rfc822", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.rfc822"
+            ], 
+            "htmlentitydefs": [
+                "agate.base.six.moves.html_entities"
+            ], 
+            "repr": [
+                "agate.base.six.moves.reprlib"
+            ], 
+            "sys": [
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.sys", 
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.socket.sys", 
+                "agate.base.six.moves.tkinter_simpledialog.sys", 
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.os.path.warnings.sys", 
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.os.sys", 
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.threading._sys", 
+                "agate.base.six.moves.BaseHTTPServer.sys", 
+                "agate.base.six.moves.tkinter_filedialog.sys", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.sys", 
+                "agate.base.six.moves.tkinter_tix.sys", 
+                "agate.base.six.moves.CGIHTTPServer.sys", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.sys", 
+                "agate.base.six.moves.BaseHTTPServer.mimetools.sys", 
+                "agate.base.six.moves.tkinter_commondialog.sys", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.sys", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.urlparse.re.sys", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.sys", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.collections._sys", 
+                "agate.base.six.moves.tkinter_tksimpledialog.sys", 
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.os.UserDict._abcoll.sys", 
+                "agate.base.six.moves.tkinter_dialog.sys", 
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.os.path.sys", 
+                "agate.base.six.moves.xmlrpc_client.gzip.sys", 
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.sys", 
+                "agate.base.six.sys", 
+                "agate.base.six.moves.tkinter.sys", 
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.os.path.warnings.linecache.sys", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.urlparse.re.sre_compile.sys", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.sys"
+            ], 
+            "tkColorChooser": [
+                "agate.base.six.moves.tkinter_colorchooser"
+            ], 
+            "types": [
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.os.path.warnings.types", 
+                "agate.base.six.types", 
+                "agate.base.six.moves.BaseHTTPServer.mimetools.tempfile._io.abc.types"
+            ], 
+            "xmlrpclib": [
+                "agate.base.six.moves.xmlrpc_server", 
+                "agate.base.six.moves.xmlrpc_client"
+            ], 
+            "Tkconstants": [
+                "agate.base.six.moves.tkinter_constants"
+            ], 
+            "urlparse": [
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.urlparse", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.urlparse", 
+                "agate.base.six.moves.http_cookiejar.urlparse"
+            ], 
+            "linecache": [
+                "agate.base.six.moves.BaseHTTPServer.SocketServer.os.path.warnings.linecache"
+            ], 
+            "time": [
+                "agate.base.six.moves.http_cookiejar.time", 
+                "agate.base.six.moves.xmlrpc_client.time", 
+                "agate.base.six.moves.BaseHTTPServer.mimetools.rfc822.time", 
+                "agate.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.time", 
+                "agate.base.six.moves.xmlrpc_client.gzip.time", 
+                "agate.base.six.moves.BaseHTTPServer.time"
+            ], 
+            "gzip": [
+                "agate.base.six.moves.xmlrpc_client.gzip"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.6.0", 
+        "name": "agate", 
+        "python_version": "2.7.18"
+    }
+}

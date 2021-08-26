@@ -1,0 +1,809 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "heapq": [
+                "agate.aggregations.base.six.moves.queue.heapq", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.collections._heapq"
+            ], 
+            "parsedatetime": [
+                "agate.computations.date_time.parsedatetime", 
+                "agate.parsedatetime", 
+                "agate.aggregations.parsedatetime", 
+                "agate.computations.parsedatetime", 
+                "agate.data_types.parsedatetime", 
+                "agate.computations.date.parsedatetime"
+            ], 
+            "dbm": [
+                "agate.aggregations.base.six.moves.dbm_ndbm"
+            ], 
+            "agate.tableset": [
+                "agate.tableset"
+            ], 
+            "tkFileDialog": [
+                "agate.aggregations.base.six.moves.tkinter_tkfiledialog"
+            ], 
+            "functools": [
+                "agate.aggregations.parsedatetime.calendar._locale.functools", 
+                "agate.aggregations.base.six.functools"
+            ], 
+            "random": [
+                "agate.aggregations.parsedatetime.email.message.utils.random"
+            ], 
+            "agate.columns.boolean": [
+                "agate.aggregations.boolean", 
+                "agate.columns.boolean"
+            ], 
+            "agate.data_types.time_delta": [
+                "agate.computations.time_delta", 
+                "agate.time_delta", 
+                "agate.data_types.time_delta"
+            ], 
+            "email.mime.text": [
+                "agate.aggregations.parsedatetime.email.mime.text"
+            ], 
+            "datetime": [
+                "agate.computations.date.datetime", 
+                "agate.computations.datetime", 
+                "agate.computations.time_delta.datetime", 
+                "agate.computations.date_time.datetime", 
+                "agate.datetime", 
+                "agate.aggregations.parsedatetime.datetime", 
+                "agate.aggregations.parsedatetime.pdt_locales.icu.datetime", 
+                "agate.aggregations.base.six.moves.xmlrpc_client.datetime", 
+                "agate.aggregations.parsedatetime.calendar.datetime", 
+                "agate.aggregations.datetime", 
+                "agate.data_types.datetime"
+            ], 
+            "ttk": [
+                "agate.aggregations.base.six.moves.tkinter_ttk"
+            ], 
+            "agate.exceptions": [
+                "agate.exceptions"
+            ], 
+            "tkSimpleDialog": [
+                "agate.aggregations.base.six.moves.tkinter_tksimpledialog"
+            ], 
+            "email.iterators": [
+                "agate.aggregations.parsedatetime.email.iterators"
+            ], 
+            "gdbm": [
+                "agate.aggregations.base.six.moves.dbm_gnu"
+            ], 
+            "email.mime": [
+                "agate.aggregations.parsedatetime.email.mime"
+            ], 
+            "six.moves.urllib.robotparser": [
+                "agate.aggregations.base.six.Module_six_moves_urllib.robotparser", 
+                "agate.aggregations.base.six.moves.urllib.robotparser"
+            ], 
+            "agate.columns.time_delta": [
+                "agate.columns.time_delta", 
+                "agate.aggregations.time_delta"
+            ], 
+            "struct": [
+                "agate.aggregations.base.six.moves.xmlrpc_client.gzip.struct", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.base64.struct"
+            ], 
+            "agate.data_types.date": [
+                "agate.computations.date", 
+                "agate.date", 
+                "agate.data_types.date"
+            ], 
+            "tempfile": [
+                "agate.aggregations.base.six.moves.BaseHTTPServer.mimetools.tempfile"
+            ], 
+            "six.moves.urllib.request": [
+                "agate.aggregations.base.six.moves.urllib.request", 
+                "agate.aggregations.base.six.Module_six_moves_urllib.request"
+            ], 
+            "pyexpat.errors": [
+                "agate.aggregations.base.six.moves.xmlrpc_client.expat.errors"
+            ], 
+            "collections": [
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.collections", 
+                "agate.aggregations.base.six.moves.collections_abc", 
+                "agate.aggregations.parsedatetime.logging.collections"
+            ], 
+            "agate.data_types.text": [
+                "agate.computations.text", 
+                "agate.text", 
+                "agate.data_types.text"
+            ], 
+            "six.moves.urllib_parse": [
+                "agate.aggregations.base.six.moves.urllib.parse", 
+                "agate.aggregations.base.six.moves.urllib_parse", 
+                "agate.aggregations.base.six.Module_six_moves_urllib.parse"
+            ], 
+            "string": [
+                "agate.aggregations.base.six.moves.xmlrpc_client.string", 
+                "agate.aggregations.base.six.moves.http_cookies.string", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.string", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.base64.string"
+            ], 
+            "SocketServer": [
+                "agate.aggregations.base.six.moves.socketserver", 
+                "agate.aggregations.base.six.moves.xmlrpc_server.SocketServer", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer"
+            ], 
+            "agate.data_types": [
+                "agate.data_types"
+            ], 
+            "textwrap": [
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.textwrap"
+            ], 
+            "ssl": [
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl", 
+                "agate.aggregations.base.six.moves.http_client.ssl"
+            ], 
+            "email.quoprimime": [
+                "agate.aggregations.parsedatetime.email.quoprimime"
+            ], 
+            "ScrolledText": [
+                "agate.aggregations.base.six.moves.tkinter_scrolledtext"
+            ], 
+            "cookielib": [
+                "agate.aggregations.base.six.moves.http_cookiejar"
+            ], 
+            "ConfigParser": [
+                "agate.aggregations.base.six.moves.configparser"
+            ], 
+            "httplib": [
+                "agate.aggregations.base.six.moves.http_client", 
+                "agate.aggregations.base.six.moves.xmlrpc_client.httplib", 
+                "agate.aggregations.base.six.moves.http_cookiejar.httplib"
+            ], 
+            "parsedatetime.pdt_locales.de_DE": [
+                "agate.aggregations.parsedatetime.pdt_locales.de_DE"
+            ], 
+            "threading": [
+                "agate.aggregations.base.six.moves.queue._threading", 
+                "agate.aggregations.base.six.moves.http_cookiejar._threading", 
+                "agate.aggregations.parsedatetime.logging.threading", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer.threading"
+            ], 
+            "tkMessageBox": [
+                "agate.aggregations.base.six.moves.tkinter_messagebox"
+            ], 
+            "six.moves.urllib.response": [
+                "agate.aggregations.base.six.Module_six_moves_urllib.response", 
+                "agate.aggregations.base.six.moves.urllib.response"
+            ], 
+            "pyexpat.model": [
+                "agate.aggregations.base.six.moves.xmlrpc_client.expat.model"
+            ], 
+            "agate.data_types.date_time": [
+                "agate.computations.date_time", 
+                "agate.data_types.date_time", 
+                "agate.date_time"
+            ], 
+            "fcntl": [
+                "agate.aggregations.base.six.moves.xmlrpc_server.fcntl", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.mimetools.tempfile._fcntl"
+            ], 
+            "Tkdnd": [
+                "agate.aggregations.base.six.moves.tkinter_dnd"
+            ], 
+            "SimpleHTTPServer": [
+                "agate.aggregations.base.six.moves.SimpleHTTPServer", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer"
+            ], 
+            "locale": [
+                "agate.aggregations.parsedatetime.calendar._locale"
+            ], 
+            "stat": [
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer.os.path.genericpath.stat", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.stat", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer.os.path.stat"
+            ], 
+            "xml.parsers.expat": [
+                "agate.aggregations.base.six.moves.xmlrpc_client.expat"
+            ], 
+            "operator": [
+                "agate.aggregations.base.six.moves.xmlrpc_client.operator", 
+                "agate.aggregations.base.six.operator", 
+                "agate.aggregations.parsedatetime.calendar._locale.operator"
+            ], 
+            "HTMLParser": [
+                "agate.aggregations.base.six.moves.html_parser"
+            ], 
+            "encodings": [
+                "agate.aggregations.parsedatetime.calendar._locale.encodings"
+            ], 
+            "BaseHTTPServer": [
+                "agate.aggregations.base.six.moves.xmlrpc_server.BaseHTTPServer", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.BaseHTTPServer", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.BaseHTTPServer"
+            ], 
+            "calendar": [
+                "agate.aggregations.parsedatetime.calendar", 
+                "agate.aggregations.parsedatetime.email._parseaddr.calendar"
+            ], 
+            "abc": [
+                "agate.aggregations.base.six.moves.BaseHTTPServer.mimetools.tempfile._io.abc"
+            ], 
+            "_tkinter": [
+                "agate.aggregations.base.six.moves.tkinter_commondialog.tkinter", 
+                "agate.aggregations.base.six.moves.tkinter_dialog.tkinter", 
+                "agate.aggregations.base.six.moves.tkinter_filedialog.tkinter", 
+                "agate.aggregations.base.six.moves.tkinter_simpledialog.tkinter", 
+                "agate.aggregations.base.six.moves.tkinter_tksimpledialog.tkinter", 
+                "agate.aggregations.base.six.moves.tkinter_tix._tkinter", 
+                "agate.aggregations.base.six.moves.tkinter._tkinter", 
+                "agate.aggregations.base.six.moves.tkinter_tix.tkinter", 
+                "agate.aggregations.base.six.moves.tkinter.tkinter"
+            ], 
+            "agate.utils": [
+                "agate.utils"
+            ], 
+            "warnings": [
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer.threading.warnings", 
+                "agate.aggregations.parsedatetime.warns.warnings", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer.socket.warnings", 
+                "agate.aggregations.parsedatetime.email.message.utils.warnings", 
+                "agate.aggregations.parsedatetime.email.message.warnings", 
+                "agate.aggregations.base.six.moves.http_cookies.warnings", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.warnings", 
+                "agate.aggregations.parsedatetime.warnings", 
+                "agate.aggregations.parsedatetime.logging.warnings", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer.os.path.warnings", 
+                "agate.aggregations.base.six.moves.http_client.warnings"
+            ], 
+            "urllib": [
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.urllib", 
+                "agate.aggregations.parsedatetime.email.message.utils.urllib", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.urllib", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib", 
+                "agate.aggregations.base.six.moves.http_cookiejar.urllib"
+            ], 
+            "re": [
+                "agate.aggregations.pytimeparse.timeparse.re", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.base64.re", 
+                "agate.aggregations.base.six.moves.xmlrpc_client.re", 
+                "agate.aggregations.base.six.moves.tkinter_tix.re", 
+                "agate.aggregations.base.six.moves.tkinter.re", 
+                "agate.aggregations.base.six.moves.tkinter_filedialog.re", 
+                "agate.aggregations.base.six.moves.tkinter_simpledialog.re", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.urlparse.re", 
+                "agate.table.csv.re", 
+                "agate.aggregations.base.six.moves.http_client.re", 
+                "agate.aggregations.base.six.moves.http_cookies.re", 
+                "agate.aggregations.base.six.moves.http_cookiejar.re", 
+                "agate.aggregations.parsedatetime.calendar._locale.re", 
+                "agate.aggregations.parsedatetime.email.quoprimime.re", 
+                "agate.aggregations.base.six.moves.xmlrpc_server.re", 
+                "agate.aggregations.parsedatetime.email.message.re", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.re", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.re", 
+                "agate.aggregations.base.six.moves.html_parser.re", 
+                "agate.aggregations.parsedatetime.re", 
+                "agate.aggregations.base.six.moves.tkinter_commondialog.re", 
+                "agate.aggregations.base.six.moves.tkinter_dialog.re", 
+                "agate.aggregations.base.six.moves.tkinter_tksimpledialog.re", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.fnmatch.re", 
+                "agate.aggregations.parsedatetime.email.message.utils.re", 
+                "agate.aggregations.base.six.moves.configparser.re"
+            ], 
+            "email.encoders": [
+                "agate.aggregations.parsedatetime.email.encoders"
+            ], 
+            "robotparser": [
+                "agate.aggregations.base.six.moves.urllib_robotparser"
+            ], 
+            "email.errors": [
+                "agate.aggregations.parsedatetime.email.message.errors", 
+                "agate.aggregations.parsedatetime.email.errors", 
+                "agate.aggregations.parsedatetime.email.mime.nonmultipart.errors", 
+                "agate.aggregations.parsedatetime.email.charset.errors"
+            ], 
+            "agate.columns.number": [
+                "agate.columns.number", 
+                "agate.aggregations.number"
+            ], 
+            "email": [
+                "agate.aggregations.parsedatetime.email"
+            ], 
+            "math": [
+                "agate.math", 
+                "agate.aggregations.number.math", 
+                "agate.columns.math", 
+                "agate.computations.math", 
+                "agate.aggregations.math"
+            ], 
+            "cgi": [
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi"
+            ], 
+            "Tkinter": [
+                "agate.aggregations.base.six.moves.tkinter_dnd.Tkinter", 
+                "agate.aggregations.base.six.moves.tkinter_ttk.Tkinter", 
+                "agate.aggregations.base.six.moves.tkinter_font.Tkinter", 
+                "agate.aggregations.base.six.moves.tkinter", 
+                "agate.aggregations.base.six.moves.tkinter_tix.Tkinter"
+            ], 
+            "tkFont": [
+                "agate.aggregations.base.six.moves.tkinter_font"
+            ], 
+            "UserDict": [
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.UserDict", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer.os.UserDict", 
+                "agate.aggregations.base.six.moves.configparser._UserDict", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.copy.weakref.UserDict"
+            ], 
+            "Queue": [
+                "agate.aggregations.base.six.moves.queue"
+            ], 
+            "agate.data_types.number": [
+                "agate.computations.number", 
+                "agate.data_types.number", 
+                "agate.number"
+            ], 
+            "codecs": [
+                "agate.aggregations.parsedatetime.logging.codecs", 
+                "agate.aggregations.parsedatetime.calendar._locale.encodings.codecs", 
+                "agate.aggregations.parsedatetime.calendar._locale.encodings.utf_8.codecs", 
+                "agate.aggregations.parsedatetime.email.charset.codecs"
+            ], 
+            "_locale": [
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.urlparse.re._locale"
+            ], 
+            "logging": [
+                "agate.aggregations.parsedatetime.logging"
+            ], 
+            "socket": [
+                "agate.aggregations.base.six.moves.xmlrpc_client.socket", 
+                "agate.aggregations.parsedatetime.email.message.utils.socket", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.socket", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer.socket", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.socket", 
+                "agate.aggregations.base.six.moves.http_client.socket"
+            ], 
+            "thread": [
+                "agate.aggregations.parsedatetime.logging.thread", 
+                "agate.aggregations.base.six.moves._thread", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.mimetools.tempfile._thread"
+            ], 
+            "traceback": [
+                "agate.aggregations.base.six.moves.xmlrpc_server.traceback", 
+                "agate.aggregations.parsedatetime.logging.traceback"
+            ], 
+            "weakref": [
+                "agate.aggregations.parsedatetime.logging.weakref", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.copy.weakref"
+            ], 
+            "itertools": [
+                "agate.aggregations.base.six.itertools"
+            ], 
+            "os": [
+                "agate.aggregations.base.six.moves.xmlrpc_server.os", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer.os", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.mimetools.os", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.os", 
+                "agate.aggregations.parsedatetime.logging.os", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.os", 
+                "agate.aggregations.parsedatetime.email.message.uu.os", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.os", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer.socket.os", 
+                "agate.aggregations.base.six.moves.xmlrpc_client.gzip.os", 
+                "agate.aggregations.base.six.moves.tkinter_filedialog.os", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.os", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.os", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.os", 
+                "agate.tableset.os", 
+                "agate.aggregations.base.six.moves.http_client.os", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.os", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.mimetools.tempfile._os", 
+                "agate.aggregations.parsedatetime.email.message.utils.os", 
+                "agate.aggregations.base.six.moves.tkinter_tix.os"
+            ], 
+            "base64": [
+                "agate.aggregations.parsedatetime.email.message.utils.base64", 
+                "agate.aggregations.base.six.moves.xmlrpc_client.base64", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.base64", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.base64", 
+                "agate.aggregations.parsedatetime.email.encoders.base64"
+            ], 
+            "six.moves": [
+                "agate.aggregations.base.six.moves"
+            ], 
+            "cStringIO": [
+                "agate.aggregations.base.six.moves.xmlrpc_client.StringIO", 
+                "agate.aggregations.parsedatetime.logging.cStringIO"
+            ], 
+            "parsedatetime.context": [
+                "agate.aggregations.parsedatetime.context"
+            ], 
+            "__builtin__": [
+                "agate.aggregations.base.six.moves.reprlib.__builtin__", 
+                "agate.aggregations.parsedatetime.calendar._locale.encodings.__builtin__", 
+                "agate.aggregations.base.six.moves.cPickle.__builtins__", 
+                "agate.aggregations.base.six.moves.xmlrpc_client.gzip.__builtin__", 
+                "agate.aggregations.base.six.moves.builtins", 
+                "agate.aggregations.parsedatetime.calendar._locale.encodings.codecs.__builtin__"
+            ], 
+            "agate.table": [
+                "agate.table"
+            ], 
+            "dummy_thread": [
+                "agate.aggregations.base.six.moves._dummy_thread"
+            ], 
+            "email.charset": [
+                "agate.aggregations.parsedatetime.email.charset"
+            ], 
+            "FileDialog": [
+                "agate.aggregations.base.six.moves.tkinter_filedialog"
+            ], 
+            "Tix": [
+                "agate.aggregations.base.six.moves.tkinter_tix"
+            ], 
+            "agate.columns": [
+                "agate.columns"
+            ], 
+            "email.mime.image": [
+                "agate.aggregations.parsedatetime.email.mime.image"
+            ], 
+            "hashlib": [
+                "agate.aggregations.parsedatetime.email.message.utils.random._hashlib"
+            ], 
+            "select": [
+                "agate.aggregations.base.six.moves.CGIHTTPServer.select", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer.select"
+            ], 
+            "six.moves.urllib": [
+                "agate.aggregations.base.six.moves.urllib"
+            ], 
+            "posixpath": [
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.posixpath", 
+                "agate.aggregations.pytimeparse.path", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer.os.path", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.posixpath"
+            ], 
+            "errno": [
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.errno", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer.errno", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer.os.errno", 
+                "agate.aggregations.base.six.moves.xmlrpc_client.errno", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.mimetools.tempfile._errno", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer.socket.errno", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.errno"
+            ], 
+            "_socket": [
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer.socket._socket"
+            ], 
+            "binascii": [
+                "agate.aggregations.parsedatetime.email.message.binascii", 
+                "agate.aggregations.parsedatetime.email.message.uu.binascii", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.base64.binascii"
+            ], 
+            "agate.columns.date": [
+                "agate.aggregations.date", 
+                "agate.columns.date"
+            ], 
+            "agate.data_types.base": [
+                "agate.computations.base", 
+                "agate.data_types.base", 
+                "agate.base"
+            ], 
+            "email._parseaddr": [
+                "agate.aggregations.parsedatetime.email._parseaddr"
+            ], 
+            "Cookie": [
+                "agate.aggregations.base.six.moves.http_cookies"
+            ], 
+            "parsedatetime.pdt_locales.en_AU": [
+                "agate.aggregations.parsedatetime.pdt_locales.en_AU"
+            ], 
+            "six.moves.urllib.error": [
+                "agate.aggregations.base.six.moves.urllib_error", 
+                "agate.aggregations.base.six.Module_six_moves_urllib.error", 
+                "agate.aggregations.base.six.moves.urllib.error"
+            ], 
+            "cPickle": [
+                "agate.aggregations.base.six.moves.cPickle"
+            ], 
+            "agate.rows": [
+                "agate.rows"
+            ], 
+            "SimpleXMLRPCServer": [
+                "agate.aggregations.base.six.moves.xmlrpc_server"
+            ], 
+            "email.utils": [
+                "agate.aggregations.parsedatetime.email.message.utils", 
+                "agate.aggregations.parsedatetime.email.utils"
+            ], 
+            "parsedatetime.pdt_locales.en_US": [
+                "agate.aggregations.parsedatetime.pdt_locales.en_US"
+            ], 
+            "parsedatetime.pdt_locales.fr_FR": [
+                "agate.aggregations.parsedatetime.pdt_locales.fr_FR"
+            ], 
+            "Dialog": [
+                "agate.aggregations.base.six.moves.tkinter_dialog"
+            ], 
+            "copy": [
+                "agate.aggregations.base.six.moves.http_cookiejar.copy", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.copy"
+            ], 
+            "agate.aggregations": [
+                "agate.aggregations"
+            ], 
+            "parsedatetime.warns": [
+                "agate.aggregations.parsedatetime.warns"
+            ], 
+            "agate.columns.date_time": [
+                "agate.aggregations.date_time", 
+                "agate.columns.date_time"
+            ], 
+            "agate.columns.text": [
+                "agate.aggregations.text", 
+                "agate.columns.text"
+            ], 
+            "atexit": [
+                "agate.aggregations.parsedatetime.logging.atexit"
+            ], 
+            "uu": [
+                "agate.aggregations.parsedatetime.email.message.uu"
+            ], 
+            "parsedatetime.pdt_locales": [
+                "agate.aggregations.parsedatetime.pdt_locales"
+            ], 
+            "zlib": [
+                "agate.aggregations.base.six.moves.xmlrpc_client.gzip.zlib"
+            ], 
+            "parsedatetime.pdt_locales.pt_BR": [
+                "agate.aggregations.parsedatetime.pdt_locales.pt_BR"
+            ], 
+            "markupbase": [
+                "agate.aggregations.base.six.moves.html_parser.markupbase"
+            ], 
+            "email.mime.base": [
+                "agate.aggregations.parsedatetime.email.mime.base"
+            ], 
+            "encodings.aliases": [
+                "agate.aggregations.parsedatetime.calendar._locale.encodings.aliases"
+            ], 
+            "agate.data_types.boolean": [
+                "agate.data_types.boolean", 
+                "agate.computations.boolean", 
+                "agate.boolean"
+            ], 
+            "pytimeparse": [
+                "agate.aggregations.pytimeparse", 
+                "agate.computations.pytimeparse", 
+                "agate.computations.time_delta.pytimeparse", 
+                "agate.data_types.pytimeparse", 
+                "agate.pytimeparse"
+            ], 
+            "fnmatch": [
+                "agate.aggregations.base.six.moves.tkinter_filedialog.fnmatch", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.fnmatch"
+            ], 
+            "sre_parse": [
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.urlparse.re.sre_parse"
+            ], 
+            "mimetools": [
+                "agate.aggregations.base.six.moves.http_client.mimetools", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.mimetools", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.mimetools"
+            ], 
+            "copy_reg": [
+                "agate.aggregations.base.six.moves.copyreg", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.urlparse.re.copy_reg", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer.os._copy_reg"
+            ], 
+            "sre_compile": [
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.urlparse.re.sre_compile"
+            ], 
+            "CGIHTTPServer": [
+                "agate.aggregations.base.six.moves.CGIHTTPServer"
+            ], 
+            "_hashlib": [
+                "agate.aggregations.parsedatetime.email.message.utils.random._hashlib._hashlib"
+            ], 
+            "_random": [
+                "agate.aggregations.parsedatetime.email.message.utils.random._random"
+            ], 
+            "encodings.utf_8": [
+                "agate.aggregations.parsedatetime.calendar._locale.encodings.utf_8"
+            ], 
+            "SimpleDialog": [
+                "agate.aggregations.base.six.moves.tkinter_simpledialog"
+            ], 
+            "email.mime.message": [
+                "agate.aggregations.parsedatetime.email.mime.message"
+            ], 
+            "contextlib": [
+                "agate.aggregations.parsedatetime.contextlib"
+            ], 
+            "io": [
+                "agate.aggregations.base.six.moves.xmlrpc_client.gzip.io", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.mimetools.tempfile._io"
+            ], 
+            "pytimeparse.timeparse": [
+                "agate.aggregations.pytimeparse.timeparse"
+            ], 
+            "shutil": [
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil"
+            ], 
+            "parsedatetime.pdt_locales.nl_NL": [
+                "agate.aggregations.parsedatetime.pdt_locales.nl_NL"
+            ], 
+            "email.message": [
+                "agate.aggregations.parsedatetime.email.message"
+            ], 
+            "email.mime.nonmultipart": [
+                "agate.aggregations.parsedatetime.email.mime.nonmultipart"
+            ], 
+            "_io": [
+                "agate.aggregations.base.six.moves.BaseHTTPServer.mimetools.tempfile._io._io"
+            ], 
+            "tkCommonDialog": [
+                "agate.aggregations.base.six.moves.tkinter_commondialog"
+            ], 
+            "parsedatetime.pdt_locales.base": [
+                "agate.aggregations.parsedatetime.pdt_locales.base"
+            ], 
+            "six": [
+                "agate.six", 
+                "agate.computations.six", 
+                "agate.computations.date.six", 
+                "agate.rows.six", 
+                "agate.computations.number.six", 
+                "agate.computations.time_delta.six", 
+                "agate.aggregations.number.six", 
+                "agate.boolean.six", 
+                "agate.data_types.six", 
+                "agate.table.six", 
+                "agate.columns.six", 
+                "agate.computations.text.six", 
+                "agate.aggregations.base.six", 
+                "agate.aggregations.six", 
+                "agate.computations.date_time.six"
+            ], 
+            "agate.computations": [
+                "agate.computations"
+            ], 
+            "_abcoll": [
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer.os.UserDict._abcoll", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.collections._abcoll"
+            ], 
+            "agate.columns.base": [
+                "agate.aggregations.base", 
+                "agate.columns.base"
+            ], 
+            "email.mime.audio": [
+                "agate.aggregations.parsedatetime.email.mime.audio"
+            ], 
+            "csv": [
+                "agate.table.csv"
+            ], 
+            "genericpath": [
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer.os.path.genericpath"
+            ], 
+            "mimetypes": [
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes"
+            ], 
+            "_ssl": [
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer.socket._ssl", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl._ssl"
+            ], 
+            "parsedatetime.pdt_locales.ru_RU": [
+                "agate.aggregations.parsedatetime.pdt_locales.ru_RU"
+            ], 
+            "rfc822": [
+                "agate.aggregations.base.six.moves.BaseHTTPServer.mimetools.rfc822", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.rfc822"
+            ], 
+            "htmlentitydefs": [
+                "agate.aggregations.base.six.moves.html_entities"
+            ], 
+            "repr": [
+                "agate.aggregations.base.six.moves.reprlib"
+            ], 
+            "sys": [
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer.os.sys", 
+                "agate.aggregations.parsedatetime.email.sys", 
+                "agate.aggregations.base.six.moves.xmlrpc_server.sys", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.collections._sys", 
+                "agate.aggregations.parsedatetime.calendar._locale.encodings.codecs.sys", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.sys", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.urlparse.re.sys", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer.os.path.sys", 
+                "agate.aggregations.base.six.moves.tkinter_dialog.sys", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer.os.path.warnings.sys", 
+                "agate.aggregations.parsedatetime.logging.sys", 
+                "agate.aggregations.base.six.moves.xmlrpc_server.traceback.sys", 
+                "agate.aggregations.base.six.moves.tkinter_tix.sys", 
+                "agate.aggregations.base.six.sys", 
+                "agate.aggregations.base.six.moves.tkinter_filedialog.sys", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer.threading._sys", 
+                "agate.aggregations.parsedatetime.email.iterators.sys", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.sys", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.mimetools.sys", 
+                "agate.aggregations.base.six.moves.tkinter_tksimpledialog.sys", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer.os.UserDict._abcoll.sys", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.sys", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer.socket.sys", 
+                "agate.aggregations.base.six.moves.tkinter_simpledialog.sys", 
+                "agate.aggregations.parsedatetime.email.message.uu.sys", 
+                "agate.aggregations.parsedatetime.calendar.sys", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.sys", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer.sys", 
+                "agate.aggregations.base.six.moves.tkinter_commondialog.sys", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.sys", 
+                "agate.aggregations.parsedatetime.logging.atexit.sys", 
+                "agate.aggregations.base.six.moves.tkinter.sys", 
+                "agate.table.sys", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.sys", 
+                "agate.aggregations.base.six.moves.xmlrpc_client.gzip.sys", 
+                "agate.aggregations.parsedatetime.calendar._locale.sys", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.sys", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.sys", 
+                "agate.aggregations.parsedatetime.contextlib.sys"
+            ], 
+            "tkColorChooser": [
+                "agate.aggregations.base.six.moves.tkinter_colorchooser"
+            ], 
+            "types": [
+                "agate.aggregations.base.six.moves.BaseHTTPServer.mimetools.tempfile._io.abc.types", 
+                "agate.aggregations.base.six.moves.xmlrpc_server.traceback.types", 
+                "agate.aggregations.base.six.types", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer.os.path.warnings.types"
+            ], 
+            "parsedatetime.pdt_locales.icu": [
+                "agate.aggregations.parsedatetime.pdt_locales.icu"
+            ], 
+            "email.base64mime": [
+                "agate.aggregations.parsedatetime.email.base64mime"
+            ], 
+            "email.mime.multipart": [
+                "agate.aggregations.parsedatetime.email.mime.multipart"
+            ], 
+            "xmlrpclib": [
+                "agate.aggregations.base.six.moves.xmlrpc_client", 
+                "agate.aggregations.base.six.moves.xmlrpc_server.xmlrpclib"
+            ], 
+            "Tkconstants": [
+                "agate.aggregations.base.six.moves.tkinter_constants"
+            ], 
+            "urlparse": [
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.urlparse", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.urlparse", 
+                "agate.aggregations.base.six.moves.http_cookiejar.urlparse"
+            ], 
+            "linecache": [
+                "agate.aggregations.base.six.moves.BaseHTTPServer.SocketServer.os.path.warnings.linecache", 
+                "agate.aggregations.base.six.moves.xmlrpc_server.traceback.linecache"
+            ], 
+            "parsedatetime.pdt_locales.es": [
+                "agate.aggregations.parsedatetime.pdt_locales.es"
+            ], 
+            "time": [
+                "agate.aggregations.parsedatetime.email.message.utils.time", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.mimetools.rfc822.time", 
+                "agate.data_types.time", 
+                "agate.time", 
+                "agate.aggregations.base.six.moves.xmlrpc_client.gzip.time", 
+                "agate.aggregations.parsedatetime.logging.time", 
+                "agate.aggregations.parsedatetime.email._parseaddr.time", 
+                "agate.aggregations.base.six.moves.http_cookiejar.time", 
+                "agate.aggregations.base.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.time", 
+                "agate.aggregations.time", 
+                "agate.computations.date_time.time", 
+                "agate.computations.date.time", 
+                "agate.aggregations.base.six.moves.xmlrpc_client.time", 
+                "agate.computations.time", 
+                "agate.aggregations.parsedatetime.time", 
+                "agate.aggregations.base.six.moves.BaseHTTPServer.time"
+            ], 
+            "gzip": [
+                "agate.aggregations.base.six.moves.xmlrpc_client.gzip"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.8.0", 
+        "name": "agate", 
+        "python_version": "2.7.18"
+    }
+}
