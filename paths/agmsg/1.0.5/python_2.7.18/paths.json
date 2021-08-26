@@ -1,0 +1,18 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "sys": [
+                "agmsg.sys"
+            ], 
+            "time": [
+                "agmsg.time"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "1.0.5", 
+        "name": "agmsg", 
+        "python_version": "2.7.18"
+    }
+}
