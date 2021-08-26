@@ -1,0 +1,15 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "acumos._version": [
+                "acumos._version"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.5.3", 
+        "name": "acumos", 
+        "python_version": "2.7.18"
+    }
+}
