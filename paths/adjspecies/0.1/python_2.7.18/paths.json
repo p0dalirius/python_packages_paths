@@ -1,0 +1,100 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "heapq": [
+                "adjspecies.argparse._collections._heapq"
+            ], 
+            "copy_reg": [
+                "adjspecies.argparse._re.copy_reg", 
+                "adjspecies.argparse._os._copy_reg"
+            ], 
+            "sre_compile": [
+                "adjspecies.argparse._re.sre_compile"
+            ], 
+            "_sre": [
+                "adjspecies.argparse._re.sre_compile._sre"
+            ], 
+            "posixpath": [
+                "adjspecies.argparse._os.path"
+            ], 
+            "errno": [
+                "adjspecies.argparse._os.errno"
+            ], 
+            "re": [
+                "adjspecies.argparse._textwrap.string._re", 
+                "adjspecies.argparse._re", 
+                "adjspecies.argparse._textwrap.re"
+            ], 
+            "_abcoll": [
+                "adjspecies.argparse._collections._abcoll", 
+                "adjspecies.argparse._copy.weakref.UserDict._abcoll"
+            ], 
+            "collections": [
+                "adjspecies.argparse._collections"
+            ], 
+            "genericpath": [
+                "adjspecies.argparse._os.path.genericpath"
+            ], 
+            "stat": [
+                "adjspecies.argparse._os.path.genericpath.stat", 
+                "adjspecies.argparse._os.path.stat"
+            ], 
+            "string": [
+                "adjspecies.argparse._textwrap.string"
+            ], 
+            "warnings": [
+                "adjspecies.argparse._os.path.warnings"
+            ], 
+            "UserDict": [
+                "adjspecies.argparse._os.UserDict", 
+                "adjspecies.argparse._copy.weakref.UserDict"
+            ], 
+            "textwrap": [
+                "adjspecies.argparse._textwrap"
+            ], 
+            "sys": [
+                "adjspecies.argparse._re.sys", 
+                "adjspecies.argparse._sys", 
+                "adjspecies.argparse._re.sre_compile.sre_parse.sys", 
+                "adjspecies.argparse._os.path.warnings.linecache.sys", 
+                "adjspecies.argparse._collections._sys", 
+                "adjspecies.argparse._os.path.sys", 
+                "adjspecies.argparse._os.sys", 
+                "adjspecies.argparse._collections._abcoll.sys", 
+                "adjspecies.argparse._re.sre_compile.sys", 
+                "adjspecies.argparse._os.path.warnings.sys"
+            ], 
+            "copy": [
+                "adjspecies.argparse._copy"
+            ], 
+            "types": [
+                "adjspecies.argparse._os.path.warnings.types"
+            ], 
+            "argparse": [
+                "adjspecies.argparse"
+            ], 
+            "_locale": [
+                "adjspecies.argparse._re._locale"
+            ], 
+            "weakref": [
+                "adjspecies.argparse._copy.weakref"
+            ], 
+            "linecache": [
+                "adjspecies.argparse._os.path.warnings.linecache"
+            ], 
+            "sre_parse": [
+                "adjspecies.argparse._re.sre_parse", 
+                "adjspecies.argparse._re.sre_compile.sre_parse"
+            ], 
+            "os": [
+                "adjspecies.argparse._os"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.1", 
+        "name": "adjspecies", 
+        "python_version": "2.7.18"
+    }
+}
