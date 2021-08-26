@@ -1,0 +1,70 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "_locale": [
+                "aerofiles.seeyou.reader.csv.re._locale"
+            ], 
+            "aerofiles.seeyou.reader": [
+                "aerofiles.seeyou.reader"
+            ], 
+            "sre_compile": [
+                "aerofiles.seeyou.reader.csv.re.sre_compile"
+            ], 
+            "aerofiles.errors": [
+                "aerofiles.errors"
+            ], 
+            "aerofiles.seeyou.converter": [
+                "aerofiles.seeyou.converter"
+            ], 
+            "_sre": [
+                "aerofiles.seeyou.reader.csv.re.sre_compile._sre"
+            ], 
+            "copy_reg": [
+                "aerofiles.seeyou.reader.csv.re.copy_reg"
+            ], 
+            "aerofiles.welt2000.reader": [
+                "aerofiles.welt2000.reader"
+            ], 
+            "sys": [
+                "aerofiles.seeyou.reader.csv.re.sys", 
+                "aerofiles.seeyou.reader.csv.re.sre_compile.sre_parse.sys", 
+                "aerofiles.seeyou.reader.csv.re.sre_compile.sys"
+            ], 
+            "aerofiles.util.units": [
+                "aerofiles.util.units", 
+                "aerofiles.seeyou.converter.units"
+            ], 
+            "aerofiles.seeyou": [
+                "aerofiles.seeyou"
+            ], 
+            "aerofiles.welt2000.converter": [
+                "aerofiles.welt2000.converter"
+            ], 
+            "sre_parse": [
+                "aerofiles.seeyou.reader.csv.re.sre_parse", 
+                "aerofiles.seeyou.reader.csv.re.sre_compile.sre_parse"
+            ], 
+            "re": [
+                "aerofiles.seeyou.reader.csv.re", 
+                "aerofiles.welt2000.reader.re", 
+                "aerofiles.seeyou.reader.re", 
+                "aerofiles.welt2000.converter.re"
+            ], 
+            "csv": [
+                "aerofiles.seeyou.reader.csv"
+            ], 
+            "aerofiles.util": [
+                "aerofiles.util"
+            ], 
+            "aerofiles.welt2000": [
+                "aerofiles.welt2000"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.1.1", 
+        "name": "aerofiles", 
+        "python_version": "2.7.18"
+    }
+}
