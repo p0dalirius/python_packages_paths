@@ -1,0 +1,15 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "math": [
+                "affine.math"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "1.2.0", 
+        "name": "affine", 
+        "python_version": "2.7.18"
+    }
+}

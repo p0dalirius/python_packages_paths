@@ -1,0 +1,56 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "genericpath": [
+                "affine.warnings.linecache.os.path.genericpath"
+            ], 
+            "stat": [
+                "affine.warnings.linecache.os.path.stat", 
+                "affine.warnings.linecache.os.path.genericpath.stat"
+            ], 
+            "copy_reg": [
+                "affine.warnings.linecache.os._copy_reg"
+            ], 
+            "posixpath": [
+                "affine.warnings.linecache.os.path"
+            ], 
+            "warnings": [
+                "affine.warnings"
+            ], 
+            "UserDict": [
+                "affine.warnings.linecache.os.UserDict"
+            ], 
+            "sys": [
+                "affine.warnings.linecache.os.UserDict._abcoll.sys", 
+                "affine.warnings.linecache.sys", 
+                "affine.warnings.linecache.os.sys", 
+                "affine.warnings.sys", 
+                "affine.warnings.linecache.os.path.sys"
+            ], 
+            "linecache": [
+                "affine.warnings.linecache"
+            ], 
+            "_abcoll": [
+                "affine.warnings.linecache.os.UserDict._abcoll"
+            ], 
+            "types": [
+                "affine.warnings.types"
+            ], 
+            "errno": [
+                "affine.warnings.linecache.os.errno"
+            ], 
+            "os": [
+                "affine.warnings.linecache.os"
+            ], 
+            "math": [
+                "affine.math"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "2.3.0", 
+        "name": "affine", 
+        "python_version": "2.7.18"
+    }
+}
