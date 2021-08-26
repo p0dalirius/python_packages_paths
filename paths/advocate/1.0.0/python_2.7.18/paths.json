@@ -1,0 +1,582 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "heapq": [
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.collections._heapq", 
+                "advocate.addrvalidator.six.moves.queue.heapq"
+            ], 
+            "dbm": [
+                "advocate.addrvalidator.six.moves.dbm_ndbm"
+            ], 
+            "tkFileDialog": [
+                "advocate.addrvalidator.six.moves.tkinter_tkfiledialog"
+            ], 
+            "functools": [
+                "advocate.addrvalidator.ipaddress.functools", 
+                "advocate.api.advocate.poolmanager.functools", 
+                "advocate.addrvalidator.six.functools", 
+                "advocate.addrvalidator.functools", 
+                "advocate.addrvalidator.ipaddress.ipaddress.functools"
+            ], 
+            "datetime": [
+                "advocate.addrvalidator.six.moves.xmlrpc_client.datetime"
+            ], 
+            "ttk": [
+                "advocate.addrvalidator.six.moves.tkinter_ttk"
+            ], 
+            "tkSimpleDialog": [
+                "advocate.addrvalidator.six.moves.tkinter_tksimpledialog"
+            ], 
+            "gdbm": [
+                "advocate.addrvalidator.six.moves.dbm_gnu"
+            ], 
+            "advocate.addrvalidator": [
+                "advocate.api.advocate.connection.addrvalidator", 
+                "advocate.addrvalidator", 
+                "advocate.api.advocate.addrvalidator"
+            ], 
+            "six.moves.urllib.robotparser": [
+                "advocate.addrvalidator.six.moves.urllib.robotparser", 
+                "advocate.addrvalidator.six.Module_six_moves_urllib.robotparser"
+            ], 
+            "struct": [
+                "advocate.api.advocate.utils.zipfile.struct", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.base64.struct", 
+                "advocate.addrvalidator.six.moves.xmlrpc_client.gzip.struct", 
+                "advocate.api.pickle.struct", 
+                "advocate.api.advocate.utils.struct"
+            ], 
+            "tempfile": [
+                "advocate.api.advocate.utils.tempfile", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.mimetools.tempfile"
+            ], 
+            "six.moves.urllib.request": [
+                "advocate.addrvalidator.six.moves.urllib.request", 
+                "advocate.addrvalidator.six.Module_six_moves_urllib.request"
+            ], 
+            "pyexpat.errors": [
+                "advocate.addrvalidator.six.moves.xmlrpc_client.expat.errors"
+            ], 
+            "collections": [
+                "advocate.api.advocate.poolmanager.collections", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.collections", 
+                "advocate.addrvalidator.six.moves.collections_abc"
+            ], 
+            "requests.utils": [
+                "advocate.utils", 
+                "advocate.api.advocate.utils"
+            ], 
+            "six.moves.urllib_parse": [
+                "advocate.addrvalidator.six.moves.urllib_parse", 
+                "advocate.addrvalidator.six.Module_six_moves_urllib.parse", 
+                "advocate.addrvalidator.six.moves.urllib.parse"
+            ], 
+            "advocate.connection": [
+                "advocate.api.advocate.connection", 
+                "advocate.connection"
+            ], 
+            "advocate.api": [
+                "advocate.api"
+            ], 
+            "string": [
+                "advocate.addrvalidator.six.moves.http_cookies.string", 
+                "advocate.addrvalidator.six.moves.xmlrpc_client.string", 
+                "advocate.api.advocate.utils.zipfile.string", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.textwrap.string", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.string", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.base64.string"
+            ], 
+            "SocketServer": [
+                "advocate.addrvalidator.six.moves.xmlrpc_server.SocketServer", 
+                "advocate.addrvalidator.six.moves.socketserver"
+            ], 
+            "advocate": [
+                "advocate"
+            ], 
+            "zipfile": [
+                "advocate.api.advocate.utils.zipfile"
+            ], 
+            "textwrap": [
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.textwrap"
+            ], 
+            "ssl": [
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl", 
+                "advocate.addrvalidator.six.moves.http_client.ssl"
+            ], 
+            "ScrolledText": [
+                "advocate.addrvalidator.six.moves.tkinter_scrolledtext"
+            ], 
+            "cookielib": [
+                "advocate.addrvalidator.six.moves.http_cookiejar"
+            ], 
+            "ConfigParser": [
+                "advocate.addrvalidator.six.moves.configparser"
+            ], 
+            "httplib": [
+                "advocate.addrvalidator.six.moves.xmlrpc_client.httplib", 
+                "advocate.addrvalidator.six.moves.http_cookiejar.httplib", 
+                "advocate.addrvalidator.six.moves.http_client"
+            ], 
+            "threading": [
+                "advocate.addrvalidator.six.moves.http_cookiejar._threading", 
+                "advocate.addrvalidator.six.moves.queue._threading", 
+                "advocate.addrvalidator.six.moves.socketserver.threading"
+            ], 
+            "tkMessageBox": [
+                "advocate.addrvalidator.six.moves.tkinter_messagebox"
+            ], 
+            "six.moves.urllib.response": [
+                "advocate.addrvalidator.six.Module_six_moves_urllib.response", 
+                "advocate.addrvalidator.six.moves.urllib.response"
+            ], 
+            "pyexpat.model": [
+                "advocate.addrvalidator.six.moves.xmlrpc_client.expat.model"
+            ], 
+            "advocate.packages.ipaddress": [
+                "advocate.api.advocate.connection.ipaddress", 
+                "advocate.addrvalidator.ipaddress", 
+                "advocate.api.advocate.packages.ipaddress"
+            ], 
+            "Tkdnd": [
+                "advocate.addrvalidator.six.moves.tkinter_dnd"
+            ], 
+            "SimpleHTTPServer": [
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer", 
+                "advocate.addrvalidator.six.moves.SimpleHTTPServer"
+            ], 
+            "stat": [
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.mimetools.os.path.stat", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.stat", 
+                "advocate.api.advocate.utils.zipfile.stat"
+            ], 
+            "xml.parsers.expat": [
+                "advocate.addrvalidator.six.moves.xmlrpc_client.expat"
+            ], 
+            "operator": [
+                "advocate.addrvalidator.six.operator", 
+                "advocate.addrvalidator.six.moves.xmlrpc_client.operator"
+            ], 
+            "HTMLParser": [
+                "advocate.addrvalidator.six.moves.html_parser"
+            ], 
+            "advocate.adapters": [
+                "advocate.api.advocate.adapters", 
+                "advocate.adapters"
+            ], 
+            "BaseHTTPServer": [
+                "advocate.addrvalidator.six.moves.BaseHTTPServer", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.BaseHTTPServer", 
+                "advocate.addrvalidator.six.moves.xmlrpc_server.BaseHTTPServer", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.BaseHTTPServer"
+            ], 
+            "advocate.connectionpool": [
+                "advocate.connectionpool", 
+                "advocate.api.advocate.connectionpool"
+            ], 
+            "abc": [
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.mimetools.tempfile._io.abc"
+            ], 
+            "_tkinter": [
+                "advocate.addrvalidator.six.moves.tkinter._tkinter", 
+                "advocate.addrvalidator.six.moves.tkinter_tksimpledialog.tkinter", 
+                "advocate.addrvalidator.six.moves.tkinter_filedialog.tkinter", 
+                "advocate.addrvalidator.six.moves.tkinter_tix.tkinter", 
+                "advocate.addrvalidator.six.moves.tkinter.tkinter", 
+                "advocate.addrvalidator.six.moves.tkinter_dialog.tkinter", 
+                "advocate.addrvalidator.six.moves.tkinter_simpledialog.tkinter", 
+                "advocate.addrvalidator.six.moves.tkinter_commondialog.tkinter", 
+                "advocate.addrvalidator.six.moves.tkinter_tix._tkinter"
+            ], 
+            "warnings": [
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.socket.warnings", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.warnings", 
+                "advocate.addrvalidator.six.moves.http_cookiejar._threading.warnings", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.mimetools.os.path.warnings", 
+                "advocate.api.advocate.utils.warnings", 
+                "advocate.addrvalidator.six.moves.http_cookies.warnings", 
+                "advocate.addrvalidator.six.moves.http_client.warnings"
+            ], 
+            "urllib": [
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib", 
+                "advocate.addrvalidator.six.moves.http_cookiejar.urllib", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.urllib", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.urllib"
+            ], 
+            "re": [
+                "advocate.addrvalidator.six.moves.http_cookies.re", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.urlparse.re", 
+                "advocate.api.pickle.re", 
+                "advocate.addrvalidator.six.moves.configparser.re", 
+                "advocate.addrvalidator.re", 
+                "advocate.addrvalidator.six.moves.tkinter_dialog.re", 
+                "advocate.addrvalidator.six.moves.tkinter_commondialog.re", 
+                "advocate.api.advocate.utils.re", 
+                "advocate.addrvalidator.six.moves.tkinter_filedialog.re", 
+                "advocate.addrvalidator.six.moves.xmlrpc_client.re", 
+                "advocate.addrvalidator.six.moves.tkinter_tix.re", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.base64.string._re", 
+                "advocate.addrvalidator.six.moves.tkinter.re", 
+                "advocate.addrvalidator.six.moves.tkinter_tksimpledialog.re", 
+                "advocate.addrvalidator.six.moves.http_cookiejar.re", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.textwrap.re", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.re", 
+                "advocate.addrvalidator.fnmatch.re", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.re", 
+                "advocate.addrvalidator.six.moves.tkinter_simpledialog.re", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.base64.re", 
+                "advocate.api.advocate.utils.zipfile.re", 
+                "advocate.addrvalidator.six.moves.xmlrpc_server.re", 
+                "advocate.addrvalidator.six.moves.html_parser.re", 
+                "advocate.addrvalidator.six.moves.http_client.re"
+            ], 
+            "robotparser": [
+                "advocate.addrvalidator.six.moves.urllib_robotparser"
+            ], 
+            "cgi": [
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi"
+            ], 
+            "Tkinter": [
+                "advocate.addrvalidator.six.moves.tkinter_tix.Tkinter", 
+                "advocate.addrvalidator.six.moves.tkinter_font.Tkinter", 
+                "advocate.addrvalidator.six.moves.tkinter", 
+                "advocate.addrvalidator.six.moves.tkinter_ttk.Tkinter", 
+                "advocate.addrvalidator.six.moves.tkinter_dnd.Tkinter"
+            ], 
+            "tkFont": [
+                "advocate.addrvalidator.six.moves.tkinter_font"
+            ], 
+            "UserDict": [
+                "advocate.addrvalidator.six.moves.configparser._UserDict", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.copy.weakref.UserDict", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.mimetools.os.UserDict", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.UserDict"
+            ], 
+            "Queue": [
+                "advocate.addrvalidator.six.moves.queue"
+            ], 
+            "advocate.poolmanager": [
+                "advocate.poolmanager", 
+                "advocate.api.advocate.poolmanager"
+            ], 
+            "advocate.packages.ipaddress.ipaddress": [
+                "advocate.addrvalidator.ipaddress.ipaddress"
+            ], 
+            "_locale": [
+                "advocate.addrvalidator.fnmatch.re._locale"
+            ], 
+            "socket": [
+                "advocate.api.advocate.connection.socket", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.socket", 
+                "advocate.addrvalidator.six.moves.socketserver.socket", 
+                "advocate.addrvalidator.six.moves.http_client.socket", 
+                "advocate.api.advocate.utils.socket", 
+                "advocate.addrvalidator.six.moves.xmlrpc_client.socket"
+            ], 
+            "thread": [
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.mimetools.tempfile._thread", 
+                "advocate.addrvalidator.six.moves._thread"
+            ], 
+            "traceback": [
+                "advocate.addrvalidator.six.moves.xmlrpc_server.traceback"
+            ], 
+            "fcntl": [
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.mimetools.tempfile._fcntl", 
+                "advocate.addrvalidator.six.moves.xmlrpc_server.fcntl"
+            ], 
+            "weakref": [
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.copy.weakref"
+            ], 
+            "itertools": [
+                "advocate.addrvalidator.six.itertools"
+            ], 
+            "advocate.packages": [
+                "advocate.packages", 
+                "advocate.api.advocate.packages"
+            ], 
+            "os": [
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.mimetools.tempfile._os", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.os", 
+                "advocate.addrvalidator.six.moves.xmlrpc_server.os", 
+                "advocate.addrvalidator.six.moves.xmlrpc_client.gzip.os", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.socket.os", 
+                "advocate.api.advocate.utils.zipfile.os", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.mimetools.os", 
+                "advocate.addrvalidator.six.moves.tkinter_filedialog.os", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.os", 
+                "advocate.addrvalidator.six.moves.http_client.os", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.os", 
+                "advocate.addrvalidator.six.moves.tkinter_tix.os", 
+                "advocate.addrvalidator.six.moves.xmlrpc_server.traceback.linecache.os", 
+                "advocate.addrvalidator.six.moves.socketserver.os", 
+                "advocate.api.advocate.utils.os", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.os", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.os", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.os", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.os"
+            ], 
+            "marshal": [
+                "advocate.api.pickle.marshal"
+            ], 
+            "base64": [
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.base64", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.base64", 
+                "advocate.addrvalidator.six.moves.xmlrpc_client.base64"
+            ], 
+            "six.moves": [
+                "advocate.addrvalidator.six.moves"
+            ], 
+            "cStringIO": [
+                "advocate.addrvalidator.six.moves.xmlrpc_client.StringIO", 
+                "advocate.api.advocate.utils.zipfile.cStringIO"
+            ], 
+            "_sre": [
+                "advocate.addrvalidator.fnmatch.re.sre_compile._sre"
+            ], 
+            "codecs": [
+                "advocate.api.advocate.utils.codecs"
+            ], 
+            "__builtin__": [
+                "advocate.addrvalidator.six.moves.cPickle.__builtins__", 
+                "advocate.api.advocate.utils.codecs.__builtin__", 
+                "advocate.addrvalidator.six.moves.xmlrpc_client.gzip.__builtin__", 
+                "advocate.addrvalidator.six.moves.builtins", 
+                "advocate.addrvalidator.six.moves.reprlib.__builtin__"
+            ], 
+            "dummy_thread": [
+                "advocate.addrvalidator.six.moves._dummy_thread"
+            ], 
+            "FileDialog": [
+                "advocate.addrvalidator.six.moves.tkinter_filedialog"
+            ], 
+            "Tix": [
+                "advocate.addrvalidator.six.moves.tkinter_tix"
+            ], 
+            "select": [
+                "advocate.addrvalidator.six.moves.socketserver.select", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.select"
+            ], 
+            "six.moves.urllib": [
+                "advocate.addrvalidator.six.moves.urllib"
+            ], 
+            "posixpath": [
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.posixpath", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.mimetools.os.path", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.posixpath"
+            ], 
+            "errno": [
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.errno", 
+                "advocate.addrvalidator.six.moves.socketserver.errno", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.errno", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.mimetools.tempfile._errno", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.socket.errno", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.mimetools.os.errno", 
+                "advocate.addrvalidator.six.moves.xmlrpc_client.errno"
+            ], 
+            "_socket": [
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.socket._socket"
+            ], 
+            "binascii": [
+                "advocate.api.advocate.utils.zipfile.binascii", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.base64.binascii", 
+                "advocate.api.pickle._binascii"
+            ], 
+            "Cookie": [
+                "advocate.addrvalidator.six.moves.http_cookies"
+            ], 
+            "six.moves.urllib.error": [
+                "advocate.addrvalidator.six.Module_six_moves_urllib.error", 
+                "advocate.addrvalidator.six.moves.urllib_error", 
+                "advocate.addrvalidator.six.moves.urllib.error"
+            ], 
+            "cPickle": [
+                "advocate.addrvalidator.six.moves.cPickle"
+            ], 
+            "SimpleXMLRPCServer": [
+                "advocate.addrvalidator.six.moves.xmlrpc_server"
+            ], 
+            "Dialog": [
+                "advocate.addrvalidator.six.moves.tkinter_dialog"
+            ], 
+            "copy": [
+                "advocate.addrvalidator.six.moves.http_cookiejar.copy", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.copy"
+            ], 
+            "hashlib": [
+                "advocate.api.hashlib"
+            ], 
+            "zlib": [
+                "advocate.addrvalidator.six.moves.xmlrpc_client.gzip.zlib", 
+                "advocate.api.advocate.utils.zipfile.zlib"
+            ], 
+            "markupbase": [
+                "advocate.addrvalidator.six.moves.html_parser.markupbase"
+            ], 
+            "fnmatch": [
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.fnmatch", 
+                "advocate.addrvalidator.six.moves.tkinter_filedialog.fnmatch", 
+                "advocate.addrvalidator.fnmatch"
+            ], 
+            "sre_parse": [
+                "advocate.addrvalidator.fnmatch.re.sre_parse", 
+                "advocate.addrvalidator.fnmatch.re.sre_compile.sre_parse"
+            ], 
+            "pickle": [
+                "advocate.api.pickle"
+            ], 
+            "mimetools": [
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.mimetools", 
+                "advocate.addrvalidator.six.moves.http_client.mimetools"
+            ], 
+            "copy_reg": [
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.mimetools.os._copy_reg", 
+                "advocate.addrvalidator.fnmatch.re.copy_reg", 
+                "advocate.addrvalidator.six.moves.copyreg"
+            ], 
+            "sre_compile": [
+                "advocate.addrvalidator.fnmatch.re.sre_compile"
+            ], 
+            "CGIHTTPServer": [
+                "advocate.addrvalidator.six.moves.CGIHTTPServer"
+            ], 
+            "_hashlib": [
+                "advocate.api.hashlib._hashlib"
+            ], 
+            "SimpleDialog": [
+                "advocate.addrvalidator.six.moves.tkinter_simpledialog"
+            ], 
+            "contextlib": [
+                "advocate.api.advocate.utils.contextlib"
+            ], 
+            "io": [
+                "advocate.api.advocate.utils.io", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.mimetools.tempfile._io", 
+                "advocate.addrvalidator.six.moves.xmlrpc_client.gzip.io", 
+                "advocate.api.advocate.utils.zipfile.io"
+            ], 
+            "shutil": [
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil", 
+                "advocate.api.advocate.utils.zipfile.shutil"
+            ], 
+            "_io": [
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.mimetools.tempfile._io._io"
+            ], 
+            "tkCommonDialog": [
+                "advocate.addrvalidator.six.moves.tkinter_commondialog"
+            ], 
+            "six": [
+                "advocate.addrvalidator.six"
+            ], 
+            "_abcoll": [
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.collections._abcoll", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.UserDict._abcoll"
+            ], 
+            "genericpath": [
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.mimetools.os.path.genericpath"
+            ], 
+            "mimetypes": [
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes"
+            ], 
+            "_ssl": [
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl._ssl", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.socket._ssl"
+            ], 
+            "rfc822": [
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.mimetools.rfc822", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.rfc822"
+            ], 
+            "htmlentitydefs": [
+                "advocate.addrvalidator.six.moves.html_entities"
+            ], 
+            "repr": [
+                "advocate.addrvalidator.six.moves.reprlib"
+            ], 
+            "sys": [
+                "advocate.addrvalidator.fnmatch.re.sre_compile.sre_parse.sys", 
+                "advocate.addrvalidator.six.moves.tkinter_tksimpledialog.sys", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.socket.sys", 
+                "advocate.addrvalidator.six.sys", 
+                "advocate.addrvalidator.six.moves.socketserver.sys", 
+                "advocate.api.advocate.utils.sys", 
+                "advocate.addrvalidator.six.moves.http_cookiejar._threading._sys", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.sys", 
+                "advocate.addrvalidator.six.moves.tkinter_filedialog.sys", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.sys", 
+                "advocate.addrvalidator.fnmatch.re.sre_compile.sys", 
+                "advocate.addrvalidator.six.moves.xmlrpc_server.traceback.sys", 
+                "advocate.api.advocate.utils.codecs.sys", 
+                "advocate.addrvalidator.six.moves.tkinter_commondialog.sys", 
+                "advocate.addrvalidator.fnmatch.re.sys", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.sys", 
+                "advocate.addrvalidator.six.moves.xmlrpc_server.traceback.linecache.sys", 
+                "advocate.api.pickle.sys", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.sys", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.sys", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.UserDict._abcoll.sys", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.sys", 
+                "advocate.api.advocate.utils.zipfile.sys", 
+                "advocate.addrvalidator.six.moves.xmlrpc_client.gzip.sys", 
+                "advocate.addrvalidator.six.moves.tkinter.sys", 
+                "advocate.api.advocate.packages.sys", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.mimetools.sys", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.mimetools.os.sys", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil.collections._sys", 
+                "advocate.api.advocate.utils.contextlib.sys", 
+                "advocate.addrvalidator.six.moves.tkinter_dialog.sys", 
+                "advocate.addrvalidator.six.moves.tkinter_simpledialog.sys", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.ssl.sys", 
+                "advocate.addrvalidator.six.moves.tkinter_tix.sys", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.mimetools.os.path.sys", 
+                "advocate.addrvalidator.six.moves.xmlrpc_server.sys"
+            ], 
+            "requests.certs": [
+                "advocate.api.advocate.utils.certs"
+            ], 
+            "tkColorChooser": [
+                "advocate.addrvalidator.six.moves.tkinter_colorchooser"
+            ], 
+            "types": [
+                "advocate.addrvalidator.six.moves.xmlrpc_server.traceback.types", 
+                "advocate.addrvalidator.six.types"
+            ], 
+            "advocate.exceptions": [
+                "advocate.api.advocate.exceptions", 
+                "advocate.exceptions"
+            ], 
+            "xmlrpclib": [
+                "advocate.addrvalidator.six.moves.xmlrpc_server.xmlrpclib", 
+                "advocate.addrvalidator.six.moves.xmlrpc_client"
+            ], 
+            "Tkconstants": [
+                "advocate.addrvalidator.six.moves.tkinter_constants"
+            ], 
+            "urlparse": [
+                "advocate.addrvalidator.six.moves.http_cookiejar.urlparse", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.urlparse", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.urlparse"
+            ], 
+            "linecache": [
+                "advocate.addrvalidator.six.moves.xmlrpc_server.traceback.linecache"
+            ], 
+            "netifaces": [
+                "advocate.addrvalidator.netifaces"
+            ], 
+            "time": [
+                "advocate.addrvalidator.six.moves.xmlrpc_client.time", 
+                "advocate.addrvalidator.six.moves.http_cookiejar.time", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes.urllib.time", 
+                "advocate.addrvalidator.six.moves.xmlrpc_client.gzip.time", 
+                "advocate.api.advocate.utils.zipfile.time", 
+                "advocate.addrvalidator.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi.mimetools.rfc822.time"
+            ], 
+            "gzip": [
+                "advocate.addrvalidator.six.moves.xmlrpc_client.gzip"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "1.0.0", 
+        "name": "advocate", 
+        "python_version": "2.7.18"
+    }
+}
