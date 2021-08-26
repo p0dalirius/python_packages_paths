@@ -1,0 +1,231 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "json.decoder": [
+                "agavedb.keyval.json.decoder"
+            ], 
+            "cStringIO": [
+                "agavedb.keyval.logging.cStringIO"
+            ], 
+            "heapq": [
+                "agavedb.keyval.logging.collections._heapq"
+            ], 
+            "copy_reg": [
+                "agavedb.keyval.logging.os._copy_reg", 
+                "agavedb.keyval.base64.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "agavedb.keyval.base64.re.sre_compile"
+            ], 
+            "_sre": [
+                "agavedb.keyval.base64.re.sre_compile._sre"
+            ], 
+            "__builtin__": [
+                "agavedb.keyval.logging.codecs.__builtin__"
+            ], 
+            "subprocess": [
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.subprocess"
+            ], 
+            "atexit": [
+                "agavedb.keyval.logging.atexit"
+            ], 
+            "gc": [
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.subprocess.gc"
+            ], 
+            "io": [
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.tempfile._io"
+            ], 
+            "ctypes._endian": [
+                "agavedb.keyval.uniqueid.uuid.ctypes._endian"
+            ], 
+            "select": [
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.subprocess.select"
+            ], 
+            "_io": [
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.tempfile._io._io"
+            ], 
+            "abc": [
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.tempfile._io.abc"
+            ], 
+            "struct": [
+                "agavedb.keyval.base64.struct", 
+                "agavedb.keyval.json.decoder.struct", 
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.subprocess.pickle.struct"
+            ], 
+            "ctypes.util": [
+                "agavedb.keyval.uniqueid.uuid.ctypes.util"
+            ], 
+            "threading": [
+                "agavedb.keyval.logging.threading", 
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.subprocess.threading"
+            ], 
+            "tempfile": [
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.tempfile"
+            ], 
+            "errno": [
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.errno", 
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.subprocess.errno", 
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.tempfile._errno", 
+                "agavedb.keyval.logging.os.errno"
+            ], 
+            "base64": [
+                "agavedb.keyval.base64"
+            ], 
+            "binascii": [
+                "agavedb.keyval.base64.binascii", 
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.subprocess.pickle._binascii"
+            ], 
+            "re": [
+                "agavedb.keyval.base64.re", 
+                "agavedb.keyval.re", 
+                "agavedb.keyval.json.decoder.scanner.re", 
+                "agavedb.keyval.json.encoder.re", 
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.subprocess.pickle.re", 
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.re", 
+                "agavedb.keyval.json.decoder.re", 
+                "agavedb.keyval.base64.string._re"
+            ], 
+            "json": [
+                "agavedb.keyval.json"
+            ], 
+            "_abcoll": [
+                "agavedb.keyval.logging.collections._abcoll", 
+                "agavedb.keyval.logging.os.UserDict._abcoll"
+            ], 
+            "collections": [
+                "agavedb.keyval.logging.collections"
+            ], 
+            "fcntl": [
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.tempfile._fcntl", 
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.subprocess.fcntl"
+            ], 
+            "genericpath": [
+                "agavedb.keyval.logging.os.path.genericpath"
+            ], 
+            "stat": [
+                "agavedb.keyval.logging.os.path.genericpath.stat", 
+                "agavedb.keyval.logging.os.path.stat"
+            ], 
+            "string": [
+                "agavedb.keyval.base64.string"
+            ], 
+            "warnings": [
+                "agavedb.keyval.logging.os.path.warnings", 
+                "agavedb.keyval.logging.threading.warnings", 
+                "agavedb.keyval.logging.warnings"
+            ], 
+            "UserDict": [
+                "agavedb.keyval.logging.os.UserDict", 
+                "agavedb.keyval.logging.weakref.UserDict"
+            ], 
+            "sys": [
+                "agavedb.keyval.sys", 
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.sys", 
+                "agavedb.keyval.logging.os.path.warnings.linecache.sys", 
+                "agavedb.keyval.uniqueid.uuid.ctypes._sys", 
+                "agavedb.keyval.logging.atexit.sys", 
+                "agavedb.keyval.uniqueid.uuid.ctypes._endian.sys", 
+                "agavedb.keyval.logging.collections._abcoll.sys", 
+                "agavedb.keyval.uniqueid.uuid.sys", 
+                "agavedb.keyval.logging.os.path.warnings.sys", 
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.subprocess.sys", 
+                "agavedb.keyval.logging.os.path.sys", 
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.subprocess.pickle.sys", 
+                "agavedb.keyval.logging.codecs.sys", 
+                "agavedb.keyval.json.decoder.sys", 
+                "agavedb.keyval.logging.collections._sys", 
+                "agavedb.keyval.base64.re.sys", 
+                "agavedb.keyval.logging.threading._sys", 
+                "agavedb.keyval.logging.os.sys", 
+                "agavedb.keyval.logging.traceback.sys", 
+                "agavedb.keyval.base64.re.sre_compile.sre_parse.sys", 
+                "agavedb.keyval.base64.re.sre_compile.sys", 
+                "agavedb.keyval.logging.sys"
+            ], 
+            "json.scanner": [
+                "agavedb.keyval.json.decoder.scanner", 
+                "agavedb.keyval.json.scanner"
+            ], 
+            "ctypes": [
+                "agavedb.keyval.uniqueid.uuid.ctypes"
+            ], 
+            "uniqueid": [
+                "agavedb.keyval.uniqueid"
+            ], 
+            "codecs": [
+                "agavedb.keyval.logging.codecs"
+            ], 
+            "json.encoder": [
+                "agavedb.keyval.json.encoder"
+            ], 
+            "types": [
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.tempfile._io.abc.types", 
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.subprocess.types", 
+                "agavedb.keyval.logging.traceback.types", 
+                "agavedb.keyval.logging.os.path.warnings.types"
+            ], 
+            "posixpath": [
+                "agavedb.keyval.logging.os.path"
+            ], 
+            "_locale": [
+                "agavedb.keyval.base64.re._locale"
+            ], 
+            "logging": [
+                "agavedb.keyval.logging"
+            ], 
+            "thread": [
+                "agavedb.keyval.logging.thread", 
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.tempfile._thread"
+            ], 
+            "pickle": [
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.subprocess.pickle"
+            ], 
+            "signal": [
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.subprocess.signal"
+            ], 
+            "traceback": [
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.subprocess.traceback", 
+                "agavedb.keyval.logging.traceback"
+            ], 
+            "uuid": [
+                "agavedb.keyval.uniqueid.uuid"
+            ], 
+            "weakref": [
+                "agavedb.keyval.logging.weakref"
+            ], 
+            "linecache": [
+                "agavedb.keyval.logging.traceback.linecache", 
+                "agavedb.keyval.logging.os.path.warnings.linecache"
+            ], 
+            "time": [
+                "agavedb.keyval.logging.time", 
+                "agavedb.keyval.time"
+            ], 
+            "sre_parse": [
+                "agavedb.keyval.base64.re.sre_compile.sre_parse", 
+                "agavedb.keyval.base64.re.sre_parse"
+            ], 
+            "os": [
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.os", 
+                "agavedb.keyval.uniqueid.uuid.ctypes._os", 
+                "agavedb.keyval.uniqueid.uuid.os", 
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.subprocess.os", 
+                "agavedb.keyval.logging.os", 
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.tempfile._os", 
+                "agavedb.keyval.os"
+            ], 
+            "marshal": [
+                "agavedb.keyval.uniqueid.uuid.ctypes.util.subprocess.pickle.marshal"
+            ], 
+            "agavedb.keyval": [
+                "agavedb.keyval"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.2.2", 
+        "name": "agavedb", 
+        "python_version": "2.7.18"
+    }
+}
