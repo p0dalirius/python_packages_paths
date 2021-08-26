@@ -1,0 +1,24 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "AerospikeClientMock.AerospikeData": [
+                "AerospikeClientMock.AerospikeData"
+            ], 
+            "AerospikeClientMock.AerospikeScanMock": [
+                "AerospikeClientMock.AerospikeScanMock"
+            ], 
+            "AerospikeClientMock.AerospikeQueryMock": [
+                "AerospikeClientMock.AerospikeQueryMock"
+            ], 
+            "time": [
+                "AerospikeClientMock.AerospikeData.time"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "1.0.2", 
+        "name": "AerospikeClientMock", 
+        "python_version": "2.7.18"
+    }
+}
