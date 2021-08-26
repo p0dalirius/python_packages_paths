@@ -1,0 +1,58 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "aggnf._version": [
+                "aggnf._version"
+            ], 
+            "json.decoder": [
+                "aggnf._version.json.decoder"
+            ], 
+            "_locale": [
+                "aggnf._version.json.decoder.re._locale"
+            ], 
+            "copy_reg": [
+                "aggnf._version.json.decoder.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "aggnf._version.json.decoder.re.sre_compile"
+            ], 
+            "_sre": [
+                "aggnf._version.json.decoder.re.sre_compile._sre"
+            ], 
+            "json.scanner": [
+                "aggnf._version.json.scanner", 
+                "aggnf._version.json.decoder.scanner"
+            ], 
+            "sys": [
+                "aggnf._version.json.decoder.re.sys", 
+                "aggnf._version.json.decoder.sys", 
+                "aggnf._version.json.decoder.re.sre_compile.sys", 
+                "aggnf._version.json.decoder.re.sre_compile.sre_parse.sys"
+            ], 
+            "re": [
+                "aggnf._version.json.decoder.scanner.re", 
+                "aggnf._version.json.encoder.re", 
+                "aggnf._version.json.decoder.re"
+            ], 
+            "json": [
+                "aggnf._version.json"
+            ], 
+            "json.encoder": [
+                "aggnf._version.json.encoder"
+            ], 
+            "sre_parse": [
+                "aggnf._version.json.decoder.re.sre_parse", 
+                "aggnf._version.json.decoder.re.sre_compile.sre_parse"
+            ], 
+            "struct": [
+                "aggnf._version.json.decoder.struct"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.2.3", 
+        "name": "aggnf", 
+        "python_version": "2.7.18"
+    }
+}
