@@ -1,0 +1,18 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "struct": [
+                "ads1015.struct"
+            ], 
+            "time": [
+                "ads1015.time"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.0.1", 
+        "name": "ads1015", 
+        "python_version": "2.7.18"
+    }
+}
