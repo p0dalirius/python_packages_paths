@@ -1,0 +1,15 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "ai2thor._version": [
+                "ai2thor._version"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "2.1.0", 
+        "name": "ai2thor", 
+        "python_version": "2.7.18"
+    }
+}
