@@ -1,0 +1,18 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "affine6p.transform": [
+                "affine6p.transform"
+            ], 
+            "math": [
+                "affine6p.transform.math"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "1.0.0", 
+        "name": "affine6p", 
+        "python_version": "2.7.18"
+    }
+}

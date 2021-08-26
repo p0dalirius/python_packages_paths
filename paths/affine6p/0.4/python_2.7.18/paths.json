@@ -1,0 +1,18 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "affine6p.affine6p": [
+                "affine6p.affine6p"
+            ], 
+            "math": [
+                "affine6p.affine6p.math"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.4", 
+        "name": "affine6p", 
+        "python_version": "2.7.18"
+    }
+}
