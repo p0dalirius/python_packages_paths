@@ -1,0 +1,70 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "json.decoder": [
+                "aerial._version.json.decoder"
+            ], 
+            "aerial._version": [
+                "aerial._version"
+            ], 
+            "copy_reg": [
+                "aerial._version.json.decoder.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "aerial._version.json.decoder.re.sre_compile"
+            ], 
+            "aerial.feed": [
+                "aerial.feed"
+            ], 
+            "json.scanner": [
+                "aerial._version.json.scanner", 
+                "aerial._version.json.decoder.scanner"
+            ], 
+            "_sre": [
+                "aerial._version.json.decoder.re.sre_compile._sre"
+            ], 
+            "signal": [
+                "aerial.feed.signal"
+            ], 
+            "_locale": [
+                "aerial._version.json.decoder.re._locale"
+            ], 
+            "aerial.signalData": [
+                "aerial.signalData"
+            ], 
+            "sys": [
+                "aerial._version.json.decoder.sys", 
+                "aerial._version.json.decoder.re.sre_compile.sys", 
+                "aerial._version.json.decoder.re.sre_compile.sre_parse.sys", 
+                "aerial._version.json.decoder.re.sys"
+            ], 
+            "re": [
+                "aerial._version.json.decoder.re", 
+                "aerial._version.json.decoder.scanner.re", 
+                "aerial._version.json.encoder.re"
+            ], 
+            "json": [
+                "aerial._version.json"
+            ], 
+            "json.encoder": [
+                "aerial._version.json.encoder"
+            ], 
+            "sre_parse": [
+                "aerial._version.json.decoder.re.sre_compile.sre_parse", 
+                "aerial._version.json.decoder.re.sre_parse"
+            ], 
+            "aerial.wrappers": [
+                "aerial.wrappers"
+            ], 
+            "struct": [
+                "aerial._version.json.decoder.struct"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.0.4", 
+        "name": "aerial", 
+        "python_version": "2.7.18"
+    }
+}
