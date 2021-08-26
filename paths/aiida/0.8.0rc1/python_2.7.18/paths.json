@@ -1,0 +1,928 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "heapq": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.queue.heapq", 
+                "aiida.common.log.collections._heapq"
+            ], 
+            "aiida.cmdline.utils.decorators": [
+                "aiida.cmdline.utils.decorators", 
+                "aiida.cmdline.params.arguments.types.computer.decorators", 
+                "aiida.cmdline.params.arguments.types.plugin.decorators"
+            ], 
+            "tkFileDialog": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_tkfiledialog"
+            ], 
+            "functools": [
+                "aiida.cmdline.params.options.config.click_config_file.functools", 
+                "aiida.common.json.simplejson.encoder.decimal._locale.functools", 
+                "aiida.common.lang.functools", 
+                "aiida.cmdline.params.arguments.types.identifier.six.functools"
+            ], 
+            "aiida.backends": [
+                "aiida.backends"
+            ], 
+            "ttk": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_ttk"
+            ], 
+            "aiida.common.warnings": [
+                "aiida.common.warnings"
+            ], 
+            "aiida.manage.configuration": [
+                "aiida.manage.configuration"
+            ], 
+            "urllib": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.CGIHTTPServer.SimpleHTTPServer.urllib", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.urllib_robotparser.urllib", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.CGIHTTPServer.urllib", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.http_cookiejar.urllib"
+            ], 
+            "tkSimpleDialog": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_tksimpledialog"
+            ], 
+            "aiida.cmdline.params.types.group": [
+                "aiida.cmdline.params.arguments.types.group"
+            ], 
+            "yaml.representer": [
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.yaml.representer"
+            ], 
+            "click_config_file": [
+                "aiida.cmdline.params.options.config.click_config_file"
+            ], 
+            "six.moves.urllib.robotparser": [
+                "aiida.cmdline.params.arguments.types.identifier.six.Module_six_moves_urllib.robotparser", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.urllib.robotparser"
+            ], 
+            "struct": [
+                "aiida.common.json.simplejson.decoder.struct", 
+                "aiida.common.log.logging.handlers.struct", 
+                "aiida.common.log.logging.config.struct", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_client.gzip.struct", 
+                "aiida.cmdline.params.arguments.click.termui.struct"
+            ], 
+            "aiida.common.extendeddicts": [
+                "aiida.common.extendeddicts"
+            ], 
+            "tempfile": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.BaseHTTPServer.mimetools.tempfile"
+            ], 
+            "six.moves.urllib.request": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.urllib.request", 
+                "aiida.cmdline.params.arguments.types.identifier.six.Module_six_moves_urllib.request"
+            ], 
+            "aiida.cmdline.params.types": [
+                "aiida.cmdline.params.types", 
+                "aiida.cmdline.params.arguments.types", 
+                "aiida.cmdline.params.options.multivalue.types", 
+                "aiida.cmdline.params.options.types"
+            ], 
+            "pyexpat.errors": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_client.expat.errors"
+            ], 
+            "yaml": [
+                "aiida.cmdline.params.options.config.yaml", 
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.yaml"
+            ], 
+            "aiida.common.log": [
+                "aiida.common.log"
+            ], 
+            "collections": [
+                "aiida.manage.configuration.options.collections", 
+                "aiida.common.log.logging.collections", 
+                "aiida.common.log.collections", 
+                "aiida.manage.configuration.profile.collections"
+            ], 
+            "aiida.plugins.factories": [
+                "aiida.plugins.factories"
+            ], 
+            "aiida.manage.configuration.options": [
+                "aiida.manage.configuration.options"
+            ], 
+            "six.moves.urllib_parse": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.urllib.parse", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.urllib_parse", 
+                "aiida.cmdline.params.arguments.types.identifier.six.Module_six_moves_urllib.parse"
+            ], 
+            "yaml.parser": [
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.yaml.parser"
+            ], 
+            "click.termui": [
+                "aiida.cmdline.params.arguments.click.termui"
+            ], 
+            "aiida.cmdline.params.types.data": [
+                "aiida.cmdline.params.arguments.types.data"
+            ], 
+            "string": [
+                "aiida.cmdline.params.arguments.click.core.inspect.string", 
+                "aiida.cmdline.params.arguments.click.core.inspect.tokenize.string", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.http_cookies.string", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_client.string"
+            ], 
+            "SocketServer": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.socketserver", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_server.SocketServer", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.BaseHTTPServer.SocketServer"
+            ], 
+            "aiida.cmdline.params.types.computer": [
+                "aiida.cmdline.params.arguments.types.computer"
+            ], 
+            "textwrap": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.http_client.ssl.textwrap"
+            ], 
+            "aiida.manage.configuration.migrations.migrations": [
+                "aiida.manage.configuration.migrations.migrations"
+            ], 
+            "ssl": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.http_client.ssl"
+            ], 
+            "yaml.serializer": [
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.yaml.serializer"
+            ], 
+            "aiida.cmdline.params.types.calculation": [
+                "aiida.cmdline.params.arguments.types.calculation"
+            ], 
+            "ScrolledText": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_scrolledtext"
+            ], 
+            "datetime": [
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.yaml.representer.datetime", 
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.yaml.constructor.datetime", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_client.datetime"
+            ], 
+            "cookielib": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.http_cookiejar"
+            ], 
+            "ConfigParser": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.configparser"
+            ], 
+            "httplib": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.http_client", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_client.httplib", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.http_cookiejar.httplib"
+            ], 
+            "aiida.cmdline.params.arguments.overridable": [
+                "aiida.cmdline.params.arguments.overridable"
+            ], 
+            "simplejson._speedups": [
+                "aiida.common.json.simplejson._speedups"
+            ], 
+            "decimal": [
+                "aiida.common.json.simplejson.encoder.decimal"
+            ], 
+            "logging.handlers": [
+                "aiida.common.log.logging.handlers"
+            ], 
+            "threading": [
+                "aiida.common.log.logging.config.threading", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.queue._threading", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.http_cookiejar._threading", 
+                "aiida.common.log.logging.threading", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.BaseHTTPServer.SocketServer.threading"
+            ], 
+            "tkMessageBox": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_messagebox"
+            ], 
+            "six.moves.urllib.response": [
+                "aiida.cmdline.params.arguments.types.identifier.six.Module_six_moves_urllib.response", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.urllib.response"
+            ], 
+            "pyexpat.model": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_client.expat.model"
+            ], 
+            "aiida.cmdline.params.types.plugin": [
+                "aiida.cmdline.params.arguments.types.plugin"
+            ], 
+            "aiida.manage": [
+                "aiida.manage"
+            ], 
+            "dis": [
+                "aiida.cmdline.params.arguments.click.core.inspect.dis"
+            ], 
+            "cgi": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.CGIHTTPServer.SimpleHTTPServer.cgi"
+            ], 
+            "simplejson.raw_json": [
+                "aiida.common.json.simplejson.raw_json"
+            ], 
+            "aiida.cmdline": [
+                "aiida.cmdline"
+            ], 
+            "aiida.cmdline.params.types.profile": [
+                "aiida.cmdline.params.arguments.types.profile"
+            ], 
+            "Tkdnd": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_dnd"
+            ], 
+            "SimpleHTTPServer": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.SimpleHTTPServer", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.CGIHTTPServer.SimpleHTTPServer"
+            ], 
+            "locale": [
+                "aiida.common.json.simplejson.encoder.decimal._locale"
+            ], 
+            "mimetypes": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.CGIHTTPServer.SimpleHTTPServer.mimetypes"
+            ], 
+            "xml.parsers.expat": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_client.expat"
+            ], 
+            "operator": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_client.operator", 
+                "aiida.common.json.simplejson.encoder.decimal._locale.operator", 
+                "aiida.cmdline.params.arguments.types.identifier.six.operator"
+            ], 
+            "HTMLParser": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.html_parser"
+            ], 
+            "encodings": [
+                "aiida.common.json.simplejson.encoder.decimal._locale.encodings"
+            ], 
+            "BaseHTTPServer": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_server.BaseHTTPServer", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.BaseHTTPServer", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.CGIHTTPServer.BaseHTTPServer", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.CGIHTTPServer.SimpleHTTPServer.BaseHTTPServer"
+            ], 
+            "aiida.cmdline.params.types.node": [
+                "aiida.cmdline.params.arguments.types.node"
+            ], 
+            "click": [
+                "aiida.cmdline.params.arguments.types.multiple.click", 
+                "aiida.cmdline.params.arguments.types.path.click", 
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.click", 
+                "aiida.cmdline.params.arguments.types.plugin.click", 
+                "aiida.cmdline.params.arguments.types.profile.click", 
+                "aiida.cmdline.params.options.multivalue.click", 
+                "aiida.cmdline.params.options.click", 
+                "aiida.cmdline.params.arguments.types.identifier.click", 
+                "aiida.cmdline.params.arguments.types.group.click", 
+                "aiida.cmdline.params.arguments.types.choice.click", 
+                "aiida.cmdline.params.options.config.click_config_file.click", 
+                "aiida.cmdline.params.arguments.click", 
+                "aiida.cmdline.params.options.overridable.click", 
+                "aiida.cmdline.params.arguments.types.user.click", 
+                "aiida.cmdline.params.arguments.types.config.click", 
+                "aiida.cmdline.params.arguments.types.test_module.click", 
+                "aiida.cmdline.params.arguments.types.code.click", 
+                "aiida.cmdline.params.arguments.overridable.click"
+            ], 
+            "aiida.cmdline.params.types.config": [
+                "aiida.cmdline.params.arguments.types.config"
+            ], 
+            "abc": [
+                "aiida.cmdline.params.arguments.click._compat.io.abc"
+            ], 
+            "_tkinter": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_commondialog.tkinter", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter._tkinter", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_tksimpledialog.tkinter", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_dialog.tkinter", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_filedialog.tkinter", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter.tkinter", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_simpledialog.tkinter", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_tix._tkinter", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_tix.tkinter"
+            ], 
+            "aiida.cmdline.params.types.path": [
+                "aiida.cmdline.params.arguments.types.path"
+            ], 
+            "yaml.events": [
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.yaml.events"
+            ], 
+            "rfc822": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.BaseHTTPServer.mimetools.rfc822"
+            ], 
+            "yaml.emitter": [
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.yaml.emitter"
+            ], 
+            "click.utils": [
+                "aiida.cmdline.params.arguments.click.utils"
+            ], 
+            "aiida.cmdline.utils": [
+                "aiida.cmdline.utils"
+            ], 
+            "re": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_dialog.re", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_server.re", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_commondialog.re", 
+                "aiida.cmdline.params.arguments.click.core.inspect.re", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_tix.re", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.http_client.ssl.re", 
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.yaml.resolver.re", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_simpledialog.re", 
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.yaml.constructor.re", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.http_client.re", 
+                "aiida.common.log.logging.handlers.re", 
+                "aiida.common.log.logging.config.re", 
+                "aiida.common.json.simplejson.encoder.re", 
+                "aiida.common.json.simplejson.decoder.re", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.http_cookies.re", 
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.yaml.reader.re", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_filedialog.re", 
+                "aiida.common.json.simplejson.encoder.decimal._locale.re", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_tksimpledialog.re", 
+                "aiida.cmdline.params.options.config.click_config_file.configobj.re", 
+                "aiida.cmdline.params.arguments.click._compat.re", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.configparser.re", 
+                "aiida.cmdline.params.arguments.click.core.inspect.string._re", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.html_parser.re", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_filedialog.fnmatch.re", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter.re", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.http_cookiejar.re", 
+                "aiida.cmdline.params.arguments.click.parser.re", 
+                "aiida.common.json.simplejson.scanner.re", 
+                "aiida.cmdline.params.arguments.click.core.inspect.tokenize.re", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_client.re"
+            ], 
+            "robotparser": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.urllib_robotparser"
+            ], 
+            "aiida.plugins": [
+                "aiida.plugins"
+            ], 
+            "click.parser": [
+                "aiida.cmdline.params.arguments.click.parser"
+            ], 
+            "math": [
+                "aiida.common.json.simplejson.encoder.decimal._math"
+            ], 
+            "fcntl": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_server.fcntl", 
+                "aiida.cmdline.params.arguments.click._compat.fcntl"
+            ], 
+            "inspect": [
+                "aiida.cmdline.params.arguments.click.termui.inspect", 
+                "aiida.cmdline.params.arguments.click.core.inspect", 
+                "aiida.cmdline.params.arguments.click.decorators.inspect"
+            ], 
+            "Tkinter": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_dnd.Tkinter", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_ttk.Tkinter", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_font.Tkinter", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_tix.Tkinter"
+            ], 
+            "tkFont": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_font"
+            ], 
+            "simplejson.decoder": [
+                "aiida.common.json.simplejson.decoder"
+            ], 
+            "UserDict": [
+                "aiida.cmdline.params.arguments.click._compat.os.UserDict", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.configparser._UserDict"
+            ], 
+            "yaml.constructor": [
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.yaml.constructor"
+            ], 
+            "six.moves.urllib": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.urllib"
+            ], 
+            "simplejson.scanner": [
+                "aiida.common.json.simplejson.scanner"
+            ], 
+            "Queue": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.queue"
+            ], 
+            "aiida.cmdline.params.options.overridable": [
+                "aiida.cmdline.params.options.overridable"
+            ], 
+            "aiida.common.links": [
+                "aiida.common.links"
+            ], 
+            "codecs": [
+                "aiida.common.json.simplejson.encoder.decimal._locale.encodings.codecs", 
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.yaml.reader.codecs", 
+                "aiida.cmdline.params.arguments.click._unicodefun.codecs", 
+                "aiida.common.log.logging.codecs", 
+                "aiida.cmdline.params.arguments.click._compat.codecs", 
+                "aiida.common.log.logging.handlers.codecs", 
+                "aiida.common.json.simplejson.encoder.decimal._locale.encodings.utf_8.codecs"
+            ], 
+            "yaml.scanner": [
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.yaml.scanner"
+            ], 
+            "_locale": [
+                "aiida.cmdline.params.arguments.click._compat.re._locale"
+            ], 
+            "logging": [
+                "aiida.common.log.logging"
+            ], 
+            "socket": [
+                "aiida.common.log.logging.config.socket", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.http_client.socket", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.BaseHTTPServer.socket", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.BaseHTTPServer.SocketServer.socket", 
+                "aiida.common.log.logging.handlers.socket", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_client.socket"
+            ], 
+            "thread": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves._thread", 
+                "aiida.common.log.logging.config.thread", 
+                "aiida.common.log.logging.thread"
+            ], 
+            "yaml.reader": [
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.yaml.reader"
+            ], 
+            "yaml.loader": [
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.yaml.loader"
+            ], 
+            "weakref": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.CGIHTTPServer.copy.weakref", 
+                "aiida.common.log.logging.weakref"
+            ], 
+            "itertools": [
+                "aiida.cmdline.params.arguments.click.termui.itertools", 
+                "aiida.cmdline.params.arguments.types.identifier.six.itertools"
+            ], 
+            "aiida.cmdline.params.types.user": [
+                "aiida.cmdline.params.arguments.types.user"
+            ], 
+            "os": [
+                "aiida.cmdline.params.arguments.click.core.inspect.os", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_server.os", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.BaseHTTPServer.SocketServer.os", 
+                "aiida.cmdline.params.arguments.click.utils.os", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_tix.os", 
+                "aiida.cmdline.params.arguments.click._unicodefun.os", 
+                "aiida.manage.configuration.config.os", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.http_client.ssl.os", 
+                "aiida.cmdline.params.arguments.click.core.os", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.http_client.os", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_client.gzip.os", 
+                "aiida.common.log.logging.handlers.os", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.BaseHTTPServer.mimetools.os", 
+                "aiida.cmdline.params.arguments.click.types.os", 
+                "aiida.cmdline.params.arguments.types.path.os", 
+                "aiida.cmdline.params.options.config.click_config_file.os", 
+                "aiida.common.log.logging.os", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_filedialog.os", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.CGIHTTPServer.os", 
+                "aiida.manage.configuration.profile.os", 
+                "aiida.cmdline.params.arguments.click.termui.os", 
+                "aiida.cmdline.params.options.config.click_config_file.configobj.os", 
+                "aiida.cmdline.params.arguments.click._compat.os", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.CGIHTTPServer.SimpleHTTPServer.os", 
+                "aiida.common.files.os", 
+                "aiida.manage.configuration.settings.os", 
+                "aiida.common.log.logging.config.os"
+            ], 
+            "configobj": [
+                "aiida.cmdline.params.options.config.click_config_file.configobj"
+            ], 
+            "base64": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.http_client.ssl.base64", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_client.base64"
+            ], 
+            "six.moves": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves"
+            ], 
+            "cStringIO": [
+                "aiida.common.log.logging.config.cStringIO", 
+                "aiida.common.log.logging.cStringIO", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_client.StringIO"
+            ], 
+            "_sre": [
+                "aiida.cmdline.params.arguments.click._compat.re.sre_compile._sre"
+            ], 
+            "__builtin__": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.reprlib.__builtin__", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.cPickle.__builtins__", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.builtins", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_client.gzip.__builtin__", 
+                "aiida.common.json.simplejson.encoder.decimal._locale.encodings.__builtin__", 
+                "aiida.cmdline.params.arguments.click._compat.codecs.__builtin__"
+            ], 
+            "dummy_thread": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves._dummy_thread"
+            ], 
+            "click.decorators": [
+                "aiida.cmdline.params.arguments.click.decorators"
+            ], 
+            "aiida.manage.configuration.settings": [
+                "aiida.manage.configuration.settings"
+            ], 
+            "FileDialog": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_filedialog"
+            ], 
+            "Tix": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_tix"
+            ], 
+            "aiida.cmdline.params": [
+                "aiida.cmdline.params"
+            ], 
+            "select": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.CGIHTTPServer.select", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.BaseHTTPServer.SocketServer.select"
+            ], 
+            "yaml.composer": [
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.yaml.composer"
+            ], 
+            "posixpath": [
+                "aiida.cmdline.params.arguments.click._compat.os.path", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.CGIHTTPServer.SimpleHTTPServer.posixpath"
+            ], 
+            "imp": [
+                "aiida.cmdline.params.arguments.click.core.inspect.imp"
+            ], 
+            "errno": [
+                "aiida.manage.configuration.settings.errno", 
+                "aiida.cmdline.params.arguments.click._compat.os.errno", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.BaseHTTPServer.SocketServer.errno", 
+                "aiida.common.log.logging.config.errno", 
+                "aiida.common.log.logging.handlers.errno", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_client.errno", 
+                "aiida.cmdline.params.arguments.click.core.errno", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.http_client.ssl.errno"
+            ], 
+            "aiida.cmdline.params.options": [
+                "aiida.cmdline.params.options"
+            ], 
+            "aiida.common": [
+                "aiida.common"
+            ], 
+            "binascii": [
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.yaml.constructor.binascii"
+            ], 
+            "click.core": [
+                "aiida.cmdline.params.arguments.click.core"
+            ], 
+            "logging.config": [
+                "aiida.common.log.logging.config"
+            ], 
+            "Cookie": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.http_cookies"
+            ], 
+            "aiida.cmdline.params.types.nonemptystring": [
+                "aiida.cmdline.params.arguments.types.nonemptystring"
+            ], 
+            "aiida.plugins.entry_point": [
+                "aiida.plugins.entry_point"
+            ], 
+            "tokenize": [
+                "aiida.cmdline.params.arguments.click.core.inspect.tokenize"
+            ], 
+            "six.moves.urllib.error": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.urllib_error", 
+                "aiida.cmdline.params.arguments.types.identifier.six.Module_six_moves_urllib.error", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.urllib.error"
+            ], 
+            "cPickle": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.cPickle", 
+                "aiida.common.log.logging.handlers.cPickle"
+            ], 
+            "yaml.error": [
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.yaml.error"
+            ], 
+            "simplejson": [
+                "aiida.common.json.simplejson"
+            ], 
+            "aiida.manage.configuration.migrations": [
+                "aiida.manage.configuration.migrations"
+            ], 
+            "aiida.common.exceptions": [
+                "aiida.cmdline.params.options.defaults.exceptions", 
+                "aiida.manage.configuration.migrations.utils.exceptions", 
+                "aiida.common.exceptions", 
+                "aiida.manage.configuration.profile.exceptions", 
+                "aiida.common.extendeddicts.exceptions", 
+                "aiida.cmdline.params.arguments.types.plugin.exceptions"
+            ], 
+            "SimpleXMLRPCServer": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_server"
+            ], 
+            "Dialog": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_dialog"
+            ], 
+            "yaml.nodes": [
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.yaml.nodes"
+            ], 
+            "copy": [
+                "aiida.common.log.copy", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.http_cookiejar.copy", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.CGIHTTPServer.copy"
+            ], 
+            "click._unicodefun": [
+                "aiida.cmdline.params.arguments.click._unicodefun"
+            ], 
+            "aiida.manage.configuration.config": [
+                "aiida.manage.configuration.config"
+            ], 
+            "hashlib": [
+                "aiida.common.files.hashlib"
+            ], 
+            "click.formatting": [
+                "aiida.cmdline.params.arguments.click.formatting"
+            ], 
+            "aiida.cmdline.utils.echo": [
+                "aiida.cmdline.params.options.defaults.echo", 
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo", 
+                "aiida.cmdline.utils.echo", 
+                "aiida.cmdline.params.options.echo"
+            ], 
+            "keyword": [
+                "aiida.common.lang.keyword"
+            ], 
+            "atexit": [
+                "aiida.common.log.logging.atexit"
+            ], 
+            "yaml.tokens": [
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.yaml.tokens"
+            ], 
+            "simplejson.encoder": [
+                "aiida.common.json.simplejson.encoder"
+            ], 
+            "zlib": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_client.gzip.zlib"
+            ], 
+            "SimpleDialog": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_simpledialog"
+            ], 
+            "markupbase": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.html_parser.markupbase"
+            ], 
+            "yaml.resolver": [
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.yaml.resolver"
+            ], 
+            "click.globals": [
+                "aiida.cmdline.params.arguments.click.globals"
+            ], 
+            "encodings.aliases": [
+                "aiida.common.json.simplejson.encoder.decimal._locale.encodings.aliases"
+            ], 
+            "fnmatch": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_filedialog.fnmatch"
+            ], 
+            "sre_parse": [
+                "aiida.cmdline.params.arguments.click._compat.re.sre_compile.sre_parse", 
+                "aiida.cmdline.params.arguments.click._compat.re.sre_parse"
+            ], 
+            "mimetools": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.http_client.mimetools", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.BaseHTTPServer.mimetools"
+            ], 
+            "aiida.cmdline.utils.defaults": [
+                "aiida.cmdline.utils.defaults", 
+                "aiida.cmdline.params.options.defaults"
+            ], 
+            "traceback": [
+                "aiida.common.log.logging.traceback", 
+                "aiida.plugins.entry_point.traceback", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_server.traceback", 
+                "aiida.common.log.logging.config.traceback"
+            ], 
+            "copy_reg": [
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.yaml.representer.copy_reg", 
+                "aiida.cmdline.params.arguments.click._compat.os._copy_reg", 
+                "aiida.cmdline.params.arguments.click._compat.re.copy_reg", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.copyreg"
+            ], 
+            "sre_compile": [
+                "aiida.cmdline.params.arguments.click._compat.re.sre_compile"
+            ], 
+            "CGIHTTPServer": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.CGIHTTPServer"
+            ], 
+            "_hashlib": [
+                "aiida.common.files.hashlib._hashlib"
+            ], 
+            "aiida.manage.configuration.migrations.utils": [
+                "aiida.manage.configuration.migrations.utils"
+            ], 
+            "aiida.cmdline.params.types.identifier": [
+                "aiida.cmdline.params.arguments.types.identifier"
+            ], 
+            "aiida.manage.configuration.profile": [
+                "aiida.manage.configuration.profile"
+            ], 
+            "encodings.utf_8": [
+                "aiida.common.json.simplejson.encoder.decimal._locale.encodings.utf_8"
+            ], 
+            "yaml.cyaml": [
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.yaml.cyaml"
+            ], 
+            "gdbm": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.dbm_gnu"
+            ], 
+            "numbers": [
+                "aiida.common.json.simplejson.encoder.decimal._numbers"
+            ], 
+            "io": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_client.gzip.io", 
+                "aiida.cmdline.params.arguments.click._compat.io", 
+                "aiida.common.files.io", 
+                "aiida.common.log.logging.config.io", 
+                "aiida.manage.configuration.config.io"
+            ], 
+            "aiida.cmdline.params.types.process": [
+                "aiida.cmdline.params.arguments.types.process"
+            ], 
+            "simplejson.errors": [
+                "aiida.common.json.simplejson.errors"
+            ], 
+            "shutil": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.CGIHTTPServer.SimpleHTTPServer.shutil", 
+                "aiida.manage.configuration.config.shutil"
+            ], 
+            "urlparse": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.CGIHTTPServer.SimpleHTTPServer.urlparse", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.urllib_robotparser.urlparse", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.http_cookiejar.urlparse"
+            ], 
+            "tkCommonDialog": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_commondialog"
+            ], 
+            "aiida.cmdline.params.arguments": [
+                "aiida.cmdline.params.arguments"
+            ], 
+            "aiida.cmdline.params.types.code": [
+                "aiida.cmdline.params.arguments.types.code"
+            ], 
+            "aiida.common.json": [
+                "aiida.common.json", 
+                "aiida.manage.configuration.config.json"
+            ], 
+            "aiida.cmdline.params.types.test_module": [
+                "aiida.cmdline.params.arguments.types.test_module"
+            ], 
+            "six": [
+                "aiida.plugins.entry_point.six", 
+                "aiida.cmdline.params.arguments.types.plugin.six", 
+                "aiida.common.lang.six", 
+                "aiida.manage.configuration.options.six", 
+                "aiida.common.links.six", 
+                "aiida.six", 
+                "aiida.cmdline.params.options.config.click_config_file.configobj.six", 
+                "aiida.cmdline.params.arguments.types.identifier.six", 
+                "aiida.common.log.six"
+            ], 
+            "aiida.cmdline.params.options.multivalue": [
+                "aiida.cmdline.params.options.multivalue"
+            ], 
+            "aiida.common.lang": [
+                "aiida.common.lang"
+            ], 
+            "_abcoll": [
+                "aiida.common.log.collections._abcoll", 
+                "aiida.cmdline.params.arguments.click._compat.os.UserDict._abcoll"
+            ], 
+            "aiida.cmdline.params.options.config": [
+                "aiida.cmdline.params.options.config"
+            ], 
+            "genericpath": [
+                "aiida.cmdline.params.arguments.click._compat.os.path.genericpath"
+            ], 
+            "stat": [
+                "aiida.cmdline.params.arguments.click._compat.os.path.genericpath.stat", 
+                "aiida.cmdline.params.arguments.click.types.stat", 
+                "aiida.cmdline.params.arguments.click._compat.os.path.stat"
+            ], 
+            "_ssl": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.http_client.ssl._ssl"
+            ], 
+            "aiida.common.datastructures": [
+                "aiida.common.datastructures"
+            ], 
+            "warnings": [
+                "aiida.cmdline.params.arguments.click._compat.os.path.warnings", 
+                "aiida.warnings", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.http_cookies.warnings", 
+                "aiida.common.log.logging.warnings", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.http_client.ssl.warnings", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.http_client.warnings"
+            ], 
+            "click.exceptions": [
+                "aiida.cmdline.params.arguments.click.exceptions"
+            ], 
+            "yaml.dumper": [
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.yaml.dumper"
+            ], 
+            "aiida.common.files": [
+                "aiida.common.files"
+            ], 
+            "htmlentitydefs": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.html_entities"
+            ], 
+            "repr": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.reprlib"
+            ], 
+            "sys": [
+                "aiida.cmdline.params.arguments.click.decorators.sys", 
+                "aiida.cmdline.params.options.config.click_config_file.configobj.sys", 
+                "aiida.cmdline.params.arguments.click.utils.sys", 
+                "aiida.cmdline.params.arguments.click._compat.os.UserDict._abcoll.sys", 
+                "aiida.cmdline.params.arguments.click._compat.os.path.warnings.sys", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_server.sys", 
+                "aiida.common.json.simplejson.encoder.decimal._locale.sys", 
+                "aiida.common.log.logging.config.sys", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.BaseHTTPServer.mimetools.sys", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter.sys", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_tksimpledialog.sys", 
+                "aiida.cmdline.params.arguments.click._compat.re.sre_compile.sre_parse.sys", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.BaseHTTPServer.SocketServer.sys", 
+                "aiida.cmdline.params.arguments.click.core.inspect.sys", 
+                "aiida.cmdline.params.arguments.click._compat.re.sys", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_client.gzip.sys", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_dialog.sys", 
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.yaml.constructor.sys", 
+                "aiida.cmdline.params.arguments.click._compat.codecs.sys", 
+                "aiida.common.log.logging.sys", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_tix.sys", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.http_client.ssl.sys", 
+                "aiida.cmdline.params.arguments.types.identifier.six.sys", 
+                "aiida.common.json.simplejson.compat.sys", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.CGIHTTPServer.SimpleHTTPServer.sys", 
+                "aiida.cmdline.params.arguments.click._compat.re.sre_compile.sys", 
+                "aiida.cmdline.params.arguments.click.core.sys", 
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.sys", 
+                "aiida.common.files.sys", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.CGIHTTPServer.sys", 
+                "aiida.cmdline.params.arguments.click._unicodefun.sys", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_simpledialog.sys", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_filedialog.sys", 
+                "aiida.cmdline.params.arguments.click._compat.os.path.sys", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_server.traceback.sys", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.BaseHTTPServer.sys", 
+                "aiida.cmdline.params.arguments.click.termui.sys", 
+                "aiida.cmdline.params.arguments.click.core.inspect.dis.sys", 
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.yaml.representer.sys", 
+                "aiida.cmdline.params.arguments.click._compat.os.sys", 
+                "aiida.cmdline.params.arguments.click._compat.os.path.warnings.linecache.sys", 
+                "aiida.cmdline.params.arguments.click._compat.sys", 
+                "aiida.plugins.entry_point.enum._sys", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_commondialog.sys", 
+                "aiida.common.log.collections._sys", 
+                "aiida.common.json.simplejson.decoder.sys", 
+                "aiida.common.log.logging.atexit.sys"
+            ], 
+            "simplejson.compat": [
+                "aiida.common.json.simplejson.compat"
+            ], 
+            "enum": [
+                "aiida.plugins.entry_point.enum"
+            ], 
+            "aiida.cmdline.params.types.choice": [
+                "aiida.cmdline.params.arguments.types.choice"
+            ], 
+            "click.types": [
+                "aiida.cmdline.params.arguments.click.types"
+            ], 
+            "tkColorChooser": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_colorchooser"
+            ], 
+            "types": [
+                "aiida.cmdline.params.arguments.click._compat.os.path.warnings.types", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_server.traceback.types", 
+                "aiida.cmdline.params.arguments.click.core.inspect.types", 
+                "aiida.cmdline.params.arguments.click._compat.io.abc.types", 
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.yaml.representer.types", 
+                "aiida.cmdline.params.arguments.types.identifier.six.types", 
+                "aiida.cmdline.params.arguments.click.core.inspect.dis.types", 
+                "aiida.common.log.types", 
+                "aiida.cmdline.params.arguments.types.computer.decorators.echo.yaml.constructor.types", 
+                "aiida.common.log.logging.config.types"
+            ], 
+            "click._compat": [
+                "aiida.cmdline.params.arguments.click._compat"
+            ], 
+            "xmlrpclib": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_client", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_server.xmlrpclib"
+            ], 
+            "Tkconstants": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.tkinter_constants"
+            ], 
+            "aiida.cmdline.params.types.workflow": [
+                "aiida.cmdline.params.arguments.types.workflow"
+            ], 
+            "_io": [
+                "aiida.cmdline.params.arguments.click._compat.io._io"
+            ], 
+            "linecache": [
+                "aiida.cmdline.params.arguments.click._compat.os.path.warnings.linecache", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_server.traceback.linecache", 
+                "aiida.cmdline.params.arguments.click.core.inspect.linecache"
+            ], 
+            "time": [
+                "aiida.common.log.logging.handlers.time", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_client.time", 
+                "aiida.common.log.logging.time", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_client.gzip.time", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.http_cookiejar.time", 
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.BaseHTTPServer.time"
+            ], 
+            "gzip": [
+                "aiida.cmdline.params.arguments.types.identifier.six.moves.xmlrpc_client.gzip"
+            ], 
+            "aiida.cmdline.params.types.multiple": [
+                "aiida.cmdline.params.arguments.types.multiple"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.8.0rc1", 
+        "name": "aiida", 
+        "python_version": "2.7.18"
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "json.decoder": [
+                "aiida.common.setup.json.decoder"
+            ], 
+            "cStringIO": [
+                "aiida.common.logging.config.cStringIO", 
+                "aiida.common.logging.cStringIO"
+            ], 
+            "heapq": [
+                "aiida.common.logging.collections._heapq"
+            ], 
+            "copy_reg": [
+                "aiida.common.logging.config.re.copy_reg", 
+                "aiida.common.logging.config.os._copy_reg"
+            ], 
+            "sre_compile": [
+                "aiida.common.logging.config.re.sre_compile"
+            ], 
+            "aiida.common": [
+                "aiida.common"
+            ], 
+            "_sre": [
+                "aiida.common.logging.config.re.sre_compile._sre"
+            ], 
+            "cPickle": [
+                "aiida.common.logging.handlers.cPickle"
+            ], 
+            "__builtin__": [
+                "aiida.common.logging.handlers.cPickle.__builtins__", 
+                "aiida.common.logging.codecs.__builtin__"
+            ], 
+            "atexit": [
+                "aiida.common.logging.atexit"
+            ], 
+            "io": [
+                "aiida.common.logging.config.io"
+            ], 
+            "logging.handlers": [
+                "aiida.common.logging.handlers"
+            ], 
+            "abc": [
+                "aiida.common.logging.config.io.abc"
+            ], 
+            "posixpath": [
+                "aiida.common.logging.config.os.path"
+            ], 
+            "linecache": [
+                "aiida.common.logging.config.os.path.warnings.linecache", 
+                "aiida.common.logging.config.traceback.linecache"
+            ], 
+            "aiida.common.setup": [
+                "aiida.common.setup"
+            ], 
+            "errno": [
+                "aiida.common.logging.config.socket.errno", 
+                "aiida.common.logging.config.os.errno", 
+                "aiida.common.logging.config.errno", 
+                "aiida.common.logging.handlers.errno"
+            ], 
+            "_socket": [
+                "aiida.common.logging.config.socket._socket"
+            ], 
+            "aiida.backends": [
+                "aiida.common.setup.aiida.backends", 
+                "aiida.backends"
+            ], 
+            "re": [
+                "aiida.common.setup.json.encoder.re", 
+                "aiida.common.setup.json.decoder.re", 
+                "aiida.common.logging.handlers.re", 
+                "aiida.common.logging.config.re", 
+                "aiida.common.setup.json.decoder.scanner.re"
+            ], 
+            "json": [
+                "aiida.common.setup.json"
+            ], 
+            "_abcoll": [
+                "aiida.common.logging.collections._abcoll", 
+                "aiida.common.logging.config.os.UserDict._abcoll"
+            ], 
+            "collections": [
+                "aiida.common.logging.collections"
+            ], 
+            "aiida.backends.utils": [
+                "aiida.backends.utils"
+            ], 
+            "threading": [
+                "aiida.common.logging.config.threading", 
+                "aiida.common.logging.threading"
+            ], 
+            "genericpath": [
+                "aiida.common.logging.config.os.path.genericpath"
+            ], 
+            "stat": [
+                "aiida.common.logging.config.os.path.stat", 
+                "aiida.common.logging.config.os.path.genericpath.stat"
+            ], 
+            "_ssl": [
+                "aiida.common.logging.config.socket._ssl"
+            ], 
+            "warnings": [
+                "aiida.common.setup.aiida.warnings", 
+                "aiida.warnings", 
+                "aiida.common.logging.warnings", 
+                "aiida.common.logging.config.socket.warnings", 
+                "aiida.common.logging.config.threading.warnings", 
+                "aiida.common.logging.config.os.path.warnings"
+            ], 
+            "UserDict": [
+                "aiida.common.logging.config.os.UserDict", 
+                "aiida.common.logging.weakref.UserDict"
+            ], 
+            "aiida.common.exceptions": [
+                "aiida.common.exceptions"
+            ], 
+            "aiida.utils": [
+                "aiida.common.setup.aiida.utils", 
+                "aiida.utils"
+            ], 
+            "sys": [
+                "aiida.common.logging.collections._abcoll.sys", 
+                "aiida.common.logging.collections._sys", 
+                "aiida.common.logging.config.os.path.sys", 
+                "aiida.common.logging.config.re.sre_compile.sre_parse.sys", 
+                "aiida.common.logging.config.os.sys", 
+                "aiida.common.logging.config.re.sre_compile.sys", 
+                "aiida.common.logging.atexit.sys", 
+                "aiida.common.logging.config.traceback.sys", 
+                "aiida.common.logging.codecs.sys", 
+                "aiida.common.logging.config.threading._sys", 
+                "aiida.common.logging.config.re.sys", 
+                "aiida.common.logging.sys", 
+                "aiida.common.logging.config.sys", 
+                "aiida.common.logging.config.os.path.warnings.sys", 
+                "aiida.common.logging.config.socket.sys", 
+                "aiida.common.setup.json.decoder.sys", 
+                "aiida.common.sys", 
+                "aiida.common.logging.config.os.path.warnings.linecache.sys"
+            ], 
+            "aiida.utils.logger": [
+                "aiida.common.setup.aiida.utils.logger"
+            ], 
+            "json.scanner": [
+                "aiida.common.setup.json.scanner", 
+                "aiida.common.setup.json.decoder.scanner"
+            ], 
+            "codecs": [
+                "aiida.common.logging.codecs", 
+                "aiida.common.logging.handlers.codecs"
+            ], 
+            "json.encoder": [
+                "aiida.common.setup.json.encoder"
+            ], 
+            "aiida.backends.profile": [
+                "aiida.backends.profile"
+            ], 
+            "types": [
+                "aiida.common.logging.config.traceback.types", 
+                "aiida.common.logging.config.os.path.warnings.types", 
+                "aiida.common.logging.config.types", 
+                "aiida.common.logging.config.io.abc.types"
+            ], 
+            "struct": [
+                "aiida.common.logging.handlers.struct", 
+                "aiida.common.logging.config.struct", 
+                "aiida.common.setup.json.decoder.struct"
+            ], 
+            "_locale": [
+                "aiida.common.logging.config.re._locale"
+            ], 
+            "logging": [
+                "aiida.common.setup.logging", 
+                "aiida.common.setup.aiida.logging", 
+                "aiida.logging", 
+                "aiida.common.logging", 
+                "aiida.common.setup.aiida.utils.logger.logging"
+            ], 
+            "socket": [
+                "aiida.common.logging.config.socket", 
+                "aiida.common.logging.handlers.socket"
+            ], 
+            "thread": [
+                "aiida.common.logging.config.thread", 
+                "aiida.common.logging.thread"
+            ], 
+            "aiida": [
+                "aiida"
+            ], 
+            "traceback": [
+                "aiida.common.logging.traceback", 
+                "aiida.common.logging.config.traceback"
+            ], 
+            "weakref": [
+                "aiida.common.logging.weakref"
+            ], 
+            "_io": [
+                "aiida.common.logging.config.io._io"
+            ], 
+            "logging.config": [
+                "aiida.common.logging.config", 
+                "aiida.common.setup.aiida.config", 
+                "aiida.config"
+            ], 
+            "time": [
+                "aiida.common.logging.handlers.time", 
+                "aiida.common.logging.time"
+            ], 
+            "sre_parse": [
+                "aiida.common.logging.config.re.sre_compile.sre_parse", 
+                "aiida.common.logging.config.re.sre_parse"
+            ], 
+            "os": [
+                "aiida.common.logging.config.os", 
+                "aiida.common.logging.config.socket.os", 
+                "aiida.common.logging.handlers.os", 
+                "aiida.common.setup.os", 
+                "aiida.common.logging.os"
+            ], 
+            "aiida.backends.settings": [
+                "aiida.backends.profile.settings", 
+                "aiida.backends.utils.settings", 
+                "aiida.backends.settings"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.9.1", 
+        "name": "aiida", 
+        "python_version": "2.7.18"
+    }
+}
