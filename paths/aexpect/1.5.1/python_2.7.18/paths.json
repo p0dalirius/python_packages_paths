@@ -1,0 +1,282 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "aexpect.exceptions": [
+                "aexpect.exceptions"
+            ], 
+            "cStringIO": [
+                "aexpect.client.logging.cStringIO"
+            ], 
+            "heapq": [
+                "aexpect.client.logging.collections._heapq"
+            ], 
+            "aexpect.utils.process": [
+                "aexpect.client.utils_process", 
+                "aexpect.utils.process"
+            ], 
+            "copy_reg": [
+                "aexpect.client.genio.os._copy_reg", 
+                "aexpect.client.astring.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "aexpect.client.astring.re.sre_compile"
+            ], 
+            "_hashlib": [
+                "aexpect.client.data_factory.random._hashlib._hashlib"
+            ], 
+            "_random": [
+                "aexpect.client.data_factory.random._random"
+            ], 
+            "functools": [
+                "aexpect.client.locale.functools"
+            ], 
+            "random": [
+                "aexpect.client.data_factory.random"
+            ], 
+            "aexpect.utils.wait": [
+                "aexpect.client.utils_wait", 
+                "aexpect.utils.wait"
+            ], 
+            "__builtin__": [
+                "aexpect.client.locale.encodings.codecs.__builtin__", 
+                "aexpect.client.locale.encodings.__builtin__"
+            ], 
+            "subprocess": [
+                "aexpect.client.utils_process.subprocess"
+            ], 
+            "atexit": [
+                "aexpect.client.logging.atexit"
+            ], 
+            "gc": [
+                "aexpect.client.subprocess.gc", 
+                "aexpect.client.utils_process.subprocess.gc"
+            ], 
+            "encodings": [
+                "aexpect.client.locale.encodings"
+            ], 
+            "operator": [
+                "aexpect.client.locale.operator"
+            ], 
+            "locale": [
+                "aexpect.client.locale"
+            ], 
+            "shutil": [
+                "aexpect.client.shutil"
+            ], 
+            "select": [
+                "aexpect.client.select", 
+                "aexpect.client.utils_process.subprocess.select", 
+                "aexpect.client.subprocess.select"
+            ], 
+            "posixpath": [
+                "aexpect.client.genio.os.path"
+            ], 
+            "threading": [
+                "aexpect.client.utils_process.subprocess.threading", 
+                "aexpect.client.threading", 
+                "aexpect.client.subprocess.threading", 
+                "aexpect.client.logging.threading"
+            ], 
+            "aexpect.utils.genio": [
+                "aexpect.utils.genio", 
+                "aexpect.client.genio"
+            ], 
+            "errno": [
+                "aexpect.client.subprocess.errno", 
+                "aexpect.client.genio.os.errno", 
+                "aexpect.client.shutil.errno", 
+                "aexpect.client.utils_process.subprocess.errno"
+            ], 
+            "binascii": [
+                "aexpect.client.subprocess.pickle._binascii"
+            ], 
+            "re": [
+                "aexpect.client.locale.re", 
+                "aexpect.client.astring.re", 
+                "aexpect.client.shutil.fnmatch.re", 
+                "aexpect.client.subprocess.pickle.re", 
+                "aexpect.client.data_factory.string._re", 
+                "aexpect.client.re"
+            ], 
+            "_abcoll": [
+                "aexpect.client.genio.os.UserDict._abcoll", 
+                "aexpect.client.logging.collections._abcoll"
+            ], 
+            "collections": [
+                "aexpect.client.shutil.collections", 
+                "aexpect.client.logging.collections"
+            ], 
+            "aexpect.utils": [
+                "aexpect.utils"
+            ], 
+            "_sre": [
+                "aexpect.client.astring.re.sre_compile._sre"
+            ], 
+            "_posixsubprocess32": [
+                "aexpect.client.subprocess._posixsubprocess"
+            ], 
+            "aexpect.utils.data_factory": [
+                "aexpect.client.data_factory", 
+                "aexpect.utils.data_factory"
+            ], 
+            "fcntl": [
+                "aexpect.shared.fcntl", 
+                "aexpect.client.utils_process.subprocess.fcntl", 
+                "aexpect.client.subprocess.fcntl"
+            ], 
+            "genericpath": [
+                "aexpect.client.genio.os.path.genericpath"
+            ], 
+            "stat": [
+                "aexpect.client.shutil.stat", 
+                "aexpect.client.genio.os.path.genericpath.stat", 
+                "aexpect.client.genio.os.path.stat"
+            ], 
+            "string": [
+                "aexpect.client.data_factory.string"
+            ], 
+            "warnings": [
+                "aexpect.client.logging.warnings", 
+                "aexpect.client.genio.os.path.warnings", 
+                "aexpect.client.logging.threading.warnings"
+            ], 
+            "UserDict": [
+                "aexpect.client.genio.os.UserDict", 
+                "aexpect.client.logging.weakref.UserDict"
+            ], 
+            "subprocess32": [
+                "aexpect.client.subprocess"
+            ], 
+            "time": [
+                "aexpect.client.time", 
+                "aexpect.client.logging.time", 
+                "aexpect.client.utils_wait.time", 
+                "aexpect.client.subprocess.time"
+            ], 
+            "hashlib": [
+                "aexpect.client.data_factory.random._hashlib"
+            ], 
+            "termios": [
+                "aexpect.shared.termios"
+            ], 
+            "encodings.utf_8": [
+                "aexpect.client.locale.encodings.utf_8"
+            ], 
+            "sys": [
+                "aexpect.client.logging.traceback.sys", 
+                "aexpect.client.astring.re.sre_compile.sre_parse.sys", 
+                "aexpect.client.locale.sys", 
+                "aexpect.client.logging.collections._sys", 
+                "aexpect.client.sys", 
+                "aexpect.client.genio.os.sys", 
+                "aexpect.client.genio.os.path.sys", 
+                "aexpect.client.astring.re.sys", 
+                "aexpect.client.subprocess.sys", 
+                "aexpect.client.shutil.sys", 
+                "aexpect.client.locale.encodings.codecs.sys", 
+                "aexpect.client.astring.re.sre_compile.sys", 
+                "aexpect.client.genio.os.path.warnings.sys", 
+                "aexpect.client.utils_process.subprocess.sys", 
+                "aexpect.client.logging.atexit.sys", 
+                "aexpect.client.genio.os.UserDict._abcoll.sys", 
+                "aexpect.client.logging.threading._sys", 
+                "aexpect.client.subprocess.pickle.sys", 
+                "aexpect.client.genio.os.path.warnings.linecache.sys", 
+                "aexpect.client.logging.sys"
+            ], 
+            "exceptions": [
+                "aexpect.client.subprocess.exceptions"
+            ], 
+            "codecs": [
+                "aexpect.client.locale.encodings.codecs", 
+                "aexpect.client.locale.encodings.utf_8.codecs", 
+                "aexpect.client.logging.codecs"
+            ], 
+            "aexpect.utils.astring": [
+                "aexpect.utils.astring", 
+                "aexpect.client.astring"
+            ], 
+            "types": [
+                "aexpect.client.utils_process.subprocess.types", 
+                "aexpect.client.genio.os.path.warnings.types", 
+                "aexpect.client.subprocess.types", 
+                "aexpect.client.logging.traceback.types"
+            ], 
+            "struct": [
+                "aexpect.client.subprocess.pickle.struct"
+            ], 
+            "aexpect.utils.path": [
+                "aexpect.utils.path", 
+                "aexpect.client.utils_path"
+            ], 
+            "_locale": [
+                "aexpect.client.astring.re._locale"
+            ], 
+            "logging": [
+                "aexpect.client.utils_wait.logging", 
+                "aexpect.client.logging"
+            ], 
+            "thread": [
+                "aexpect.client.logging.thread"
+            ], 
+            "pickle": [
+                "aexpect.client.subprocess.pickle", 
+                "aexpect.client.utils_process.subprocess.pickle"
+            ], 
+            "signal": [
+                "aexpect.client.signal", 
+                "aexpect.client.utils_process.signal", 
+                "aexpect.client.utils_process.subprocess.signal", 
+                "aexpect.client.subprocess.signal"
+            ], 
+            "traceback": [
+                "aexpect.client.logging.traceback", 
+                "aexpect.client.subprocess.traceback", 
+                "aexpect.client.utils_process.subprocess.traceback"
+            ], 
+            "aexpect.shared": [
+                "aexpect.shared"
+            ], 
+            "weakref": [
+                "aexpect.client.logging.weakref"
+            ], 
+            "linecache": [
+                "aexpect.client.genio.os.path.warnings.linecache", 
+                "aexpect.client.logging.traceback.linecache"
+            ], 
+            "encodings.aliases": [
+                "aexpect.client.locale.encodings.aliases"
+            ], 
+            "aexpect.client": [
+                "aexpect.client"
+            ], 
+            "fnmatch": [
+                "aexpect.client.shutil.fnmatch"
+            ], 
+            "sre_parse": [
+                "aexpect.client.astring.re.sre_compile.sre_parse", 
+                "aexpect.client.astring.re.sre_parse"
+            ], 
+            "os": [
+                "aexpect.client.utils_process.subprocess.os", 
+                "aexpect.client.os", 
+                "aexpect.client.logging.os", 
+                "aexpect.client.subprocess.os", 
+                "aexpect.shared.os", 
+                "aexpect.client.utils_path.os", 
+                "aexpect.client.shutil.os", 
+                "aexpect.client.genio.os", 
+                "aexpect.client.utils_process.os"
+            ], 
+            "marshal": [
+                "aexpect.client.subprocess.pickle.marshal"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "1.5.1", 
+        "name": "aexpect", 
+        "python_version": "2.7.18"
+    }
+}
