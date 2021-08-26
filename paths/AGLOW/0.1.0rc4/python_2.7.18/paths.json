@@ -1,0 +1,15 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "AGLOW.version": [
+                "AGLOW.version"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.1.0rc4", 
+        "name": "AGLOW", 
+        "python_version": "2.7.18"
+    }
+}
