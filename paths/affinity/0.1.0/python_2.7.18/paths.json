@@ -1,0 +1,18 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "sys": [
+                "affinity.sys"
+            ], 
+            "affinity._affinity": [
+                "affinity._affinity"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.1.0", 
+        "name": "affinity", 
+        "python_version": "2.7.18"
+    }
+}
