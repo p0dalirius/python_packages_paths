@@ -1,0 +1,175 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "copy_reg": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.re.copy_reg", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes._os._copy_reg"
+            ], 
+            "sre_compile": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.re.sre_compile"
+            ], 
+            "AdvancedHTMLParser.Formatter": [
+                "AdvancedHTMLParser.Formatter"
+            ], 
+            "_sre": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.re.sre_compile._sre"
+            ], 
+            "subprocess": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.subprocess"
+            ], 
+            "gc": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.subprocess.gc"
+            ], 
+            "io": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.tempfile._io"
+            ], 
+            "ctypes._endian": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes._endian"
+            ], 
+            "select": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.subprocess.select"
+            ], 
+            "abc": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.tempfile._io.abc"
+            ], 
+            "posixpath": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes._os.path"
+            ], 
+            "threading": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.subprocess.threading"
+            ], 
+            "tempfile": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.tempfile"
+            ], 
+            "errno": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes._os.errno", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.subprocess.errno", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.errno", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.tempfile._errno"
+            ], 
+            "ctypes.util": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util"
+            ], 
+            "binascii": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.subprocess.pickle._binascii"
+            ], 
+            "re": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.subprocess.pickle.re", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.re"
+            ], 
+            "_abcoll": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes._os.UserDict._abcoll"
+            ], 
+            "AdvancedHTMLParser.SpecialAttributes": [
+                "AdvancedHTMLParser.SpecialAttributes"
+            ], 
+            "fcntl": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.tempfile._fcntl", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.subprocess.fcntl"
+            ], 
+            "genericpath": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes._os.path.genericpath"
+            ], 
+            "stat": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes._os.path.stat", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes._os.path.genericpath.stat"
+            ], 
+            "warnings": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.subprocess.threading.warnings", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes._os.path.warnings"
+            ], 
+            "UserDict": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes._os.UserDict"
+            ], 
+            "struct": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.subprocess.pickle.struct"
+            ], 
+            "sys": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.subprocess.traceback.sys", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes._os.path.warnings.sys", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes._os.path.sys", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes._sys", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.re.sre_compile.sys", 
+                "AdvancedHTMLParser.Parser.sys", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes._os.sys", 
+                "AdvancedHTMLParser.Tags.uuid.sys", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes._os.path.warnings.linecache.sys", 
+                "AdvancedHTMLParser.Formatter.sys", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes._endian.sys", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.re.sre_compile.sre_parse.sys", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.subprocess.sys", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.subprocess.pickle.sys", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes._os.UserDict._abcoll.sys", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.subprocess.threading._sys", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.sys", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.re.sys"
+            ], 
+            "ctypes": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes"
+            ], 
+            "AdvancedHTMLParser.Tags": [
+                "AdvancedHTMLParser.Tags"
+            ], 
+            "types": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.tempfile._io.abc.types", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.subprocess.traceback.types", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes._os.path.warnings.types", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.subprocess.types"
+            ], 
+            "uuid": [
+                "AdvancedHTMLParser.Tags.uuid"
+            ], 
+            "_locale": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.re._locale"
+            ], 
+            "thread": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.tempfile._thread"
+            ], 
+            "pickle": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.subprocess.pickle"
+            ], 
+            "signal": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.subprocess.signal"
+            ], 
+            "traceback": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.subprocess.traceback"
+            ], 
+            "AdvancedHTMLParser.exceptions": [
+                "AdvancedHTMLParser.exceptions"
+            ], 
+            "_io": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.tempfile._io._io"
+            ], 
+            "linecache": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.subprocess.traceback.linecache", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes._os.path.warnings.linecache"
+            ], 
+            "AdvancedHTMLParser.constants": [
+                "AdvancedHTMLParser.constants"
+            ], 
+            "AdvancedHTMLParser.Parser": [
+                "AdvancedHTMLParser.Parser"
+            ], 
+            "sre_parse": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.re.sre_parse", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.re.sre_compile.sre_parse"
+            ], 
+            "os": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes._os", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.os", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.tempfile._os", 
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.subprocess.os", 
+                "AdvancedHTMLParser.Tags.uuid.os"
+            ], 
+            "marshal": [
+                "AdvancedHTMLParser.Tags.uuid.ctypes.util.subprocess.pickle.marshal"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "6.1.0", 
+        "name": "AdvancedHTMLParser", 
+        "python_version": "2.7.18"
+    }
+}
