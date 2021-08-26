@@ -1,0 +1,217 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "heapq": [
+                "agstools._agstools.argparse._collections._heapq"
+            ], 
+            "copy_reg": [
+                "agstools._agstools.argparse._re.copy_reg", 
+                "agstools._agstools.argparse._os._copy_reg"
+            ], 
+            "sre_compile": [
+                "agstools._agstools.argparse._re.sre_compile"
+            ], 
+            "_hashlib": [
+                "agstools.agstools.arcpyext._updatedata.random._hashlib._hashlib"
+            ], 
+            "_sre": [
+                "agstools._agstools.argparse._re.sre_compile._sre"
+            ], 
+            "random": [
+                "agstools.agstools.arcpyext._updatedata.random"
+            ], 
+            "agstools.arcpyext._schematransform": [
+                "agstools.agstools.arcpyext._schematransform"
+            ], 
+            "agstools.arcpyext._imagesddraft": [
+                "agstools.agstools.arcpyext._imagesddraft"
+            ], 
+            "io": [
+                "agstools.agstools.arcpyext._updatedata.tempfile._io"
+            ], 
+            "agstools._agstools": [
+                "agstools.agstools._agstools", 
+                "agstools._agstools"
+            ], 
+            "hashlib": [
+                "agstools.agstools.arcpyext._updatedata.random._hashlib"
+            ], 
+            "agstools._helpers": [
+                "agstools.agstools._helpers", 
+                "agstools._helpers"
+            ], 
+            "_io": [
+                "agstools.agstools.arcpyext._updatedata.tempfile._io._io"
+            ], 
+            "abc": [
+                "agstools.agstools.arcpyext._updatedata.tempfile._io.abc"
+            ], 
+            "agstools": [
+                "agstools"
+            ], 
+            "posixpath": [
+                "agstools.agstools.arcpyext._imagesddraft.path", 
+                "agstools.agstools.arcpyext._sddraft.path", 
+                "agstools.agstools.arcpyext._multiupdatedata.path", 
+                "agstools._helpers.path", 
+                "agstools._agstools.argparse._os.path", 
+                "agstools.agstools.arcpyext._updatedata.path", 
+                "agstools.agstools.arcpyext._sd.path"
+            ], 
+            "agstools.arcpyext._gpsddraft": [
+                "agstools.agstools.arcpyext._gpsddraft"
+            ], 
+            "imp": [
+                "agstools.agstools.arcpyext._gpsddraft.imp", 
+                "agstools._agstools.imp", 
+                "agstools.imp", 
+                "agstools.agstools.imp"
+            ], 
+            "tempfile": [
+                "agstools.agstools.arcpyext._updatedata.tempfile"
+            ], 
+            "errno": [
+                "agstools._agstools.argparse._os.errno", 
+                "agstools.agstools.arcpyext._updatedata.tempfile._errno"
+            ], 
+            "agstools.arcpyext": [
+                "agstools.agstools.arcpyext", 
+                "agstools.arcpyext"
+            ], 
+            "agstools._version": [
+                "agstools._version", 
+                "agstools.agstools._version"
+            ], 
+            "re": [
+                "agstools.agstools.arcpyext._imagesddraft.re", 
+                "agstools.agstools.arcpyext._gpsddraft.re", 
+                "agstools._agstools.argparse._textwrap.string._re", 
+                "agstools.agstools.arcpyext._multiupdatedata.fnmatch.re", 
+                "agstools._agstools.argparse._textwrap.re", 
+                "agstools._agstools.argparse._re"
+            ], 
+            "_abcoll": [
+                "agstools._agstools.argparse._copy.weakref.UserDict._abcoll", 
+                "agstools._agstools.argparse._collections._abcoll"
+            ], 
+            "collections": [
+                "agstools._agstools.argparse._collections"
+            ], 
+            "agstools._storenamevaluepairs": [
+                "agstools._storenamevaluepairs", 
+                "agstools.agstools._storenamevaluepairs"
+            ], 
+            "agstools.arcpyext._sd": [
+                "agstools.agstools.arcpyext._sd"
+            ], 
+            "fcntl": [
+                "agstools.agstools.arcpyext._updatedata.tempfile._fcntl"
+            ], 
+            "genericpath": [
+                "agstools._agstools.argparse._os.path.genericpath"
+            ], 
+            "stat": [
+                "agstools._agstools.argparse._os.path.stat", 
+                "agstools._agstools.argparse._os.path.genericpath.stat"
+            ], 
+            "string": [
+                "agstools.agstools.arcpyext._updatedata.string", 
+                "agstools._agstools.argparse._textwrap.string"
+            ], 
+            "warnings": [
+                "agstools._agstools.argparse._os.path.warnings"
+            ], 
+            "UserDict": [
+                "agstools._agstools.argparse._copy.weakref.UserDict", 
+                "agstools._agstools.argparse._os.UserDict"
+            ], 
+            "agstools.arcpyext._helpers": [
+                "agstools.agstools.arcpyext._helpers"
+            ], 
+            "textwrap": [
+                "agstools._agstools.argparse._textwrap"
+            ], 
+            "sys": [
+                "agstools._agstools.argparse._collections._sys", 
+                "agstools._agstools.argparse._re.sre_compile.sre_parse.sys", 
+                "agstools.sys", 
+                "agstools._agstools.argparse._os.path.sys", 
+                "agstools._agstools.argparse._collections._abcoll.sys", 
+                "agstools._agstools.argparse._os.sys", 
+                "agstools.agstools.sys", 
+                "agstools._agstools.sys", 
+                "agstools._agstools.argparse._os.path.warnings.sys", 
+                "agstools._agstools.argparse._re.sre_compile.sys", 
+                "agstools._agstools.argparse._sys", 
+                "agstools._agstools.argparse._re.sys", 
+                "agstools._agstools.argparse._os.path.warnings.linecache.sys"
+            ], 
+            "agstools.arcpyext._multiupdatedata": [
+                "agstools.agstools.arcpyext._multiupdatedata"
+            ], 
+            "copy": [
+                "agstools._agstools.argparse._copy"
+            ], 
+            "types": [
+                "agstools._agstools.argparse._os.path.warnings.types", 
+                "agstools.agstools.arcpyext._updatedata.tempfile._io.abc.types"
+            ], 
+            "agstools.arcpyext._sddraft": [
+                "agstools.agstools.arcpyext._sddraft"
+            ], 
+            "argparse": [
+                "agstools.agstools.arcpyext._sddraft.argparse", 
+                "agstools._agstools.argparse", 
+                "agstools.argparse", 
+                "agstools.agstools.argparse", 
+                "agstools._storenamevaluepairs.argparse", 
+                "agstools.agstools.arcpyext._imagesddraft.argparse", 
+                "agstools.agstools.arcpyext._updatedata.argparse", 
+                "agstools.agstools.arcpyext._gpsddraft.argparse", 
+                "agstools.agstools.arcpyext._multiupdatedata.argparse"
+            ], 
+            "_locale": [
+                "agstools._agstools.argparse._re._locale"
+            ], 
+            "_random": [
+                "agstools.agstools.arcpyext._updatedata.random._random"
+            ], 
+            "thread": [
+                "agstools.agstools.arcpyext._updatedata.tempfile._thread"
+            ], 
+            "agstools.arcpyext._publish": [
+                "agstools.agstools.arcpyext._publish"
+            ], 
+            "agstools.arcpyext._updatedata": [
+                "agstools.agstools.arcpyext._updatedata"
+            ], 
+            "weakref": [
+                "agstools._agstools.argparse._copy.weakref"
+            ], 
+            "linecache": [
+                "agstools._agstools.argparse._os.path.warnings.linecache"
+            ], 
+            "agstools.arcpyext._copy": [
+                "agstools.agstools.arcpyext._copy"
+            ], 
+            "fnmatch": [
+                "agstools.agstools.arcpyext._multiupdatedata.fnmatch"
+            ], 
+            "sre_parse": [
+                "agstools._agstools.argparse._re.sre_compile.sre_parse", 
+                "agstools._agstools.argparse._re.sre_parse"
+            ], 
+            "os": [
+                "agstools._agstools.argparse._os", 
+                "agstools.agstools.arcpyext._gpsddraft.os", 
+                "agstools.agstools.arcpyext._updatedata.tempfile._os"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.4.2", 
+        "name": "agstools", 
+        "python_version": "2.7.18"
+    }
+}
