@@ -1,0 +1,41 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "heapq": [
+                "aenum.sqlite3.collections._heapq"
+            ], 
+            "datetime": [
+                "aenum.sqlite3.dbapi2.datetime", 
+                "aenum.sqlite3.datetime"
+            ], 
+            "sys": [
+                "aenum._sys", 
+                "aenum.sqlite3.collections._sys", 
+                "aenum.sqlite3.collections._abcoll.sys"
+            ], 
+            "_abcoll": [
+                "aenum.sqlite3.collections._abcoll"
+            ], 
+            "collections": [
+                "aenum.sqlite3.dbapi2.collections", 
+                "aenum.sqlite3.collections"
+            ], 
+            "time": [
+                "aenum.sqlite3.dbapi2.time", 
+                "aenum.sqlite3.time"
+            ], 
+            "sqlite3": [
+                "aenum.sqlite3"
+            ], 
+            "sqlite3.dbapi2": [
+                "aenum.sqlite3.dbapi2"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "2.0.0", 
+        "name": "aenum", 
+        "python_version": "2.7.18"
+    }
+}

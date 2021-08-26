@@ -1,0 +1,120 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "heapq": [
+                "aenum.sqlite3.collections._heapq"
+            ], 
+            "copy_reg": [
+                "aenum.inspect.re.copy_reg", 
+                "aenum.inspect.linecache.os._copy_reg"
+            ], 
+            "sre_compile": [
+                "aenum.inspect.re.sre_compile"
+            ], 
+            "_sre": [
+                "aenum.inspect.re.sre_compile._sre"
+            ], 
+            "datetime": [
+                "aenum.sqlite3.dbapi2.datetime", 
+                "aenum.sqlite3.datetime"
+            ], 
+            "posixpath": [
+                "aenum.inspect.linecache.os.path"
+            ], 
+            "re": [
+                "aenum.inspect.string._re", 
+                "aenum.inspect.re", 
+                "aenum.inspect.tokenize.re"
+            ], 
+            "errno": [
+                "aenum.inspect.linecache.os.errno"
+            ], 
+            "imp": [
+                "aenum.inspect.imp"
+            ], 
+            "_abcoll": [
+                "aenum.inspect.linecache.os.UserDict._abcoll", 
+                "aenum.sqlite3.collections._abcoll"
+            ], 
+            "collections": [
+                "aenum.sqlite3.dbapi2.collections", 
+                "aenum.sqlite3.collections"
+            ], 
+            "tokenize": [
+                "aenum.inspect.tokenize"
+            ], 
+            "sqlite3": [
+                "aenum.sqlite3"
+            ], 
+            "genericpath": [
+                "aenum.inspect.linecache.os.path.genericpath"
+            ], 
+            "stat": [
+                "aenum.inspect.linecache.os.path.stat", 
+                "aenum.inspect.linecache.os.path.genericpath.stat"
+            ], 
+            "string": [
+                "aenum.inspect.string", 
+                "aenum.inspect.tokenize.string"
+            ], 
+            "warnings": [
+                "aenum.inspect.linecache.os.path.warnings"
+            ], 
+            "UserDict": [
+                "aenum.inspect.linecache.os.UserDict"
+            ], 
+            "inspect": [
+                "aenum.inspect"
+            ], 
+            "sys": [
+                "aenum.inspect.linecache.os.path.warnings.sys", 
+                "aenum.inspect.sys", 
+                "aenum._sys", 
+                "aenum.inspect.linecache.os.path.sys", 
+                "aenum.inspect.re.sre_compile.sys", 
+                "aenum.sqlite3.collections._sys", 
+                "aenum.inspect.re.sys", 
+                "aenum.inspect.linecache.os.sys", 
+                "aenum.inspect.dis.sys", 
+                "aenum.inspect.re.sre_compile.sre_parse.sys", 
+                "aenum.inspect.linecache.os.UserDict._abcoll.sys", 
+                "aenum.inspect.linecache.sys"
+            ], 
+            "sqlite3.dbapi2": [
+                "aenum.sqlite3.dbapi2"
+            ], 
+            "types": [
+                "aenum.inspect.linecache.os.path.warnings.types", 
+                "aenum.inspect.types", 
+                "aenum.inspect.dis.types"
+            ], 
+            "_locale": [
+                "aenum.inspect.re._locale"
+            ], 
+            "linecache": [
+                "aenum.inspect.linecache"
+            ], 
+            "time": [
+                "aenum.sqlite3.dbapi2.time", 
+                "aenum.sqlite3.time"
+            ], 
+            "sre_parse": [
+                "aenum.inspect.re.sre_compile.sre_parse", 
+                "aenum.inspect.re.sre_parse"
+            ], 
+            "os": [
+                "aenum.inspect.linecache.os", 
+                "aenum.inspect.os"
+            ], 
+            "dis": [
+                "aenum.inspect.dis"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "2.0.10", 
+        "name": "aenum", 
+        "python_version": "2.7.18"
+    }
+}

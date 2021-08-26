@@ -1,0 +1,63 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "_locale": [
+                "aenum.re._locale"
+            ], 
+            "copy_reg": [
+                "aenum.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "aenum.re.sre_compile"
+            ], 
+            "_sre": [
+                "aenum.re.sre_compile._sre"
+            ], 
+            "time": [
+                "aenum.sqlite3.dbapi2.time", 
+                "aenum.sqlite3.time"
+            ], 
+            "heapq": [
+                "aenum.sqlite3.collections._heapq"
+            ], 
+            "datetime": [
+                "aenum.sqlite3.dbapi2.datetime", 
+                "aenum.sqlite3.datetime"
+            ], 
+            "sys": [
+                "aenum.re.sre_compile.sys", 
+                "aenum.sqlite3.collections._sys", 
+                "aenum.re.sys", 
+                "aenum.sqlite3.collections._abcoll.sys", 
+                "aenum._sys", 
+                "aenum.re.sre_compile.sre_parse.sys"
+            ], 
+            "re": [
+                "aenum.re"
+            ], 
+            "_abcoll": [
+                "aenum.sqlite3.collections._abcoll"
+            ], 
+            "collections": [
+                "aenum.sqlite3.dbapi2.collections", 
+                "aenum.sqlite3.collections"
+            ], 
+            "sqlite3.dbapi2": [
+                "aenum.sqlite3.dbapi2"
+            ], 
+            "sqlite3": [
+                "aenum.sqlite3"
+            ], 
+            "sre_parse": [
+                "aenum.re.sre_compile.sre_parse", 
+                "aenum.re.sre_parse"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "2.2.3", 
+        "name": "aenum", 
+        "python_version": "2.7.18"
+    }
+}

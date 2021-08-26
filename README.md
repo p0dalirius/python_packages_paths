@@ -4,7 +4,7 @@ This repository contains paths to high value targets (such as the `os`, `sys`, `
 
 ## Summary
 
- - **Packages analyzed** : 605
+ - **Packages analyzed** : 640
 
 ## Contributing
 
