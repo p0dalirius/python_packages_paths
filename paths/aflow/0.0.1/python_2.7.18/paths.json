@@ -1,0 +1,15 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "aflow.control": [
+                "aflow.control"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.0.1", 
+        "name": "aflow", 
+        "python_version": "2.7.18"
+    }
+}
