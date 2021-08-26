@@ -1,0 +1,15 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "afsutil.__resources__": [
+                "afsutil.__resources__"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.8.0", 
+        "name": "afsutil", 
+        "python_version": "2.7.18"
+    }
+}
