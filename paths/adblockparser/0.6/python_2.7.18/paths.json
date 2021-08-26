@@ -1,0 +1,42 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "_locale": [
+                "adblockparser.parser.re._locale"
+            ], 
+            "copy_reg": [
+                "adblockparser.parser.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "adblockparser.parser.re.sre_compile"
+            ], 
+            "_sre": [
+                "adblockparser.parser.re.sre_compile._sre"
+            ], 
+            "adblockparser.utils": [
+                "adblockparser.utils"
+            ], 
+            "sys": [
+                "adblockparser.parser.re.sre_compile.sys", 
+                "adblockparser.parser.re.sre_compile.sre_parse.sys", 
+                "adblockparser.parser.re.sys"
+            ], 
+            "re": [
+                "adblockparser.parser.re"
+            ], 
+            "sre_parse": [
+                "adblockparser.parser.re.sre_parse", 
+                "adblockparser.parser.re.sre_compile.sre_parse"
+            ], 
+            "adblockparser.parser": [
+                "adblockparser.parser"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.6", 
+        "name": "adblockparser", 
+        "python_version": "2.7.18"
+    }
+}
