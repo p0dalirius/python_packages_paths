@@ -1,0 +1,43 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "_locale": [
+                "addfips.addfips.csv.re._locale"
+            ], 
+            "copy_reg": [
+                "addfips.addfips.csv.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "addfips.addfips.csv.re.sre_compile"
+            ], 
+            "_sre": [
+                "addfips.addfips.csv.re.sre_compile._sre"
+            ], 
+            "sys": [
+                "addfips.addfips.csv.re.sys", 
+                "addfips.addfips.csv.re.sre_compile.sre_parse.sys", 
+                "addfips.addfips.csv.re.sre_compile.sys"
+            ], 
+            "re": [
+                "addfips.addfips.re", 
+                "addfips.addfips.csv.re"
+            ], 
+            "sre_parse": [
+                "addfips.addfips.csv.re.sre_parse", 
+                "addfips.addfips.csv.re.sre_compile.sre_parse"
+            ], 
+            "csv": [
+                "addfips.addfips.csv"
+            ], 
+            "addfips.addfips": [
+                "addfips.addfips"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.2.1", 
+        "name": "addfips", 
+        "python_version": "2.7.18"
+    }
+}
