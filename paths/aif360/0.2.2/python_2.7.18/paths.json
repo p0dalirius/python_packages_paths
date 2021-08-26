@@ -1,0 +1,15 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "aif360.version": [
+                "aif360.version"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.2.2", 
+        "name": "aif360", 
+        "python_version": "2.7.18"
+    }
+}
