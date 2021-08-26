@@ -1,0 +1,101 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "cStringIO": [
+                "Aggregator.logging.cStringIO"
+            ], 
+            "heapq": [
+                "Aggregator.logging.collections._heapq"
+            ], 
+            "copy_reg": [
+                "Aggregator.logging.os._copy_reg"
+            ], 
+            "__builtin__": [
+                "Aggregator.logging.codecs.__builtin__"
+            ], 
+            "atexit": [
+                "Aggregator.logging.atexit"
+            ], 
+            "posixpath": [
+                "Aggregator.logging.os.path"
+            ], 
+            "threading": [
+                "Aggregator.logging.threading"
+            ], 
+            "errno": [
+                "Aggregator.logging.os.errno"
+            ], 
+            "_abcoll": [
+                "Aggregator.logging.os.UserDict._abcoll", 
+                "Aggregator.logging.collections._abcoll"
+            ], 
+            "collections": [
+                "Aggregator.logging.collections"
+            ], 
+            "genericpath": [
+                "Aggregator.logging.os.path.genericpath"
+            ], 
+            "stat": [
+                "Aggregator.logging.os.path.genericpath.stat", 
+                "Aggregator.logging.os.path.stat"
+            ], 
+            "warnings": [
+                "Aggregator.logging.threading.warnings", 
+                "Aggregator.logging.os.path.warnings", 
+                "Aggregator.logging.warnings"
+            ], 
+            "UserDict": [
+                "Aggregator.logging.os.UserDict", 
+                "Aggregator.logging.weakref.UserDict"
+            ], 
+            "sys": [
+                "Aggregator.logging.atexit.sys", 
+                "Aggregator.logging.sys", 
+                "Aggregator.logging.os.path.sys", 
+                "Aggregator.logging.os.path.warnings.linecache.sys", 
+                "Aggregator.logging.codecs.sys", 
+                "Aggregator.logging.os.path.warnings.sys", 
+                "Aggregator.logging.collections._abcoll.sys", 
+                "Aggregator.logging.os.sys", 
+                "Aggregator.logging.traceback.sys", 
+                "Aggregator.logging.threading._sys", 
+                "Aggregator.logging.collections._sys"
+            ], 
+            "codecs": [
+                "Aggregator.logging.codecs"
+            ], 
+            "types": [
+                "Aggregator.logging.traceback.types", 
+                "Aggregator.logging.os.path.warnings.types"
+            ], 
+            "logging": [
+                "Aggregator.logging"
+            ], 
+            "thread": [
+                "Aggregator.logging.thread"
+            ], 
+            "traceback": [
+                "Aggregator.logging.traceback"
+            ], 
+            "weakref": [
+                "Aggregator.logging.weakref"
+            ], 
+            "linecache": [
+                "Aggregator.logging.os.path.warnings.linecache", 
+                "Aggregator.logging.traceback.linecache"
+            ], 
+            "time": [
+                "Aggregator.logging.time"
+            ], 
+            "os": [
+                "Aggregator.logging.os"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "20.5", 
+        "name": "Aggregator", 
+        "python_version": "2.7.18"
+    }
+}
