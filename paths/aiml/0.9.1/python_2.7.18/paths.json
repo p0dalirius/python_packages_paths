@@ -1,0 +1,123 @@
+{
+    "paths": {
+        "builtins": {}, 
+        "modules": {
+            "copy_reg": [
+                "aiml.PatternMgr.pprint.warnings.linecache.os._copy_reg", 
+                "aiml.PatternMgr.re.copy_reg"
+            ], 
+            "sre_compile": [
+                "aiml.PatternMgr.re.sre_compile"
+            ], 
+            "xml.sax": [
+                "aiml.AimlParser.xml.sax"
+            ], 
+            "_sre": [
+                "aiml.PatternMgr.re.sre_compile._sre"
+            ], 
+            "aiml.Utils": [
+                "aiml.Utils"
+            ], 
+            "xml.sax.xmlreader": [
+                "aiml.AimlParser.xml.sax.xmlreader"
+            ], 
+            "aiml.DefaultSubs": [
+                "aiml.DefaultSubs"
+            ], 
+            "aiml.WordSub": [
+                "aiml.WordSub"
+            ], 
+            "xml": [
+                "aiml.AimlParser.xml"
+            ], 
+            "posixpath": [
+                "aiml.PatternMgr.pprint.warnings.linecache.os.path"
+            ], 
+            "errno": [
+                "aiml.PatternMgr.pprint.warnings.linecache.os.errno"
+            ], 
+            "pprint": [
+                "aiml.PatternMgr.pprint"
+            ], 
+            "re": [
+                "aiml.PatternMgr.string._re", 
+                "aiml.PatternMgr.re", 
+                "aiml.WordSub.re"
+            ], 
+            "_abcoll": [
+                "aiml.PatternMgr.pprint.warnings.linecache.os.UserDict._abcoll"
+            ], 
+            "xml.sax.handler": [
+                "aiml.AimlParser.xml.sax.xmlreader.handler", 
+                "aiml.AimlParser.xml.sax.handler"
+            ], 
+            "genericpath": [
+                "aiml.PatternMgr.pprint.warnings.linecache.os.path.genericpath"
+            ], 
+            "stat": [
+                "aiml.PatternMgr.pprint.warnings.linecache.os.path.stat", 
+                "aiml.PatternMgr.pprint.warnings.linecache.os.path.genericpath.stat"
+            ], 
+            "string": [
+                "aiml.PatternMgr.string", 
+                "aiml.WordSub.string"
+            ], 
+            "warnings": [
+                "aiml.PatternMgr.pprint.warnings"
+            ], 
+            "UserDict": [
+                "aiml.PatternMgr.pprint.warnings.linecache.os.UserDict"
+            ], 
+            "sys": [
+                "aiml.PatternMgr.pprint.warnings.linecache.os.path.sys", 
+                "aiml.PatternMgr.re.sre_compile.sys", 
+                "aiml.PatternMgr.pprint.warnings.linecache.sys", 
+                "aiml.PatternMgr.pprint.warnings.sys", 
+                "aiml.PatternMgr.re.sre_compile.sre_parse.sys", 
+                "aiml.PatternMgr.pprint.warnings.linecache.os.UserDict._abcoll.sys", 
+                "aiml.PatternMgr.pprint._sys", 
+                "aiml.constants.sys", 
+                "aiml.PatternMgr.sys", 
+                "aiml.PatternMgr.re.sys", 
+                "aiml.PatternMgr.pprint.warnings.linecache.os.sys", 
+                "aiml.AimlParser.sys"
+            ], 
+            "aiml.PatternMgr": [
+                "aiml.PatternMgr"
+            ], 
+            "sre_parse": [
+                "aiml.PatternMgr.re.sre_compile.sre_parse", 
+                "aiml.PatternMgr.re.sre_parse"
+            ], 
+            "types": [
+                "aiml.PatternMgr.pprint.warnings.types"
+            ], 
+            "_locale": [
+                "aiml.PatternMgr.re._locale"
+            ], 
+            "linecache": [
+                "aiml.PatternMgr.pprint.warnings.linecache"
+            ], 
+            "xml.sax._exceptions": [
+                "aiml.AimlParser.xml.sax._exceptions"
+            ], 
+            "aiml.constants": [
+                "aiml.constants"
+            ], 
+            "os": [
+                "aiml.PatternMgr.pprint.warnings.linecache.os"
+            ], 
+            "marshal": [
+                "aiml.PatternMgr.marshal"
+            ], 
+            "aiml.AimlParser": [
+                "aiml.AimlParser"
+            ]
+        }
+    }, 
+    "module": {
+        "version": "0.9.1", 
+        "name": "aiml", 
+        "python_version": "2.7.18"
+    }
+}
